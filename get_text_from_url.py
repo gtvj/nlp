@@ -5,7 +5,7 @@ import re
 def get_text_from_url(url):
     response = urllib2.urlopen(url)
     response_html = response.read()
-    html = BeautifulSoup(response_html, "html.parser")
+    html = BeautifulSoup(response_html, "html.parser").find('table', {'class': 'asset-details'})
     clean = clean_html(html)
     just_text = clean.get_text()
     just_text_without_whitespace = remove_extra_whitespace(just_text)
