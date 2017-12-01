@@ -10,9 +10,12 @@ text = get_text_from_url.get_text_from_url(
     attribute='class',
     value='asset-details')
 
-text_without_stopwords = remove_stop_words.remove_stopwords(text)
-
+print '----------'
+print '---TEXT---'
+print '----------'
 print text
+
+text_without_stopwords = remove_stop_words.remove_stopwords(text)
 
 tokenized_text = tokenizer.tokenize(text_without_stopwords)
 
