@@ -5,9 +5,14 @@ import find_trigrams
 import find_bigrams
 
 text = get_text_from_url.get_text_from_url(
-    'http://discovery.nationalarchives.gov.uk/details/r/C259')
+    'http://discovery.nationalarchives.gov.uk/details/r/C259',
+    element='table',
+    attribute='class',
+    value='asset-details')
 
 text_without_stopwords = remove_stop_words.remove_stopwords(text)
+
+print text
 
 tokenized_text = tokenizer.tokenize(text_without_stopwords)
 
