@@ -17,7 +17,7 @@ print text
 
 text_without_stopwords = remove_stop_words.remove_stopwords(text)
 
-tokenized_text = tokenizer.tokenize(text_without_stopwords)
+tokenized_text = tokenizer.tokenize_to_words(text_without_stopwords)
 
 trigrams = find_trigrams.get_trigrams(tokenized_text)
 

@@ -1,5 +1,7 @@
 from nltk.tokenize import word_tokenize, sent_tokenize
 
-def tokenize(text):
+def tokenize_to_words(text):
     words = word_tokenize(text)
     return words
+
+
