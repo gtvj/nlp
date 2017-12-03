@@ -4,9 +4,9 @@ from nltk import word_tokenize
 import re
 
 
-def remove_stopwords(text):
+def extract_words_without_stopwords(text):
 
-    my_stopwords = ['...', '+44', '\-', '\'s']
+    my_stopwords = ['...', '+44', '\-', '\'s', 'The']
 
     custom_stopwords = set(stopwords.words('english') + list(punctuation) + my_stopwords)
 

@@ -1,6 +1,6 @@
 import get_text_from_url
 import tokenizer
-import remove_stop_words
+import get_words_from_text
 import find_trigrams
 import find_bigrams
 
@@ -15,7 +15,7 @@ print '---TEXT---'
 print '----------'
 print text
 
-text_without_stopwords = remove_stop_words.remove_stopwords(text)
+text_without_stopwords = get_words_from_text.extract_words_without_stopwords(text)
 
 tokenized_text = tokenizer.tokenize_to_words(text_without_stopwords)
 
