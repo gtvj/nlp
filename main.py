@@ -21,14 +21,14 @@ tokenized_text = tokenizer.tokenize_to_words(text_without_stopwords)
 
 trigrams = find_trigrams.get_trigrams(tokenized_text)
 
-print '---------------------------------'
-print '---TRIGRAMS INCLUDES STOPWORDS---'
-print '---------------------------------'
+print '--------------'
+print '---TRIGRAMS---'
+print '--------------'
 print trigrams
 
 bigrams = find_bigrams.get_bigrams(tokenized_text)
 
-print '-------------------------------'
-print '---BIGRAMS WITHOUT STOPWORDS---'
-print '-------------------------------'
+print '-------------'
+print '---BIGRAMS---'
+print '-------------'
 print bigrams

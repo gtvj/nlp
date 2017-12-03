@@ -12,6 +12,6 @@ def extract_words_without_stopwords(text):
 
     words_without_stopwords = ' '.join([word for word in word_tokenize(text) if word not in custom_stopwords])
 
-    words_without_dates = re.sub('\d{1,4}', ' ', words_without_stopwords).strip()
+    words_without_stopwords_or_dates = re.sub('\d{1,4}', ' ', words_without_stopwords).strip()
 
-    return words_without_dates
+    return words_without_stopwords_or_dates
