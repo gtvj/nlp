@@ -39,7 +39,7 @@ def remove_unwanted_elements(html):
         if found_el:
             found_el.decompose()
 
-    return html;
+    return html
 
 
 def clean_html(html):
