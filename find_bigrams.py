@@ -7,6 +7,6 @@ def get_bigrams(words):
 
     finder = BigramCollocationFinder.from_words(words)
 
-    finder.apply_freq_filter(3) # Restrict bigrams to those that appear at least three times
+    finder.apply_freq_filter(5) # Restrict bigrams to those that appear at least three times
 
     return sorted(finder.ngram_fd.items())

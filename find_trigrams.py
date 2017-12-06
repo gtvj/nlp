@@ -7,6 +7,6 @@ def get_trigrams(words):
 
     finder = TrigramCollocationFinder.from_words(words)
 
-    finder.apply_freq_filter(3) # Restrict trigrams to those that appear at least three times
+    finder.apply_freq_filter(4) # Restrict trigrams to those that appear at least three times
 
     return sorted(finder.ngram_fd.items())
