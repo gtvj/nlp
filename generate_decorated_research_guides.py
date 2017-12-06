@@ -2,6 +2,7 @@
 
 import json
 import get_text_from_url
+import ngrams
 import tokenizer
 import get_words_from_text
 import find_trigrams
@@ -33,8 +34,8 @@ for item in guides:
 
     # Decorate with trigrams and bigrams
 
-    item['trigrams'] = find_trigrams.get_trigrams(tokenized_text)
-    item['bigrams'] = find_bigrams.get_bigrams(tokenized_text)
+    item['trigrams'] = ngrams.get_trigrams(tokenized_text)
+    item['bigrams'] = ngrams.get_bigrams(tokenized_text)
 
     pp.pprint(item)
 

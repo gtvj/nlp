@@ -1,4 +1,5 @@
 import get_text_from_url
+import ngrams
 import tokenizer
 import get_words_from_text
 import find_trigrams
@@ -19,14 +20,14 @@ text_without_stopwords = get_words_from_text.extract_words_without_stopwords(tex
 
 tokenized_text = tokenizer.tokenize_to_words(text_without_stopwords)
 
-trigrams = find_trigrams.get_trigrams(tokenized_text)
+trigrams = ngrams.get_trigrams(tokenized_text)
 
 print '--------------'
 print '---TRIGRAMS---'
 print '--------------'
 print trigrams
 
-bigrams = find_bigrams.get_bigrams(tokenized_text)
+bigrams = ngrams.get_bigrams(tokenized_text)
 
 print '-------------'
 print '---BIGRAMS---'
