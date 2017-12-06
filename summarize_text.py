@@ -1,5 +1,5 @@
-import tokenizer
-import get_words_from_text
+from tokenizer import tokenize_to_sentences, tokenize_to_words
+from get_words_from_text import extract_words_without_stopwords
 from nltk.probability import FreqDist
 from heapq import nlargest
 from collections import defaultdict
@@ -8,11 +8,11 @@ from nltk.tokenize import word_tokenize
 
 def get_summary(text, number_of_sentences_sought):
 
-    sentences = tokenizer.tokenize_to_sentences(text)
+    sentences = tokenize_to_sentences(text)
 
-    words = ' '.join(tokenizer.tokenize_to_words(text))
+    words = ' '.join(tokenize_to_words(text))
 
-    words_without_stopwords = get_words_from_text.extract_words_without_stopwords(
+    words_without_stopwords = extract_words_without_stopwords(
         words).split()
 
     freq = FreqDist(words_without_stopwords)

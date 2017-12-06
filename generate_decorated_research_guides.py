@@ -2,12 +2,10 @@
 
 import json
 import get_text_from_url
-import ngrams
-import tokenizer
-import get_words_from_text
-import find_trigrams
-import find_bigrams
-import summarize_text
+from ngrams import get_trigrams, get_bigrams
+from tokenizer import tokenize_to_words
+from get_words_from_text import extract_words_without_stopwords
+from summarize_text import get_summary
 import pprint
 
 # Improves print formatting
@@ -25,17 +23,17 @@ for item in guides:
         attribute='role',
         value='main')
 
-    text_without_stopwords = get_words_from_text.extract_words_without_stopwords(research_guide_text)
+    text_without_stopwords = extract_words_without_stopwords(research_guide_text)
 
-    tokenized_text = tokenizer.tokenize_to_words(text_without_stopwords)
+    tokenized_text = tokenize_to_words(text_without_stopwords)
 
     # Decorate with three sentence summary of the guide
-    item['summary'] = summarize_text.get_summary(research_guide_text, 3)
+    item['summary'] = get_summary(research_guide_text, 3)
 
     # Decorate with trigrams and bigrams
 
-    item['trigrams'] = ngrams.get_trigrams(tokenized_text)
-    item['bigrams'] = ngrams.get_bigrams(tokenized_text)
+    item['trigrams'] = get_trigrams(tokenized_text)
+    item['bigrams'] = get_bigrams(tokenized_text)
 
     pp.pprint(item)
 

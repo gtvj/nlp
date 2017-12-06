@@ -1,11 +1,9 @@
-import get_text_from_url
-import ngrams
-import tokenizer
-import get_words_from_text
-import find_trigrams
-import find_bigrams
+from get_text_from_url import get_text_from_url
+from ngrams import get_bigrams, get_trigrams
+from tokenizer import tokenize_to_words
+from get_words_from_text import extract_words_without_stopwords
 
-text = get_text_from_url.get_text_from_url(
+text = get_text_from_url(
     'http://discovery.nationalarchives.gov.uk/details/r/C259',
     element='table',
     attribute='class',
@@ -16,18 +14,18 @@ print '---TEXT---'
 print '----------'
 print text
 
-text_without_stopwords = get_words_from_text.extract_words_without_stopwords(text)
+text_without_stopwords = extract_words_without_stopwords(text)
 
-tokenized_text = tokenizer.tokenize_to_words(text_without_stopwords)
+tokenized_text = tokenize_to_words(text_without_stopwords)
 
-trigrams = ngrams.get_trigrams(tokenized_text)
+trigrams = get_trigrams(tokenized_text)
 
 print '--------------'
 print '---TRIGRAMS---'
 print '--------------'
 print trigrams
 
-bigrams = ngrams.get_bigrams(tokenized_text)
+bigrams = get_bigrams(tokenized_text)
 
 print '-------------'
 print '---BIGRAMS---'
