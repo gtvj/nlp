@@ -25,4 +25,4 @@ def get_summary(text, number_of_sentences_sought):
     # get the 'n' highest ranked sentences
     sent_ids = nlargest(number_of_sentences_sought, ranking, key=ranking.get)
 
-    return ' '.join([sentences[j] for j in sorted(sent_ids)])
+    return [sentences[j] for j in sorted(sent_ids)]
