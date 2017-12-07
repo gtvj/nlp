@@ -5,7 +5,7 @@ from ngrams import find_ngram_match
 from ngrams import find_reference_match
 
 pages = [
-    'http://discovery.nationalarchives.gov.uk/details/r/C14399',
+    'http://discovery.nationalarchives.gov.uk/details/r/C2'
 ]
 
 for page in pages:

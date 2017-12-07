@@ -5,9 +5,9 @@ import re
 
 
 def extract_words_without_stopwords(text):
-    my_stopwords = ['...', '+44', '\-', '\'s', 'The']
+    my_stopwords = ['...', '+44', '\-', '\'s', 'The', 'catalogue', 'records', 'National Archives', 'available', 'view', 'online', 'series', 'advanced', 'see section']
 
-    my_patterns = ['\d{1,4}', '[A-Z]{2,3}', '-', '/', u'\u2013', u'\u2018', u'\u2019', u'\xa3', u'\u201c', u'\u201d' ]
+    my_patterns = ['-', '/', u'\u2013', u'\u2018', u'\u2019', u'\xa3', u'\u201c', u'\u201d', '[Ss]earch', '[Dd]iscovery' ]
 
     custom_stopwords = set(stopwords.words('english') + list(punctuation) + my_stopwords)
 
