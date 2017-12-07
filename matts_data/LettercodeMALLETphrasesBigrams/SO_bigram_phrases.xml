@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.646323577988142" totalTokens="412" titles="signet, bills, warrants, king, books, home, royal, letters, indexes, docquet">
+	<word weight="0.06553398058252427" count="27">signet</word>
+	<word weight="0.05825242718446602" count="24">bills</word>
+	<word weight="0.0412621359223301" count="17">warrants</word>
+	<word weight="0.038834951456310676" count="16">king</word>
+	<word weight="0.03640776699029126" count="15">books</word>
+	<word weight="0.021844660194174758" count="9">home</word>
+	<word weight="0.021844660194174758" count="9">royal</word>
+	<word weight="0.019417475728155338" count="8">letters</word>
+	<word weight="0.01699029126213592" count="7">indexes</word>
+	<word weight="0.012135922330097087" count="5">docquet</word>
+	<word weight="0.009708737864077669" count="4">letter</word>
+	<word weight="0.009708737864077669" count="4">manual</word>
+	<word weight="0.009708737864077669" count="4">sign</word>
+	<word weight="0.009708737864077669" count="4">instruments</word>
+	<word weight="0.009708737864077669" count="4">foundations</word>
+	<word weight="0.009708737864077669" count="4">almsmen</word>
+	<word weight="0.009708737864077669" count="4">clerks</word>
+	<word weight="0.007281553398058253" count="3">ireland</word>
+	<word weight="0.007281553398058253" count="3">entry</word>
+	<word weight="0.007281553398058253" count="3">irish</word>
+	<phrase weight="0.06451612903225806" count="4">royal foundations</phrase>
+	<phrase weight="0.06451612903225806" count="4">docquet books</phrase>
+	<phrase weight="0.03225806451612903" count="2">ecclesiastical presentations</phrase>
+	<phrase weight="0.03225806451612903" count="2">royal sign manual</phrase>
+	<phrase weight="0.03225806451612903" count="2">attorney general</phrase>
+	<phrase weight="0.03225806451612903" count="2">sign manual letter books largely</phrase>
+	<phrase weight="0.03225806451612903" count="2">entry books</phrase>
+	<phrase weight="0.03225806451612903" count="2">law officers</phrase>
+	<phrase weight="0.03225806451612903" count="2">signet bills</phrase>
+	<phrase weight="0.016129032258064516" count="1">diplomatic missions</phrase>
+	<phrase weight="0.016129032258064516" count="1">signet seal</phrase>
+	<phrase weight="0.016129032258064516" count="1">miscellaneous books</phrase>
+	<phrase weight="0.016129032258064516" count="1">partly compiled</phrase>
+	<phrase weight="0.016129032258064516" count="1">royal assent</phrase>
+	<phrase weight="0.016129032258064516" count="1">irish letter books</phrase>
+	<phrase weight="0.016129032258064516" count="1">irish instruments</phrase>
+	<phrase weight="0.016129032258064516" count="1">caveats lodged</phrase>
+	<phrase weight="0.016129032258064516" count="1">english archbishoprics</phrase>
+	<phrase weight="0.016129032258064516" count="1">official royal acts</phrase>
+	<phrase weight="0.016129032258064516" count="1">intervening king</phrase>
+  </topic>
+</topics>

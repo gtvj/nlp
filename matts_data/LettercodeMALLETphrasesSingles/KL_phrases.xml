@@ -1,0 +1,20 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="2.463877730055051" totalTokens="30" titles="schools, funding, reports, annual, plans, corporate, agency's, places, supply, planning">
+	<word weight="0.16666666666666666" count="5">schools</word>
+	<word weight="0.13333333333333333" count="4">funding</word>
+	<word weight="0.1" count="3">reports</word>
+	<word weight="0.1" count="3">annual</word>
+	<word weight="0.1" count="3">plans</word>
+	<word weight="0.1" count="3">corporate</word>
+	<word weight="0.03333333333333333" count="1">agency's</word>
+	<word weight="0.03333333333333333" count="1">places</word>
+	<word weight="0.03333333333333333" count="1">school</word>
+	<word weight="0.03333333333333333" count="1">supply</word>
+	<word weight="0.03333333333333333" count="1">planning</word>
+	<word weight="0.03333333333333333" count="1">england</word>
+	<word weight="0.03333333333333333" count="1">grant-maintained</word>
+	<word weight="0.03333333333333333" count="1">administration</word>
+	<word weight="0.03333333333333333" count="1">financing</word>
+  </topic>
+</topics>

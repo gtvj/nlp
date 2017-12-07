@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.168691316202953" totalTokens="726" titles="charity commission, charities, commissioners, board, charitable, reports, act, case, uk, status">
+	<word weight="0.12672176308539945" count="92">charity</word>
+	<word weight="0.10881542699724518" count="79">commission</word>
+	<word weight="0.0440771349862259" count="32">charities</word>
+	<word weight="0.03168044077134986" count="23">commissioners</word>
+	<word weight="0.01928374655647383" count="14">board</word>
+	<word weight="0.01652892561983471" count="12">reports</word>
+	<word weight="0.01652892561983471" count="12">charitable</word>
+	<word weight="0.013774104683195593" count="10">act</word>
+	<word weight="0.012396694214876033" count="9">case</word>
+	<word weight="0.009641873278236915" count="7">status</word>
+	<word weight="0.009641873278236915" count="7">uk</word>
+	<word weight="0.008264462809917356" count="6">government</word>
+	<word weight="0.008264462809917356" count="6">general</word>
+	<word weight="0.008264462809917356" count="6">minutes</word>
+	<word weight="0.006887052341597796" count="5">enrolments</word>
+	<word weight="0.006887052341597796" count="5">division</word>
+	<word weight="0.006887052341597796" count="5">cases</word>
+	<word weight="0.006887052341597796" count="5">meetings</word>
+	<word weight="0.005509641873278237" count="4">city</word>
+	<word weight="0.005509641873278237" count="4">schemes</word>
+	<phrase weight="0.2671232876712329" count="39">charity commission</phrase>
+	<phrase weight="0.04794520547945205" count="7">charity commissioners</phrase>
+	<phrase weight="0.03424657534246575" count="5">uk government</phrase>
+	<phrase weight="0.0136986301369863" count="2">charities act</phrase>
+	<phrase weight="0.0136986301369863" count="2">london parochial charities act</phrase>
+	<phrase weight="0.0136986301369863" count="2">charity cases</phrase>
+	<phrase weight="0.0136986301369863" count="2">charities statement</phrase>
+	<phrase weight="0.0136986301369863" count="2">mortmain enrolments</phrase>
+	<phrase weight="0.00684931506849315" count="1">inland revenue</phrase>
+	<phrase weight="0.00684931506849315" count="1">chief charity commissioner</phrase>
+	<phrase weight="0.00684931506849315" count="1">formal minute</phrase>
+	<phrase weight="0.00684931506849315" count="1">work undertaken</phrase>
+	<phrase weight="0.00684931506849315" count="1">minutes minutes</phrase>
+	<phrase weight="0.00684931506849315" count="1">commission board</phrase>
+	<phrase weight="0.00684931506849315" count="1">trustee remuneration</phrase>
+	<phrase weight="0.00684931506849315" count="1">procedures required</phrase>
+	<phrase weight="0.00684931506849315" count="1">official trustees</phrase>
+	<phrase weight="0.00684931506849315" count="1">board proceedings</phrase>
+	<phrase weight="0.00684931506849315" count="1">erroneously titled charity commission annual reports</phrase>
+	<phrase weight="0.00684931506849315" count="1">helping participants</phrase>
+  </topic>
+</topics>

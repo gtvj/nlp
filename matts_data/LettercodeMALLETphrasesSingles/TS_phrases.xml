@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.252755865358241" totalTokens="3940" titles="treasury, solicitor, general, procurator, legal, work, miscellaneous, claims, cases, war">
+	<word weight="0.06472081218274112" count="255">treasury</word>
+	<word weight="0.05456852791878172" count="215">solicitor</word>
+	<word weight="0.0416243654822335" count="164">general</word>
+	<word weight="0.03401015228426396" count="134">procurator</word>
+	<word weight="0.023096446700507613" count="91">legal</word>
+	<word weight="0.023096446700507613" count="91">work</word>
+	<word weight="0.01116751269035533" count="44">miscellaneous</word>
+	<word weight="0.009898477157360405" count="39">claims</word>
+	<word weight="0.009644670050761422" count="38">cases</word>
+	<word weight="0.009137055837563452" count="36">war</word>
+	<word weight="0.008629441624365483" count="34">admiralty</word>
+	<word weight="0.008121827411167513" count="32">registers</word>
+	<word weight="0.007106598984771574" count="28">behalf</word>
+	<word weight="0.007106598984771574" count="28">correspondence</word>
+	<word weight="0.006598984771573604" count="26">books</word>
+	<word weight="0.006345177664974619" count="25">solicitor's</word>
+	<word weight="0.0058375634517766496" count="23">yearly</word>
+	<word weight="0.0058375634517766496" count="23">court</word>
+	<word weight="0.005583756345177665" count="22">government</word>
+	<word weight="0.00532994923857868" count="21">statutory</word>
+  </topic>
+</topics>

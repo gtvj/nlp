@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.062043706835858" totalTokens="67" titles="joint, clinical, board, studies, nursing, minutes, institutional, remit, courses, institutions">
+	<word weight="0.13432835820895522" count="9">joint</word>
+	<word weight="0.11940298507462686" count="8">clinical</word>
+	<word weight="0.11940298507462686" count="8">board</word>
+	<word weight="0.08955223880597014" count="6">studies</word>
+	<word weight="0.08955223880597014" count="6">nursing</word>
+	<word weight="0.04477611940298507" count="3">minutes</word>
+	<word weight="0.029850746268656716" count="2">institutional</word>
+	<word weight="0.029850746268656716" count="2">remit</word>
+	<word weight="0.029850746268656716" count="2">courses</word>
+	<word weight="0.029850746268656716" count="2">institutions</word>
+	<word weight="0.029850746268656716" count="2">training</word>
+	<word weight="0.029850746268656716" count="2">reports</word>
+	<word weight="0.014925373134328358" count="1">supervisory</word>
+	<word weight="0.014925373134328358" count="1">providing</word>
+	<word weight="0.014925373134328358" count="1">correspondence</word>
+	<word weight="0.014925373134328358" count="1">running</word>
+	<word weight="0.014925373134328358" count="1">board's</word>
+	<word weight="0.014925373134328358" count="1">wales</word>
+	<word weight="0.014925373134328358" count="1">england</word>
+	<word weight="0.014925373134328358" count="1">midwives</word>
+  </topic>
+</topics>

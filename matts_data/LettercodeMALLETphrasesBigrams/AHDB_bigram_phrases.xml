@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.679569500985907" totalTokens="892" titles="uk government, horticulture development board, agriculture, ahdb, pork, executive, beef, lamb, service, meat">
+	<word weight="0.08632286995515695" count="77">horticulture</word>
+	<word weight="0.08408071748878924" count="75">board</word>
+	<word weight="0.08408071748878924" count="75">development</word>
+	<word weight="0.08408071748878924" count="75">agriculture</word>
+	<word weight="0.06614349775784753" count="59">uk</word>
+	<word weight="0.061659192825112105" count="55">ahdb</word>
+	<word weight="0.05941704035874439" count="53">government</word>
+	<word weight="0.02466367713004484" count="22">pork</word>
+	<word weight="0.020179372197309416" count="18">executive</word>
+	<word weight="0.017937219730941704" count="16">lamb</word>
+	<word weight="0.017937219730941704" count="16">beef</word>
+	<word weight="0.016816143497757848" count="15">service</word>
+	<word weight="0.016816143497757848" count="15">meat</word>
+	<word weight="0.01569506726457399" count="14">pig</word>
+	<word weight="0.014573991031390135" count="13">bpex</word>
+	<word weight="0.014573991031390135" count="13">field</word>
+	<word weight="0.014573991031390135" count="13">general</word>
+	<word weight="0.013452914798206279" count="12">eblex</word>
+	<word weight="0.013452914798206279" count="12">potatoes</word>
+	<word weight="0.011210762331838564" count="10">love</word>
+	<phrase weight="0.32116788321167883" count="44">uk government</phrase>
+	<phrase weight="0.16058394160583941" count="22">horticulture development board</phrase>
+	<phrase weight="0.058394160583941604" count="8">english beef</phrase>
+	<phrase weight="0.051094890510948905" count="7">british pig executive</phrase>
+	<phrase weight="0.0364963503649635" count="5">food service</phrase>
+	<phrase weight="0.021897810218978103" count="3">pig movement service</phrase>
+	<phrase weight="0.021897810218978103" count="3">love pork</phrase>
+	<phrase weight="0.021897810218978103" count="3">wholegrain goodness</phrase>
+	<phrase weight="0.014598540145985401" count="2">pork butchers</phrase>
+	<phrase weight="0.014598540145985401" count="2">food chain</phrase>
+	<phrase weight="0.014598540145985401" count="2">dairy farming</phrase>
+	<phrase weight="0.014598540145985401" count="2">pork watch</phrase>
+	<phrase weight="0.014598540145985401" count="2">lamb executive</phrase>
+	<phrase weight="0.014598540145985401" count="2">cow welfare</phrase>
+	<phrase weight="0.014598540145985401" count="2">british meat education service</phrase>
+	<phrase weight="0.014598540145985401" count="2">love chips</phrase>
+	<phrase weight="0.014598540145985401" count="2">news centre</phrase>
+	<phrase weight="0.014598540145985401" count="2">retail service</phrase>
+	<phrase weight="0.014598540145985401" count="2">zoonoses national control programme</phrase>
+	<phrase weight="0.014598540145985401" count="2">farmhouse breakfast week</phrase>
+  </topic>
+</topics>

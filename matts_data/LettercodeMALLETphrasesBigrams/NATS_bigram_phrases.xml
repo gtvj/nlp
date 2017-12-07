@@ -1,0 +1,24 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="3.3624619740085238" totalTokens="24" titles="service, national, interest, policy, varied, recording, recruiting, organization, finance, supply">
+	<word weight="0.16666666666666666" count="4">service</word>
+	<word weight="0.16666666666666666" count="4">national</word>
+	<word weight="0.08333333333333333" count="2">interest</word>
+	<word weight="0.08333333333333333" count="2">policy</word>
+	<word weight="0.041666666666666664" count="1">varied</word>
+	<word weight="0.041666666666666664" count="1">recording</word>
+	<word weight="0.041666666666666664" count="1">recruiting</word>
+	<word weight="0.041666666666666664" count="1">organization</word>
+	<word weight="0.041666666666666664" count="1">finance</word>
+	<word weight="0.041666666666666664" count="1">supply</word>
+	<word weight="0.041666666666666664" count="1">labour</word>
+	<word weight="0.041666666666666664" count="1">medical</word>
+	<word weight="0.041666666666666664" count="1">exemptions</word>
+	<word weight="0.041666666666666664" count="1">trade</word>
+	<word weight="0.041666666666666664" count="1">dealt</word>
+	<word weight="0.041666666666666664" count="1">permanent</word>
+	<phrase weight="0.5" count="2">national service</phrase>
+	<phrase weight="0.25" count="1">labour supply</phrase>
+	<phrase weight="0.25" count="1">permanent interest dealt</phrase>
+  </topic>
+</topics>

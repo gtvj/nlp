@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.1651470868724605" totalTokens="3802" titles="defence, government, intelligence, staff, royal, service, reports, scientific, army, general">
+	<word weight="0.11441346659652814" count="435">defence</word>
+	<word weight="0.03761178327196212" count="143">government</word>
+	<word weight="0.03156233561283535" count="120">intelligence</word>
+	<word weight="0.017622304050499738" count="67">staff</word>
+	<word weight="0.014203051025775907" count="54">royal</word>
+	<word weight="0.013413992635455023" count="51">service</word>
+	<word weight="0.012361914781693845" count="47">reports</word>
+	<word weight="0.010783798001052078" count="41">scientific</word>
+	<word weight="0.00920568122041031" count="35">army</word>
+	<word weight="0.008416622830089426" count="32">general</word>
+	<word weight="0.007890583903208837" count="30">research</word>
+	<word weight="0.007627564439768543" count="29">military</word>
+	<word weight="0.007364544976328248" count="28">committee</word>
+	<word weight="0.0071015255128879535" count="27">directorate</word>
+	<word weight="0.006838506049447659" count="26">air</word>
+	<word weight="0.006575486586007364" count="25">chiefs</word>
+	<word weight="0.00631246712256707" count="24">operations</word>
+	<word weight="0.00631246712256707" count="24">technical</word>
+	<word weight="0.00631246712256707" count="24">forces</word>
+	<word weight="0.00631246712256707" count="24">joint</word>
+  </topic>
+</topics>

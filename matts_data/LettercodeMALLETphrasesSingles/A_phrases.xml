@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.264360384586274" totalTokens="382" titles="alienation, books, entry, writs, accounts, common, property, post-fines, affidavits, court">
+	<word weight="0.06282722513089005" count="24">alienation</word>
+	<word weight="0.0549738219895288" count="21">books</word>
+	<word weight="0.03926701570680628" count="15">entry</word>
+	<word weight="0.02617801047120419" count="10">writs</word>
+	<word weight="0.020942408376963352" count="8">accounts</word>
+	<word weight="0.01832460732984293" count="7">common</word>
+	<word weight="0.01832460732984293" count="7">property</word>
+	<word weight="0.015706806282722512" count="6">post-fines</word>
+	<word weight="0.015706806282722512" count="6">account</word>
+	<word weight="0.015706806282722512" count="6">affidavits</word>
+	<word weight="0.015706806282722512" count="6">court</word>
+	<word weight="0.015706806282722512" count="6">covenant</word>
+	<word weight="0.013089005235602094" count="5">expenses</word>
+	<word weight="0.013089005235602094" count="5">licences</word>
+	<word weight="0.013089005235602094" count="5">charles</word>
+	<word weight="0.013089005235602094" count="5">land</word>
+	<word weight="0.010471204188481676" count="4">collection</word>
+	<word weight="0.010471204188481676" count="4">pre-fines</word>
+	<word weight="0.010471204188481676" count="4">pleas</word>
+	<word weight="0.010471204188481676" count="4">final</word>
+  </topic>
+</topics>

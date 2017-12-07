@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.430280972824502" totalTokens="377" titles="prison, commission, prisons, home, board, licences, prisoners, minutes, registers, notes">
+	<word weight="0.09549071618037135" count="36">prison</word>
+	<word weight="0.05305039787798409" count="20">commission</word>
+	<word weight="0.03713527851458886" count="14">prisons</word>
+	<word weight="0.03713527851458886" count="14">home</word>
+	<word weight="0.023872679045092837" count="9">board</word>
+	<word weight="0.023872679045092837" count="9">licences</word>
+	<word weight="0.01856763925729443" count="7">prisoners</word>
+	<word weight="0.015915119363395226" count="6">minutes</word>
+	<word weight="0.015915119363395226" count="6">registers</word>
+	<word weight="0.013262599469496022" count="5">notes</word>
+	<word weight="0.013262599469496022" count="5">court</word>
+	<word weight="0.013262599469496022" count="5">captions</word>
+	<word weight="0.013262599469496022" count="5">treatment</word>
+	<word weight="0.013262599469496022" count="5">books</word>
+	<word weight="0.010610079575596816" count="4">convicts</word>
+	<word weight="0.010610079575596816" count="4">transfer</word>
+	<word weight="0.010610079575596816" count="4">advisory</word>
+	<word weight="0.010610079575596816" count="4">commissioners</word>
+	<word weight="0.010610079575596816" count="4">convict</word>
+	<word weight="0.007957559681697613" count="3">century</word>
+  </topic>
+</topics>

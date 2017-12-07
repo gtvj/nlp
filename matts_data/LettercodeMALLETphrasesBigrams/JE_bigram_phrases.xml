@@ -1,0 +1,43 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="10.162198666947228" totalTokens="243" titles="lottery, national, uk, big, commission, je, fund, www, http, government">
+	<word weight="0.1522633744855967" count="37">lottery</word>
+	<word weight="0.09465020576131687" count="23">national</word>
+	<word weight="0.06172839506172839" count="15">uk</word>
+	<word weight="0.05761316872427984" count="14">big</word>
+	<word weight="0.053497942386831275" count="13">commission</word>
+	<word weight="0.04526748971193416" count="11">je</word>
+	<word weight="0.037037037037037035" count="9">fund</word>
+	<word weight="0.02880658436213992" count="7">www</word>
+	<word weight="0.02880658436213992" count="7">http</word>
+	<word weight="0.024691358024691357" count="6">government</word>
+	<word weight="0.0205761316872428" count="5">blog</word>
+	<word weight="0.0205761316872428" count="5">org</word>
+	<word weight="0.01646090534979424" count="4">licences</word>
+	<word weight="0.01646090534979424" count="4">gov</word>
+	<word weight="0.012345679012345678" count="3">reports</word>
+	<word weight="0.012345679012345678" count="3">annual</word>
+	<word weight="0.012345679012345678" count="3">bigblog</word>
+	<word weight="0.012345679012345678" count="3">run</word>
+	<word weight="0.012345679012345678" count="3">licence</word>
+	<word weight="0.012345679012345678" count="3">natlotcomm</word>
+	<phrase weight="0.19047619047619047" count="8">national lottery</phrase>
+	<phrase weight="0.11904761904761904" count="5">national lottery commission</phrase>
+	<phrase weight="0.11904761904761904" count="5">lottery fund</phrase>
+	<phrase weight="0.09523809523809523" count="4">big blog</phrase>
+	<phrase weight="0.09523809523809523" count="4">big lottery fund</phrase>
+	<phrase weight="0.047619047619047616" count="2">lottery commission</phrase>
+	<phrase weight="0.047619047619047616" count="2">annual reports</phrase>
+	<phrase weight="0.047619047619047616" count="2">lottery grants search</phrase>
+	<phrase weight="0.023809523809523808" count="1">licence authorising camelot group plc</phrase>
+	<phrase weight="0.023809523809523808" count="1">run lotteries</phrase>
+	<phrase weight="0.023809523809523808" count="1">lottery distributor</phrase>
+	<phrase weight="0.023809523809523808" count="1">commercial firms</phrase>
+	<phrase weight="0.023809523809523808" count="1">uk government</phrase>
+	<phrase weight="0.023809523809523808" count="1">licences issued</phrase>
+	<phrase weight="0.023809523809523808" count="1">cases amendments</phrase>
+	<phrase weight="0.023809523809523808" count="1">olympic lottery distributor</phrase>
+	<phrase weight="0.023809523809523808" count="1">culture media</phrase>
+	<phrase weight="0.023809523809523808" count="1">national lottery act</phrase>
+  </topic>
+</topics>

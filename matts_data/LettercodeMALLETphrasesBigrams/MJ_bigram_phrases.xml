@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.415475597589199" totalTokens="1487" titles="uk government, justice, mj, www, http, general, field, legal, criminal, committee">
+	<word weight="0.11297915265635508" count="168">justice</word>
+	<word weight="0.0894418291862811" count="133">uk</word>
+	<word weight="0.06119704102219233" count="91">government</word>
+	<word weight="0.05985205110961668" count="89">mj</word>
+	<word weight="0.026227303295225286" count="39">www</word>
+	<word weight="0.0242098184263618" count="36">gov</word>
+	<word weight="0.02151983860121049" count="32">http</word>
+	<word weight="0.01815736381977135" count="27">field</word>
+	<word weight="0.01815736381977135" count="27">general</word>
+	<word weight="0.01613987895090787" count="24">legal</word>
+	<word weight="0.014122394082044385" count="21">criminal</word>
+	<word weight="0.012777404169468728" count="19">committee</word>
+	<word weight="0.0121049092131809" count="18">council</word>
+	<word weight="0.011432414256893073" count="17">rule</word>
+	<word weight="0.011432414256893073" count="17">public</word>
+	<word weight="0.010759919300605245" count="16">judicial</word>
+	<word weight="0.010759919300605245" count="16">review</word>
+	<word weight="0.00941492938802959" count="14">judiciary</word>
+	<word weight="0.00941492938802959" count="14">inspectorate</word>
+	<word weight="0.00941492938802959" count="14">civil</word>
+	<phrase weight="0.18930041152263374" count="46">uk government</phrase>
+	<phrase weight="0.04938271604938271" count="12">hm inspectorate</phrase>
+	<phrase weight="0.024691358024691357" count="6">criminal justice system</phrase>
+	<phrase weight="0.024691358024691357" count="6">advisory panel</phrase>
+	<phrase weight="0.0205761316872428" count="5">youth justice board</phrase>
+	<phrase weight="0.0205761316872428" count="5">family justice council</phrase>
+	<phrase weight="0.0205761316872428" count="5">procedure rule committee</phrase>
+	<phrase weight="0.0205761316872428" count="5">justice commissioning</phrase>
+	<phrase weight="0.01646090534979424" count="4">civil justice council</phrase>
+	<phrase weight="0.01646090534979424" count="4">official solicitor</phrase>
+	<phrase weight="0.01646090534979424" count="4">public trustee</phrase>
+	<phrase weight="0.01646090534979424" count="4">criminal injuries compensation authority</phrase>
+	<phrase weight="0.01646090534979424" count="4">supreme court</phrase>
+	<phrase weight="0.01646090534979424" count="4">claims management regulation</phrase>
+	<phrase weight="0.01646090534979424" count="4">judicial appointments</phrase>
+	<phrase weight="0.012345679012345678" count="3">land registration rule committee</phrase>
+	<phrase weight="0.012345679012345678" count="3">macur review</phrase>
+	<phrase weight="0.012345679012345678" count="3">civil procedure rule committee</phrase>
+	<phrase weight="0.012345679012345678" count="3">court funds</phrase>
+	<phrase weight="0.012345679012345678" count="3">severe personality disorders programme</phrase>
+  </topic>
+</topics>

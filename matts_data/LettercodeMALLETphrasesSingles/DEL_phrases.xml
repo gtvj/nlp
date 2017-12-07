@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.0809326913944135" totalTokens="715" titles="court, high, del, books, delegates, registrar, act, exhibits, admiralty, proceedings">
+	<word weight="0.057342657342657345" count="41">court</word>
+	<word weight="0.044755244755244755" count="32">high</word>
+	<word weight="0.04055944055944056" count="29">del</word>
+	<word weight="0.03776223776223776" count="27">books</word>
+	<word weight="0.03636363636363636" count="26">delegates</word>
+	<word weight="0.03076923076923077" count="22">registrar</word>
+	<word weight="0.019580419580419582" count="14">act</word>
+	<word weight="0.016783216783216783" count="12">exhibits</word>
+	<word weight="0.015384615384615385" count="11">admiralty</word>
+	<word weight="0.013986013986013986" count="10">proceedings</word>
+	<word weight="0.013986013986013986" count="10">assignation</word>
+	<word weight="0.013986013986013986" count="10">council</word>
+	<word weight="0.012587412587412588" count="9">ecclesiastical</word>
+	<word weight="0.012587412587412588" count="9">privy</word>
+	<word weight="0.012587412587412588" count="9">committee</word>
+	<word weight="0.012587412587412588" count="9">judicial</word>
+	<word weight="0.009790209790209791" count="7">business</word>
+	<word weight="0.009790209790209791" count="7">formal</word>
+	<word weight="0.009790209790209791" count="7">depositions</word>
+	<word weight="0.009790209790209791" count="7">courts</word>
+  </topic>
+</topics>

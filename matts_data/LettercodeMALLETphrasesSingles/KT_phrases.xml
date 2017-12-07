@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.194198509164805" totalTokens="240" titles="education, standards, ofsted, government, reports, view, children's, annual, skills, services">
+	<word weight="0.13333333333333333" count="32">education</word>
+	<word weight="0.13333333333333333" count="32">standards</word>
+	<word weight="0.10416666666666667" count="25">ofsted</word>
+	<word weight="0.04583333333333333" count="11">government</word>
+	<word weight="0.0375" count="9">reports</word>
+	<word weight="0.03333333333333333" count="8">view</word>
+	<word weight="0.03333333333333333" count="8">children's</word>
+	<word weight="0.029166666666666667" count="7">annual</word>
+	<word weight="0.025" count="6">skills</word>
+	<word weight="0.025" count="6">services</word>
+	<word weight="0.016666666666666666" count="4">rights</word>
+	<word weight="0.016666666666666666" count="4">digital</word>
+	<word weight="0.016666666666666666" count="4">corporate</word>
+	<word weight="0.016666666666666666" count="4">complaints</word>
+	<word weight="0.016666666666666666" count="4">data</word>
+	<word weight="0.0125" count="3">england</word>
+	<word weight="0.0125" count="3">plans</word>
+	<word weight="0.0125" count="3">adjudicator</word>
+	<word weight="0.008333333333333333" count="2">learner</word>
+	<word weight="0.008333333333333333" count="2">schools</word>
+  </topic>
+</topics>

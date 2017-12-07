@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.213069358406473" totalTokens="5155" titles="court, king's, side, bench, plea, crown, rolls, writs, cases, courts">
+	<word weight="0.04655674102812803" count="240">court</word>
+	<word weight="0.04151309408341416" count="214">king's</word>
+	<word weight="0.041319107662463626" count="213">side</word>
+	<word weight="0.041319107662463626" count="213">bench</word>
+	<word weight="0.028128031037827354" count="145">plea</word>
+	<word weight="0.02250242483026188" count="116">crown</word>
+	<word weight="0.014161008729388943" count="73">rolls</word>
+	<word weight="0.013579049466537343" count="70">writs</word>
+	<word weight="0.01125121241513094" count="58">cases</word>
+	<word weight="0.007177497575169738" count="37">courts</word>
+	<word weight="0.006983511154219205" count="36">term</word>
+	<word weight="0.006789524733268671" count="35">books</word>
+	<word weight="0.005819592628516004" count="30">division</word>
+	<word weight="0.00562560620756547" count="29">affidavits</word>
+	<word weight="0.005431619786614937" count="28">justice</word>
+	<word weight="0.0052376333656644035" count="27">indictments</word>
+	<word weight="0.004849660523763337" count="25">roll</word>
+	<word weight="0.004849660523763337" count="25">articles</word>
+	<word weight="0.004849660523763337" count="25">attorneys</word>
+	<word weight="0.004849660523763337" count="25">filed</word>
+  </topic>
+</topics>

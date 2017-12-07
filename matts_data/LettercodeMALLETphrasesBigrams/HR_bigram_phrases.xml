@@ -1,0 +1,32 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="41.52347485033412" totalTokens="103" titles="marshall, commission, commemoration, aid, hr, reports, annual, books, minute, uk">
+	<word weight="0.13592233009708737" count="14">marshall</word>
+	<word weight="0.1262135922330097" count="13">commission</word>
+	<word weight="0.11650485436893204" count="12">commemoration</word>
+	<word weight="0.11650485436893204" count="12">aid</word>
+	<word weight="0.07766990291262135" count="8">hr</word>
+	<word weight="0.02912621359223301" count="3">reports</word>
+	<word weight="0.02912621359223301" count="3">annual</word>
+	<word weight="0.019417475728155338" count="2">books</word>
+	<word weight="0.019417475728155338" count="2">minute</word>
+	<word weight="0.019417475728155338" count="2">uk</word>
+	<word weight="0.019417475728155338" count="2">scholarship</word>
+	<word weight="0.009708737864077669" count="1">scholar</word>
+	<word weight="0.009708737864077669" count="1">division</word>
+	<word weight="0.009708737864077669" count="1">personal</word>
+	<word weight="0.009708737864077669" count="1">scholars</word>
+	<word weight="0.009708737864077669" count="1">sample</word>
+	<word weight="0.009708737864077669" count="1">scientific</word>
+	<word weight="0.009708737864077669" count="1">selection</word>
+	<word weight="0.009708737864077669" count="1">representative</word>
+	<word weight="0.009708737864077669" count="1">meetings</word>
+	<phrase weight="0.5714285714285714" count="8">marshall aid commemoration commission</phrase>
+	<phrase weight="0.07142857142857142" count="1">united states citizens</phrase>
+	<phrase weight="0.07142857142857142" count="1">aid commemoration commission</phrase>
+	<phrase weight="0.07142857142857142" count="1">representative selection</phrase>
+	<phrase weight="0.07142857142857142" count="1">uk government</phrase>
+	<phrase weight="0.07142857142857142" count="1">annual reports</phrase>
+	<phrase weight="0.07142857142857142" count="1">reports annual reports compiled</phrase>
+  </topic>
+</topics>

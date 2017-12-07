@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.170208993416657" totalTokens="4514" titles="commonwealth, foreign, fco, relations, government, british, economic, political, october, geographical">
+	<word weight="0.07332742578644218" count="331">commonwealth</word>
+	<word weight="0.06601683650863979" count="298">foreign</word>
+	<word weight="0.04452813469206912" count="201">fco</word>
+	<word weight="0.020824102791315906" count="94">relations</word>
+	<word weight="0.016171909614532565" count="73">government</word>
+	<word weight="0.014178112538768276" count="64">british</word>
+	<word weight="0.01329198050509526" count="60">economic</word>
+	<word weight="0.011519716437749225" count="52">political</word>
+	<word weight="0.010412051395657953" count="47">october</word>
+	<word weight="0.00930438635356668" count="42">geographical</word>
+	<word weight="0.00930438635356668" count="42">policy</word>
+	<word weight="0.009082853345148427" count="41">united</word>
+	<word weight="0.008418254319893664" count="38">general</word>
+	<word weight="0.007532122286220647" count="34">overseas</word>
+	<word weight="0.007532122286220647" count="34">international</word>
+	<word weight="0.00664599025254763" count="30">africa</word>
+	<word weight="0.006202924235711121" count="28">east</word>
+	<word weight="0.006202924235711121" count="28">south</word>
+	<word weight="0.006202924235711121" count="28">states</word>
+	<word weight="0.005981391227292867" count="27">west</word>
+  </topic>
+</topics>

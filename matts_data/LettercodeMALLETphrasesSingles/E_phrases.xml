@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.073299169484663" totalTokens="17274" titles="exchequer, king's, remembrancer, court, rolls, accounts, books, crown, receipt, pipe">
+	<word weight="0.034965844621975224" count="604">exchequer</word>
+	<word weight="0.021014241055922197" count="363">king's</word>
+	<word weight="0.01864073173555633" count="322">remembrancer</word>
+	<word weight="0.013835822623596157" count="239">court</word>
+	<word weight="0.013256917911311799" count="229">rolls</word>
+	<word weight="0.011925437073057774" count="206">accounts</word>
+	<word weight="0.010651846706032187" count="184">books</word>
+	<word weight="0.009551927752691907" count="165">crown</word>
+	<word weight="0.008046775500752576" count="139">receipt</word>
+	<word weight="0.007815213615838833" count="135">pipe</word>
+	<word weight="0.006831075604955424" count="118">lands</word>
+	<word weight="0.005731156651615144" count="99">writs</word>
+	<word weight="0.005441704295472965" count="94">deeds</word>
+	<word weight="0.005152251939330786" count="89">augmentations</word>
+	<word weight="0.004804909111960172" count="83">treasury</word>
+	<word weight="0.0047470186407317354" count="82">revenue</word>
+	<word weight="0.004573347227046428" count="79">pleas</word>
+	<word weight="0.004399675813361121" count="76">tenths</word>
+	<word weight="0.0042260043996758135" count="73">orders</word>
+	<word weight="0.004168113928447377" count="72">fruits</word>
+  </topic>
+</topics>

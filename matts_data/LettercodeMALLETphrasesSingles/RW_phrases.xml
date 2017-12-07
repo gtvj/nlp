@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.274672015115413" totalTokens="580" titles="national, government, war, forgeries, management, preservation, council, private, digital, gifted">
+	<word weight="0.15862068965517243" count="92">national</word>
+	<word weight="0.05172413793103448" count="30">government</word>
+	<word weight="0.015517241379310345" count="9">war</word>
+	<word weight="0.013793103448275862" count="8">forgeries</word>
+	<word weight="0.01206896551724138" count="7">management</word>
+	<word weight="0.01206896551724138" count="7">preservation</word>
+	<word weight="0.010344827586206896" count="6">council</word>
+	<word weight="0.010344827586206896" count="6">private</word>
+	<word weight="0.010344827586206896" count="6">digital</word>
+	<word weight="0.008620689655172414" count="5">gifted</word>
+	<word weight="0.008620689655172414" count="5">rolls</word>
+	<word weight="0.008620689655172414" count="5">internal</word>
+	<word weight="0.006896551724137931" count="4">advisory</word>
+	<word weight="0.006896551724137931" count="4">labs</word>
+	<word weight="0.006896551724137931" count="4">correspondence</word>
+	<word weight="0.006896551724137931" count="4">crimes</word>
+	<word weight="0.006896551724137931" count="4">ravensbruck</word>
+	<word weight="0.006896551724137931" count="4">public</word>
+	<word weight="0.006896551724137931" count="4">board</word>
+	<word weight="0.006896551724137931" count="4">deposited</word>
+  </topic>
+</topics>

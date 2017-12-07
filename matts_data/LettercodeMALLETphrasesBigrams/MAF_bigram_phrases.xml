@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.0343990972755215" totalTokens="22973" titles="uk government, rural affairs, land tenure, land drainage, animal health, advisory committee, food standards, fisheries, agriculture, agricultural">
+	<word weight="0.054716406215992684" count="1257">food</word>
+	<word weight="0.0499717059156401" count="1148">fisheries</word>
+	<word weight="0.04949288294954947" count="1137">agriculture</word>
+	<word weight="0.01806468462978279" count="415">uk</word>
+	<word weight="0.016236451486527664" count="373">agricultural</word>
+	<word weight="0.014712923867148392" count="338">land</word>
+	<word weight="0.011665868628389848" count="268">government</word>
+	<word weight="0.009489400600705175" count="218">division</word>
+	<word weight="0.007356461933574196" count="169">committee</word>
+	<word weight="0.007356461933574196" count="169">policy</word>
+	<word weight="0.006485874722500326" count="149">divisions</word>
+	<word weight="0.0062246985591781654" count="143">national</word>
+	<word weight="0.005658816871980151" count="130">advisory</word>
+	<word weight="0.005615287511426457" count="129">improvement</word>
+	<word weight="0.00552822879031907" count="127">animal</word>
+	<word weight="0.005223523266443216" count="120">control</word>
+	<word weight="0.005049405824228442" count="116">general</word>
+	<word weight="0.004875288382013668" count="112">act</word>
+	<word weight="0.004788229660906282" count="110">livestock</word>
+	<word weight="0.004483524137030427" count="103">services</word>
+	<phrase weight="0.0321390937829294" count="122">uk government</phrase>
+	<phrase weight="0.010800842992623814" count="41">rural affairs</phrase>
+	<phrase weight="0.01053740779768177" count="40">land tenure</phrase>
+	<phrase weight="0.008166491043203371" count="31">land drainage</phrase>
+	<phrase weight="0.007112750263435195" count="27">animal health</phrase>
+	<phrase weight="0.006059009483667018" count="23">advisory committee</phrase>
+	<phrase weight="0.0055321390937829295" count="21">food standards</phrase>
+	<phrase weight="0.004214963119072708" count="16">agricultural education</phrase>
+	<phrase weight="0.003951527924130664" count="15">plant variety rights</phrase>
+	<phrase weight="0.003161222339304531" count="12">national agricultural advisory service</phrase>
+	<phrase weight="0.002897787144362487" count="11">defence element</phrase>
+	<phrase weight="0.002897787144362487" count="11">advisory service</phrase>
+	<phrase weight="0.0026343519494204425" count="10">plant varieties</phrase>
+	<phrase weight="0.0023709167544783984" count="9">central veterinary laboratory</phrase>
+	<phrase weight="0.002107481559536354" count="8">animal health division</phrase>
+	<phrase weight="0.002107481559536354" count="8">marine management organisation</phrase>
+	<phrase weight="0.002107481559536354" count="8">infestation control divisions</phrase>
+	<phrase weight="0.002107481559536354" count="8">preserve continuity</phrase>
+	<phrase weight="0.002107481559536354" count="8">statistics divisions</phrase>
+	<phrase weight="0.0018440463645943098" count="7">agricultural land</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.488056269326574" totalTokens="268" titles="data, protection, registrar, commissioner's, successors, ico, government, publicity, legislation, act">
+	<word weight="0.10820895522388059" count="29">data</word>
+	<word weight="0.09701492537313433" count="26">protection</word>
+	<word weight="0.05970149253731343" count="16">registrar</word>
+	<word weight="0.05223880597014925" count="14">commissioner's</word>
+	<word weight="0.022388059701492536" count="6">successors</word>
+	<word weight="0.022388059701492536" count="6">ico</word>
+	<word weight="0.018656716417910446" count="5">government</word>
+	<word weight="0.014925373134328358" count="4">publicity</word>
+	<word weight="0.014925373134328358" count="4">legislation</word>
+	<word weight="0.014925373134328358" count="4">public</word>
+	<word weight="0.014925373134328358" count="4">act</word>
+	<word weight="0.014925373134328358" count="4">reports</word>
+	<word weight="0.014925373134328358" count="4">general</word>
+	<word weight="0.014925373134328358" count="4">register</word>
+	<word weight="0.014925373134328358" count="4">index</word>
+	<word weight="0.011194029850746268" count="3">rights</word>
+	<word weight="0.011194029850746268" count="3">cases</word>
+	<word weight="0.011194029850746268" count="3">annual</word>
+	<word weight="0.007462686567164179" count="2">freedom</word>
+	<word weight="0.007462686567164179" count="2">individuals</word>
+  </topic>
+</topics>

@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.831301839850202" totalTokens="736" titles="training, employment, learning, education, datasets, questions, staff, nv, schools, job">
+	<word weight="0.06385869565217392" count="47">training</word>
+	<word weight="0.03260869565217391" count="24">employment</word>
+	<word weight="0.02717391304347826" count="20">learning</word>
+	<word weight="0.02717391304347826" count="20">education</word>
+	<word weight="0.020380434782608696" count="15">datasets</word>
+	<word weight="0.017663043478260868" count="13">questions</word>
+	<word weight="0.016304347826086956" count="12">staff</word>
+	<word weight="0.016304347826086956" count="12">nv</word>
+	<word weight="0.014945652173913044" count="11">schools</word>
+	<word weight="0.014945652173913044" count="11">dataset</word>
+	<word weight="0.01358695652173913" count="10">data</word>
+	<word weight="0.01358695652173913" count="10">job</word>
+	<word weight="0.012228260869565218" count="9">employees</word>
+	<word weight="0.012228260869565218" count="9">services</word>
+	<word weight="0.010869565217391304" count="8">costs</word>
+	<word weight="0.010869565217391304" count="8">surveys</word>
+	<word weight="0.009510869565217392" count="7">numbers</word>
+	<word weight="0.009510869565217392" count="7">number</word>
+	<word weight="0.009510869565217392" count="7">service</word>
+	<word weight="0.008152173913043478" count="6">asked</word>
+	<phrase weight="0.06818181818181818" count="9">job training</phrase>
+	<phrase weight="0.030303030303030304" count="4">training costs</phrase>
+	<phrase weight="0.030303030303030304" count="4">analytical services</phrase>
+	<phrase weight="0.022727272727272728" count="3">uk government</phrase>
+	<phrase weight="0.022727272727272728" count="3">individual datasets</phrase>
+	<phrase weight="0.022727272727272728" count="3">employment service</phrase>
+	<phrase weight="0.022727272727272728" count="3">training initiatives</phrase>
+	<phrase weight="0.022727272727272728" count="3">young employees</phrase>
+	<phrase weight="0.022727272727272728" count="3">educational establishments</phrase>
+	<phrase weight="0.015151515151515152" count="2">lifelong learning directorate</phrase>
+	<phrase weight="0.015151515151515152" count="2">partnerships team</phrase>
+	<phrase weight="0.015151515151515152" count="2">partnerships dataset</phrase>
+	<phrase weight="0.015151515151515152" count="2">work surveys</phrase>
+	<phrase weight="0.015151515151515152" count="2">kingsmill review</phrase>
+	<phrase weight="0.015151515151515152" count="2">engineering construction industry training board</phrase>
+	<phrase weight="0.007575757575757576" count="1">education establishments</phrase>
+	<phrase weight="0.007575757575757576" count="1">employment service communications</phrase>
+	<phrase weight="0.007575757575757576" count="1">lea numbers</phrase>
+	<phrase weight="0.007575757575757576" count="1">head teacher</phrase>
+	<phrase weight="0.007575757575757576" count="1">resources plan</phrase>
+  </topic>
+</topics>

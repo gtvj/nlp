@@ -1,0 +1,10 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.8590476966003873" totalTokens="10" titles="names, geographic, committee, permanent, pcgn, ">
+	<word weight="0.2" count="2">names</word>
+	<word weight="0.2" count="2">geographic</word>
+	<word weight="0.2" count="2">committee</word>
+	<word weight="0.2" count="2">permanent</word>
+	<word weight="0.2" count="2">pcgn</word>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.753910671890439" totalTokens="431" titles="loan, public, works, loans, pwlb, board, reports, commissioners, applications, accounts">
+	<word weight="0.07192575406032482" count="31">loan</word>
+	<word weight="0.060324825986078884" count="26">public</word>
+	<word weight="0.058004640371229696" count="25">works</word>
+	<word weight="0.05568445475638051" count="24">loans</word>
+	<word weight="0.05336426914153132" count="23">pwlb</word>
+	<word weight="0.03944315545243619" count="17">board</word>
+	<word weight="0.030162412993039442" count="13">reports</word>
+	<word weight="0.025522041763341066" count="11">commissioners</word>
+	<word weight="0.016241299303944315" count="7">applications</word>
+	<word weight="0.013921113689095127" count="6">accounts</word>
+	<word weight="0.013921113689095127" count="6">amounts</word>
+	<word weight="0.013921113689095127" count="6">advances</word>
+	<word weight="0.01160092807424594" count="5">repayment</word>
+	<word weight="0.009280742459396751" count="4">board's</word>
+	<word weight="0.009280742459396751" count="4">fund</word>
+	<word weight="0.009280742459396751" count="4">local</word>
+	<word weight="0.009280742459396751" count="4">account</word>
+	<word weight="0.009280742459396751" count="4">bound</word>
+	<word weight="0.0069605568445475635" count="3">authorities</word>
+	<word weight="0.0069605568445475635" count="3">acts</word>
+  </topic>
+</topics>

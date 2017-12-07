@@ -1,0 +1,12 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="3.5914180074169937" totalTokens="21" titles="adjudicator, schools, osa, field, general, government, division, ">
+	<word weight="0.3333333333333333" count="7">adjudicator</word>
+	<word weight="0.3333333333333333" count="7">schools</word>
+	<word weight="0.14285714285714285" count="3">osa</word>
+	<word weight="0.047619047619047616" count="1">field</word>
+	<word weight="0.047619047619047616" count="1">general</word>
+	<word weight="0.047619047619047616" count="1">government</word>
+	<word weight="0.047619047619047616" count="1">division</word>
+  </topic>
+</topics>

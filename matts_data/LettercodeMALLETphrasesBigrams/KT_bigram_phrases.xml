@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.809896643491781" totalTokens="279" titles="education, standards, ofsted, kt, government, uk, reports, view, children, annual">
+	<word weight="0.11469534050179211" count="32">education</word>
+	<word weight="0.11469534050179211" count="32">standards</word>
+	<word weight="0.0931899641577061" count="26">ofsted</word>
+	<word weight="0.08960573476702509" count="25">kt</word>
+	<word weight="0.03942652329749104" count="11">government</word>
+	<word weight="0.03942652329749104" count="11">uk</word>
+	<word weight="0.03225806451612903" count="9">reports</word>
+	<word weight="0.02867383512544803" count="8">view</word>
+	<word weight="0.02867383512544803" count="8">children</word>
+	<word weight="0.025089605734767026" count="7">annual</word>
+	<word weight="0.021505376344086023" count="6">skills</word>
+	<word weight="0.021505376344086023" count="6">services</word>
+	<word weight="0.014336917562724014" count="4">rights</word>
+	<word weight="0.014336917562724014" count="4">digital</word>
+	<word weight="0.014336917562724014" count="4">corporate</word>
+	<word weight="0.014336917562724014" count="4">complaints</word>
+	<word weight="0.014336917562724014" count="4">data</word>
+	<word weight="0.010752688172043012" count="3">england</word>
+	<word weight="0.010752688172043012" count="3">plans</word>
+	<word weight="0.010752688172043012" count="3">adjudicator</word>
+	<phrase weight="0.14634146341463414" count="6">annual reports</phrase>
+	<phrase weight="0.14634146341463414" count="6">uk government</phrase>
+	<phrase weight="0.04878048780487805" count="2">complaints adjudicator</phrase>
+	<phrase weight="0.04878048780487805" count="2">learner view</phrase>
+	<phrase weight="0.04878048780487805" count="2">contact form</phrase>
+	<phrase weight="0.04878048780487805" count="2">employer view</phrase>
+	<phrase weight="0.04878048780487805" count="2">school data dashboard</phrase>
+	<phrase weight="0.04878048780487805" count="2">rights director</phrase>
+	<phrase weight="0.04878048780487805" count="2">data view</phrase>
+	<phrase weight="0.04878048780487805" count="2">parent view</phrase>
+	<phrase weight="0.024390243902439025" count="1">ofsted agreed</phrase>
+	<phrase weight="0.024390243902439025" count="1">educational standards</phrase>
+	<phrase weight="0.024390243902439025" count="1">ofsted news</phrase>
+	<phrase weight="0.024390243902439025" count="1">work internally</phrase>
+	<phrase weight="0.024390243902439025" count="1">ofsted complaints adjudicator</phrase>
+	<phrase weight="0.024390243902439025" count="1">inspection frameworks</phrase>
+	<phrase weight="0.024390243902439025" count="1">chief inspector</phrase>
+	<phrase weight="0.024390243902439025" count="1">level operational</phrase>
+	<phrase weight="0.024390243902439025" count="1">previously assigned</phrase>
+	<phrase weight="0.024390243902439025" count="1">ofsted surveys</phrase>
+  </topic>
+</topics>

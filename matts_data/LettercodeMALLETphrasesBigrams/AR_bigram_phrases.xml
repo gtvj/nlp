@@ -1,0 +1,32 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="69.86989610603398" totalTokens="89" titles="collection, wallace, ar, museum, general, correspondence, hertford, online, government, uk">
+	<word weight="0.19101123595505617" count="17">collection</word>
+	<word weight="0.14606741573033707" count="13">wallace</word>
+	<word weight="0.07865168539325842" count="7">ar</word>
+	<word weight="0.033707865168539325" count="3">museum</word>
+	<word weight="0.02247191011235955" count="2">general</word>
+	<word weight="0.02247191011235955" count="2">correspondence</word>
+	<word weight="0.02247191011235955" count="2">hertford</word>
+	<word weight="0.02247191011235955" count="2">online</word>
+	<word weight="0.02247191011235955" count="2">government</word>
+	<word weight="0.02247191011235955" count="2">uk</word>
+	<word weight="0.011235955056179775" count="1">division</word>
+	<word weight="0.011235955056179775" count="1">exhibits</word>
+	<word weight="0.011235955056179775" count="1">holds</word>
+	<word weight="0.011235955056179775" count="1">items</word>
+	<word weight="0.011235955056179775" count="1">miscellaneous</word>
+	<word weight="0.011235955056179775" count="1">register</word>
+	<word weight="0.011235955056179775" count="1">administrative</word>
+	<word weight="0.011235955056179775" count="1">directors</word>
+	<word weight="0.011235955056179775" count="1">trustees</word>
+	<word weight="0.011235955056179775" count="1">post</word>
+	<phrase weight="0.45454545454545453" count="5">wallace collection</phrase>
+	<phrase weight="0.09090909090909091" count="1">collection online</phrase>
+	<phrase weight="0.09090909090909091" count="1">wallace collection online</phrase>
+	<phrase weight="0.09090909090909091" count="1">uk government</phrase>
+	<phrase weight="0.09090909090909091" count="1">wallace collection holds</phrase>
+	<phrase weight="0.09090909090909091" count="1">wallace families</phrase>
+	<phrase weight="0.09090909090909091" count="1">hertford house</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.38830311070452" totalTokens="360" titles="correspondence, hmc, commission, manuscripts, royal, local, minutes, manorial, committee, register">
+	<word weight="0.06944444444444445" count="25">correspondence</word>
+	<word weight="0.06388888888888888" count="23">hmc</word>
+	<word weight="0.05277777777777778" count="19">commission</word>
+	<word weight="0.04722222222222222" count="17">manuscripts</word>
+	<word weight="0.044444444444444446" count="16">royal</word>
+	<word weight="0.030555555555555555" count="11">local</word>
+	<word weight="0.025" count="9">minutes</word>
+	<word weight="0.022222222222222223" count="8">manorial</word>
+	<word weight="0.022222222222222223" count="8">committee</word>
+	<word weight="0.019444444444444445" count="7">register</word>
+	<word weight="0.019444444444444445" count="7">national</word>
+	<word weight="0.016666666666666666" count="6">meetings</word>
+	<word weight="0.016666666666666666" count="6">chairman</word>
+	<word weight="0.016666666666666666" count="6">committees</word>
+	<word weight="0.013888888888888888" count="5">publications</word>
+	<word weight="0.013888888888888888" count="5">commissioners</word>
+	<word weight="0.011111111111111112" count="4">commission's</word>
+	<word weight="0.011111111111111112" count="4">agenda</word>
+	<word weight="0.011111111111111112" count="4">nra</word>
+	<word weight="0.008333333333333333" count="3">repositories</word>
+  </topic>
+</topics>

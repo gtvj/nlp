@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.291631036396902" totalTokens="318" titles="county, court, london, greater, lincolnshire, service, west, derbyshire, warwick, yorkshire">
+	<word weight="0.22641509433962265" count="72">county</word>
+	<word weight="0.20125786163522014" count="64">court</word>
+	<word weight="0.02830188679245283" count="9">london</word>
+	<word weight="0.025157232704402517" count="8">greater</word>
+	<word weight="0.0220125786163522" count="7">lincolnshire</word>
+	<word weight="0.018867924528301886" count="6">service</word>
+	<word weight="0.015723270440251572" count="5">west</word>
+	<word weight="0.012578616352201259" count="4">derbyshire</word>
+	<word weight="0.012578616352201259" count="4">warwick</word>
+	<word weight="0.009433962264150943" count="3">yorkshire</word>
+	<word weight="0.009433962264150943" count="3">cambridgeshire</word>
+	<word weight="0.009433962264150943" count="3">sheffield</word>
+	<word weight="0.009433962264150943" count="3">surrey</word>
+	<word weight="0.006289308176100629" count="2">worcester</word>
+	<word weight="0.006289308176100629" count="2">durham</word>
+	<word weight="0.006289308176100629" count="2">northumberland</word>
+	<word weight="0.006289308176100629" count="2">gloucestershire</word>
+	<word weight="0.006289308176100629" count="2">staffordshire</word>
+	<word weight="0.006289308176100629" count="2">public</word>
+	<word weight="0.006289308176100629" count="2">courts</word>
+  </topic>
+</topics>

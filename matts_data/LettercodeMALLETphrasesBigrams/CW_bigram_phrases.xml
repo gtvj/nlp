@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.589787432751523" totalTokens="274" titles="conciliation, advisory, service, arbitration, acas, cw, case, reports, trade, government">
+	<word weight="0.10948905109489052" count="30">conciliation</word>
+	<word weight="0.09854014598540146" count="27">advisory</word>
+	<word weight="0.09124087591240876" count="25">service</word>
+	<word weight="0.09124087591240876" count="25">arbitration</word>
+	<word weight="0.08029197080291971" count="22">acas</word>
+	<word weight="0.06569343065693431" count="18">cw</word>
+	<word weight="0.032846715328467155" count="9">case</word>
+	<word weight="0.025547445255474453" count="7">reports</word>
+	<word weight="0.01824817518248175" count="5">trade</word>
+	<word weight="0.01824817518248175" count="5">government</word>
+	<word weight="0.01824817518248175" count="5">uk</word>
+	<word weight="0.01824817518248175" count="5">unions</word>
+	<word weight="0.014598540145985401" count="4">council</word>
+	<word weight="0.010948905109489052" count="3">publications</word>
+	<word weight="0.010948905109489052" count="3">collective</word>
+	<word weight="0.010948905109489052" count="3">recognition</word>
+	<word weight="0.010948905109489052" count="3">annual</word>
+	<word weight="0.010948905109489052" count="3">minutes</word>
+	<word weight="0.010948905109489052" count="3">employers</word>
+	<word weight="0.010948905109489052" count="3">inquiries</word>
+	<phrase weight="0.3333333333333333" count="16">arbitration service</phrase>
+	<phrase weight="0.0625" count="3">uk government</phrase>
+	<phrase weight="0.0625" count="3">trade unions</phrase>
+	<phrase weight="0.041666666666666664" count="2">advisory booklets</phrase>
+	<phrase weight="0.041666666666666664" count="2">council meetings</phrase>
+	<phrase weight="0.041666666666666664" count="2">early conciliation notifications</phrase>
+	<phrase weight="0.041666666666666664" count="2">equality direct</phrase>
+	<phrase weight="0.020833333333333332" count="1">reports annual reports</phrase>
+	<phrase weight="0.020833333333333332" count="1">noteworthy cases</phrase>
+	<phrase weight="0.020833333333333332" count="1">industrial relations</phrase>
+	<phrase weight="0.020833333333333332" count="1">industrial disputes</phrase>
+	<phrase weight="0.020833333333333332" count="1">arbitration service acas inquiries case</phrase>
+	<phrase weight="0.020833333333333332" count="1">collective conciliation case</phrase>
+	<phrase weight="0.020833333333333332" count="1">establishing good employment practices</phrase>
+	<phrase weight="0.020833333333333332" count="1">providing independent machinery</phrase>
+	<phrase weight="0.020833333333333332" count="1">meeting notes</phrase>
+	<phrase weight="0.020833333333333332" count="1">acas council</phrase>
+	<phrase weight="0.020833333333333332" count="1">acas advisory</phrase>
+	<phrase weight="0.020833333333333332" count="1">advisory conciliation</phrase>
+	<phrase weight="0.020833333333333332" count="1">annual reports</phrase>
+  </topic>
+</topics>

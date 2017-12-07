@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.076613356701067" totalTokens="10805" titles="supreme court, crown court, high court, chancery division, chief clerk, bench division, crown courts, judicature, master, case">
+	<word weight="0.0978250809810273" count="1057">court</word>
+	<word weight="0.044238778343359556" count="478">crown</word>
+	<word weight="0.033688107357704764" count="364">supreme</word>
+	<word weight="0.02813512262841277" count="304">judicature</word>
+	<word weight="0.024433132808884775" count="264">master</word>
+	<word weight="0.022859787135585376" count="247">case</word>
+	<word weight="0.02137899120777418" count="231">division</word>
+	<word weight="0.02119389171679778" count="229">courts</word>
+	<word weight="0.02119389171679778" count="229">chancery</word>
+	<word weight="0.020916242480333178" count="226">offence</word>
+	<word weight="0.019065247570569183" count="206">indictments</word>
+	<word weight="0.012956964368347987" count="140">high</word>
+	<word weight="0.010365571494678389" count="112">statement</word>
+	<word weight="0.01008792225821379" count="109">justice</word>
+	<word weight="0.008144377602961592" count="88">bench</word>
+	<word weight="0.007403979639055993" count="80">predecessors</word>
+	<word weight="0.007311429893567793" count="79">books</word>
+	<word weight="0.007311429893567793" count="79">queen</word>
+	<word weight="0.006478482184173994" count="70">appeal</word>
+	<word weight="0.006385932438685794" count="69">trial</word>
+	<phrase weight="0.1663031624863686" count="305">supreme court</phrase>
+	<phrase weight="0.14285714285714285" count="262">crown court</phrase>
+	<phrase weight="0.04743729552889858" count="87">high court</phrase>
+	<phrase weight="0.03980370774263904" count="73">chancery division</phrase>
+	<phrase weight="0.019629225736095966" count="36">chief clerk</phrase>
+	<phrase weight="0.014176663031624863" count="26">bench division</phrase>
+	<phrase weight="0.013086150490730643" count="24">crown courts</phrase>
+	<phrase weight="0.010359869138495093" count="19">official solicitor</phrase>
+	<phrase weight="0.008724100327153763" count="16">national industrial relations court</phrase>
+	<phrase weight="0.006543075245365322" count="12">supreme court funds</phrase>
+	<phrase weight="0.004907306434023991" count="9">company winding</phrase>
+	<phrase weight="0.004907306434023991" count="9">companies court</phrase>
+	<phrase weight="0.004907306434023991" count="9">court funds</phrase>
+	<phrase weight="0.004907306434023991" count="9">inferior courts</phrase>
+	<phrase weight="0.004907306434023991" count="9">family division</phrase>
+	<phrase weight="0.004362050163576881" count="8">bench divisions</phrase>
+	<phrase weight="0.004362050163576881" count="8">common pleas</phrase>
+	<phrase weight="0.004362050163576881" count="8">district registries</phrase>
+	<phrase weight="0.003816793893129771" count="7">court orders</phrase>
+	<phrase weight="0.003816793893129771" count="7">master alfred hall</phrase>
+  </topic>
+</topics>

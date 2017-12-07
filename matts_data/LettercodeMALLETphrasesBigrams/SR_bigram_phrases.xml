@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.135780154684378" totalTokens="525" titles="regulatory reform, berr, business, enterprise, uk, sr, government, advisory, development, regulation">
+	<word weight="0.08761904761904762" count="46">berr</word>
+	<word weight="0.07809523809523809" count="41">enterprise</word>
+	<word weight="0.07809523809523809" count="41">business</word>
+	<word weight="0.07428571428571429" count="39">reform</word>
+	<word weight="0.07428571428571429" count="39">regulatory</word>
+	<word weight="0.07428571428571429" count="39">uk</word>
+	<word weight="0.06857142857142857" count="36">sr</word>
+	<word weight="0.06666666666666667" count="35">government</word>
+	<word weight="0.011428571428571429" count="6">regulation</word>
+	<word weight="0.011428571428571429" count="6">advisory</word>
+	<word weight="0.011428571428571429" count="6">development</word>
+	<word weight="0.007619047619047619" count="4">west</word>
+	<word weight="0.007619047619047619" count="4">consumer</word>
+	<word weight="0.007619047619047619" count="4">carbon</word>
+	<word weight="0.007619047619047619" count="4">energy</word>
+	<word weight="0.007619047619047619" count="4">nuclear</word>
+	<word weight="0.007619047619047619" count="4">council</word>
+	<word weight="0.007619047619047619" count="4">board</word>
+	<word weight="0.0038095238095238095" count="2">renewables</word>
+	<word weight="0.0038095238095238095" count="2">executive</word>
+	<phrase weight="0.3394495412844037" count="37">regulatory reform</phrase>
+	<phrase weight="0.1834862385321101" count="20">uk government</phrase>
+	<phrase weight="0.01834862385321101" count="2">climate security panel</phrase>
+	<phrase weight="0.01834862385321101" count="2">business enterprise</phrase>
+	<phrase weight="0.01834862385321101" count="2">international trade</phrase>
+	<phrase weight="0.01834862385321101" count="2">regeneration west midlands</phrase>
+	<phrase weight="0.01834862385321101" count="2">hearing aid council</phrase>
+	<phrase weight="0.01834862385321101" count="2">export licence system</phrase>
+	<phrase weight="0.01834862385321101" count="2">regional development</phrase>
+	<phrase weight="0.01834862385321101" count="2">north west development</phrase>
+	<phrase weight="0.01834862385321101" count="2">moving forward</phrase>
+	<phrase weight="0.009174311926605505" count="1">development advisory board</phrase>
+	<phrase weight="0.009174311926605505" count="1">south east excellence</phrase>
+	<phrase weight="0.009174311926605505" count="1">electricity networks strategy group</phrase>
+	<phrase weight="0.009174311926605505" count="1">nuclear fuels plc</phrase>
+	<phrase weight="0.009174311926605505" count="1">regulation executive</phrase>
+	<phrase weight="0.009174311926605505" count="1">british nuclear fuels plc</phrase>
+	<phrase weight="0.009174311926605505" count="1">advisory board</phrase>
+	<phrase weight="0.009174311926605505" count="1">grow project</phrase>
+	<phrase weight="0.009174311926605505" count="1">carbon abatement technologies</phrase>
+  </topic>
+</topics>

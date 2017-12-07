@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.42884971997712" totalTokens="1756" titles="uk government, nk, industry, trade, division, development, policy, successors, competition, technology">
+	<word weight="0.05808656036446469" count="102">nk</word>
+	<word weight="0.05125284738041002" count="90">industry</word>
+	<word weight="0.049544419134396354" count="87">trade</word>
+	<word weight="0.040432801822323464" count="71">uk</word>
+	<word weight="0.03302961275626424" count="58">government</word>
+	<word weight="0.018223234624145785" count="32">division</word>
+	<word weight="0.015375854214123007" count="27">development</word>
+	<word weight="0.013097949886104784" count="23">policy</word>
+	<word weight="0.01082004555808656" count="19">successors</word>
+	<word weight="0.008542141230068337" count="15">competition</word>
+	<word weight="0.007972665148063782" count="14">scheme</word>
+	<word weight="0.007972665148063782" count="14">technology</word>
+	<word weight="0.007972665148063782" count="14">consumer</word>
+	<word weight="0.00683371298405467" count="12">management</word>
+	<word weight="0.00683371298405467" count="12">national</word>
+	<word weight="0.006264236902050114" count="11">business</word>
+	<word weight="0.006264236902050114" count="11">council</word>
+	<word weight="0.0056947608200455585" count="10">england</word>
+	<word weight="0.0056947608200455585" count="10">west</word>
+	<word weight="0.0056947608200455585" count="10">directorate</word>
+	<phrase weight="0.08681672025723473" count="27">uk government</phrase>
+	<phrase weight="0.012861736334405145" count="4">consumer affairs</phrase>
+	<phrase weight="0.012861736334405145" count="4">competition policy division</phrase>
+	<phrase weight="0.00964630225080386" count="3">enterprise initiative division</phrase>
+	<phrase weight="0.00964630225080386" count="3">competition appeal tribunal</phrase>
+	<phrase weight="0.00964630225080386" count="3">technology programmes</phrase>
+	<phrase weight="0.00964630225080386" count="3">innovation unit</phrase>
+	<phrase weight="0.00964630225080386" count="3">copyright tribunal</phrase>
+	<phrase weight="0.00964630225080386" count="3">posts division</phrase>
+	<phrase weight="0.00964630225080386" count="3">quality design</phrase>
+	<phrase weight="0.00964630225080386" count="3">electronic diary system</phrase>
+	<phrase weight="0.00964630225080386" count="3">personnel management division</phrase>
+	<phrase weight="0.00964630225080386" count="3">films division</phrase>
+	<phrase weight="0.00964630225080386" count="3">internal european policy division</phrase>
+	<phrase weight="0.00964630225080386" count="3">technology directorate</phrase>
+	<phrase weight="0.006430868167202572" count="2">research council</phrase>
+	<phrase weight="0.006430868167202572" count="2">process plant</phrase>
+	<phrase weight="0.006430868167202572" count="2">community interest companies</phrase>
+	<phrase weight="0.006430868167202572" count="2">england development</phrase>
+	<phrase weight="0.006430868167202572" count="2">humber regional development</phrase>
+  </topic>
+</topics>

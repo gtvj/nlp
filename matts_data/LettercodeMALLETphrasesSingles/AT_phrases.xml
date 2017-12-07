@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.177936650138186" totalTokens="5048" titles="environment, planning, housing, local, government, divisions, policy, directorate, transport, re-registered">
+	<word weight="0.027931854199683043" count="141">environment</word>
+	<word weight="0.022583201267828843" count="114">planning</word>
+	<word weight="0.022187004754358162" count="112">housing</word>
+	<word weight="0.021394611727416798" count="108">local</word>
+	<word weight="0.019611727416798733" count="99">government</word>
+	<word weight="0.01644215530903328" count="83">divisions</word>
+	<word weight="0.01386687797147385" count="70">policy</word>
+	<word weight="0.013074484944532488" count="66">directorate</word>
+	<word weight="0.012083993660855784" count="61">division</word>
+	<word weight="0.009508716323296355" count="48">transport</word>
+	<word weight="0.00812202852614897" count="41">re-registered</word>
+	<word weight="0.00812202852614897" count="41">water</word>
+	<word weight="0.00792393026941363" count="40">finance</word>
+	<word weight="0.00792393026941363" count="40">data</word>
+	<word weight="0.007329635499207607" count="37">countryside</word>
+	<word weight="0.006933438985736925" count="35">land</word>
+	<word weight="0.006933438985736925" count="35">development</word>
+	<word weight="0.006339144215530904" count="32">committee</word>
+	<word weight="0.006339144215530904" count="32">successors</word>
+	<word weight="0.006141045958795562" count="31">earlier</word>
+  </topic>
+</topics>

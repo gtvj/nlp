@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.138922277845031" totalTokens="178" titles="photographs, air, successors, predecessors, british, commission, photographic, board, rail, operations">
+	<word weight="0.33707865168539325" count="60">photographs</word>
+	<word weight="0.033707865168539325" count="6">air</word>
+	<word weight="0.028089887640449437" count="5">successors</word>
+	<word weight="0.02247191011235955" count="4">predecessors</word>
+	<word weight="0.02247191011235955" count="4">british</word>
+	<word weight="0.016853932584269662" count="3">commission</word>
+	<word weight="0.016853932584269662" count="3">photographic</word>
+	<word weight="0.016853932584269662" count="3">board</word>
+	<word weight="0.011235955056179775" count="2">rail</word>
+	<word weight="0.011235955056179775" count="2">operations</word>
+	<word weight="0.011235955056179775" count="2">government</word>
+	<word weight="0.011235955056179775" count="2">local</word>
+	<word weight="0.011235955056179775" count="2">negatives</word>
+	<word weight="0.011235955056179775" count="2">prints</word>
+	<word weight="0.011235955056179775" count="2">work</word>
+	<word weight="0.011235955056179775" count="2">transport</word>
+	<word weight="0.011235955056179775" count="2">railway</word>
+	<word weight="0.011235955056179775" count="2">court</word>
+	<word weight="0.011235955056179775" count="2">public</word>
+	<word weight="0.011235955056179775" count="2">dpp</word>
+  </topic>
+</topics>

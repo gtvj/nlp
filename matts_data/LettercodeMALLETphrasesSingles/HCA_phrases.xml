@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.320459861456464" totalTokens="3444" titles="court, admiralty, high, prize, books, instance, hca, courts, ships, appeals">
+	<word weight="0.06794425087108014" count="234">court</word>
+	<word weight="0.05807200929152149" count="200">admiralty</word>
+	<word weight="0.03948896631823461" count="136">high</word>
+	<word weight="0.03368176538908246" count="116">prize</word>
+	<word weight="0.028455284552845527" count="98">books</word>
+	<word weight="0.027584204413472705" count="95">instance</word>
+	<word weight="0.023228803716608595" count="80">hca</word>
+	<word weight="0.02148664343786295" count="74">courts</word>
+	<word weight="0.013937282229965157" count="48">ships</word>
+	<word weight="0.010452961672473868" count="36">appeals</word>
+	<word weight="0.009872241579558653" count="34">proceedings</word>
+	<word weight="0.009581881533101045" count="33">registrar</word>
+	<word weight="0.009291521486643438" count="32">cases</word>
+	<word weight="0.008130081300813009" count="28">division</word>
+	<word weight="0.0078397212543554" count="27">justice</word>
+	<word weight="0.007549361207897794" count="26">prizes</word>
+	<word weight="0.007549361207897794" count="26">warrants</word>
+	<word weight="0.007259001161440186" count="25">divorce</word>
+	<word weight="0.007259001161440186" count="25">probate</word>
+	<word weight="0.006678281068524971" count="23">assignation</word>
+  </topic>
+</topics>

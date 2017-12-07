@@ -1,0 +1,29 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0619515015656316" totalTokens="69" titles="council, minutes, kc, agenda, assessment, examinations, meetings, school, committees, intended">
+	<word weight="0.14492753623188406" count="10">council</word>
+	<word weight="0.13043478260869565" count="9">minutes</word>
+	<word weight="0.10144927536231885" count="7">kc</word>
+	<word weight="0.07246376811594203" count="5">agenda</word>
+	<word weight="0.07246376811594203" count="5">assessment</word>
+	<word weight="0.07246376811594203" count="5">examinations</word>
+	<word weight="0.057971014492753624" count="4">meetings</word>
+	<word weight="0.057971014492753624" count="4">school</word>
+	<word weight="0.043478260869565216" count="3">committees</word>
+	<word weight="0.028985507246376812" count="2">committee</word>
+	<word weight="0.028985507246376812" count="2">intended</word>
+	<word weight="0.014492753623188406" count="1">wales</word>
+	<word weight="0.014492753623188406" count="1">advisory</word>
+	<word weight="0.014492753623188406" count="1">similarly</word>
+	<word weight="0.014492753623188406" count="1">report</word>
+	<word weight="0.014492753623188406" count="1">summarised</word>
+	<word weight="0.014492753623188406" count="1">subject</word>
+	<word weight="0.014492753623188406" count="1">survive</word>
+	<word weight="0.014492753623188406" count="1">summaries</word>
+	<word weight="0.014492753623188406" count="1">survived</word>
+	<phrase weight="0.5714285714285714" count="4">school examinations</phrase>
+	<phrase weight="0.14285714285714285" count="1">subject committee meetings</phrase>
+	<phrase weight="0.14285714285714285" count="1">advisory committee</phrase>
+	<phrase weight="0.14285714285714285" count="1">council meetings</phrase>
+  </topic>
+</topics>

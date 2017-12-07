@@ -1,0 +1,38 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="398.7986410793672" totalTokens="100" titles="inquests, july, bombings, london, coroner, emails, solicitor, attachments, digital, letters">
+	<word weight="0.11" count="11">inquests</word>
+	<word weight="0.07" count="7">july</word>
+	<word weight="0.07" count="7">bombings</word>
+	<word weight="0.07" count="7">london</word>
+	<word weight="0.07" count="7">coroner</word>
+	<word weight="0.04" count="4">emails</word>
+	<word weight="0.04" count="4">solicitor</word>
+	<word weight="0.03" count="3">attachments</word>
+	<word weight="0.03" count="3">digital</word>
+	<word weight="0.02" count="2">letters</word>
+	<word weight="0.02" count="2">spreadsheets</word>
+	<word weight="0.01" count="1">remain</word>
+	<word weight="0.01" count="1">treated</word>
+	<word weight="0.01" count="1">presentations</word>
+	<word weight="0.01" count="1">powerpoint</word>
+	<word weight="0.01" count="1">outlook</word>
+	<word weight="0.01" count="1">excel</word>
+	<word weight="0.01" count="1">word</word>
+	<word weight="0.01" count="1">microsoft</word>
+	<word weight="0.01" count="1">images</word>
+	<phrase weight="0.3684210526315789" count="7">london bombings</phrase>
+	<phrase weight="0.05263157894736842" count="1">inquests emails</phrase>
+	<phrase weight="0.05263157894736842" count="1">inquests letters</phrase>
+	<phrase weight="0.05263157894736842" count="1">police service reports</phrase>
+	<phrase weight="0.05263157894736842" count="1">interested persons</phrase>
+	<phrase weight="0.05263157894736842" count="1">hearing transcripts</phrase>
+	<phrase weight="0.05263157894736842" count="1">inquests working folder</phrase>
+	<phrase weight="0.05263157894736842" count="1">inquest solicitors</phrase>
+	<phrase weight="0.05263157894736842" count="1">excel spreadsheets</phrase>
+	<phrase weight="0.05263157894736842" count="1">powerpoint presentations</phrase>
+	<phrase weight="0.05263157894736842" count="1">secretary letters</phrase>
+	<phrase weight="0.05263157894736842" count="1">comprising folders</phrase>
+	<phrase weight="0.05263157894736842" count="1">uk government</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="102.25939580822974" totalTokens="102" titles="inquiry, al-sweady, evidence, boy, danny, battle, aftermath, troops, british, nationals">
+	<word weight="0.12745098039215685" count="13">inquiry</word>
+	<word weight="0.058823529411764705" count="6">al-sweady</word>
+	<word weight="0.0392156862745098" count="4">evidence</word>
+	<word weight="0.0392156862745098" count="4">boy</word>
+	<word weight="0.0392156862745098" count="4">danny</word>
+	<word weight="0.0392156862745098" count="4">battle</word>
+	<word weight="0.0392156862745098" count="4">aftermath</word>
+	<word weight="0.0392156862745098" count="4">troops</word>
+	<word weight="0.0392156862745098" count="4">british</word>
+	<word weight="0.0392156862745098" count="4">nationals</word>
+	<word weight="0.0392156862745098" count="4">iraqi</word>
+	<word weight="0.0392156862745098" count="4">abuse</word>
+	<word weight="0.0392156862745098" count="4">rights</word>
+	<word weight="0.0392156862745098" count="4">human</word>
+	<word weight="0.0392156862745098" count="4">allegations</word>
+	<word weight="0.0196078431372549" count="2">government</word>
+	<word weight="0.00980392156862745" count="1">database</word>
+	<word weight="0.00980392156862745" count="1">proceedings</word>
+	<word weight="0.00980392156862745" count="1">november</word>
+	<word weight="0.00980392156862745" count="1">announced</word>
+  </topic>
+</topics>

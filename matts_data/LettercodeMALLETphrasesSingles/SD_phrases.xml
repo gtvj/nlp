@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.2911977744327428" totalTokens="47" titles="inquiry, mubarek, zahid, report, final, division, government, bengali, gujarati, hindi">
+	<word weight="0.2127659574468085" count="10">inquiry</word>
+	<word weight="0.14893617021276595" count="7">mubarek</word>
+	<word weight="0.14893617021276595" count="7">zahid</word>
+	<word weight="0.0425531914893617" count="2">report</word>
+	<word weight="0.0425531914893617" count="2">final</word>
+	<word weight="0.02127659574468085" count="1">division</word>
+	<word weight="0.02127659574468085" count="1">government</word>
+	<word weight="0.02127659574468085" count="1">bengali</word>
+	<word weight="0.02127659574468085" count="1">gujarati</word>
+	<word weight="0.02127659574468085" count="1">hindi</word>
+	<word weight="0.02127659574468085" count="1">punjabi</word>
+	<word weight="0.02127659574468085" count="1">urdu</word>
+	<word weight="0.02127659574468085" count="1">welsh</word>
+	<word weight="0.02127659574468085" count="1">key</word>
+	<word weight="0.02127659574468085" count="1">close</word>
+	<word weight="0.02127659574468085" count="1">releases</word>
+	<word weight="0.02127659574468085" count="1">news</word>
+	<word weight="0.02127659574468085" count="1">questions</word>
+	<word weight="0.02127659574468085" count="1">asked</word>
+	<word weight="0.02127659574468085" count="1">frequently</word>
+  </topic>
+</topics>

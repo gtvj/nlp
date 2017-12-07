@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.3986929764611995" totalTokens="412" titles="export, guarantee, ecg, credits, committee, minutes, advisory, uk, guarantees, group">
+	<word weight="0.11650485436893204" count="48">export</word>
+	<word weight="0.0703883495145631" count="29">guarantee</word>
+	<word weight="0.06796116504854369" count="28">ecg</word>
+	<word weight="0.050970873786407765" count="21">credits</word>
+	<word weight="0.0412621359223301" count="17">committee</word>
+	<word weight="0.038834951456310676" count="16">credit</word>
+	<word weight="0.03155339805825243" count="13">minutes</word>
+	<word weight="0.03155339805825243" count="13">advisory</word>
+	<word weight="0.019417475728155338" count="8">uk</word>
+	<word weight="0.019417475728155338" count="8">guarantees</word>
+	<word weight="0.01699029126213592" count="7">group</word>
+	<word weight="0.01699029126213592" count="7">council</word>
+	<word weight="0.014563106796116505" count="6">reports</word>
+	<word weight="0.012135922330097087" count="5">status</word>
+	<word weight="0.009708737864077669" count="4">review</word>
+	<word weight="0.009708737864077669" count="4">finance</word>
+	<word weight="0.009708737864077669" count="4">sr</word>
+	<word weight="0.009708737864077669" count="4">sec</word>
+	<word weight="0.009708737864077669" count="4">reviews</word>
+	<word weight="0.009708737864077669" count="4">committees</word>
+	<phrase weight="0.10256410256410256" count="8">export credits guarantee</phrase>
+	<phrase weight="0.08974358974358974" count="7">credits guarantee</phrase>
+	<phrase weight="0.05128205128205128" count="4">annual reports</phrase>
+	<phrase weight="0.05128205128205128" count="4">export credit advisory committee</phrase>
+	<phrase weight="0.038461538461538464" count="3">credit guarantee</phrase>
+	<phrase weight="0.038461538461538464" count="3">uk export finance</phrase>
+	<phrase weight="0.038461538461538464" count="3">guarantees advisory council</phrase>
+	<phrase weight="0.02564102564102564" count="2">status reviews</phrase>
+	<phrase weight="0.02564102564102564" count="2">export credit</phrase>
+	<phrase weight="0.01282051282051282" count="1">major internal committees</phrase>
+	<phrase weight="0.01282051282051282" count="1">early meetings</phrase>
+	<phrase weight="0.01282051282051282" count="1">hills credit insurance committee</phrase>
+	<phrase weight="0.01282051282051282" count="1">specimen forms</phrase>
+	<phrase weight="0.01282051282051282" count="1">chief executive</phrase>
+	<phrase weight="0.01282051282051282" count="1">delegated authorities</phrase>
+	<phrase weight="0.01282051282051282" count="1">services group</phrase>
+	<phrase weight="0.01282051282051282" count="1">parts covering</phrase>
+	<phrase weight="0.01282051282051282" count="1">legal advice</phrase>
+	<phrase weight="0.01282051282051282" count="1">previously assigned</phrase>
+	<phrase weight="0.01282051282051282" count="1">export guarantees advisory council</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.3729535778812672" totalTokens="59" titles="inquiry, bse, kingdom, united, cjd, variant, government, evidence, march, diseases">
+	<word weight="0.13559322033898305" count="8">inquiry</word>
+	<word weight="0.11864406779661017" count="7">bse</word>
+	<word weight="0.06779661016949153" count="4">kingdom</word>
+	<word weight="0.06779661016949153" count="4">united</word>
+	<word weight="0.06779661016949153" count="4">cjd</word>
+	<word weight="0.06779661016949153" count="4">variant</word>
+	<word weight="0.05084745762711865" count="3">government</word>
+	<word weight="0.03389830508474576" count="2">evidence</word>
+	<word weight="0.01694915254237288" count="1">march</word>
+	<word weight="0.01694915254237288" count="1">diseases</word>
+	<word weight="0.01694915254237288" count="1">responses</word>
+	<word weight="0.01694915254237288" count="1">emergence</word>
+	<word weight="0.01694915254237288" count="1">snapshot</word>
+	<word weight="0.01694915254237288" count="1">committees</word>
+	<word weight="0.01694915254237288" count="1">expert</word>
+	<word weight="0.01694915254237288" count="1">submitted</word>
+	<word weight="0.01694915254237288" count="1">background</word>
+	<word weight="0.01694915254237288" count="1">hearings</word>
+	<word weight="0.01694915254237288" count="1">oral</word>
+	<word weight="0.01694915254237288" count="1">transcripts</word>
+  </topic>
+</topics>

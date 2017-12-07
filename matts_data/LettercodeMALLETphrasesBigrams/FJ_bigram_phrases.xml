@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="9.221740292019481" totalTokens="314" titles="fj, towns, commission, english, reports, partnerships, annual, minutes, board, development">
+	<word weight="0.05732484076433121" count="18">fj</word>
+	<word weight="0.050955414012738856" count="16">towns</word>
+	<word weight="0.044585987261146494" count="14">commission</word>
+	<word weight="0.044585987261146494" count="14">english</word>
+	<word weight="0.028662420382165606" count="9">reports</word>
+	<word weight="0.028662420382165606" count="9">partnerships</word>
+	<word weight="0.025477707006369428" count="8">annual</word>
+	<word weight="0.025477707006369428" count="8">minutes</word>
+	<word weight="0.022292993630573247" count="7">board</word>
+	<word weight="0.01910828025477707" count="6">development</word>
+	<word weight="0.01910828025477707" count="6">database</word>
+	<word weight="0.01910828025477707" count="6">sites</word>
+	<word weight="0.01592356687898089" count="5">accounts</word>
+	<word weight="0.01592356687898089" count="5">regeneration</word>
+	<word weight="0.012738853503184714" count="4">corporations</word>
+	<word weight="0.012738853503184714" count="4">urban</word>
+	<word weight="0.012738853503184714" count="4">property</word>
+	<word weight="0.009554140127388535" count="3">run</word>
+	<word weight="0.009554140127388535" count="3">cnt</word>
+	<word weight="0.009554140127388535" count="3">association</word>
+	<phrase weight="0.14893617021276595" count="7">annual reports</phrase>
+	<phrase weight="0.1276595744680851" count="6">english partnerships</phrase>
+	<phrase weight="0.0425531914893617" count="2">towns association</phrase>
+	<phrase weight="0.0425531914893617" count="2">english sites database</phrase>
+	<phrase weight="0.0425531914893617" count="2">commission executives</phrase>
+	<phrase weight="0.02127659574468085" count="1">urban regeneration</phrase>
+	<phrase weight="0.02127659574468085" count="1">milton keynes dc</phrase>
+	<phrase weight="0.02127659574468085" count="1">single publication</phrase>
+	<phrase weight="0.02127659574468085" count="1">complex state</phrase>
+	<phrase weight="0.02127659574468085" count="1">individual datasets</phrase>
+	<phrase weight="0.02127659574468085" count="1">combined organisation began producing reports</phrase>
+	<phrase weight="0.02127659574468085" count="1">signed board minutes</phrase>
+	<phrase weight="0.02127659574468085" count="1">english partnerships annual reports</phrase>
+	<phrase weight="0.02127659574468085" count="1">towns development corporations</phrase>
+	<phrase weight="0.02127659574468085" count="1">expanding towns</phrase>
+	<phrase weight="0.02127659574468085" count="1">strategic sites database</phrase>
+	<phrase weight="0.02127659574468085" count="1">sites database</phrase>
+	<phrase weight="0.02127659574468085" count="1">regeneration companies</phrase>
+	<phrase weight="0.02127659574468085" count="1">partnerships library</phrase>
+	<phrase weight="0.02127659574468085" count="1">corporate plans</phrase>
+  </topic>
+</topics>

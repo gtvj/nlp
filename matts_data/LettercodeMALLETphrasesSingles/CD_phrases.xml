@@ -1,0 +1,7 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="51.20576792372402" totalTokens="2" titles="films, cinematograph, ">
+	<word weight="0.5" count="1">films</word>
+	<word weight="0.5" count="1">cinematograph</word>
+  </topic>
+</topics>

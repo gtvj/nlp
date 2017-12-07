@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="10.468769415453949" totalTokens="188" titles="commission, opportunities, equal, legal, committee, minutes, site, wide, world, advisers">
+	<word weight="0.13297872340425532" count="25">commission</word>
+	<word weight="0.11170212765957446" count="21">opportunities</word>
+	<word weight="0.11170212765957446" count="21">equal</word>
+	<word weight="0.07446808510638298" count="14">legal</word>
+	<word weight="0.047872340425531915" count="9">committee</word>
+	<word weight="0.03723404255319149" count="7">minutes</word>
+	<word weight="0.03723404255319149" count="7">site</word>
+	<word weight="0.03723404255319149" count="7">wide</word>
+	<word weight="0.03723404255319149" count="7">world</word>
+	<word weight="0.031914893617021274" count="6">advisers</word>
+	<word weight="0.02127659574468085" count="4">form</word>
+	<word weight="0.02127659574468085" count="4">electronic</word>
+	<word weight="0.015957446808510637" count="3">scotland</word>
+	<word weight="0.015957446808510637" count="3">committees</word>
+	<word weight="0.015957446808510637" count="3">cases</word>
+	<word weight="0.015957446808510637" count="3">major</word>
+	<word weight="0.015957446808510637" count="3">abolition</word>
+	<word weight="0.015957446808510637" count="3">prior</word>
+	<word weight="0.015957446808510637" count="3">shortly</word>
+	<word weight="0.015957446808510637" count="3">snapshot</word>
+  </topic>
+</topics>

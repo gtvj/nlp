@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="15.298757629117421" totalTokens="211" titles="post, minuted, telephone, board, services, individual, telegraph, staff, administrative, general">
+	<word weight="0.07582938388625593" count="16">post</word>
+	<word weight="0.04739336492890995" count="10">minuted</word>
+	<word weight="0.037914691943127965" count="8">telephone</word>
+	<word weight="0.03317535545023697" count="7">board</word>
+	<word weight="0.02843601895734597" count="6">services</word>
+	<word weight="0.02843601895734597" count="6">individual</word>
+	<word weight="0.023696682464454975" count="5">telegraph</word>
+	<word weight="0.023696682464454975" count="5">staff</word>
+	<word weight="0.018957345971563982" count="4">service</word>
+	<word weight="0.018957345971563982" count="4">administrative</word>
+	<word weight="0.018957345971563982" count="4">general</word>
+	<word weight="0.018957345971563982" count="4">reports</word>
+	<word weight="0.014218009478672985" count="3">subjects</word>
+	<word weight="0.014218009478672985" count="3">decisions</word>
+	<word weight="0.014218009478672985" count="3">subject</word>
+	<word weight="0.014218009478672985" count="3">registry</word>
+	<word weight="0.014218009478672985" count="3">telecommunications</word>
+	<word weight="0.014218009478672985" count="3">accounts</word>
+	<word weight="0.014218009478672985" count="3">annual</word>
+	<word weight="0.009478672985781991" count="2">union</word>
+  </topic>
+</topics>

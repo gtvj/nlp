@@ -1,0 +1,34 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="48.708265290629285" totalTokens="102" titles="millennium, company, experience, pd, dome, agenda, meetings, minutes, committees, board">
+	<word weight="0.10784313725490197" count="11">millennium</word>
+	<word weight="0.0784313725490196" count="8">company</word>
+	<word weight="0.0784313725490196" count="8">experience</word>
+	<word weight="0.06862745098039216" count="7">pd</word>
+	<word weight="0.0392156862745098" count="4">dome</word>
+	<word weight="0.029411764705882353" count="3">agenda</word>
+	<word weight="0.029411764705882353" count="3">meetings</word>
+	<word weight="0.029411764705882353" count="3">minutes</word>
+	<word weight="0.029411764705882353" count="3">committees</word>
+	<word weight="0.029411764705882353" count="3">board</word>
+	<word weight="0.029411764705882353" count="3">photographs</word>
+	<word weight="0.0196078431372549" count="2">operations</word>
+	<word weight="0.0196078431372549" count="2">millenium</word>
+	<word weight="0.0196078431372549" count="2">events</word>
+	<word weight="0.0196078431372549" count="2">show</word>
+	<word weight="0.0196078431372549" count="2">construction</word>
+	<word weight="0.0196078431372549" count="2">collection</word>
+	<word weight="0.00980392156862745" count="1">executive</word>
+	<word weight="0.00980392156862745" count="1">proposals</word>
+	<word weight="0.00980392156862745" count="1">legacy</word>
+	<phrase weight="0.375" count="6">millennium experience company</phrase>
+	<phrase weight="0.1875" count="3">millennium dome</phrase>
+	<phrase weight="0.0625" count="1">external shots</phrase>
+	<phrase weight="0.0625" count="1">experience company</phrase>
+	<phrase weight="0.0625" count="1">millennium show</phrase>
+	<phrase weight="0.0625" count="1">millenium experience company executive board</phrase>
+	<phrase weight="0.0625" count="1">individual sponsorship</phrase>
+	<phrase weight="0.0625" count="1">press events</phrase>
+	<phrase weight="0.0625" count="1">world stage</phrase>
+  </topic>
+</topics>

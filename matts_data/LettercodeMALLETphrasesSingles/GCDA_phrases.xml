@@ -1,0 +1,15 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.463935306285492" totalTokens="40" titles="government, car, despatch, gcda, service, division, www.gcda.gov.uk, www.dft.gov.uk/gcda, field, general">
+	<word weight="0.3" count="12">government</word>
+	<word weight="0.25" count="10">car</word>
+	<word weight="0.2" count="8">despatch</word>
+	<word weight="0.075" count="3">gcda</word>
+	<word weight="0.05" count="2">service</word>
+	<word weight="0.025" count="1">division</word>
+	<word weight="0.025" count="1">www.gcda.gov.uk</word>
+	<word weight="0.025" count="1">www.dft.gov.uk/gcda</word>
+	<word weight="0.025" count="1">field</word>
+	<word weight="0.025" count="1">general</word>
+  </topic>
+</topics>

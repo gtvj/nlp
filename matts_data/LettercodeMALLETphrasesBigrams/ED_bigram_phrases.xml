@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.07191402529456" totalTokens="16140" titles="education act, technical branch, education branch, local education authorities, medical branch, elementary education, elementary branch, hm inspectorate, schools, board">
+	<word weight="0.08252788104089219" count="1332">education</word>
+	<word weight="0.028810408921933085" count="465">branch</word>
+	<word weight="0.02050805452292441" count="331">schools</word>
+	<word weight="0.020198265179677818" count="326">ed</word>
+	<word weight="0.01883519206939281" count="304">board</word>
+	<word weight="0.014002478314745973" count="226">science</word>
+	<word weight="0.01332094175960347" count="215">school</word>
+	<word weight="0.012701363073110285" count="205">committee</word>
+	<word weight="0.01171003717472119" count="189">local</word>
+	<word weight="0.009665427509293681" count="156">minutes</word>
+	<word weight="0.009665427509293681" count="156">reports</word>
+	<word weight="0.008240396530359356" count="133">successors</word>
+	<word weight="0.008178438661710037" count="132">elementary</word>
+	<word weight="0.008178438661710037" count="132">general</word>
+	<word weight="0.0080545229244114" count="130">act</word>
+	<word weight="0.0076827757125154895" count="124">teachers</word>
+	<word weight="0.007434944237918215" count="120">educational</word>
+	<word weight="0.00687732342007435" count="111">council</word>
+	<word weight="0.006815365551425031" count="110">technical</word>
+	<word weight="0.006815365551425031" count="110">authorities</word>
+	<phrase weight="0.02038700760193504" count="59">education act</phrase>
+	<phrase weight="0.019350380096751902" count="56">technical branch</phrase>
+	<phrase weight="0.018313752591568762" count="53">education branch</phrase>
+	<phrase weight="0.014512785072563926" count="42">local education authorities</phrase>
+	<phrase weight="0.010366275051831375" count="30">medical branch</phrase>
+	<phrase weight="0.009329647546648237" count="27">elementary education</phrase>
+	<phrase weight="0.008638562543192813" count="25">education authorities</phrase>
+	<phrase weight="0.007601935038009675" count="22">elementary branch</phrase>
+	<phrase weight="0.007256392536281963" count="21">hm inspectorate</phrase>
+	<phrase weight="0.006910850034554251" count="20">secondary education</phrase>
+	<phrase weight="0.0065653075328265375" count="19">higher education</phrase>
+	<phrase weight="0.0065653075328265375" count="19">local education authority</phrase>
+	<phrase weight="0.0065653075328265375" count="19">educational councils</phrase>
+	<phrase weight="0.006219765031098825" count="18">libraries branch</phrase>
+	<phrase weight="0.006219765031098825" count="18">secondary schools</phrase>
+	<phrase weight="0.006219765031098825" count="18">privy council</phrase>
+	<phrase weight="0.0055286800276434" count="16">external relations branch</phrase>
+	<phrase weight="0.005183137525915688" count="15">schools branch</phrase>
+	<phrase weight="0.005183137525915688" count="15">world war</phrase>
+	<phrase weight="0.0048375950241879755" count="14">teachers branches</phrase>
+  </topic>
+</topics>

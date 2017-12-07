@@ -1,0 +1,12 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="2.6899581712232385" totalTokens="24" titles="ombudsman, service, health, parliamentary, phso, division, government, ">
+	<word weight="0.20833333333333334" count="5">ombudsman</word>
+	<word weight="0.20833333333333334" count="5">service</word>
+	<word weight="0.20833333333333334" count="5">health</word>
+	<word weight="0.20833333333333334" count="5">parliamentary</word>
+	<word weight="0.08333333333333333" count="2">phso</word>
+	<word weight="0.041666666666666664" count="1">division</word>
+	<word weight="0.041666666666666664" count="1">government</word>
+  </topic>
+</topics>

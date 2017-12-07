@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.115354774419693" totalTokens="7471" titles="transport ministries, inland waterways, highways divisions, road safety, mt, successors, roads, traffic, london, railways">
+	<word weight="0.07803506893320841" count="583">transport</word>
+	<word weight="0.03654129299959845" count="273">mt</word>
+	<word weight="0.030384152054611164" count="227">successors</word>
+	<word weight="0.023423905768973362" count="175">divisions</word>
+	<word weight="0.01753446660420292" count="131">road</word>
+	<word weight="0.015526703252576629" count="116">highways</word>
+	<word weight="0.014723597911926114" count="110">roads</word>
+	<word weight="0.014455896131709276" count="108">division</word>
+	<word weight="0.011645027439432472" count="87">traffic</word>
+	<word weight="0.011511176549324053" count="86">london</word>
+	<word weight="0.011377325659215634" count="85">railways</word>
+	<word weight="0.010172667648239861" count="76">policy</word>
+	<word weight="0.009904965868023023" count="74">ministries</word>
+	<word weight="0.00856645696693883" count="64">inland</word>
+	<word weight="0.00856645696693883" count="64">railway</word>
+	<word weight="0.00843260607683041" count="63">vehicle</word>
+	<word weight="0.008164904296613573" count="61">board</word>
+	<word weight="0.008031053406505154" count="60">shipping</word>
+	<word weight="0.007897202516396733" count="59">committee</word>
+	<word weight="0.007897202516396733" count="59">ports</word>
+	<phrase weight="0.04890510948905109" count="67">transport ministries</phrase>
+	<phrase weight="0.03576642335766423" count="49">inland waterways</phrase>
+	<phrase weight="0.033576642335766425" count="46">highways divisions</phrase>
+	<phrase weight="0.017518248175182483" count="24">road safety</phrase>
+	<phrase weight="0.013138686131386862" count="18">regulation divisions</phrase>
+	<phrase weight="0.010948905109489052" count="15">trunk roads</phrase>
+	<phrase weight="0.00948905109489051" count="13">war transport</phrase>
+	<phrase weight="0.008759124087591242" count="12">mv derbyshire</phrase>
+	<phrase weight="0.00583941605839416" count="8">international transport division</phrase>
+	<phrase weight="0.00583941605839416" count="8">annual reports</phrase>
+	<phrase weight="0.0051094890510948905" count="7">civil aviation</phrase>
+	<phrase weight="0.0051094890510948905" count="7">london traffic branch</phrase>
+	<phrase weight="0.004379562043795621" count="6">channel tunnel</phrase>
+	<phrase weight="0.004379562043795621" count="6">road transport</phrase>
+	<phrase weight="0.004379562043795621" count="6">vehicle licensing</phrase>
+	<phrase weight="0.0036496350364963502" count="5">transport bill</phrase>
+	<phrase weight="0.0036496350364963502" count="5">transport act</phrase>
+	<phrase weight="0.0036496350364963502" count="5">engineering division</phrase>
+	<phrase weight="0.0036496350364963502" count="5">railway inspectorate</phrase>
+	<phrase weight="0.0036496350364963502" count="5">road research laboratory</phrase>
+  </topic>
+</topics>

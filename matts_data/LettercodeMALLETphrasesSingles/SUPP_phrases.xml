@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.130050547986727" totalTokens="778" titles="supply, research, reports, successors, ordnance, experimental, aircraft, general, council, establishments">
+	<word weight="0.06812339331619537" count="53">supply</word>
+	<word weight="0.03984575835475578" count="31">research</word>
+	<word weight="0.038560411311053984" count="30">reports</word>
+	<word weight="0.02313624678663239" count="18">successors</word>
+	<word weight="0.021850899742930592" count="17">ordnance</word>
+	<word weight="0.02056555269922879" count="16">experimental</word>
+	<word weight="0.019280205655526992" count="15">aircraft</word>
+	<word weight="0.017994858611825194" count="14">general</word>
+	<word weight="0.014138817480719794" count="11">council</word>
+	<word weight="0.014138817480719794" count="11">establishments</word>
+	<word weight="0.012853470437017995" count="10">minutes</word>
+	<word weight="0.011568123393316195" count="9">board</word>
+	<word weight="0.010282776349614395" count="8">development</word>
+	<word weight="0.010282776349614395" count="8">committees</word>
+	<word weight="0.010282776349614395" count="8">factories</word>
+	<word weight="0.008997429305912597" count="7">scientific</word>
+	<word weight="0.008997429305912597" count="7">private</word>
+	<word weight="0.008997429305912597" count="7">war</word>
+	<word weight="0.007712082262210797" count="6">correspondence</word>
+	<word weight="0.007712082262210797" count="6">director</word>
+  </topic>
+</topics>

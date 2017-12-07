@@ -1,0 +1,24 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.054904593617995" totalTokens="53" titles="certification, vehicle, fuel, vca, data, car, government, field, general, tools">
+	<word weight="0.16981132075471697" count="9">certification</word>
+	<word weight="0.16981132075471697" count="9">vehicle</word>
+	<word weight="0.09433962264150944" count="5">fuel</word>
+	<word weight="0.09433962264150944" count="5">vca</word>
+	<word weight="0.07547169811320754" count="4">data</word>
+	<word weight="0.07547169811320754" count="4">car</word>
+	<word weight="0.05660377358490566" count="3">government</word>
+	<word weight="0.03773584905660377" count="2">field</word>
+	<word weight="0.03773584905660377" count="2">general</word>
+	<word weight="0.018867924528301886" count="1">tools</word>
+	<word weight="0.018867924528301886" count="1">division</word>
+	<word weight="0.018867924528301886" count="1">webtag</word>
+	<word weight="0.018867924528301886" count="1">guidance</word>
+	<word weight="0.018867924528301886" count="1">analysis</word>
+	<word weight="0.018867924528301886" count="1">transport</word>
+	<word weight="0.018867924528301886" count="1">database</word>
+	<word weight="0.018867924528301886" count="1">consumption</word>
+	<word weight="0.018867924528301886" count="1">van</word>
+	<word weight="0.018867924528301886" count="1">www.dft.gov.uk</word>
+  </topic>
+</topics>

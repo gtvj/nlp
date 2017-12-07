@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.194506086925716" totalTokens="3829" titles="overseas development administration, uk government, od, aid, international, successors, technical, united, policy, commonwealth">
+	<word weight="0.06555236354139463" count="251">development</word>
+	<word weight="0.038391224862888484" count="147">od</word>
+	<word weight="0.0363019065030034" count="139">overseas</word>
+	<word weight="0.027422303473491772" count="105">aid</word>
+	<word weight="0.02376599634369287" count="91">international</word>
+	<word weight="0.022199007573779055" count="85">uk</word>
+	<word weight="0.01802037085400888" count="69">administration</word>
+	<word weight="0.0167145468790807" count="64">successors</word>
+	<word weight="0.015669887699138157" count="60">government</word>
+	<word weight="0.01540872290415252" count="59">technical</word>
+	<word weight="0.01410289892922434" count="54">united</word>
+	<word weight="0.012013580569339252" count="46">commonwealth</word>
+	<word weight="0.012013580569339252" count="46">policy</word>
+	<word weight="0.011752415774353616" count="45">nations</word>
+	<word weight="0.01149125097936798" count="44">operation</word>
+	<word weight="0.010968921389396709" count="42">africa</word>
+	<word weight="0.010968921389396709" count="42">research</word>
+	<word weight="0.008618438234525986" count="33">programme</word>
+	<word weight="0.008096108644554715" count="31">relations</word>
+	<word weight="0.007834943849569079" count="30">social</word>
+	<phrase weight="0.049019607843137254" count="35">overseas development administration</phrase>
+	<phrase weight="0.046218487394957986" count="33">uk government</phrase>
+	<phrase weight="0.04341736694677871" count="31">overseas development</phrase>
+	<phrase weight="0.022408963585434174" count="16">development administration</phrase>
+	<phrase weight="0.015406162464985995" count="11">united nations</phrase>
+	<phrase weight="0.012605042016806723" count="9">southern africa</phrase>
+	<phrase weight="0.011204481792717087" count="8">international development</phrase>
+	<phrase weight="0.011204481792717087" count="8">technical assistance</phrase>
+	<phrase weight="0.00980392156862745" count="7">developing countries</phrase>
+	<phrase weight="0.00980392156862745" count="7">multilateral organisations</phrase>
+	<phrase weight="0.008403361344537815" count="6">aid policy</phrase>
+	<phrase weight="0.008403361344537815" count="6">latin america</phrase>
+	<phrase weight="0.008403361344537815" count="6">development aid</phrase>
+	<phrase weight="0.008403361344537815" count="6">overseas surveys</phrase>
+	<phrase weight="0.0070028011204481795" count="5">natural resources</phrase>
+	<phrase weight="0.0070028011204481795" count="5">general questions</phrase>
+	<phrase weight="0.0070028011204481795" count="5">commonwealth countries</phrase>
+	<phrase weight="0.0056022408963585435" count="4">general africa</phrase>
+	<phrase weight="0.0056022408963585435" count="4">rural livelihoods research</phrase>
+	<phrase weight="0.0056022408963585435" count="4">east asia</phrase>
+  </topic>
+</topics>

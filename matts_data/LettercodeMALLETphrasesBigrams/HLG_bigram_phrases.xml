@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.14286156588846" totalTokens="6732" titles="local government, local government board, country planning, local authorities, housing, health, land, commission, general, division">
+	<word weight="0.060754604872251934" count="409">local</word>
+	<word weight="0.05020796197266786" count="338">government</word>
+	<word weight="0.040998217468805706" count="276">housing</word>
+	<word weight="0.027629233511586453" count="186">planning</word>
+	<word weight="0.018270944741532978" count="123">health</word>
+	<word weight="0.017825311942959002" count="120">land</word>
+	<word weight="0.01277480689245395" count="86">commission</word>
+	<word weight="0.01277480689245395" count="86">general</word>
+	<word weight="0.012032085561497326" count="81">board</word>
+	<word weight="0.011437908496732025" count="77">division</word>
+	<word weight="0.010843731431966727" count="73">successors</word>
+	<word weight="0.0106951871657754" count="72">committee</word>
+	<word weight="0.010249554367201427" count="69">divisions</word>
+	<word weight="0.009952465834818775" count="67">act</word>
+	<word weight="0.00920974450386215" count="62">minutes</word>
+	<word weight="0.008912655971479501" count="60">town</word>
+	<word weight="0.008467023172905526" count="57">development</word>
+	<word weight="0.007278669043374926" count="49">environment</word>
+	<word weight="0.0071301247771836" count="48">country</word>
+	<word weight="0.006981580510992276" count="47">successor</word>
+	<phrase weight="0.1385185185185185" count="187">local government</phrase>
+	<phrase weight="0.028888888888888888" count="39">local government board</phrase>
+	<phrase weight="0.028148148148148148" count="38">country planning</phrase>
+	<phrase weight="0.02" count="27">local authorities</phrase>
+	<phrase weight="0.012592592592592593" count="17">natural resources</phrase>
+	<phrase weight="0.00962962962962963" count="13">planning division</phrase>
+	<phrase weight="0.008888888888888889" count="12">local government branches</phrase>
+	<phrase weight="0.008888888888888889" count="12">royal commission</phrase>
+	<phrase weight="0.008888888888888889" count="12">land commission</phrase>
+	<phrase weight="0.007407407407407408" count="10">government board</phrase>
+	<phrase weight="0.007407407407407408" count="10">historic buildings</phrase>
+	<phrase weight="0.006666666666666667" count="9">county councils</phrase>
+	<phrase weight="0.006666666666666667" count="9">local authority</phrase>
+	<phrase weight="0.005925925925925926" count="8">local government act</phrase>
+	<phrase weight="0.005925925925925926" count="8">central land board</phrase>
+	<phrase weight="0.005925925925925926" count="8">general policy</phrase>
+	<phrase weight="0.005185185185185185" count="7">legal branch</phrase>
+	<phrase weight="0.0044444444444444444" count="6">local government division</phrase>
+	<phrase weight="0.0044444444444444444" count="6">parliamentary branch</phrase>
+	<phrase weight="0.0044444444444444444" count="6">central housing advisory committee</phrase>
+  </topic>
+</topics>

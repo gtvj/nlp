@@ -1,0 +1,28 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.9724340905751812" totalTokens="31" titles="plans, state, maps, france, public, extra, sp, dunkirk, foreign, size">
+	<word weight="0.12903225806451613" count="4">plans</word>
+	<word weight="0.0967741935483871" count="3">state</word>
+	<word weight="0.0967741935483871" count="3">maps</word>
+	<word weight="0.06451612903225806" count="2">france</word>
+	<word weight="0.06451612903225806" count="2">public</word>
+	<word weight="0.06451612903225806" count="2">extra</word>
+	<word weight="0.03225806451612903" count="1">sp</word>
+	<word weight="0.03225806451612903" count="1">dunkirk</word>
+	<word weight="0.03225806451612903" count="1">map</word>
+	<word weight="0.03225806451612903" count="1">foreign</word>
+	<word weight="0.03225806451612903" count="1">size</word>
+	<word weight="0.03225806451612903" count="1">measure</word>
+	<word weight="0.03225806451612903" count="1">preservation</word>
+	<word weight="0.03225806451612903" count="1">primarily</word>
+	<word weight="0.03225806451612903" count="1">transfer</word>
+	<word weight="0.03225806451612903" count="1">drawings</word>
+	<word weight="0.03225806451612903" count="1">cater</word>
+	<word weight="0.03225806451612903" count="1">century</word>
+	<word weight="0.03225806451612903" count="1">twentieth</word>
+	<word weight="0.03225806451612903" count="1">accumulations</word>
+	<phrase weight="0.3333333333333333" count="1">preservation measure</phrase>
+	<phrase weight="0.3333333333333333" count="1">twentieth century</phrase>
+	<phrase weight="0.3333333333333333" count="1">artificial accumulations</phrase>
+  </topic>
+</topics>

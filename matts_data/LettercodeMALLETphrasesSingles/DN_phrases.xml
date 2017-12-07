@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0" totalTokens="64" titles="board, laboratory, service, health, public, annual, reports, minutes, yearbook, phls">
+	<word weight="0.125" count="8">board</word>
+	<word weight="0.125" count="8">laboratory</word>
+	<word weight="0.109375" count="7">service</word>
+	<word weight="0.109375" count="7">health</word>
+	<word weight="0.109375" count="7">public</word>
+	<word weight="0.0625" count="4">annual</word>
+	<word weight="0.046875" count="3">reports</word>
+	<word weight="0.046875" count="3">minutes</word>
+	<word weight="0.03125" count="2">yearbook</word>
+	<word weight="0.03125" count="2">phls</word>
+	<word weight="0.03125" count="2">report</word>
+	<word weight="0.03125" count="2">correspondence</word>
+	<word weight="0.015625" count="1">general</word>
+	<word weight="0.015625" count="1">contained</word>
+	<word weight="0.015625" count="1">yearbooks</word>
+	<word weight="0.015625" count="1">diseases</word>
+	<word weight="0.015625" count="1">communicable</word>
+	<word weight="0.015625" count="1">investigations</word>
+	<word weight="0.015625" count="1">makes</word>
+	<word weight="0.015625" count="1">circulated</word>
+  </topic>
+</topics>

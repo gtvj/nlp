@@ -1,0 +1,23 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="348.5679603457935" totalTokens="76" titles="complaints, police, reports, authority, lk, review, annual, board, public, members">
+	<word weight="0.21052631578947367" count="16">complaints</word>
+	<word weight="0.19736842105263158" count="15">police</word>
+	<word weight="0.11842105263157894" count="9">reports</word>
+	<word weight="0.09210526315789473" count="7">authority</word>
+	<word weight="0.09210526315789473" count="7">lk</word>
+	<word weight="0.07894736842105263" count="6">review</word>
+	<word weight="0.07894736842105263" count="6">annual</word>
+	<word weight="0.06578947368421052" count="5">board</word>
+	<word weight="0.05263157894736842" count="4">public</word>
+	<word weight="0.013157894736842105" count="1">members</word>
+	<phrase weight="0.21428571428571427" count="3">police complaints authority</phrase>
+	<phrase weight="0.14285714285714285" count="2">police complaints authority annual reports</phrase>
+	<phrase weight="0.14285714285714285" count="2">complaints board</phrase>
+	<phrase weight="0.14285714285714285" count="2">complaints board annual</phrase>
+	<phrase weight="0.14285714285714285" count="2">review reports</phrase>
+	<phrase weight="0.07142857142857142" count="1">police complaints board</phrase>
+	<phrase weight="0.07142857142857142" count="1">complaints authority</phrase>
+	<phrase weight="0.07142857142857142" count="1">police complaints authority review reports</phrase>
+  </topic>
+</topics>

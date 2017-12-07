@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.6449627478539615" totalTokens="1680" titles="police, metropolitan, crime, commissioner, successors, receiver, service, datasets, registers, general">
+	<word weight="0.08392857142857142" count="141">police</word>
+	<word weight="0.06130952380952381" count="103">metropolitan</word>
+	<word weight="0.02142857142857143" count="36">crime</word>
+	<word weight="0.02142857142857143" count="36">commissioner</word>
+	<word weight="0.01369047619047619" count="23">successors</word>
+	<word weight="0.011904761904761904" count="20">receiver</word>
+	<word weight="0.01130952380952381" count="19">service</word>
+	<word weight="0.010714285714285714" count="18">datasets</word>
+	<word weight="0.008928571428571428" count="15">registers</word>
+	<word weight="0.008333333333333333" count="14">general</word>
+	<word weight="0.007142857142857143" count="12">data</word>
+	<word weight="0.007142857142857143" count="12">correspondence</word>
+	<word weight="0.007142857142857143" count="12">public</word>
+	<word weight="0.006547619047619048" count="11">offence</word>
+	<word weight="0.006547619047619048" count="11">special</word>
+	<word weight="0.005952380952380952" count="10">buildings</word>
+	<word weight="0.005952380952380952" count="10">relate</word>
+	<word weight="0.005952380952380952" count="10">cases</word>
+	<word weight="0.005357142857142857" count="9">system</word>
+	<word weight="0.005357142857142857" count="9">database</word>
+  </topic>
+</topics>

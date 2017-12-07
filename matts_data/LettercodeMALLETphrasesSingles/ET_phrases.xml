@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.204329778558103" totalTokens="682" titles="services, manpower, commission, division, employment, training, planning, minutes, central, special">
+	<word weight="0.12316715542521994" count="84">services</word>
+	<word weight="0.08944281524926687" count="61">manpower</word>
+	<word weight="0.07771260997067449" count="53">commission</word>
+	<word weight="0.06744868035190615" count="46">division</word>
+	<word weight="0.05865102639296188" count="40">employment</word>
+	<word weight="0.02932551319648094" count="20">training</word>
+	<word weight="0.021994134897360705" count="15">service</word>
+	<word weight="0.020527859237536656" count="14">planning</word>
+	<word weight="0.017595307917888565" count="12">minutes</word>
+	<word weight="0.016129032258064516" count="11">central</word>
+	<word weight="0.013196480938416423" count="9">special</word>
+	<word weight="0.013196480938416423" count="9">policy</word>
+	<word weight="0.011730205278592375" count="8">intelligence</word>
+	<word weight="0.011730205278592375" count="8">work</word>
+	<word weight="0.008797653958944282" count="6">assigned</word>
+	<word weight="0.007331378299120235" count="5">committee</word>
+	<word weight="0.007331378299120235" count="5">executive</word>
+	<word weight="0.007331378299120235" count="5">disabled</word>
+	<word weight="0.005865102639296188" count="4">unemployed</word>
+	<word weight="0.005865102639296188" count="4">policies</word>
+  </topic>
+</topics>

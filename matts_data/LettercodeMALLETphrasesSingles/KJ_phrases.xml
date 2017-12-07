@@ -1,0 +1,15 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="4.191861295137013" totalTokens="18" titles="lawyers, property, government, reports, annual, agency's, services, advisory, lands, conveyancing">
+	<word weight="0.16666666666666666" count="3">lawyers</word>
+	<word weight="0.16666666666666666" count="3">property</word>
+	<word weight="0.16666666666666666" count="3">government</word>
+	<word weight="0.1111111111111111" count="2">reports</word>
+	<word weight="0.1111111111111111" count="2">annual</word>
+	<word weight="0.05555555555555555" count="1">agency's</word>
+	<word weight="0.05555555555555555" count="1">services</word>
+	<word weight="0.05555555555555555" count="1">advisory</word>
+	<word weight="0.05555555555555555" count="1">lands</word>
+	<word weight="0.05555555555555555" count="1">conveyancing</word>
+  </topic>
+</topics>

@@ -1,0 +1,15 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="3.505263186633196" totalTokens="22" titles="adjudicator, schools, osa, field, general, government, uk, division, ">
+	<word weight="0.3181818181818182" count="7">adjudicator</word>
+	<word weight="0.3181818181818182" count="7">schools</word>
+	<word weight="0.13636363636363635" count="3">osa</word>
+	<word weight="0.045454545454545456" count="1">field</word>
+	<word weight="0.045454545454545456" count="1">general</word>
+	<word weight="0.045454545454545456" count="1">government</word>
+	<word weight="0.045454545454545456" count="1">uk</word>
+	<word weight="0.045454545454545456" count="1">division</word>
+	<phrase weight="0.75" count="3">schools adjudicator</phrase>
+	<phrase weight="0.25" count="1">uk government</phrase>
+  </topic>
+</topics>

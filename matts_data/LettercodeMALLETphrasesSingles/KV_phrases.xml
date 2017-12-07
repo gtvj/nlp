@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="9.347532601722685" totalTokens="278" titles="security, service, war, world, infrastructure, national, protection, centre, list, download">
+	<word weight="0.08992805755395683" count="25">security</word>
+	<word weight="0.08273381294964029" count="23">service</word>
+	<word weight="0.03237410071942446" count="9">war</word>
+	<word weight="0.03237410071942446" count="9">world</word>
+	<word weight="0.017985611510791366" count="5">infrastructure</word>
+	<word weight="0.017985611510791366" count="5">national</word>
+	<word weight="0.017985611510791366" count="5">protection</word>
+	<word weight="0.017985611510791366" count="5">centre</word>
+	<word weight="0.017985611510791366" count="5">list</word>
+	<word weight="0.017985611510791366" count="5">download</word>
+	<word weight="0.017985611510791366" count="5">digital</word>
+	<word weight="0.014388489208633094" count="4">warp</word>
+	<word weight="0.014388489208633094" count="4">point</word>
+	<word weight="0.014388489208633094" count="4">reporting</word>
+	<word weight="0.014388489208633094" count="4">advice</word>
+	<word weight="0.014388489208633094" count="4">warning</word>
+	<word weight="0.014388489208633094" count="4">images</word>
+	<word weight="0.014388489208633094" count="4">reports</word>
+	<word weight="0.01079136690647482" count="3">subject</word>
+	<word weight="0.01079136690647482" count="3">cpni</word>
+  </topic>
+</topics>

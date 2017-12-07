@@ -1,0 +1,22 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.046459772668106" totalTokens="56" titles="commissioners, special, tax, income, decisions, case, appeals, minutes, assessment, administrative">
+	<word weight="0.16071428571428573" count="9">commissioners</word>
+	<word weight="0.14285714285714285" count="8">special</word>
+	<word weight="0.125" count="7">tax</word>
+	<word weight="0.125" count="7">income</word>
+	<word weight="0.08928571428571429" count="5">decisions</word>
+	<word weight="0.05357142857142857" count="3">case</word>
+	<word weight="0.05357142857142857" count="3">appeals</word>
+	<word weight="0.05357142857142857" count="3">minutes</word>
+	<word weight="0.03571428571428571" count="2">assessment</word>
+	<word weight="0.03571428571428571" count="2">administrative</word>
+	<word weight="0.017857142857142856" count="1">corporations</word>
+	<word weight="0.017857142857142856" count="1">individuals</word>
+	<word weight="0.017857142857142856" count="1">relate</word>
+	<word weight="0.017857142857142856" count="1">procedual</word>
+	<word weight="0.017857142857142856" count="1">brought</word>
+	<word weight="0.017857142857142856" count="1">procedural</word>
+	<word weight="0.017857142857142856" count="1">administration</word>
+  </topic>
+</topics>

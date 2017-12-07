@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.929789016571878" totalTokens="1017" titles="economic affairs, regional, planning, successors, ew, policy, east, committee, division, south">
+	<word weight="0.07079646017699115" count="72">economic</word>
+	<word weight="0.043264503441494594" count="44">regional</word>
+	<word weight="0.0344149459193707" count="35">affairs</word>
+	<word weight="0.03343166175024582" count="34">planning</word>
+	<word weight="0.03146509341199607" count="32">successors</word>
+	<word weight="0.028515240904621434" count="29">ew</word>
+	<word weight="0.02753195673549656" count="28">policy</word>
+	<word weight="0.02261553588987217" count="23">east</word>
+	<word weight="0.017699115044247787" count="18">committee</word>
+	<word weight="0.01671583087512291" count="17">south</word>
+	<word weight="0.01671583087512291" count="17">division</word>
+	<word weight="0.01376597836774828" count="14">industrial</word>
+	<word weight="0.01376597836774828" count="14">development</word>
+	<word weight="0.012782694198623401" count="13">council</word>
+	<word weight="0.011799410029498525" count="12">minutes</word>
+	<word weight="0.011799410029498525" count="12">subjects</word>
+	<word weight="0.010816125860373648" count="11">group</word>
+	<word weight="0.010816125860373648" count="11">national</word>
+	<word weight="0.008849557522123894" count="9">west</word>
+	<word weight="0.008849557522123894" count="9">board</word>
+	<phrase weight="0.1650485436893204" count="34">economic affairs</phrase>
+	<phrase weight="0.04854368932038835" count="10">regional policy</phrase>
+	<phrase weight="0.024271844660194174" count="5">intermediate areas</phrase>
+	<phrase weight="0.019417475728155338" count="4">ordination division</phrase>
+	<phrase weight="0.014563106796116505" count="3">south east</phrase>
+	<phrase weight="0.014563106796116505" count="3">working group</phrase>
+	<phrase weight="0.014563106796116505" count="3">economic development</phrase>
+	<phrase weight="0.014563106796116505" count="3">northern economic planning council</phrase>
+	<phrase weight="0.014563106796116505" count="3">national plan</phrase>
+	<phrase weight="0.009708737864077669" count="2">economic development committees</phrase>
+	<phrase weight="0.009708737864077669" count="2">london airport</phrase>
+	<phrase weight="0.009708737864077669" count="2">finance division</phrase>
+	<phrase weight="0.009708737864077669" count="2">industrial reorganisation corporation</phrase>
+	<phrase weight="0.009708737864077669" count="2">european economic community</phrase>
+	<phrase weight="0.009708737864077669" count="2">economic development council</phrase>
+	<phrase weight="0.009708737864077669" count="2">channel tunnel</phrase>
+	<phrase weight="0.009708737864077669" count="2">south east economic planning board</phrase>
+	<phrase weight="0.009708737864077669" count="2">east anglia regional</phrase>
+	<phrase weight="0.009708737864077669" count="2">background notes</phrase>
+	<phrase weight="0.009708737864077669" count="2">local government</phrase>
+  </topic>
+</topics>

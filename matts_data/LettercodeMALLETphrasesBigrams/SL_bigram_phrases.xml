@@ -1,0 +1,38 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="12.486383738354041" totalTokens="189" titles="inquests, fayed, al, dodi, wales, princess, diana, deaths, mr, moneim">
+	<word weight="0.07936507936507936" count="15">inquests</word>
+	<word weight="0.07407407407407407" count="14">fayed</word>
+	<word weight="0.042328042328042326" count="8">al</word>
+	<word weight="0.042328042328042326" count="8">dodi</word>
+	<word weight="0.042328042328042326" count="8">wales</word>
+	<word weight="0.042328042328042326" count="8">princess</word>
+	<word weight="0.042328042328042326" count="8">diana</word>
+	<word weight="0.042328042328042326" count="8">deaths</word>
+	<word weight="0.037037037037037035" count="7">mr</word>
+	<word weight="0.037037037037037035" count="7">moneim</word>
+	<word weight="0.037037037037037035" count="7">abdel</word>
+	<word weight="0.037037037037037035" count="7">mohamed</word>
+	<word weight="0.037037037037037035" count="7">din</word>
+	<word weight="0.037037037037037035" count="7">el</word>
+	<word weight="0.037037037037037035" count="7">emad</word>
+	<word weight="0.037037037037037035" count="7">sl</word>
+	<word weight="0.031746031746031744" count="6">evidence</word>
+	<word weight="0.015873015873015872" count="3">jurors</word>
+	<word weight="0.015873015873015872" count="3">bundles</word>
+	<word weight="0.010582010582010581" count="2">database</word>
+	<phrase weight="0.23333333333333334" count="7">emad el</phrase>
+	<phrase weight="0.23333333333333334" count="7">mohamed abdel moneim fayed</phrase>
+	<phrase weight="0.2" count="6">dodi al fayed</phrase>
+	<phrase weight="0.03333333333333333" count="1">surrey coroner</phrase>
+	<phrase weight="0.03333333333333333" count="1">martin smith</phrase>
+	<phrase weight="0.03333333333333333" count="1">scanned images</phrase>
+	<phrase weight="0.03333333333333333" count="1">dodi al</phrase>
+	<phrase weight="0.03333333333333333" count="1">complete database</phrase>
+	<phrase weight="0.03333333333333333" count="1">jurors hearing</phrase>
+	<phrase weight="0.03333333333333333" count="1">special assistant coronor</phrase>
+	<phrase weight="0.03333333333333333" count="1">evidence bundles</phrase>
+	<phrase weight="0.03333333333333333" count="1">inquests prior</phrase>
+	<phrase weight="0.03333333333333333" count="1">small collections</phrase>
+  </topic>
+</topics>

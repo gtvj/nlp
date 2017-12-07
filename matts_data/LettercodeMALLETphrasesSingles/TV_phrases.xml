@@ -1,0 +1,12 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1233.5635701495012" totalTokens="15" titles="authority, independent, broadcasting, television, registries, engineering, administration, ">
+	<word weight="0.26666666666666666" count="4">authority</word>
+	<word weight="0.26666666666666666" count="4">independent</word>
+	<word weight="0.13333333333333333" count="2">broadcasting</word>
+	<word weight="0.13333333333333333" count="2">television</word>
+	<word weight="0.06666666666666667" count="1">registries</word>
+	<word weight="0.06666666666666667" count="1">engineering</word>
+	<word weight="0.06666666666666667" count="1">administration</word>
+  </topic>
+</topics>

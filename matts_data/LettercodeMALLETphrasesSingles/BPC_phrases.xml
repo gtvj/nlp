@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="11.777869518174166" totalTokens="173" titles="potato, british, council, minutes, bpc, committee, agendas, marketing, council's, communications">
+	<word weight="0.12138728323699421" count="21">potato</word>
+	<word weight="0.11560693641618497" count="20">british</word>
+	<word weight="0.09248554913294797" count="16">council</word>
+	<word weight="0.08670520231213873" count="15">minutes</word>
+	<word weight="0.08092485549132948" count="14">bpc</word>
+	<word weight="0.07514450867052024" count="13">committee</word>
+	<word weight="0.057803468208092484" count="10">agendas</word>
+	<word weight="0.04046242774566474" count="7">marketing</word>
+	<word weight="0.023121387283236993" count="4">council's</word>
+	<word weight="0.023121387283236993" count="4">communications</word>
+	<word weight="0.023121387283236993" count="4">group</word>
+	<word weight="0.023121387283236993" count="4">successors</word>
+	<word weight="0.023121387283236993" count="4">monitoring</word>
+	<word weight="0.023121387283236993" count="4">aphid</word>
+	<word weight="0.017341040462427744" count="3">market</word>
+	<word weight="0.017341040462427744" count="3">development</word>
+	<word weight="0.017341040462427744" count="3">research</word>
+	<word weight="0.017341040462427744" count="3">seed</word>
+	<word weight="0.017341040462427744" count="3">government</word>
+	<word weight="0.011560693641618497" count="2">sectoral</word>
+  </topic>
+</topics>

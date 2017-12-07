@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.047755754128789" totalTokens="17101" titles="entry books, general registers, uk government, civil defence, community relations, home security, air raid precautions, correspondence, war, police">
+	<word weight="0.04976317174434244" count="851">home</word>
+	<word weight="0.036021285304952924" count="616">ho</word>
+	<word weight="0.02403368224080463" count="411">general</word>
+	<word weight="0.01783521431495234" count="305">books</word>
+	<word weight="0.015730074264662885" count="269">entry</word>
+	<word weight="0.015262265364598562" count="261">correspondence</word>
+	<word weight="0.013040173089293023" count="223">registers</word>
+	<word weight="0.012163031401672417" count="208">war</word>
+	<word weight="0.011870650839132215" count="203">police</word>
+	<word weight="0.011461318051575931" count="196">uk</word>
+	<word weight="0.010818080813987486" count="185">warrant</word>
+	<word weight="0.01017484357639904" count="174">world</word>
+	<word weight="0.00994093912636688" count="170">wartime</word>
+	<word weight="0.008245131863633706" count="141">commissions</word>
+	<word weight="0.008128179638617625" count="139">government</word>
+	<word weight="0.00748494240102918" count="128">security</word>
+	<word weight="0.007426466288521139" count="127">committee</word>
+	<word weight="0.0073095140635050584" count="125">criminal</word>
+	<word weight="0.007251037950997017" count="124">symbol</word>
+	<word weight="0.006900181275948775" count="118">reports</word>
+	<phrase weight="0.06348637015781923" count="177">entry books</phrase>
+	<phrase weight="0.036226685796269725" count="101">general registers</phrase>
+	<phrase weight="0.024031563845050216" count="67">uk government</phrase>
+	<phrase weight="0.01685796269727403" count="47">civil defence</phrase>
+	<phrase weight="0.012553802008608322" count="35">community relations</phrase>
+	<phrase weight="0.011477761836441894" count="32">home security</phrase>
+	<phrase weight="0.00824964131994261" count="23">air raid precautions</phrase>
+	<phrase weight="0.007173601147776184" count="20">raid precautions</phrase>
+	<phrase weight="0.006456241032998565" count="18">royal commission</phrase>
+	<phrase weight="0.005380200860832138" count="15">electronic images</phrase>
+	<phrase weight="0.004662840746054519" count="13">channel islands</phrase>
+	<phrase weight="0.00430416068866571" count="12">scientific adviser</phrase>
+	<phrase weight="0.003945480631276901" count="11">home secretary</phrase>
+	<phrase weight="0.003586800573888092" count="10">northern ireland</phrase>
+	<phrase weight="0.003586800573888092" count="10">metropolitan police</phrase>
+	<phrase weight="0.0032281205164992827" count="9">law officers</phrase>
+	<phrase weight="0.0032281205164992827" count="9">uk border</phrase>
+	<phrase weight="0.0032281205164992827" count="9">local authorities</phrase>
+	<phrase weight="0.0028694404591104736" count="8">united kingdom</phrase>
+	<phrase weight="0.0028694404591104736" count="8">national policing improvement</phrase>
+  </topic>
+</topics>

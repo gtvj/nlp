@@ -1,0 +1,33 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0" totalTokens="75" titles="public, aids, finding, calendars, texts, unpublished, unfinished, library, claims, florida">
+	<word weight="0.09333333333333334" count="7">public</word>
+	<word weight="0.06666666666666667" count="5">aids</word>
+	<word weight="0.06666666666666667" count="5">finding</word>
+	<word weight="0.05333333333333334" count="4">calendars</word>
+	<word weight="0.05333333333333334" count="4">texts</word>
+	<word weight="0.05333333333333334" count="4">unpublished</word>
+	<word weight="0.05333333333333334" count="4">unfinished</word>
+	<word weight="0.04" count="3">library</word>
+	<word weight="0.02666666666666667" count="2">claims</word>
+	<word weight="0.02666666666666667" count="2">florida</word>
+	<word weight="0.02666666666666667" count="2">east</word>
+	<word weight="0.02666666666666667" count="2">modern</word>
+	<word weight="0.02666666666666667" count="2">describe</word>
+	<word weight="0.02666666666666667" count="2">projects</word>
+	<word weight="0.02666666666666667" count="2">abandoned</word>
+	<word weight="0.013333333333333334" count="1">predecessors</word>
+	<word weight="0.013333333333333334" count="1">early</word>
+	<word weight="0.013333333333333334" count="1">medieval</word>
+	<word weight="0.013333333333333334" count="1">spain</word>
+	<word weight="0.013333333333333334" count="1">cession</word>
+	<phrase weight="0.35714285714285715" count="5">finding aids</phrase>
+	<phrase weight="0.14285714285714285" count="2">unfinished texts</phrase>
+	<phrase weight="0.14285714285714285" count="2">unpublished texts</phrase>
+	<phrase weight="0.07142857142857142" count="1">entry books</phrase>
+	<phrase weight="0.07142857142857142" count="1">east florida</phrase>
+	<phrase weight="0.07142857142857142" count="1">east florida claims commission</phrase>
+	<phrase weight="0.07142857142857142" count="1">abandoned projects</phrase>
+	<phrase weight="0.07142857142857142" count="1">early modern</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.326460605465598" totalTokens="2865" titles="division, power, coal, fuel, electricity, gas, mines, board, successors, predecessors">
+	<word weight="0.04293193717277487" count="123">division</word>
+	<word weight="0.04258289703315881" count="122">power</word>
+	<word weight="0.032460732984293195" count="93">coal</word>
+	<word weight="0.0237347294938918" count="68">fuel</word>
+	<word weight="0.021640488656195462" count="62">electricity</word>
+	<word weight="0.020942408376963352" count="60">gas</word>
+	<word weight="0.01780104712041885" count="51">mines</word>
+	<word weight="0.0150087260034904" count="43">board</word>
+	<word weight="0.014659685863874346" count="42">successors</word>
+	<word weight="0.014310645724258289" count="41">predecessors</word>
+	<word weight="0.012914485165794066" count="37">petroleum</word>
+	<word weight="0.0118673647469459" count="34">oil</word>
+	<word weight="0.011518324607329843" count="33">statistics</word>
+	<word weight="0.010471204188481676" count="30">trade</word>
+	<word weight="0.01012216404886562" count="29">divisions</word>
+	<word weight="0.01012216404886562" count="29">general</word>
+	<word weight="0.009773123909249564" count="28">industry</word>
+	<word weight="0.009075043630017453" count="26">committee</word>
+	<word weight="0.008027923211169284" count="23">planning</word>
+	<word weight="0.007329842931937173" count="21">commission</word>
+	<phrase weight="0.031683168316831684" count="16">coal division</phrase>
+	<phrase weight="0.02574257425742574" count="13">electricity divisions</phrase>
+	<phrase weight="0.02178217821782178" count="11">priorities divisions</phrase>
+	<phrase weight="0.01782178217821782" count="9">electricity division</phrase>
+	<phrase weight="0.015841584158415842" count="8">petroleum division</phrase>
+	<phrase weight="0.013861386138613862" count="7">chief scientist</phrase>
+	<phrase weight="0.011881188118811881" count="6">accountant general</phrase>
+	<phrase weight="0.007920792079207921" count="4">coal industry nationalisation act</phrase>
+	<phrase weight="0.007920792079207921" count="4">nuclear installations</phrase>
+	<phrase weight="0.007920792079207921" count="4">advisory council</phrase>
+	<phrase weight="0.007920792079207921" count="4">general division</phrase>
+	<phrase weight="0.007920792079207921" count="4">statistics collected</phrase>
+	<phrase weight="0.007920792079207921" count="4">annual reports</phrase>
+	<phrase weight="0.007920792079207921" count="4">statistics division</phrase>
+	<phrase weight="0.005940594059405941" count="3">economics division</phrase>
+	<phrase weight="0.005940594059405941" count="3">electricity supply industry</phrase>
+	<phrase weight="0.005940594059405941" count="3">national coal board</phrase>
+	<phrase weight="0.005940594059405941" count="3">gas division</phrase>
+	<phrase weight="0.005940594059405941" count="3">gas referees</phrase>
+	<phrase weight="0.005940594059405941" count="3">priorities division</phrase>
+  </topic>
+</topics>

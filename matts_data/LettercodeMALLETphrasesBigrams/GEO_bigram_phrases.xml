@@ -1,0 +1,33 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="21.71308389562726" totalTokens="111" titles="government, equalities, commission, uk, geo, women, national, equality, business, rights">
+	<word weight="0.17117117117117117" count="19">government</word>
+	<word weight="0.10810810810810811" count="12">equalities</word>
+	<word weight="0.06306306306306306" count="7">commission</word>
+	<word weight="0.06306306306306306" count="7">uk</word>
+	<word weight="0.06306306306306306" count="7">geo</word>
+	<word weight="0.05405405405405406" count="6">women</word>
+	<word weight="0.05405405405405406" count="6">national</word>
+	<word weight="0.04504504504504504" count="5">equality</word>
+	<word weight="0.036036036036036036" count="4">business</word>
+	<word weight="0.02702702702702703" count="3">rights</word>
+	<word weight="0.02702702702702703" count="3">human</word>
+	<word weight="0.018018018018018018" count="2">equalityhumanrights</word>
+	<word weight="0.018018018018018018" count="2">www</word>
+	<word weight="0.018018018018018018" count="2">http</word>
+	<word weight="0.018018018018018018" count="2">wnc</word>
+	<word weight="0.018018018018018018" count="2">field</word>
+	<word weight="0.018018018018018018" count="2">general</word>
+	<word weight="0.018018018018018018" count="2">dcms</word>
+	<word weight="0.018018018018018018" count="2">council</word>
+	<word weight="0.018018018018018018" count="2">equities</word>
+	<phrase weight="0.21052631578947367" count="4">uk government</phrase>
+	<phrase weight="0.21052631578947367" count="4">national commission</phrase>
+	<phrase weight="0.15789473684210525" count="3">human rights commission</phrase>
+	<phrase weight="0.10526315789473684" count="2">child care business grants scheme</phrase>
+	<phrase weight="0.10526315789473684" count="2">government equalities</phrase>
+	<phrase weight="0.10526315789473684" count="2">business council</phrase>
+	<phrase weight="0.05263157894736842" count="1">national equality panel</phrase>
+	<phrase weight="0.05263157894736842" count="1">equality panel</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.144096025496531" totalTokens="5140" titles="letter books, central administrative, mainland english, hm revenue, comprising orders, board, customs, outport, excise, collector">
+	<word weight="0.06245136186770428" count="321">board</word>
+	<word weight="0.05680933852140078" count="292">customs</word>
+	<word weight="0.03249027237354086" count="167">outport</word>
+	<word weight="0.02840466926070039" count="146">excise</word>
+	<word weight="0.026848249027237352" count="138">books</word>
+	<word weight="0.020817120622568092" count="107">letter</word>
+	<word weight="0.018287937743190662" count="94">collector</word>
+	<word weight="0.01556420233463035" count="80">revenue</word>
+	<word weight="0.015175097276264591" count="78">irish</word>
+	<word weight="0.014785992217898832" count="76">orders</word>
+	<word weight="0.012840466926070038" count="66">administrative</word>
+	<word weight="0.01264591439688716" count="65">general</word>
+	<word weight="0.012451361867704281" count="64">central</word>
+	<word weight="0.011284046692607004" count="58">uk</word>
+	<word weight="0.011284046692607004" count="58">staff</word>
+	<word weight="0.011089494163424125" count="57">hm</word>
+	<word weight="0.010894941634241245" count="56">exports</word>
+	<word weight="0.010700389105058366" count="55">imports</word>
+	<word weight="0.010116731517509728" count="52">miscellaneous</word>
+	<word weight="0.00953307392996109" count="49">scottish</word>
+	<phrase weight="0.07088607594936709" count="56">letter books</phrase>
+	<phrase weight="0.05569620253164557" count="44">central administrative</phrase>
+	<phrase weight="0.043037974683544304" count="34">mainland english</phrase>
+	<phrase weight="0.04050632911392405" count="32">hm revenue</phrase>
+	<phrase weight="0.03164556962025317" count="25">comprising orders</phrase>
+	<phrase weight="0.0189873417721519" count="15">wreck depositions</phrase>
+	<phrase weight="0.017721518987341773" count="14">general letter books</phrase>
+	<phrase weight="0.016455696202531647" count="13">hm customs</phrase>
+	<phrase weight="0.012658227848101266" count="10">entry books</phrase>
+	<phrase weight="0.012658227848101266" count="10">report books</phrase>
+	<phrase weight="0.01139240506329114" count="9">miscellaneous letter books</phrase>
+	<phrase weight="0.01139240506329114" count="9">foreign ships</phrase>
+	<phrase weight="0.010126582278481013" count="8">inland revenue</phrase>
+	<phrase weight="0.007594936708860759" count="6">inspector general</phrase>
+	<phrase weight="0.007594936708860759" count="6">trade letter books</phrase>
+	<phrase weight="0.006329113924050633" count="5">south shields</phrase>
+	<phrase weight="0.005063291139240506" count="4">irish revenue board</phrase>
+	<phrase weight="0.005063291139240506" count="4">customs prosecutions</phrase>
+	<phrase weight="0.005063291139240506" count="4">hm revenue customs uk trade</phrase>
+	<phrase weight="0.005063291139240506" count="4">letter entry books</phrase>
+  </topic>
+</topics>

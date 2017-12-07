@@ -1,0 +1,17 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.4694021088471274" totalTokens="39" titles="services, operator, vehicle, vosa, info, mot, government, division, www.vosa.gov.uk, www.dft.gov.uk/vosa">
+	<word weight="0.20512820512820512" count="8">services</word>
+	<word weight="0.20512820512820512" count="8">operator</word>
+	<word weight="0.20512820512820512" count="8">vehicle</word>
+	<word weight="0.10256410256410256" count="4">vosa</word>
+	<word weight="0.05128205128205128" count="2">info</word>
+	<word weight="0.05128205128205128" count="2">mot</word>
+	<word weight="0.05128205128205128" count="2">government</word>
+	<word weight="0.02564102564102564" count="1">division</word>
+	<word weight="0.02564102564102564" count="1">www.vosa.gov.uk</word>
+	<word weight="0.02564102564102564" count="1">www.dft.gov.uk/vosa</word>
+	<word weight="0.02564102564102564" count="1">field</word>
+	<word weight="0.02564102564102564" count="1">general</word>
+  </topic>
+</topics>

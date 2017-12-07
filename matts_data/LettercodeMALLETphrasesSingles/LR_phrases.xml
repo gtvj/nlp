@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.209008867584816" totalTokens="1292" titles="auditors, land, crown, accounts, revenue, lands, receivers, century, books, court">
+	<word weight="0.04179566563467492" count="54">auditors</word>
+	<word weight="0.037925696594427245" count="49">land</word>
+	<word weight="0.034055727554179564" count="44">crown</word>
+	<word weight="0.029411764705882353" count="38">accounts</word>
+	<word weight="0.02631578947368421" count="34">revenue</word>
+	<word weight="0.025541795665634675" count="33">lands</word>
+	<word weight="0.020123839009287926" count="26">receivers</word>
+	<word weight="0.018575851393188854" count="24">century</word>
+	<word weight="0.013157894736842105" count="17">books</word>
+	<word weight="0.011609907120743035" count="15">court</word>
+	<word weight="0.010061919504643963" count="13">warrants</word>
+	<word weight="0.009287925696594427" count="12">sale</word>
+	<word weight="0.009287925696594427" count="12">consort</word>
+	<word weight="0.009287925696594427" count="12">general</word>
+	<word weight="0.008513931888544891" count="11">particulars</word>
+	<word weight="0.008513931888544891" count="11">seventeenth</word>
+	<word weight="0.008513931888544891" count="11">ministers</word>
+	<word weight="0.007739938080495356" count="10">augmentations</word>
+	<word weight="0.007739938080495356" count="10">commissioners</word>
+	<word weight="0.007739938080495356" count="10">queens</word>
+  </topic>
+</topics>

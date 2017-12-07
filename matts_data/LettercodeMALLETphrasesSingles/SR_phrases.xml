@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.265292974719687" totalTokens="446" titles="berr, enterprise, business, reform, regulatory, government, regulation, advisory, development, west">
+	<word weight="0.09865470852017937" count="44">berr</word>
+	<word weight="0.09192825112107623" count="41">enterprise</word>
+	<word weight="0.09192825112107623" count="41">business</word>
+	<word weight="0.08744394618834081" count="39">reform</word>
+	<word weight="0.08744394618834081" count="39">regulatory</word>
+	<word weight="0.07847533632286996" count="35">government</word>
+	<word weight="0.013452914798206279" count="6">regulation</word>
+	<word weight="0.013452914798206279" count="6">advisory</word>
+	<word weight="0.013452914798206279" count="6">development</word>
+	<word weight="0.008968609865470852" count="4">west</word>
+	<word weight="0.008968609865470852" count="4">consumer</word>
+	<word weight="0.008968609865470852" count="4">carbon</word>
+	<word weight="0.008968609865470852" count="4">energy</word>
+	<word weight="0.008968609865470852" count="4">nuclear</word>
+	<word weight="0.008968609865470852" count="4">council</word>
+	<word weight="0.008968609865470852" count="4">board</word>
+	<word weight="0.004484304932735426" count="2">renewables</word>
+	<word weight="0.004484304932735426" count="2">executive</word>
+	<word weight="0.004484304932735426" count="2">www.og.berr.gov.uk</word>
+	<word weight="0.004484304932735426" count="2">gas</word>
+  </topic>
+</topics>

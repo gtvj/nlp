@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.439468554176889" totalTokens="1058" titles="directgov, government, service, advice, careers, student, local, finance, field, general">
+	<word weight="0.2646502835538752" count="280">directgov</word>
+	<word weight="0.10491493383742911" count="111">government</word>
+	<word weight="0.015122873345935728" count="16">service</word>
+	<word weight="0.011342155009451797" count="12">advice</word>
+	<word weight="0.011342155009451797" count="12">careers</word>
+	<word weight="0.011342155009451797" count="12">student</word>
+	<word weight="0.010396975425330813" count="11">direct</word>
+	<word weight="0.00945179584120983" count="10">local</word>
+	<word weight="0.00945179584120983" count="10">finance</word>
+	<word weight="0.00945179584120983" count="10">field</word>
+	<word weight="0.00945179584120983" count="10">general</word>
+	<word weight="0.008506616257088847" count="9">gov</word>
+	<word weight="0.007561436672967864" count="8">national</word>
+	<word weight="0.007561436672967864" count="8">search</word>
+	<word weight="0.007561436672967864" count="8">skills</word>
+	<word weight="0.005671077504725898" count="6">fire</word>
+	<word weight="0.005671077504725898" count="6">calculator</word>
+	<word weight="0.005671077504725898" count="6">queen's</word>
+	<word weight="0.005671077504725898" count="6">safety</word>
+	<word weight="0.005671077504725898" count="6">child</word>
+  </topic>
+</topics>

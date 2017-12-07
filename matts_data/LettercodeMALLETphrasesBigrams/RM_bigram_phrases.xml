@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.798204605617261" totalTokens="1338" titles="royal botanic gardens, kew, rm, correspondence, collection, botanist, field, wishing, consult, hooker">
+	<word weight="0.04932735426008968" count="66">kew</word>
+	<word weight="0.045590433482810166" count="61">gardens</word>
+	<word weight="0.04035874439461883" count="54">rm</word>
+	<word weight="0.03961136023916293" count="53">botanic</word>
+	<word weight="0.03886397608370702" count="52">royal</word>
+	<word weight="0.01943198804185351" count="26">correspondence</word>
+	<word weight="0.0171898355754858" count="23">collection</word>
+	<word weight="0.014947683109118086" count="20">botanist</word>
+	<word weight="0.013452914798206279" count="18">field</word>
+	<word weight="0.01195814648729447" count="16">consult</word>
+	<word weight="0.01195814648729447" count="16">wishing</word>
+	<word weight="0.009715994020926755" count="13">hooker</word>
+	<word weight="0.008968609865470852" count="12">plant</word>
+	<word weight="0.008968609865470852" count="12">william</word>
+	<word weight="0.008968609865470852" count="12">botanical</word>
+	<word weight="0.007473841554559043" count="10">lrp</word>
+	<word weight="0.007473841554559043" count="10">director</word>
+	<word weight="0.007473841554559043" count="10">group</word>
+	<word weight="0.007473841554559043" count="10">photographs</word>
+	<word weight="0.006726457399103139" count="9">henry</word>
+	<phrase weight="0.1652892561983471" count="40">royal botanic gardens</phrase>
+	<phrase weight="0.049586776859504134" count="12">botanic gardens</phrase>
+	<phrase weight="0.02066115702479339" count="5">uk government</phrase>
+	<phrase weight="0.01652892561983471" count="4">kew gardens</phrase>
+	<phrase weight="0.01652892561983471" count="4">world war</phrase>
+	<phrase weight="0.01652892561983471" count="4">norman douglas simpson</phrase>
+	<phrase weight="0.01652892561983471" count="4">pleasure grounds</phrase>
+	<phrase weight="0.012396694214876033" count="3">william jackson hooker</phrase>
+	<phrase weight="0.012396694214876033" count="3">marianne north</phrase>
+	<phrase weight="0.012396694214876033" count="3">augustine henry</phrase>
+	<phrase weight="0.012396694214876033" count="3">press cuttings</phrase>
+	<phrase weight="0.012396694214876033" count="3">john eliot howard</phrase>
+	<phrase weight="0.012396694214876033" count="3">dr william arnold bromfield</phrase>
+	<phrase weight="0.012396694214876033" count="3">richard spruce</phrase>
+	<phrase weight="0.012396694214876033" count="3">joseph banks</phrase>
+	<phrase weight="0.012396694214876033" count="3">joseph hooker</phrase>
+	<phrase weight="0.008264462809917356" count="2">lovell reeve publishing company</phrase>
+	<phrase weight="0.008264462809917356" count="2">kew collectors</phrase>
+	<phrase weight="0.008264462809917356" count="2">west indies</phrase>
+	<phrase weight="0.008264462809917356" count="2">newspaper cuttings</phrase>
+  </topic>
+</topics>

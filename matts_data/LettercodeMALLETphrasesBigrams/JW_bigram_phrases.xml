@@ -1,0 +1,36 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="53.225523420305535" totalTokens="98" titles="board, metrication, jw, industries, division, secretariat, input, reports, annual, engineering">
+	<word weight="0.14285714285714285" count="14">board</word>
+	<word weight="0.10204081632653061" count="10">metrication</word>
+	<word weight="0.07142857142857142" count="7">jw</word>
+	<word weight="0.04081632653061224" count="4">industries</word>
+	<word weight="0.030612244897959183" count="3">division</word>
+	<word weight="0.030612244897959183" count="3">secretariat</word>
+	<word weight="0.030612244897959183" count="3">input</word>
+	<word weight="0.030612244897959183" count="3">reports</word>
+	<word weight="0.030612244897959183" count="3">annual</word>
+	<word weight="0.02040816326530612" count="2">engineering</word>
+	<word weight="0.02040816326530612" count="2">metric</word>
+	<word weight="0.02040816326530612" count="2">responsible</word>
+	<word weight="0.02040816326530612" count="2">minutes</word>
+	<word weight="0.01020408163265306" count="1">report</word>
+	<word weight="0.01020408163265306" count="1">power</word>
+	<word weight="0.01020408163265306" count="1">strategy</word>
+	<word weight="0.01020408163265306" count="1">discussion</word>
+	<word weight="0.01020408163265306" count="1">economy</word>
+	<word weight="0.01020408163265306" count="1">sectors</word>
+	<word weight="0.01020408163265306" count="1">agricultural</word>
+	<phrase weight="0.29411764705882354" count="5">metrication board</phrase>
+	<phrase weight="0.11764705882352941" count="2">annual reports</phrase>
+	<phrase weight="0.11764705882352941" count="2">industries division</phrase>
+	<phrase weight="0.058823529411764705" count="1">general policy</phrase>
+	<phrase weight="0.058823529411764705" count="1">metric measures</phrase>
+	<phrase weight="0.058823529411764705" count="1">annual report</phrase>
+	<phrase weight="0.058823529411764705" count="1">metrication strategy</phrase>
+	<phrase weight="0.058823529411764705" count="1">agricultural sectors</phrase>
+	<phrase weight="0.058823529411764705" count="1">arranging metrication board business</phrase>
+	<phrase weight="0.058823529411764705" count="1">steering committees</phrase>
+	<phrase weight="0.058823529411764705" count="1">meeting agendas</phrase>
+  </topic>
+</topics>

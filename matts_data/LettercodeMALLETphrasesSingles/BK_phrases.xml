@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.630538607777334" totalTokens="1547" titles="dock, labour, board, national, london, corporation, general, minutes, ndlb, scheme">
+	<word weight="0.13445378151260504" count="208">dock</word>
+	<word weight="0.12217194570135746" count="189">labour</word>
+	<word weight="0.08597285067873303" count="133">board</word>
+	<word weight="0.08532643826761474" count="132">national</word>
+	<word weight="0.023270846800258566" count="36">london</word>
+	<word weight="0.02262443438914027" count="35">corporation</word>
+	<word weight="0.01680672268907563" count="26">general</word>
+	<word weight="0.014867485455720749" count="23">minutes</word>
+	<word weight="0.012928248222365869" count="20">ndlb</word>
+	<word weight="0.010342598577892695" count="16">scheme</word>
+	<word weight="0.010342598577892695" count="16">meetings</word>
+	<word weight="0.00904977375565611" count="14">south</word>
+	<word weight="0.008403361344537815" count="13">coast</word>
+	<word weight="0.007756948933419522" count="12">head</word>
+	<word weight="0.007756948933419522" count="12">section</word>
+	<word weight="0.007756948933419522" count="12">statistical</word>
+	<word weight="0.007110536522301228" count="11">immingham</word>
+	<word weight="0.007110536522301228" count="11">grimsby</word>
+	<word weight="0.007110536522301228" count="11">work</word>
+	<word weight="0.006464124111182934" count="10">workers</word>
+  </topic>
+</topics>

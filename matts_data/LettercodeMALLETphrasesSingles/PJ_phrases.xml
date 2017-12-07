@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.307952683764788" totalTokens="482" titles="trade, division, policy, export, successors, industry, european, commercial, overseas, general">
+	<word weight="0.07053941908713693" count="34">trade</word>
+	<word weight="0.06639004149377593" count="32">division</word>
+	<word weight="0.05186721991701245" count="25">policy</word>
+	<word weight="0.03112033195020747" count="15">export</word>
+	<word weight="0.022821576763485476" count="11">successors</word>
+	<word weight="0.022821576763485476" count="11">industry</word>
+	<word weight="0.02074688796680498" count="10">european</word>
+	<word weight="0.02074688796680498" count="10">commercial</word>
+	<word weight="0.01867219917012448" count="9">overseas</word>
+	<word weight="0.01867219917012448" count="9">general</word>
+	<word weight="0.014522821576763486" count="7">projects</word>
+	<word weight="0.012448132780082987" count="6">competition</word>
+	<word weight="0.012448132780082987" count="6">industrial</word>
+	<word weight="0.012448132780082987" count="6">tourism</word>
+	<word weight="0.012448132780082987" count="6">service</word>
+	<word weight="0.012448132780082987" count="6">relations</word>
+	<word weight="0.01037344398340249" count="5">industries</word>
+	<word weight="0.008298755186721992" count="4">fairs</word>
+	<word weight="0.008298755186721992" count="4">western</word>
+	<word weight="0.008298755186721992" count="4">international</word>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="9.007295065434962" totalTokens="718" titles="training, employment, learning, education, datasets, questions, staff, schools, employees, services">
+	<word weight="0.06545961002785515" count="47">training</word>
+	<word weight="0.033426183844011144" count="24">employment</word>
+	<word weight="0.027855153203342618" count="20">learning</word>
+	<word weight="0.027855153203342618" count="20">education</word>
+	<word weight="0.020891364902506964" count="15">datasets</word>
+	<word weight="0.018105849582172703" count="13">questions</word>
+	<word weight="0.016713091922005572" count="12">staff</word>
+	<word weight="0.01532033426183844" count="11">dataset</word>
+	<word weight="0.013927576601671309" count="10">schools</word>
+	<word weight="0.013927576601671309" count="10">data</word>
+	<word weight="0.012534818941504178" count="9">employees</word>
+	<word weight="0.012534818941504178" count="9">services</word>
+	<word weight="0.011142061281337047" count="8">costs</word>
+	<word weight="0.011142061281337047" count="8">surveys</word>
+	<word weight="0.009749303621169917" count="7">numbers</word>
+	<word weight="0.009749303621169917" count="7">number</word>
+	<word weight="0.008356545961002786" count="6">asked</word>
+	<word weight="0.008356545961002786" count="6">months</word>
+	<word weight="0.008356545961002786" count="6">off-the-job</word>
+	<word weight="0.008356545961002786" count="6">questionnaire</word>
+  </topic>
+</topics>

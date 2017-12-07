@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.596133038838846" totalTokens="969" titles="tribunals, service, courts, majesty's, government, guidance, immigration, appeals, asylum, general">
+	<word weight="0.15170278637770898" count="147">tribunals</word>
+	<word weight="0.1393188854489164" count="135">service</word>
+	<word weight="0.09700722394220847" count="94">tribunal</word>
+	<word weight="0.07017543859649122" count="68">courts</word>
+	<word weight="0.06398348813209494" count="62">majesty's</word>
+	<word weight="0.06191950464396285" count="60">government</word>
+	<word weight="0.038183694530443756" count="37">guidance</word>
+	<word weight="0.022703818369453045" count="22">immigration</word>
+	<word weight="0.017543859649122806" count="17">appeals</word>
+	<word weight="0.014447884416924664" count="14">asylum</word>
+	<word weight="0.013415892672858616" count="13">general</word>
+	<word weight="0.011351909184726523" count="11">first-tier</word>
+	<word weight="0.010319917440660475" count="10">tax</word>
+	<word weight="0.010319917440660475" count="10">special</word>
+	<word weight="0.009287925696594427" count="9">chamber</word>
+	<word weight="0.009287925696594427" count="9">upper</word>
+	<word weight="0.009287925696594427" count="9">field</word>
+	<word weight="0.008255933952528379" count="8">services</word>
+	<word weight="0.008255933952528379" count="8">social</word>
+	<word weight="0.008255933952528379" count="8">panel</word>
+  </topic>
+</topics>

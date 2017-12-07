@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.6473566250341332" totalTokens="41" titles="maps, plans, bench, king's, court, drawings, public, size, measure, preservation">
+	<word weight="0.12195121951219512" count="5">maps</word>
+	<word weight="0.0975609756097561" count="4">plans</word>
+	<word weight="0.07317073170731707" count="3">bench</word>
+	<word weight="0.07317073170731707" count="3">king's</word>
+	<word weight="0.07317073170731707" count="3">court</word>
+	<word weight="0.04878048780487805" count="2">drawings</word>
+	<word weight="0.04878048780487805" count="2">public</word>
+	<word weight="0.024390243902439025" count="1">size</word>
+	<word weight="0.024390243902439025" count="1">measure</word>
+	<word weight="0.024390243902439025" count="1">preservation</word>
+	<word weight="0.024390243902439025" count="1">primarily</word>
+	<word weight="0.024390243902439025" count="1">transfer</word>
+	<word weight="0.024390243902439025" count="1">cater</word>
+	<word weight="0.024390243902439025" count="1">century</word>
+	<word weight="0.024390243902439025" count="1">twentieth</word>
+	<word weight="0.024390243902439025" count="1">accumulations</word>
+	<word weight="0.024390243902439025" count="1">artificial</word>
+	<word weight="0.024390243902439025" count="1">extra</word>
+	<word weight="0.024390243902439025" count="1">standardised</word>
+	<word weight="0.024390243902439025" count="1">modernised</word>
+  </topic>
+</topics>

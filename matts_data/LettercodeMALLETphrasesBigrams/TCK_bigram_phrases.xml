@@ -1,0 +1,37 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.364746173106189" totalTokens="68" titles="preece, bt, telecommunications, private, online, developments, chief, engineer, post, career">
+	<word weight="0.058823529411764705" count="4">preece</word>
+	<word weight="0.04411764705882353" count="3">bt</word>
+	<word weight="0.04411764705882353" count="3">telecommunications</word>
+	<word weight="0.04411764705882353" count="3">private</word>
+	<word weight="0.029411764705882353" count="2">online</word>
+	<word weight="0.029411764705882353" count="2">developments</word>
+	<word weight="0.029411764705882353" count="2">chief</word>
+	<word weight="0.029411764705882353" count="2">engineer</word>
+	<word weight="0.029411764705882353" count="2">post</word>
+	<word weight="0.029411764705882353" count="2">career</word>
+	<word weight="0.029411764705882353" count="2">individuals</word>
+	<word weight="0.029411764705882353" count="2">collected</word>
+	<word weight="0.029411764705882353" count="2">collections</word>
+	<word weight="0.014705882352941176" count="1">individual</word>
+	<word weight="0.014705882352941176" count="1">museum</word>
+	<word weight="0.014705882352941176" count="1">postal</word>
+	<word weight="0.014705882352941176" count="1">signalling</word>
+	<word weight="0.014705882352941176" count="1">railway</word>
+	<word weight="0.014705882352941176" count="1">involvement</word>
+	<word weight="0.014705882352941176" count="1">telegraphy</word>
+	<phrase weight="0.15384615384615385" count="2">private collections</phrase>
+	<phrase weight="0.07692307692307693" count="1">wireless telegraphy</phrase>
+	<phrase weight="0.07692307692307693" count="1">railway signalling developments</phrase>
+	<phrase weight="0.07692307692307693" count="1">guglielmo marconi</phrase>
+	<phrase weight="0.07692307692307693" count="1">early telegraph</phrase>
+	<phrase weight="0.07692307692307693" count="1">electrical engineers</phrase>
+	<phrase weight="0.07692307692307693" count="1">postal museum</phrase>
+	<phrase weight="0.07692307692307693" count="1">private individuals</phrase>
+	<phrase weight="0.07692307692307693" count="1">predominantly concerned</phrase>
+	<phrase weight="0.07692307692307693" count="1">william henry preece</phrase>
+	<phrase weight="0.07692307692307693" count="1">letter books</phrase>
+	<phrase weight="0.07692307692307693" count="1">personal achievements</phrase>
+  </topic>
+</topics>

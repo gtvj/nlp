@@ -1,0 +1,21 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.9665750249473049" totalTokens="31" titles="commission, wales, monuments, ancient, royal, correspondence, reports, secretary, minutes, monmouthshire">
+	<word weight="0.16129032258064516" count="5">commission</word>
+	<word weight="0.0967741935483871" count="3">wales</word>
+	<word weight="0.0967741935483871" count="3">monuments</word>
+	<word weight="0.0967741935483871" count="3">ancient</word>
+	<word weight="0.0967741935483871" count="3">royal</word>
+	<word weight="0.06451612903225806" count="2">correspondence</word>
+	<word weight="0.06451612903225806" count="2">reports</word>
+	<word weight="0.06451612903225806" count="2">secretary</word>
+	<word weight="0.06451612903225806" count="2">minutes</word>
+	<word weight="0.06451612903225806" count="2">monmouthshire</word>
+	<word weight="0.03225806451612903" count="1">meetings</word>
+	<word weight="0.03225806451612903" count="1">history</word>
+	<word weight="0.03225806451612903" count="1">early</word>
+	<word weight="0.03225806451612903" count="1">bearing</word>
+	<phrase weight="0.75" count="3">royal commission</phrase>
+	<phrase weight="0.25" count="1">early history</phrase>
+  </topic>
+</topics>

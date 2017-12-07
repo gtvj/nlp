@@ -1,0 +1,27 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.6469291302965956" totalTokens="43" titles="government, regional, local, state, secretary, private, planning, fk, presentation, machinery">
+	<word weight="0.11627906976744186" count="5">government</word>
+	<word weight="0.09302325581395349" count="4">regional</word>
+	<word weight="0.09302325581395349" count="4">local</word>
+	<word weight="0.09302325581395349" count="4">state</word>
+	<word weight="0.09302325581395349" count="4">secretary</word>
+	<word weight="0.06976744186046512" count="3">private</word>
+	<word weight="0.06976744186046512" count="3">planning</word>
+	<word weight="0.06976744186046512" count="3">fk</word>
+	<word weight="0.023255813953488372" count="1">presentation</word>
+	<word weight="0.023255813953488372" count="1">machinery</word>
+	<word weight="0.023255813953488372" count="1">policy</word>
+	<word weight="0.023255813953488372" count="1">aspects</word>
+	<word weight="0.023255813953488372" count="1">regions</word>
+	<word weight="0.023255813953488372" count="1">meetings</word>
+	<word weight="0.023255813953488372" count="1">visits</word>
+	<word weight="0.023255813953488372" count="1">relate</word>
+	<word weight="0.023255813953488372" count="1">appointment</word>
+	<word weight="0.023255813953488372" count="1">dating</word>
+	<word weight="0.023255813953488372" count="1">pre</word>
+	<word weight="0.023255813953488372" count="1">crosland</word>
+	<phrase weight="0.8" count="4">local government</phrase>
+	<phrase weight="0.2" count="1">anthony crosland</phrase>
+  </topic>
+</topics>

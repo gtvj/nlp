@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.2472428648220293" totalTokens="101" titles="company, bay, hudson's, vancouver, coal, wool, american, island, river, red">
+	<word weight="0.13861386138613863" count="14">company</word>
+	<word weight="0.04950495049504951" count="5">bay</word>
+	<word weight="0.04950495049504951" count="5">hudson's</word>
+	<word weight="0.0297029702970297" count="3">vancouver</word>
+	<word weight="0.019801980198019802" count="2">coal</word>
+	<word weight="0.019801980198019802" count="2">wool</word>
+	<word weight="0.019801980198019802" count="2">american</word>
+	<word weight="0.019801980198019802" count="2">island</word>
+	<word weight="0.019801980198019802" count="2">river</word>
+	<word weight="0.019801980198019802" count="2">red</word>
+	<word weight="0.019801980198019802" count="2">north</word>
+	<word weight="0.009900990099009901" count="1">microfilmed</word>
+	<word weight="0.009900990099009901" count="1">land</word>
+	<word weight="0.009900990099009901" count="1">western</word>
+	<word weight="0.009900990099009901" count="1">atlases</word>
+	<word weight="0.009900990099009901" count="1">specifications</word>
+	<word weight="0.009900990099009901" count="1">drawings</word>
+	<word weight="0.009900990099009901" count="1">architects</word>
+	<word weight="0.009900990099009901" count="1">towns</word>
+	<word weight="0.009900990099009901" count="1">cities</word>
+  </topic>
+</topics>

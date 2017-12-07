@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.916090560760974" totalTokens="1161" titles="energy, division, policy, atomic, industry, oil, nationalised, nuclear, industries, inquiry">
+	<word weight="0.08785529715762273" count="102">energy</word>
+	<word weight="0.04392764857881137" count="51">division</word>
+	<word weight="0.024978466838931956" count="29">policy</word>
+	<word weight="0.02239448751076658" count="26">atomic</word>
+	<word weight="0.01808785529715762" count="21">industry</word>
+	<word weight="0.013781223083548665" count="16">oil</word>
+	<word weight="0.01119724375538329" count="13">nationalised</word>
+	<word weight="0.01119724375538329" count="13">nuclear</word>
+	<word weight="0.0103359173126615" count="12">industries</word>
+	<word weight="0.0103359173126615" count="12">inquiry</word>
+	<word weight="0.009474590869939707" count="11">international</word>
+	<word weight="0.009474590869939707" count="11">public</word>
+	<word weight="0.009474590869939707" count="11">power</word>
+	<word weight="0.008613264427217916" count="10">development</word>
+	<word weight="0.008613264427217916" count="10">technology</word>
+	<word weight="0.007751937984496124" count="9">relate</word>
+	<word weight="0.007751937984496124" count="9">predecessors</word>
+	<word weight="0.0068906115417743325" count="8">successors</word>
+	<word weight="0.0068906115417743325" count="8">gas</word>
+	<word weight="0.0068906115417743325" count="8">research</word>
+	<phrase weight="0.031578947368421054" count="6">atomic energy division</phrase>
+	<phrase weight="0.021052631578947368" count="4">public inquiry</phrase>
+	<phrase weight="0.015789473684210527" count="3">corporate planning</phrase>
+	<phrase weight="0.010526315789473684" count="2">atomic energy</phrase>
+	<phrase weight="0.010526315789473684" count="2">oil companies</phrase>
+	<phrase weight="0.010526315789473684" count="2">nationalised industries</phrase>
+	<phrase weight="0.010526315789473684" count="2">energy conservation</phrase>
+	<phrase weight="0.010526315789473684" count="2">gas directorate</phrase>
+	<phrase weight="0.010526315789473684" count="2">oil policy</phrase>
+	<phrase weight="0.010526315789473684" count="2">nationalised industries division</phrase>
+	<phrase weight="0.010526315789473684" count="2">depletion policy</phrase>
+	<phrase weight="0.010526315789473684" count="2">international atomic energy</phrase>
+	<phrase weight="0.010526315789473684" count="2">offshore supplies</phrase>
+	<phrase weight="0.010526315789473684" count="2">nationalised industries policy division</phrase>
+	<phrase weight="0.010526315789473684" count="2">international relations generally</phrase>
+	<phrase weight="0.010526315789473684" count="2">united kingdom atomic energy authority</phrase>
+	<phrase weight="0.010526315789473684" count="2">fossil fuels</phrase>
+	<phrase weight="0.010526315789473684" count="2">central electricity generating board</phrase>
+	<phrase weight="0.010526315789473684" count="2">coal division</phrase>
+	<phrase weight="0.005263157894736842" count="1">construction sites</phrase>
+  </topic>
+</topics>

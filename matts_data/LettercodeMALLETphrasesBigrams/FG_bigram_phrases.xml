@@ -1,0 +1,41 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="14.520686826621917" totalTokens="179" titles="economic, development, national, fg, council, work, nedo, publications, minutes, error">
+	<word weight="0.1452513966480447" count="26">economic</word>
+	<word weight="0.12849162011173185" count="23">development</word>
+	<word weight="0.12849162011173185" count="23">national</word>
+	<word weight="0.055865921787709494" count="10">fg</word>
+	<word weight="0.0446927374301676" count="8">council</word>
+	<word weight="0.01675977653631285" count="3">work</word>
+	<word weight="0.01675977653631285" count="3">nedo</word>
+	<word weight="0.01675977653631285" count="3">publications</word>
+	<word weight="0.0111731843575419" count="2">minutes</word>
+	<word weight="0.0111731843575419" count="2">error</word>
+	<word weight="0.0111731843575419" count="2">assigned</word>
+	<word weight="0.0111731843575419" count="2">administration</word>
+	<word weight="0.0111731843575419" count="2">membership</word>
+	<word weight="0.0111731843575419" count="2">undertaken</word>
+	<word weight="0.0111731843575419" count="2">performance</word>
+	<word weight="0.0111731843575419" count="2">committees</word>
+	<word weight="0.0111731843575419" count="2">case</word>
+	<word weight="0.0111731843575419" count="2">industry</word>
+	<word weight="0.00558659217877095" count="1">supporting</word>
+	<word weight="0.00558659217877095" count="1">meetings</word>
+	<phrase weight="0.20689655172413793" count="6">national economic development</phrase>
+	<phrase weight="0.13793103448275862" count="4">national economic development council</phrase>
+	<phrase weight="0.13793103448275862" count="4">economic development</phrase>
+	<phrase weight="0.06896551724137931" count="2">work undertaken</phrase>
+	<phrase weight="0.06896551724137931" count="2">economic development council</phrase>
+	<phrase weight="0.034482758620689655" count="1">tripartite committees</phrase>
+	<phrase weight="0.034482758620689655" count="1">economic growth policy</phrase>
+	<phrase weight="0.034482758620689655" count="1">covering macro</phrase>
+	<phrase weight="0.034482758620689655" count="1">industry division reports</phrase>
+	<phrase weight="0.034482758620689655" count="1">economic performance</phrase>
+	<phrase weight="0.034482758620689655" count="1">education divisions interests</phrase>
+	<phrase weight="0.034482758620689655" count="1">industrial sectors</phrase>
+	<phrase weight="0.034482758620689655" count="1">general administration</phrase>
+	<phrase weight="0.034482758620689655" count="1">industry consultations</phrase>
+	<phrase weight="0.034482758620689655" count="1">economic development committees</phrase>
+	<phrase weight="0.034482758620689655" count="1">registration system</phrase>
+  </topic>
+</topics>

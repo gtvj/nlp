@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="14.001867452307536" totalTokens="167" titles="service, court, successors, courts, government, statistics, data, datasets, judicial, general">
+	<word weight="0.09580838323353294" count="16">service</word>
+	<word weight="0.08383233532934131" count="14">court</word>
+	<word weight="0.05389221556886228" count="9">successors</word>
+	<word weight="0.04790419161676647" count="8">courts</word>
+	<word weight="0.041916167664670656" count="7">government</word>
+	<word weight="0.029940119760479042" count="5">statistics</word>
+	<word weight="0.023952095808383235" count="4">data</word>
+	<word weight="0.023952095808383235" count="4">datasets</word>
+	<word weight="0.023952095808383235" count="4">judicial</word>
+	<word weight="0.017964071856287425" count="3">general</word>
+	<word weight="0.017964071856287425" count="3">crown</word>
+	<word weight="0.017964071856287425" count="3">division</word>
+	<word weight="0.011976047904191617" count="2">tribunals</word>
+	<word weight="0.011976047904191617" count="2">majesty's</word>
+	<word weight="0.011976047904191617" count="2">committee</word>
+	<word weight="0.011976047904191617" count="2">rule</word>
+	<word weight="0.011976047904191617" count="2">advocate</word>
+	<word weight="0.011976047904191617" count="2">judge</word>
+	<word weight="0.011976047904191617" count="2">boards</word>
+	<word weight="0.011976047904191617" count="2">helpline</word>
+  </topic>
+</topics>

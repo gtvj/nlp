@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.091542653567754" totalTokens="823" titles="crown agents, governments, administrations, oversea, general, finance, colonies, public, representative, predecessor">
+	<word weight="0.09477521263669501" count="78">agents</word>
+	<word weight="0.0899149453219927" count="74">crown</word>
+	<word weight="0.046172539489671933" count="38">governments</word>
+	<word weight="0.040097205346294046" count="33">administrations</word>
+	<word weight="0.038882138517618466" count="32">oversea</word>
+	<word weight="0.027946537059538274" count="23">general</word>
+	<word weight="0.019441069258809233" count="16">finance</word>
+	<word weight="0.013365735115431349" count="11">colonies</word>
+	<word weight="0.010935601458080195" count="9">representative</word>
+	<word weight="0.010935601458080195" count="9">public</word>
+	<word weight="0.009720534629404616" count="8">appointments</word>
+	<word weight="0.009720534629404616" count="8">predecessor</word>
+	<word weight="0.00850546780072904" count="7">colonial</word>
+	<word weight="0.00850546780072904" count="7">principals</word>
+	<word weight="0.007290400972053463" count="6">fund</word>
+	<word weight="0.007290400972053463" count="6">board</word>
+	<word weight="0.007290400972053463" count="6">staff</word>
+	<word weight="0.007290400972053463" count="6">pay</word>
+	<word weight="0.007290400972053463" count="6">shipping</word>
+	<word weight="0.006075334143377886" count="5">private</word>
+	<phrase weight="0.40131578947368424" count="61">crown agents</phrase>
+	<phrase weight="0.013157894736842105" count="2">stores purchasing</phrase>
+	<phrase weight="0.013157894736842105" count="2">overseas principals</phrase>
+	<phrase weight="0.013157894736842105" count="2">marine insurance</phrase>
+	<phrase weight="0.013157894736842105" count="2">general principles</phrase>
+	<phrase weight="0.013157894736842105" count="2">crown agents holding</phrase>
+	<phrase weight="0.013157894736842105" count="2">millbank investments limited</phrase>
+	<phrase weight="0.013157894736842105" count="2">investment portfolio</phrase>
+	<phrase weight="0.006578947368421052" count="1">financial position</phrase>
+	<phrase weight="0.006578947368421052" count="1">reports reports</phrase>
+	<phrase weight="0.006578947368421052" count="1">london premises</phrase>
+	<phrase weight="0.006578947368421052" count="1">engineering divisions</phrase>
+	<phrase weight="0.006578947368421052" count="1">copyright recordings</phrase>
+	<phrase weight="0.006578947368421052" count="1">messrs coopers</phrase>
+	<phrase weight="0.006578947368421052" count="1">external relations divisions</phrase>
+	<phrase weight="0.006578947368421052" count="1">debt refinancing required</phrase>
+	<phrase weight="0.006578947368421052" count="1">crown agents purchasing divisions</phrase>
+	<phrase weight="0.006578947368421052" count="1">supply activities</phrase>
+	<phrase weight="0.006578947368421052" count="1">australian property stocks</phrase>
+	<phrase weight="0.006578947368421052" count="1">miscellaneous fund</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0812359718837938" totalTokens="109" titles="london, plans, maps, borough, county, current, place, places, drawings, war">
+	<word weight="0.07339449541284404" count="8">london</word>
+	<word weight="0.05504587155963303" count="6">plans</word>
+	<word weight="0.045871559633027525" count="5">maps</word>
+	<word weight="0.03669724770642202" count="4">borough</word>
+	<word weight="0.027522935779816515" count="3">county</word>
+	<word weight="0.027522935779816515" count="3">map</word>
+	<word weight="0.027522935779816515" count="3">current</word>
+	<word weight="0.027522935779816515" count="3">place</word>
+	<word weight="0.027522935779816515" count="3">places</word>
+	<word weight="0.027522935779816515" count="3">drawings</word>
+	<word weight="0.027522935779816515" count="3">war</word>
+	<word weight="0.01834862385321101" count="2">detailed</word>
+	<word weight="0.01834862385321101" count="2">council</word>
+	<word weight="0.01834862385321101" count="2">area</word>
+	<word weight="0.01834862385321101" count="2">public</word>
+	<word weight="0.009174311926605505" count="1">size</word>
+	<word weight="0.009174311926605505" count="1">measure</word>
+	<word weight="0.009174311926605505" count="1">preservation</word>
+	<word weight="0.009174311926605505" count="1">primarily</word>
+	<word weight="0.009174311926605505" count="1">transfer</word>
+  </topic>
+</topics>

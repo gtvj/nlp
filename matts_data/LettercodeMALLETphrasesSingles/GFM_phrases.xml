@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.788212905328616" totalTokens="1207" titles="german, gfm, project, war, foreign, captured, university, selection, filmed, filming">
+	<word weight="0.10107705053852527" count="122">german</word>
+	<word weight="0.06462303231151616" count="78">gfm</word>
+	<word weight="0.0579950289975145" count="70">project</word>
+	<word weight="0.05550952775476388" count="67">war</word>
+	<word weight="0.043910521955260975" count="53">foreign</word>
+	<word weight="0.0231980115990058" count="28">captured</word>
+	<word weight="0.020712510356255178" count="25">university</word>
+	<word weight="0.020712510356255178" count="25">selection</word>
+	<word weight="0.01988400994200497" count="24">filmed</word>
+	<word weight="0.01739850869925435" count="21">filming</word>
+	<word weight="0.009113504556752278" count="11">relations</word>
+	<word weight="0.008285004142502071" count="10">italian</word>
+	<word weight="0.007456503728251864" count="9">american</word>
+	<word weight="0.007456503728251864" count="9">von</word>
+	<word weight="0.007456503728251864" count="9">national</word>
+	<word weight="0.006628003314001657" count="8">affairs</word>
+	<word weight="0.00579950289975145" count="7">loesch</word>
+	<word weight="0.00579950289975145" count="7">june</word>
+	<word weight="0.00579950289975145" count="7">michigan</word>
+	<word weight="0.00579950289975145" count="7">microfilms</word>
+  </topic>
+</topics>

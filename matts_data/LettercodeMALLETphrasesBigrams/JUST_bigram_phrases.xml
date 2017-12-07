@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="10.364077020377723" totalTokens="571" titles="rolls, justices, assize, eyre, writs, pleas, delivery, gaol, court, coroners">
+	<word weight="0.06304728546409807" count="36">rolls</word>
+	<word weight="0.03852889667250438" count="22">justices</word>
+	<word weight="0.02626970227670753" count="15">assize</word>
+	<word weight="0.021015761821366025" count="12">eyre</word>
+	<word weight="0.01926444833625219" count="11">writs</word>
+	<word weight="0.017513134851138354" count="10">pleas</word>
+	<word weight="0.01576182136602452" count="9">delivery</word>
+	<word weight="0.01576182136602452" count="9">gaol</word>
+	<word weight="0.014010507880910683" count="8">court</word>
+	<word weight="0.014010507880910683" count="8">coroners</word>
+	<word weight="0.012259194395796848" count="7">century</word>
+	<word weight="0.012259194395796848" count="7">terminer</word>
+	<word weight="0.012259194395796848" count="7">oyer</word>
+	<word weight="0.010507880910683012" count="6">pl</word>
+	<word weight="0.010507880910683012" count="6">sessions</word>
+	<word weight="0.010507880910683012" count="6">counties</word>
+	<word weight="0.008756567425569177" count="5">inquests</word>
+	<word weight="0.008756567425569177" count="5">individual</word>
+	<word weight="0.008756567425569177" count="5">commissions</word>
+	<word weight="0.008756567425569177" count="5">cases</word>
+	<phrase weight="0.05555555555555555" count="5">gaol delivery</phrase>
+	<phrase weight="0.022222222222222223" count="2">crown pleas</phrase>
+	<phrase weight="0.022222222222222223" count="2">jury panels</phrase>
+	<phrase weight="0.022222222222222223" count="2">gaol delivery rolls</phrase>
+	<phrase weight="0.022222222222222223" count="2">itinerant justices</phrase>
+	<phrase weight="0.022222222222222223" count="2">crown pleas rolls</phrase>
+	<phrase weight="0.022222222222222223" count="2">assize roll</phrase>
+	<phrase weight="0.022222222222222223" count="2">delivery rolls</phrase>
+	<phrase weight="0.022222222222222223" count="2">special commissions</phrase>
+	<phrase weight="0.022222222222222223" count="2">common pleas</phrase>
+	<phrase weight="0.011111111111111112" count="1">introductory notes</phrase>
+	<phrase weight="0.011111111111111112" count="1">summon defendants</phrase>
+	<phrase weight="0.011111111111111112" count="1">bills claiming liberties</phrase>
+	<phrase weight="0.011111111111111112" count="1">late twelfth century</phrase>
+	<phrase weight="0.011111111111111112" count="1">mill wheel</phrase>
+	<phrase weight="0.011111111111111112" count="1">terminer rolls</phrase>
+	<phrase weight="0.011111111111111112" count="1">bench indictments</phrase>
+	<phrase weight="0.011111111111111112" count="1">odd individual inquisitions</phrase>
+	<phrase weight="0.011111111111111112" count="1">possessory assizes</phrase>
+	<phrase weight="0.011111111111111112" count="1">henry iii</phrase>
+  </topic>
+</topics>

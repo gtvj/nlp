@@ -1,0 +1,16 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.2285632832610476" totalTokens="14" titles="tribunals, appeal, service, independent, damage, vaccine, medical, security, social, president">
+	<word weight="0.21428571428571427" count="3">tribunals</word>
+	<word weight="0.14285714285714285" count="2">appeal</word>
+	<word weight="0.07142857142857142" count="1">service</word>
+	<word weight="0.07142857142857142" count="1">tribunal</word>
+	<word weight="0.07142857142857142" count="1">independent</word>
+	<word weight="0.07142857142857142" count="1">damage</word>
+	<word weight="0.07142857142857142" count="1">vaccine</word>
+	<word weight="0.07142857142857142" count="1">medical</word>
+	<word weight="0.07142857142857142" count="1">security</word>
+	<word weight="0.07142857142857142" count="1">social</word>
+	<word weight="0.07142857142857142" count="1">president</word>
+  </topic>
+</topics>

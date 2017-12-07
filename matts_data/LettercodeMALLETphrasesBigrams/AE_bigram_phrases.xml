@@ -1,0 +1,31 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="63.389292315224445" totalTokens="87" titles="royal, monuments, england, commission, ae, annual, reports, minutes, warrants, secretary">
+	<word weight="0.13793103448275862" count="12">royal</word>
+	<word weight="0.11494252873563218" count="10">monuments</word>
+	<word weight="0.10344827586206896" count="9">england</word>
+	<word weight="0.10344827586206896" count="9">commission</word>
+	<word weight="0.10344827586206896" count="9">ae</word>
+	<word weight="0.06896551724137931" count="6">annual</word>
+	<word weight="0.05747126436781609" count="5">reports</word>
+	<word weight="0.034482758620689655" count="3">minutes</word>
+	<word weight="0.034482758620689655" count="3">warrants</word>
+	<word weight="0.022988505747126436" count="2">secretary</word>
+	<word weight="0.022988505747126436" count="2">reviews</word>
+	<word weight="0.022988505747126436" count="2">correspondence</word>
+	<word weight="0.022988505747126436" count="2">members</word>
+	<word weight="0.022988505747126436" count="2">appointment</word>
+	<word weight="0.011494252873563218" count="1">committees</word>
+	<word weight="0.011494252873563218" count="1">ancient</word>
+	<word weight="0.011494252873563218" count="1">recording</word>
+	<word weight="0.011494252873563218" count="1">local</word>
+	<word weight="0.011494252873563218" count="1">articles</word>
+	<word weight="0.011494252873563218" count="1">addition</word>
+	<phrase weight="0.5" count="8">royal commission</phrase>
+	<phrase weight="0.1875" count="3">annual reports</phrase>
+	<phrase weight="0.125" count="2">royal warrants</phrase>
+	<phrase weight="0.0625" count="1">royal warrants appointing members</phrase>
+	<phrase weight="0.0625" count="1">recording ancient</phrase>
+	<phrase weight="0.0625" count="1">annual reviews</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.3653704120949195" totalTokens="417" titles="uk government, natural, england, sw, network, countryside, project, biodiversity, life, system">
+	<word weight="0.11510791366906475" count="48">england</word>
+	<word weight="0.11510791366906475" count="48">natural</word>
+	<word weight="0.08872901678657075" count="37">sw</word>
+	<word weight="0.08393285371702638" count="35">uk</word>
+	<word weight="0.07913669064748201" count="33">government</word>
+	<word weight="0.019184652278177457" count="8">project</word>
+	<word weight="0.019184652278177457" count="8">network</word>
+	<word weight="0.019184652278177457" count="8">countryside</word>
+	<word weight="0.016786570743405275" count="7">biodiversity</word>
+	<word weight="0.014388489208633094" count="6">system</word>
+	<word weight="0.014388489208633094" count="6">life</word>
+	<word weight="0.011990407673860911" count="5">map</word>
+	<word weight="0.011990407673860911" count="5">nature</word>
+	<word weight="0.009592326139088728" count="4">reporting</word>
+	<word weight="0.009592326139088728" count="4">action</word>
+	<word weight="0.009592326139088728" count="4">sites</word>
+	<word weight="0.009592326139088728" count="4">publications</word>
+	<word weight="0.009592326139088728" count="4">conservation</word>
+	<word weight="0.009592326139088728" count="4">wood</word>
+	<word weight="0.009592326139088728" count="4">river</word>
+	<phrase weight="0.3108108108108108" count="23">uk government</phrase>
+	<phrase weight="0.0945945945945946" count="7">natural england</phrase>
+	<phrase weight="0.05405405405405406" count="4">biodiversity action reporting system</phrase>
+	<phrase weight="0.04054054054054054" count="3">land manager</phrase>
+	<phrase weight="0.02702702702702703" count="2">natural england publications</phrase>
+	<phrase weight="0.02702702702702703" count="2">endangered species</phrase>
+	<phrase weight="0.02702702702702703" count="2">landscape character network</phrase>
+	<phrase weight="0.02702702702702703" count="2">connecting countryside managers</phrase>
+	<phrase weight="0.02702702702702703" count="2">scientific interest designated sites</phrase>
+	<phrase weight="0.013513513513513514" count="1">plant press</phrase>
+	<phrase weight="0.013513513513513514" count="1">cornwall moors life project</phrase>
+	<phrase weight="0.013513513513513514" count="1">branch project</phrase>
+	<phrase weight="0.013513513513513514" count="1">limestone pavement conservation</phrase>
+	<phrase weight="0.013513513513513514" count="1">changing climate</phrase>
+	<phrase weight="0.013513513513513514" count="1">river avon sac</phrase>
+	<phrase weight="0.013513513513513514" count="1">biodiversity partnership</phrase>
+	<phrase weight="0.013513513513513514" count="1">heath project</phrase>
+	<phrase weight="0.013513513513513514" count="1">country parks network</phrase>
+	<phrase weight="0.013513513513513514" count="1">ravine wood life project</phrase>
+	<phrase weight="0.013513513513513514" count="1">initiatives network</phrase>
+  </topic>
+</topics>

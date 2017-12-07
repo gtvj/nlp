@@ -1,0 +1,24 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="29.183737924745877" totalTokens="87" titles="commission, electoral, government, uk, resources, participation, vote, site, politics, blog">
+	<word weight="0.2413793103448276" count="21">commission</word>
+	<word weight="0.2413793103448276" count="21">electoral</word>
+	<word weight="0.09195402298850575" count="8">ec</word>
+	<word weight="0.08045977011494253" count="7">government</word>
+	<word weight="0.08045977011494253" count="7">uk</word>
+	<word weight="0.04597701149425287" count="4">resources</word>
+	<word weight="0.04597701149425287" count="4">participation</word>
+	<word weight="0.04597701149425287" count="4">vote</word>
+	<word weight="0.022988505747126436" count="2">site</word>
+	<word weight="0.022988505747126436" count="2">politics</word>
+	<word weight="0.022988505747126436" count="2">blog</word>
+	<word weight="0.011494252873563218" count="1">division</word>
+	<word weight="0.011494252873563218" count="1">authorities</word>
+	<word weight="0.011494252873563218" count="1">local</word>
+	<word weight="0.011494252873563218" count="1">field</word>
+	<word weight="0.011494252873563218" count="1">general</word>
+	<phrase weight="0.6" count="12">electoral commission</phrase>
+	<phrase weight="0.35" count="7">uk government</phrase>
+	<phrase weight="0.05" count="1">local authorities</phrase>
+  </topic>
+</topics>

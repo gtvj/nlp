@@ -1,0 +1,34 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="45.92516886244785" totalTokens="110" titles="art, works, export, committee, reviewing, ep, minutes, council, advisory, sale">
+	<word weight="0.10909090909090909" count="12">art</word>
+	<word weight="0.10909090909090909" count="12">works</word>
+	<word weight="0.09090909090909091" count="10">export</word>
+	<word weight="0.09090909090909091" count="10">committee</word>
+	<word weight="0.07272727272727272" count="8">reviewing</word>
+	<word weight="0.07272727272727272" count="8">ep</word>
+	<word weight="0.06363636363636363" count="7">minutes</word>
+	<word weight="0.05454545454545454" count="6">council</word>
+	<word weight="0.05454545454545454" count="6">advisory</word>
+	<word weight="0.01818181818181818" count="2">sale</word>
+	<word weight="0.01818181818181818" count="2">enquiry</word>
+	<word weight="0.01818181818181818" count="2">reports</word>
+	<word weight="0.01818181818181818" count="2">annual</word>
+	<word weight="0.01818181818181818" count="2">advice</word>
+	<word weight="0.00909090909090909" count="1">controls</word>
+	<word weight="0.00909090909090909" count="1">science</word>
+	<word weight="0.00909090909090909" count="1">education</word>
+	<word weight="0.00909090909090909" count="1">public</word>
+	<word weight="0.00909090909090909" count="1">treasury</word>
+	<word weight="0.00909090909090909" count="1">hm</word>
+	<phrase weight="0.3333333333333333" count="6">reviewing committee</phrase>
+	<phrase weight="0.2222222222222222" count="4">advisory council</phrase>
+	<phrase weight="0.1111111111111111" count="2">annual reports</phrase>
+	<phrase weight="0.05555555555555555" count="1">individual cases</phrase>
+	<phrase weight="0.05555555555555555" count="1">special committees</phrase>
+	<phrase weight="0.05555555555555555" count="1">specimen case</phrase>
+	<phrase weight="0.05555555555555555" count="1">export control</phrase>
+	<phrase weight="0.05555555555555555" count="1">hm treasury</phrase>
+	<phrase weight="0.05555555555555555" count="1">export controls</phrase>
+  </topic>
+</topics>

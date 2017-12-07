@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.188247026473022" totalTokens="1340" titles="land revenue, auditors, crown, lr, accounts, lands, receivers, century, books, court">
+	<word weight="0.04029850746268657" count="54">auditors</word>
+	<word weight="0.03656716417910448" count="49">land</word>
+	<word weight="0.033582089552238806" count="45">crown</word>
+	<word weight="0.028358208955223882" count="38">accounts</word>
+	<word weight="0.028358208955223882" count="38">lr</word>
+	<word weight="0.025373134328358207" count="34">revenue</word>
+	<word weight="0.024626865671641792" count="33">lands</word>
+	<word weight="0.019402985074626865" count="26">receivers</word>
+	<word weight="0.01791044776119403" count="24">century</word>
+	<word weight="0.012686567164179104" count="17">books</word>
+	<word weight="0.011194029850746268" count="15">court</word>
+	<word weight="0.009701492537313432" count="13">warrants</word>
+	<word weight="0.008955223880597015" count="12">sale</word>
+	<word weight="0.008955223880597015" count="12">consort</word>
+	<word weight="0.008955223880597015" count="12">seventeenth</word>
+	<word weight="0.008955223880597015" count="12">general</word>
+	<word weight="0.008208955223880597" count="11">particulars</word>
+	<word weight="0.008208955223880597" count="11">ministers</word>
+	<word weight="0.008208955223880597" count="11">sixteenth</word>
+	<word weight="0.007462686567164179" count="10">augmentations</word>
+	<phrase weight="0.13733905579399142" count="32">land revenue</phrase>
+	<phrase weight="0.0815450643776824" count="19">crown lands</phrase>
+	<phrase weight="0.030042918454935622" count="7">henrietta maria</phrase>
+	<phrase weight="0.02145922746781116" count="5">farm rents</phrase>
+	<phrase weight="0.02145922746781116" count="5">crown land</phrase>
+	<phrase weight="0.017167381974248927" count="4">queens consort</phrase>
+	<phrase weight="0.017167381974248927" count="4">seventeenth century</phrase>
+	<phrase weight="0.017167381974248927" count="4">receivers general</phrase>
+	<phrase weight="0.017167381974248927" count="4">land revenues</phrase>
+	<phrase weight="0.012875536480686695" count="3">entry books</phrase>
+	<phrase weight="0.012875536480686695" count="3">draft particulars</phrase>
+	<phrase weight="0.012875536480686695" count="3">court rolls</phrase>
+	<phrase weight="0.012875536480686695" count="3">religious houses</phrase>
+	<phrase weight="0.012875536480686695" count="3">seventeenth century queens consort</phrase>
+	<phrase weight="0.012875536480686695" count="3">enrolment books</phrase>
+	<phrase weight="0.008583690987124463" count="2">late thirteenth century</phrase>
+	<phrase weight="0.008583690987124463" count="2">tax collectors</phrase>
+	<phrase weight="0.008583690987124463" count="2">warrant authorising</phrase>
+	<phrase weight="0.008583690987124463" count="2">sixteenth century</phrase>
+	<phrase weight="0.008583690987124463" count="2">letters patent</phrase>
+  </topic>
+</topics>

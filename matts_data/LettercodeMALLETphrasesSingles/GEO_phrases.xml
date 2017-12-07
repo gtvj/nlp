@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="26.89307580244788" totalTokens="96" titles="government, equalities, commission, geo, women's, national, equality, business, rights, human">
+	<word weight="0.19791666666666666" count="19">government</word>
+	<word weight="0.11458333333333333" count="11">equalities</word>
+	<word weight="0.07291666666666667" count="7">commission</word>
+	<word weight="0.07291666666666667" count="7">geo</word>
+	<word weight="0.0625" count="6">women's</word>
+	<word weight="0.0625" count="6">national</word>
+	<word weight="0.052083333333333336" count="5">equality</word>
+	<word weight="0.041666666666666664" count="4">business</word>
+	<word weight="0.03125" count="3">rights</word>
+	<word weight="0.03125" count="3">human</word>
+	<word weight="0.020833333333333332" count="2">field</word>
+	<word weight="0.020833333333333332" count="2">general</word>
+	<word weight="0.020833333333333332" count="2">dcms</word>
+	<word weight="0.020833333333333332" count="2">council</word>
+	<word weight="0.020833333333333332" count="2">equities</word>
+	<word weight="0.020833333333333332" count="2">scheme</word>
+	<word weight="0.020833333333333332" count="2">grants</word>
+	<word weight="0.020833333333333332" count="2">care</word>
+	<word weight="0.020833333333333332" count="2">child</word>
+	<word weight="0.020833333333333332" count="2">panel</word>
+  </topic>
+</topics>

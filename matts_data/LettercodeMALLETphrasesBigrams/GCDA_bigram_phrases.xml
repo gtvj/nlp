@@ -1,0 +1,21 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.2816181171847498" totalTokens="49" titles="government, car, despatch, gcda, uk, service, www, division, dft, field">
+	<word weight="0.24489795918367346" count="12">government</word>
+	<word weight="0.20408163265306123" count="10">car</word>
+	<word weight="0.16326530612244897" count="8">despatch</word>
+	<word weight="0.10204081632653061" count="5">gcda</word>
+	<word weight="0.08163265306122448" count="4">uk</word>
+	<word weight="0.04081632653061224" count="2">service</word>
+	<word weight="0.04081632653061224" count="2">gov</word>
+	<word weight="0.04081632653061224" count="2">www</word>
+	<word weight="0.02040816326530612" count="1">division</word>
+	<word weight="0.02040816326530612" count="1">dft</word>
+	<word weight="0.02040816326530612" count="1">field</word>
+	<word weight="0.02040816326530612" count="1">general</word>
+	<phrase weight="0.7272727272727273" count="8">government car</phrase>
+	<phrase weight="0.09090909090909091" count="1">car service</phrase>
+	<phrase weight="0.09090909090909091" count="1">government car service</phrase>
+	<phrase weight="0.09090909090909091" count="1">uk government</phrase>
+  </topic>
+</topics>

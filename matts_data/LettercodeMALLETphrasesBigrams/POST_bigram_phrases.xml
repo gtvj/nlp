@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.216224466077396" totalTokens="5060" titles="postal museum, postmaster general, online, individual, mail, reports, services, packet, staff, accounts">
+	<word weight="0.08498023715415019" count="430">post</word>
+	<word weight="0.02865612648221344" count="145">postal</word>
+	<word weight="0.024703557312252964" count="125">online</word>
+	<word weight="0.02292490118577075" count="116">individual</word>
+	<word weight="0.020553359683794466" count="104">general</word>
+	<word weight="0.02015810276679842" count="102">museum</word>
+	<word weight="0.014822134387351778" count="75">mail</word>
+	<word weight="0.012450592885375493" count="63">reports</word>
+	<word weight="0.010869565217391304" count="55">postmaster</word>
+	<word weight="0.010671936758893281" count="54">services</word>
+	<word weight="0.010276679841897233" count="52">packet</word>
+	<word weight="0.01007905138339921" count="51">staff</word>
+	<word weight="0.00849802371541502" count="43">accounts</word>
+	<word weight="0.008102766798418972" count="41">minuted</word>
+	<word weight="0.007509881422924901" count="38">inland</word>
+	<word weight="0.007312252964426878" count="37">letter</word>
+	<word weight="0.00691699604743083" count="35">overseas</word>
+	<word weight="0.0067193675889328066" count="34">correspondence</word>
+	<word weight="0.006324110671936759" count="32">minutes</word>
+	<word weight="0.006126482213438735" count="31">postmasters</word>
+	<phrase weight="0.08228571428571428" count="72">postal museum</phrase>
+	<phrase weight="0.038857142857142854" count="34">postmaster general</phrase>
+	<phrase weight="0.012571428571428572" count="11">registry staff</phrase>
+	<phrase weight="0.011428571428571429" count="10">united kingdom</phrase>
+	<phrase weight="0.008" count="7">private collections</phrase>
+	<phrase weight="0.006857142857142857" count="6">mundane administrative minutiae</phrase>
+	<phrase weight="0.006857142857142857" count="6">receiver general</phrase>
+	<phrase weight="0.006857142857142857" count="6">common subject spanning</phrase>
+	<phrase weight="0.006857142857142857" count="6">case submitted</phrase>
+	<phrase weight="0.006857142857142857" count="6">add physically</phrase>
+	<phrase weight="0.006857142857142857" count="6">general post</phrase>
+	<phrase weight="0.006857142857142857" count="6">critical importance</phrase>
+	<phrase weight="0.006857142857142857" count="6">minuted case</phrase>
+	<phrase weight="0.005714285714285714" count="5">precise dates</phrase>
+	<phrase weight="0.005714285714285714" count="5">london district post</phrase>
+	<phrase weight="0.005714285714285714" count="5">letter carriers</phrase>
+	<phrase weight="0.005714285714285714" count="5">letter receivers</phrase>
+	<phrase weight="0.005714285714285714" count="5">packet ships</phrase>
+	<phrase weight="0.004571428571428572" count="4">inland mails</phrase>
+	<phrase weight="0.004571428571428572" count="4">minute submitted</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.532316127062406" totalTokens="226" titles="highways, government, traffic, england, registry, plans, tss, radar, compendium, partnernet">
+	<word weight="0.26548672566371684" count="60">highways</word>
+	<word weight="0.11946902654867257" count="27">government</word>
+	<word weight="0.04424778761061947" count="10">traffic</word>
+	<word weight="0.030973451327433628" count="7">england</word>
+	<word weight="0.017699115044247787" count="4">registry</word>
+	<word weight="0.017699115044247787" count="4">plans</word>
+	<word weight="0.017699115044247787" count="4">tss</word>
+	<word weight="0.017699115044247787" count="4">radar</word>
+	<word weight="0.017699115044247787" count="4">compendium</word>
+	<word weight="0.017699115044247787" count="4">partnernet</word>
+	<word weight="0.017699115044247787" count="4">loads</word>
+	<word weight="0.017699115044247787" count="4">abnormal</word>
+	<word weight="0.017699115044247787" count="4">standards</word>
+	<word weight="0.017699115044247787" count="4">projects</word>
+	<word weight="0.017699115044247787" count="4">road</word>
+	<word weight="0.008849557522123894" count="2">halogen</word>
+	<word weight="0.008849557522123894" count="2">environment</word>
+	<word weight="0.008849557522123894" count="2">logging</word>
+	<word weight="0.008849557522123894" count="2">hub</word>
+	<word weight="0.008849557522123894" count="2">consultation</word>
+  </topic>
+</topics>

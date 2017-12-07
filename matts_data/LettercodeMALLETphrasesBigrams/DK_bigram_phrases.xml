@@ -1,0 +1,28 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.9746002007962413" totalTokens="32" titles="ports, council, national, dk, reports, harbour, advise, oversee, accounts, annual">
+	<word weight="0.15625" count="5">ports</word>
+	<word weight="0.125" count="4">council</word>
+	<word weight="0.125" count="4">national</word>
+	<word weight="0.09375" count="3">dk</word>
+	<word weight="0.0625" count="2">reports</word>
+	<word weight="0.03125" count="1">harbour</word>
+	<word weight="0.03125" count="1">advise</word>
+	<word weight="0.03125" count="1">oversee</word>
+	<word weight="0.03125" count="1">accounts</word>
+	<word weight="0.03125" count="1">annual</word>
+	<word weight="0.03125" count="1">research</word>
+	<word weight="0.03125" count="1">finance</word>
+	<word weight="0.03125" count="1">docks</word>
+	<word weight="0.03125" count="1">development</word>
+	<word weight="0.03125" count="1">organisation</word>
+	<word weight="0.03125" count="1">committees</word>
+	<word weight="0.03125" count="1">circulated</word>
+	<word weight="0.03125" count="1">meetings</word>
+	<word weight="0.03125" count="1">minutes</word>
+	<phrase weight="0.4" count="2">national ports council</phrase>
+	<phrase weight="0.2" count="1">annual reports</phrase>
+	<phrase weight="0.2" count="1">ports council</phrase>
+	<phrase weight="0.2" count="1">national ports council minutes</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="11.875540924841713" totalTokens="187" titles="public, committee, standards, life, digital, appointments, commissioner, reports, evidence, government">
+	<word weight="0.1443850267379679" count="27">public</word>
+	<word weight="0.11764705882352941" count="22">committee</word>
+	<word weight="0.10160427807486631" count="19">standards</word>
+	<word weight="0.09090909090909091" count="17">life</word>
+	<word weight="0.0481283422459893" count="9">digital</word>
+	<word weight="0.0374331550802139" count="7">appointments</word>
+	<word weight="0.0374331550802139" count="7">commissioner</word>
+	<word weight="0.03208556149732621" count="6">reports</word>
+	<word weight="0.026737967914438502" count="5">evidence</word>
+	<word weight="0.0213903743315508" count="4">government</word>
+	<word weight="0.0213903743315508" count="4">written</word>
+	<word weight="0.016042780748663103" count="3">march</word>
+	<word weight="0.016042780748663103" count="3">national</word>
+	<word weight="0.016042780748663103" count="3">migration</word>
+	<word weight="0.016042780748663103" count="3">programme</word>
+	<word weight="0.016042780748663103" count="3">photocopies</word>
+	<word weight="0.0106951871657754" count="2">conduct</word>
+	<word weight="0.0106951871657754" count="2">press</word>
+	<word weight="0.0106951871657754" count="2">transcripts</word>
+	<word weight="0.0106951871657754" count="2">graham</word>
+  </topic>
+</topics>

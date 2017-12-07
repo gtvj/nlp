@@ -1,0 +1,20 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="4.191861295137013" totalTokens="18" titles="indexes, public, aids, finding, compilations, contained, contemporary, means, essential, comprised">
+	<word weight="0.2777777777777778" count="5">indexes</word>
+	<word weight="0.16666666666666666" count="3">public</word>
+	<word weight="0.05555555555555555" count="1">aids</word>
+	<word weight="0.05555555555555555" count="1">finding</word>
+	<word weight="0.05555555555555555" count="1">compilations</word>
+	<word weight="0.05555555555555555" count="1">contained</word>
+	<word weight="0.05555555555555555" count="1">contemporary</word>
+	<word weight="0.05555555555555555" count="1">means</word>
+	<word weight="0.05555555555555555" count="1">essential</word>
+	<word weight="0.05555555555555555" count="1">comprised</word>
+	<word weight="0.05555555555555555" count="1">largely</word>
+	<word weight="0.05555555555555555" count="1">artificial</word>
+	<phrase weight="0.3333333333333333" count="1">largely comprised</phrase>
+	<phrase weight="0.3333333333333333" count="1">essential means</phrase>
+	<phrase weight="0.3333333333333333" count="1">finding aids</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.698444026894658" totalTokens="271" titles="ireland, northern, government, info, business, home, commission, representative, commissioners, service">
+	<word weight="0.17343173431734318" count="47">ireland</word>
+	<word weight="0.16974169741697417" count="46">northern</word>
+	<word weight="0.06273062730627306" count="17">government</word>
+	<word weight="0.03690036900369004" count="10">info</word>
+	<word weight="0.03690036900369004" count="10">business</word>
+	<word weight="0.033210332103321034" count="9">home</word>
+	<word weight="0.02214022140221402" count="6">commission</word>
+	<word weight="0.01845018450184502" count="5">representative</word>
+	<word weight="0.014760147601476014" count="4">commissioners</word>
+	<word weight="0.014760147601476014" count="4">service</word>
+	<word weight="0.01107011070110701" count="3">symbol</word>
+	<word weight="0.01107011070110701" count="3">ukr</word>
+	<word weight="0.01107011070110701" count="3">bill</word>
+	<word weight="0.007380073800738007" count="2">improvement</word>
+	<word weight="0.007380073800738007" count="2">growth</word>
+	<word weight="0.007380073800738007" count="2">cim</word>
+	<word weight="0.007380073800738007" count="2">finder</word>
+	<word weight="0.007380073800738007" count="2">events</word>
+	<word weight="0.007380073800738007" count="2">parades</word>
+	<word weight="0.007380073800738007" count="2">institute</word>
+  </topic>
+</topics>

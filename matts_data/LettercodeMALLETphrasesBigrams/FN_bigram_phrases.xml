@@ -1,0 +1,32 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0" totalTokens="63" titles="commission, pilotage, fn, reports, annual, minutes, pilots, agenda, traced, committees">
+	<word weight="0.14285714285714285" count="9">commission</word>
+	<word weight="0.14285714285714285" count="9">pilotage</word>
+	<word weight="0.1111111111111111" count="7">fn</word>
+	<word weight="0.047619047619047616" count="3">reports</word>
+	<word weight="0.047619047619047616" count="3">annual</word>
+	<word weight="0.047619047619047616" count="3">minutes</word>
+	<word weight="0.031746031746031744" count="2">pilots</word>
+	<word weight="0.031746031746031744" count="2">agenda</word>
+	<word weight="0.015873015873015872" count="1">traced</word>
+	<word weight="0.015873015873015872" count="1">committees</word>
+	<word weight="0.015873015873015872" count="1">advisory</word>
+	<word weight="0.015873015873015872" count="1">kingdom</word>
+	<word weight="0.015873015873015872" count="1">united</word>
+	<word weight="0.015873015873015872" count="1">waters</word>
+	<word weight="0.015873015873015872" count="1">coastal</word>
+	<word weight="0.015873015873015872" count="1">navigation</word>
+	<word weight="0.015873015873015872" count="1">aspects</word>
+	<word weight="0.015873015873015872" count="1">advise</word>
+	<word weight="0.015873015873015872" count="1">established</word>
+	<word weight="0.015873015873015872" count="1">house</word>
+	<phrase weight="0.45454545454545453" count="5">pilotage commission</phrase>
+	<phrase weight="0.09090909090909091" count="1">advisory committees</phrase>
+	<phrase weight="0.09090909090909091" count="1">commission established</phrase>
+	<phrase weight="0.09090909090909091" count="1">reports annual reports</phrase>
+	<phrase weight="0.09090909090909091" count="1">technical policy</phrase>
+	<phrase weight="0.09090909090909091" count="1">annual reports</phrase>
+	<phrase weight="0.09090909090909091" count="1">coastal waters</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,36 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="10.954959533533174" totalTokens="154" titles="museum, london, dc, books, letters, correspondence, accessions, registers, cuttings, press">
+	<word weight="0.18831168831168832" count="29">museum</word>
+	<word weight="0.18831168831168832" count="29">london</word>
+	<word weight="0.17532467532467533" count="27">dc</word>
+	<word weight="0.05844155844155844" count="9">books</word>
+	<word weight="0.03896103896103896" count="6">letters</word>
+	<word weight="0.03896103896103896" count="6">correspondence</word>
+	<word weight="0.01948051948051948" count="3">accessions</word>
+	<word weight="0.01948051948051948" count="3">registers</word>
+	<word weight="0.01948051948051948" count="3">cuttings</word>
+	<word weight="0.01948051948051948" count="3">press</word>
+	<word weight="0.01948051948051948" count="3">photography</word>
+	<word weight="0.01948051948051948" count="3">letter</word>
+	<word weight="0.01948051948051948" count="3">exhibitions</word>
+	<word weight="0.01948051948051948" count="3">cash</word>
+	<word weight="0.01948051948051948" count="3">visitors</word>
+	<word weight="0.01948051948051948" count="3">general</word>
+	<word weight="0.01948051948051948" count="3">photographs</word>
+	<word weight="0.01948051948051948" count="3">archaeological</word>
+	<word weight="0.01948051948051948" count="3">publications</word>
+	<word weight="0.01948051948051948" count="3">minutes</word>
+	<phrase weight="0.5384615384615384" count="14">london museum</phrase>
+	<phrase weight="0.07692307692307693" count="2">general correspondence</phrase>
+	<phrase weight="0.07692307692307693" count="2">letter books</phrase>
+	<phrase weight="0.038461538461538464" count="1">press cuttings</phrase>
+	<phrase weight="0.038461538461538464" count="1">trustee minutes</phrase>
+	<phrase weight="0.038461538461538464" count="1">cash books</phrase>
+	<phrase weight="0.038461538461538464" count="1">london museum correspondence</phrase>
+	<phrase weight="0.038461538461538464" count="1">visitors books</phrase>
+	<phrase weight="0.038461538461538464" count="1">trustees minutes</phrase>
+	<phrase weight="0.038461538461538464" count="1">museum prior</phrase>
+	<phrase weight="0.038461538461538464" count="1">london museum registers</phrase>
+  </topic>
+</topics>

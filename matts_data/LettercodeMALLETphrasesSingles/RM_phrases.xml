@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.821603728671356" totalTokens="1265" titles="kew, gardens, botanic, royal, correspondence, collection, botanist, field, consult, wishing">
+	<word weight="0.05217391304347826" count="66">kew</word>
+	<word weight="0.048221343873517786" count="61">gardens</word>
+	<word weight="0.04189723320158103" count="53">botanic</word>
+	<word weight="0.04110671936758893" count="52">royal</word>
+	<word weight="0.020553359683794466" count="26">correspondence</word>
+	<word weight="0.01818181818181818" count="23">collection</word>
+	<word weight="0.015810276679841896" count="20">botanist</word>
+	<word weight="0.014229249011857707" count="18">field</word>
+	<word weight="0.012648221343873518" count="16">consult</word>
+	<word weight="0.012648221343873518" count="16">wishing</word>
+	<word weight="0.009486166007905139" count="12">hooker</word>
+	<word weight="0.009486166007905139" count="12">plant</word>
+	<word weight="0.008695652173913044" count="11">william</word>
+	<word weight="0.008695652173913044" count="11">botanical</word>
+	<word weight="0.007905138339920948" count="10">lrp</word>
+	<word weight="0.007905138339920948" count="10">group</word>
+	<word weight="0.007905138339920948" count="10">photographs</word>
+	<word weight="0.0071146245059288534" count="9">henry</word>
+	<word weight="0.0071146245059288534" count="9">bentham</word>
+	<word weight="0.0071146245059288534" count="9">director</word>
+  </topic>
+</topics>

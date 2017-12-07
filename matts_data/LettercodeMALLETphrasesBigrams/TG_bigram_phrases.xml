@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.969304426593896" totalTokens="969" titles="tate gallery, tg, correspondence, page, education, policy, exhibition, modern, relates, galleries">
+	<word weight="0.11248710010319918" count="109">tate</word>
+	<word weight="0.058823529411764705" count="57">tg</word>
+	<word weight="0.04024767801857585" count="39">gallery</word>
+	<word weight="0.033023735810113516" count="32">correspondence</word>
+	<word weight="0.02889576883384933" count="28">page</word>
+	<word weight="0.014447884416924664" count="14">education</word>
+	<word weight="0.011351909184726523" count="11">policy</word>
+	<word weight="0.009287925696594427" count="9">modern</word>
+	<word weight="0.009287925696594427" count="9">exhibition</word>
+	<word weight="0.008255933952528379" count="8">galleries</word>
+	<word weight="0.008255933952528379" count="8">relates</word>
+	<word weight="0.007223942208462332" count="7">art</word>
+	<word weight="0.007223942208462332" count="7">development</word>
+	<word weight="0.007223942208462332" count="7">project</word>
+	<word weight="0.006191950464396285" count="6">trustees</word>
+	<word weight="0.006191950464396285" count="6">museum</word>
+	<word weight="0.006191950464396285" count="6">projects</word>
+	<word weight="0.006191950464396285" count="6">publicity</word>
+	<word weight="0.006191950464396285" count="6">documentation</word>
+	<word weight="0.006191950464396285" count="6">interest</word>
+	<phrase weight="0.17058823529411765" count="29">tate gallery</phrase>
+	<phrase weight="0.023529411764705882" count="4">adult education</phrase>
+	<phrase weight="0.023529411764705882" count="4">activity packs</phrase>
+	<phrase weight="0.023529411764705882" count="4">learning materials</phrase>
+	<phrase weight="0.01764705882352941" count="3">tate modern</phrase>
+	<phrase weight="0.01764705882352941" count="3">permanent collection</phrase>
+	<phrase weight="0.01764705882352941" count="3">researchers interested</phrase>
+	<phrase weight="0.01764705882352941" count="3">statutory duties</phrase>
+	<phrase weight="0.011764705882352941" count="2">visitor services</phrase>
+	<phrase weight="0.011764705882352941" count="2">activities increases</phrase>
+	<phrase weight="0.011764705882352941" count="2">visual committee</phrase>
+	<phrase weight="0.011764705882352941" count="2">barbara hepworth museum</phrase>
+	<phrase weight="0.011764705882352941" count="2">tate gallery comprising</phrase>
+	<phrase weight="0.011764705882352941" count="2">condition reports</phrase>
+	<phrase weight="0.011764705882352941" count="2">tate publishing</phrase>
+	<phrase weight="0.011764705882352941" count="2">art galleries</phrase>
+	<phrase weight="0.011764705882352941" count="2">tate liverpool</phrase>
+	<phrase weight="0.011764705882352941" count="2">purchases declined</phrase>
+	<phrase weight="0.011764705882352941" count="2">tate st ives</phrase>
+	<phrase weight="0.011764705882352941" count="2">general correspondence</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.169251722399673" totalTokens="580" titles="environment research, fera, food, uk, government, risk, plant, beebase, pesticide, http">
+	<word weight="0.13620689655172413" count="79">fera</word>
+	<word weight="0.07413793103448275" count="43">environment</word>
+	<word weight="0.07241379310344828" count="42">research</word>
+	<word weight="0.07241379310344828" count="42">food</word>
+	<word weight="0.0706896551724138" count="41">uk</word>
+	<word weight="0.05862068965517241" count="34">government</word>
+	<word weight="0.013793103448275862" count="8">plant</word>
+	<word weight="0.013793103448275862" count="8">risk</word>
+	<word weight="0.01206896551724138" count="7">beebase</word>
+	<word weight="0.010344827586206896" count="6">international</word>
+	<word weight="0.010344827586206896" count="6">pesticide</word>
+	<word weight="0.010344827586206896" count="6">gov</word>
+	<word weight="0.010344827586206896" count="6">http</word>
+	<word weight="0.010344827586206896" count="6">data</word>
+	<word weight="0.010344827586206896" count="6">wildlife</word>
+	<word weight="0.010344827586206896" count="6">management</word>
+	<word weight="0.010344827586206896" count="6">national</word>
+	<word weight="0.008620689655172414" count="5">defra</word>
+	<word weight="0.008620689655172414" count="5">crop</word>
+	<word weight="0.008620689655172414" count="5">conference</word>
+	<phrase weight="0.3442622950819672" count="42">environment research</phrase>
+	<phrase weight="0.1557377049180328" count="19">uk government</phrase>
+	<phrase weight="0.03278688524590164" count="4">data portal</phrase>
+	<phrase weight="0.02459016393442623" count="3">pathogenic bacteria</phrase>
+	<phrase weight="0.02459016393442623" count="3">government decontamination service</phrase>
+	<phrase weight="0.02459016393442623" count="3">national collection</phrase>
+	<phrase weight="0.01639344262295082" count="2">crop monitor</phrase>
+	<phrase weight="0.01639344262295082" count="2">central science laboratory</phrase>
+	<phrase weight="0.01639344262295082" count="2">interactive european network</phrase>
+	<phrase weight="0.01639344262295082" count="2">international symposium</phrase>
+	<phrase weight="0.01639344262295082" count="2">pesticide behaviour</phrase>
+	<phrase weight="0.01639344262295082" count="2">weather data</phrase>
+	<phrase weight="0.01639344262295082" count="2">european workshop</phrase>
+	<phrase weight="0.01639344262295082" count="2">crop management decisions</phrase>
+	<phrase weight="0.01639344262295082" count="2">ninth international conference</phrase>
+	<phrase weight="0.01639344262295082" count="2">system survey</phrase>
+	<phrase weight="0.01639344262295082" count="2">fertility control</phrase>
+	<phrase weight="0.01639344262295082" count="2">native species secreteriat</phrase>
+	<phrase weight="0.01639344262295082" count="2">risk assessment</phrase>
+	<phrase weight="0.01639344262295082" count="2">natural england evaluation</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="18.06258697699984" totalTokens="185" titles="relations, commission, board, racial, race, equality, minutes, community, committees, cases">
+	<word weight="0.07027027027027027" count="13">relations</word>
+	<word weight="0.05945945945945946" count="11">commission</word>
+	<word weight="0.04864864864864865" count="9">board</word>
+	<word weight="0.043243243243243246" count="8">racial</word>
+	<word weight="0.03783783783783784" count="7">race</word>
+	<word weight="0.03783783783783784" count="7">equality</word>
+	<word weight="0.032432432432432434" count="6">minutes</word>
+	<word weight="0.032432432432432434" count="6">community</word>
+	<word weight="0.02702702702702703" count="5">committees</word>
+	<word weight="0.021621621621621623" count="4">cases</word>
+	<word weight="0.021621621621621623" count="4">reports</word>
+	<word weight="0.021621621621621623" count="4">predecessors</word>
+	<word weight="0.016216216216216217" count="3">act</word>
+	<word weight="0.016216216216216217" count="3">committee</word>
+	<word weight="0.016216216216216217" count="3">division</word>
+	<word weight="0.016216216216216217" count="3">annual</word>
+	<word weight="0.010810810810810811" count="2">machinery</word>
+	<word weight="0.010810810810810811" count="2">west</word>
+	<word weight="0.010810810810810811" count="2">set</word>
+	<word weight="0.010810810810810811" count="2">regional</word>
+  </topic>
+</topics>

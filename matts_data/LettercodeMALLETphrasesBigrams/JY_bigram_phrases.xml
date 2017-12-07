@@ -1,0 +1,42 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="50.712070764353584" totalTokens="105" titles="college, civil, service, jy, csc, accounts, reports, working, training, handbooks">
+	<word weight="0.09523809523809523" count="10">college</word>
+	<word weight="0.09523809523809523" count="10">civil</word>
+	<word weight="0.08571428571428572" count="9">service</word>
+	<word weight="0.06666666666666667" count="7">jy</word>
+	<word weight="0.02857142857142857" count="3">csc</word>
+	<word weight="0.02857142857142857" count="3">accounts</word>
+	<word weight="0.02857142857142857" count="3">reports</word>
+	<word weight="0.02857142857142857" count="3">working</word>
+	<word weight="0.02857142857142857" count="3">training</word>
+	<word weight="0.02857142857142857" count="3">handbooks</word>
+	<word weight="0.02857142857142857" count="3">occasional</word>
+	<word weight="0.02857142857142857" count="3">studies</word>
+	<word weight="0.02857142857142857" count="3">centre</word>
+	<word weight="0.01904761904761905" count="2">management</word>
+	<word weight="0.01904761904761905" count="2">annual</word>
+	<word weight="0.01904761904761905" count="2">relevant</word>
+	<word weight="0.01904761904761905" count="2">subjects</word>
+	<word weight="0.01904761904761905" count="2">administrative</word>
+	<word weight="0.009523809523809525" count="1">servants</word>
+	<word weight="0.009523809523809525" count="1">mainstream</word>
+	<phrase weight="0.125" count="3">civil service college</phrase>
+	<phrase weight="0.125" count="3">civil service</phrase>
+	<phrase weight="0.08333333333333333" count="2">subjects relevant</phrase>
+	<phrase weight="0.08333333333333333" count="2">service college</phrase>
+	<phrase weight="0.08333333333333333" count="2">administrative studies</phrase>
+	<phrase weight="0.041666666666666664" count="1">provide central training</phrase>
+	<phrase weight="0.041666666666666664" count="1">soley responsible</phrase>
+	<phrase weight="0.041666666666666664" count="1">training programme</phrase>
+	<phrase weight="0.041666666666666664" count="1">civil service college advisory council</phrase>
+	<phrase weight="0.041666666666666664" count="1">informal working</phrase>
+	<phrase weight="0.041666666666666664" count="1">promote discussion internally</phrase>
+	<phrase weight="0.041666666666666664" count="1">policy studies</phrase>
+	<phrase weight="0.041666666666666664" count="1">annual reports</phrase>
+	<phrase weight="0.041666666666666664" count="1">civil servants</phrase>
+	<phrase weight="0.041666666666666664" count="1">accounts reports</phrase>
+	<phrase weight="0.041666666666666664" count="1">handbooks occasional</phrase>
+	<phrase weight="0.041666666666666664" count="1">academic plans</phrase>
+  </topic>
+</topics>

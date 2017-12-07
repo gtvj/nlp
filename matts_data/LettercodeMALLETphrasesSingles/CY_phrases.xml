@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="18.15805226161891" totalTokens="128" titles="commission, pollution, royal, environmental, rcp, reports, minutes, members, photographs, sub-committees">
+	<word weight="0.1640625" count="21">commission</word>
+	<word weight="0.125" count="16">pollution</word>
+	<word weight="0.1171875" count="15">royal</word>
+	<word weight="0.109375" count="14">environmental</word>
+	<word weight="0.0546875" count="7">rcp</word>
+	<word weight="0.03125" count="4">reports</word>
+	<word weight="0.03125" count="4">minutes</word>
+	<word weight="0.0234375" count="3">members</word>
+	<word weight="0.0234375" count="3">photographs</word>
+	<word weight="0.0234375" count="3">sub-committees</word>
+	<word weight="0.015625" count="2">visits</word>
+	<word weight="0.015625" count="2">circulated</word>
+	<word weight="0.015625" count="2">rci</word>
+	<word weight="0.015625" count="2">commission's</word>
+	<word weight="0.015625" count="2">meetings</word>
+	<word weight="0.0078125" count="1">releases</word>
+	<word weight="0.0078125" count="1">press</word>
+	<word weight="0.0078125" count="1">combat</word>
+	<word weight="0.0078125" count="1">undertaken</word>
+	<word weight="0.0078125" count="1">initiatives</word>
+  </topic>
+</topics>

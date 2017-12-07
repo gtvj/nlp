@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.649452034219914" totalTokens="572" titles="court, books, palace, entries, rolls, cases, plea, brought, writs, names">
+	<word weight="0.06818181818181818" count="39">court</word>
+	<word weight="0.050699300699300696" count="29">books</word>
+	<word weight="0.03671328671328671" count="21">palace</word>
+	<word weight="0.015734265734265736" count="9">entries</word>
+	<word weight="0.015734265734265736" count="9">rolls</word>
+	<word weight="0.013986013986013986" count="8">cases</word>
+	<word weight="0.01048951048951049" count="6">plea</word>
+	<word weight="0.01048951048951049" count="6">brought</word>
+	<word weight="0.008741258741258742" count="5">writs</word>
+	<word weight="0.008741258741258742" count="5">names</word>
+	<word weight="0.008741258741258742" count="5">session</word>
+	<word weight="0.008741258741258742" count="5">entry</word>
+	<word weight="0.008741258741258742" count="5">recording</word>
+	<word weight="0.008741258741258742" count="5">complete</word>
+	<word weight="0.006993006993006993" count="4">plaints</word>
+	<word weight="0.006993006993006993" count="4">superior</word>
+	<word weight="0.006993006993006993" count="4">removed</word>
+	<word weight="0.006993006993006993" count="4">attorneys</word>
+	<word weight="0.006993006993006993" count="4">headings</word>
+	<word weight="0.006993006993006993" count="4">rules</word>
+	<phrase weight="0.13" count="13">palace court</phrase>
+	<phrase weight="0.02" count="2">sum involved</phrase>
+	<phrase weight="0.02" count="2">apparently complete</phrase>
+	<phrase weight="0.02" count="2">habeas corpus</phrase>
+	<phrase weight="0.02" count="2">superior court</phrase>
+	<phrase weight="0.02" count="2">plea rolls</phrase>
+	<phrase weight="0.02" count="2">bail books</phrase>
+	<phrase weight="0.02" count="2">plea roll</phrase>
+	<phrase weight="0.01" count="1">form bundles</phrase>
+	<phrase weight="0.01" count="1">books docket books</phrase>
+	<phrase weight="0.01" count="1">letters patent</phrase>
+	<phrase weight="0.01" count="1">inferior courts act</phrase>
+	<phrase weight="0.01" count="1">attorney appears</phrase>
+	<phrase weight="0.01" count="1">arranged chronologically</phrase>
+	<phrase weight="0.01" count="1">books accounts</phrase>
+	<phrase weight="0.01" count="1">sitting days</phrase>
+	<phrase weight="0.01" count="1">court removed</phrase>
+	<phrase weight="0.01" count="1">entries begin</phrase>
+	<phrase weight="0.01" count="1">prominent feature</phrase>
+	<phrase weight="0.01" count="1">books books giving</phrase>
+  </topic>
+</topics>

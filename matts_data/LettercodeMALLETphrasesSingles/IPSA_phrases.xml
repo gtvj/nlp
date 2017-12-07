@@ -1,0 +1,24 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="19.16578665937659" totalTokens="116" titles="authority, standards, parliamentary, independent, ipsa, government, consultation, expenses, officer, compliance">
+	<word weight="0.1724137931034483" count="20">authority</word>
+	<word weight="0.1724137931034483" count="20">standards</word>
+	<word weight="0.1724137931034483" count="20">parliamentary</word>
+	<word weight="0.1724137931034483" count="20">independent</word>
+	<word weight="0.07758620689655173" count="9">ipsa</word>
+	<word weight="0.05172413793103448" count="6">government</word>
+	<word weight="0.017241379310344827" count="2">consultation</word>
+	<word weight="0.017241379310344827" count="2">expenses</word>
+	<word weight="0.017241379310344827" count="2">officer</word>
+	<word weight="0.017241379310344827" count="2">compliance</word>
+	<word weight="0.017241379310344827" count="2">programme</word>
+	<word weight="0.017241379310344827" count="2">implementation</word>
+	<word weight="0.017241379310344827" count="2">recruitment</word>
+	<word weight="0.017241379310344827" count="2">publication</word>
+	<word weight="0.008620689655172414" count="1">division</word>
+	<word weight="0.008620689655172414" count="1">http://www.theipsa.org.uk</word>
+	<word weight="0.008620689655172414" count="1">http://www.ipsa-home.org.uk</word>
+	<word weight="0.008620689655172414" count="1">field</word>
+	<word weight="0.008620689655172414" count="1">general</word>
+  </topic>
+</topics>

@@ -1,0 +1,19 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="2.5316682688930756" totalTokens="28" titles="tribunal, special, educational, reports, annual, kh, children, assessments, decisions, appeals">
+	<word weight="0.17857142857142858" count="5">tribunal</word>
+	<word weight="0.17857142857142858" count="5">special</word>
+	<word weight="0.14285714285714285" count="4">educational</word>
+	<word weight="0.10714285714285714" count="3">reports</word>
+	<word weight="0.10714285714285714" count="3">annual</word>
+	<word weight="0.10714285714285714" count="3">kh</word>
+	<word weight="0.03571428571428571" count="1">education</word>
+	<word weight="0.03571428571428571" count="1">children</word>
+	<word weight="0.03571428571428571" count="1">assessments</word>
+	<word weight="0.03571428571428571" count="1">decisions</word>
+	<word weight="0.03571428571428571" count="1">appeals</word>
+	<phrase weight="0.5714285714285714" count="4">special educational</phrase>
+	<phrase weight="0.2857142857142857" count="2">annual reports</phrase>
+	<phrase weight="0.14285714285714285" count="1">special education</phrase>
+  </topic>
+</topics>

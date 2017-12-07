@@ -1,0 +1,35 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="47.06786333912652" totalTokens="93" titles="post, telecommunications, corporation, board, bt, individual, report, minutes, meetings, accounts">
+	<word weight="0.12903225806451613" count="12">post</word>
+	<word weight="0.0967741935483871" count="9">telecommunications</word>
+	<word weight="0.08602150537634409" count="8">corporation</word>
+	<word weight="0.07526881720430108" count="7">board</word>
+	<word weight="0.053763440860215055" count="5">bt</word>
+	<word weight="0.043010752688172046" count="4">individual</word>
+	<word weight="0.043010752688172046" count="4">report</word>
+	<word weight="0.03225806451612903" count="3">minutes</word>
+	<word weight="0.03225806451612903" count="3">meetings</word>
+	<word weight="0.03225806451612903" count="3">accounts</word>
+	<word weight="0.03225806451612903" count="3">reports</word>
+	<word weight="0.021505376344086023" count="2">division</word>
+	<word weight="0.021505376344086023" count="2">proceedings</word>
+	<word weight="0.021505376344086023" count="2">concentrating</word>
+	<word weight="0.010752688172043012" count="1">annual</word>
+	<word weight="0.010752688172043012" count="1">relevant</word>
+	<word weight="0.010752688172043012" count="1">general</word>
+	<word weight="0.010752688172043012" count="1">service</word>
+	<word weight="0.010752688172043012" count="1">operated</word>
+	<word weight="0.010752688172043012" count="1">hull</word>
+	<phrase weight="0.15384615384615385" count="2">report concentrating</phrase>
+	<phrase weight="0.15384615384615385" count="2">board meetings</phrase>
+	<phrase weight="0.15384615384615385" count="2">telecommunications division</phrase>
+	<phrase weight="0.07692307692307693" count="1">telecommunications accounts</phrase>
+	<phrase weight="0.07692307692307693" count="1">corporation telecommunications board</phrase>
+	<phrase weight="0.07692307692307693" count="1">circulated separately</phrase>
+	<phrase weight="0.07692307692307693" count="1">telecommunications board</phrase>
+	<phrase weight="0.07692307692307693" count="1">confidential nature</phrase>
+	<phrase weight="0.07692307692307693" count="1">united kingdom telephone</phrase>
+	<phrase weight="0.07692307692307693" count="1">telecommunications board minutes</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.231150887831402" totalTokens="4693" titles="works, buildings, successors, public, royal, directorate, general, government, monuments, plans">
+	<word weight="0.051139995738333686" count="240">works</word>
+	<word weight="0.0287662476028127" count="135">buildings</word>
+	<word weight="0.02706158107820158" count="127">work</word>
+	<word weight="0.024291497975708502" count="114">successors</word>
+	<word weight="0.018538248455145963" count="87">public</word>
+	<word weight="0.014702748774770935" count="69">royal</word>
+	<word weight="0.012998082250159812" count="61">directorate</word>
+	<word weight="0.01193266567227786" count="56">building</word>
+	<word weight="0.01171958235670147" count="55">general</word>
+	<word weight="0.01150649904112508" count="54">government</word>
+	<word weight="0.010654165778819518" count="50">monuments</word>
+	<word weight="0.010014915832090347" count="47">plans</word>
+	<word weight="0.009375665885361177" count="44">ancient</word>
+	<word weight="0.008523332623055616" count="40">overseas</word>
+	<word weight="0.008523332623055616" count="40">predecessors</word>
+	<word weight="0.008310249307479225" count="39">drawings</word>
+	<word weight="0.007884082676326443" count="37">deeds</word>
+	<word weight="0.006818666098444491" count="32">kingdom</word>
+	<word weight="0.006818666098444491" count="32">united</word>
+	<word weight="0.006818666098444491" count="32">services</word>
+  </topic>
+</topics>

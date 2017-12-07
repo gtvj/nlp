@@ -1,0 +1,16 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="2.6489574517455043" totalTokens="25" titles="special, tribunal, educational, reports, annual, tribunal's, children's, assessments, decisions, appeals">
+	<word weight="0.2" count="5">special</word>
+	<word weight="0.16" count="4">tribunal</word>
+	<word weight="0.16" count="4">educational</word>
+	<word weight="0.12" count="3">reports</word>
+	<word weight="0.12" count="3">annual</word>
+	<word weight="0.04" count="1">tribunal's</word>
+	<word weight="0.04" count="1">education</word>
+	<word weight="0.04" count="1">children's</word>
+	<word weight="0.04" count="1">assessments</word>
+	<word weight="0.04" count="1">decisions</word>
+	<word weight="0.04" count="1">appeals</word>
+  </topic>
+</topics>

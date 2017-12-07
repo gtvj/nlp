@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.502834187868831" totalTokens="733" titles="legal, aid, fr, services, board, committee, law, society, commission, administration">
+	<word weight="0.11186903137789904" count="82">legal</word>
+	<word weight="0.06684856753069578" count="49">aid</word>
+	<word weight="0.0504774897680764" count="37">fr</word>
+	<word weight="0.03819918144611187" count="28">services</word>
+	<word weight="0.034106412005457026" count="25">board</word>
+	<word weight="0.03137789904502047" count="23">committee</word>
+	<word weight="0.027285129604365622" count="20">law</word>
+	<word weight="0.02592087312414734" count="19">society</word>
+	<word weight="0.023192360163710776" count="17">commission</word>
+	<word weight="0.021828103683492497" count="16">administration</word>
+	<word weight="0.013642564802182811" count="10">uk</word>
+	<word weight="0.010914051841746248" count="8">research</word>
+	<word weight="0.010914051841746248" count="8">government</word>
+	<word weight="0.009549795361527967" count="7">reports</word>
+	<word weight="0.009549795361527967" count="7">advice</word>
+	<word weight="0.009549795361527967" count="7">code</word>
+	<word weight="0.009549795361527967" count="7">chief</word>
+	<word weight="0.009549795361527967" count="7">committees</word>
+	<word weight="0.008185538881309686" count="6">executive</word>
+	<word weight="0.008185538881309686" count="6">training</word>
+	<phrase weight="0.10204081632653061" count="15">legal aid board</phrase>
+	<phrase weight="0.07482993197278912" count="11">legal aid</phrase>
+	<phrase weight="0.07482993197278912" count="11">law society</phrase>
+	<phrase weight="0.05442176870748299" count="8">aid administration</phrase>
+	<phrase weight="0.034013605442176874" count="5">chief executive</phrase>
+	<phrase weight="0.02040816326530612" count="3">services commission</phrase>
+	<phrase weight="0.02040816326530612" count="3">lord chancellor</phrase>
+	<phrase weight="0.02040816326530612" count="3">legal services research centre</phrase>
+	<phrase weight="0.02040816326530612" count="3">uk government</phrase>
+	<phrase weight="0.013605442176870748" count="2">legal aid act</phrase>
+	<phrase weight="0.013605442176870748" count="2">legal services commission</phrase>
+	<phrase weight="0.013605442176870748" count="2">alpha numeric</phrase>
+	<phrase weight="0.013605442176870748" count="2">annual reports</phrase>
+	<phrase weight="0.013605442176870748" count="2">regional legal aid administration</phrase>
+	<phrase weight="0.013605442176870748" count="2">law centres</phrase>
+	<phrase weight="0.013605442176870748" count="2">legal services commission provider training</phrase>
+	<phrase weight="0.013605442176870748" count="2">aid board</phrase>
+	<phrase weight="0.006802721088435374" count="1">law society unregistered</phrase>
+	<phrase weight="0.006802721088435374" count="1">citizenship foundation</phrase>
+	<phrase weight="0.006802721088435374" count="1">expert systems working party</phrase>
+  </topic>
+</topics>

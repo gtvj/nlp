@@ -1,0 +1,35 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="248.47428680169804" totalTokens="94" titles="commission, agreements, incomes, engineering, contracting, march, scottish, national, evidence, industries">
+	<word weight="0.07446808510638298" count="7">commission</word>
+	<word weight="0.06382978723404255" count="6">agreements</word>
+	<word weight="0.05319148936170213" count="5">incomes</word>
+	<word weight="0.0425531914893617" count="4">engineering</word>
+	<word weight="0.0425531914893617" count="4">contracting</word>
+	<word weight="0.0425531914893617" count="4">march</word>
+	<word weight="0.0425531914893617" count="4">scottish</word>
+	<word weight="0.0425531914893617" count="4">national</word>
+	<word weight="0.031914893617021274" count="3">evidence</word>
+	<word weight="0.02127659574468085" count="2">industries</word>
+	<word weight="0.02127659574468085" count="2">shipbuilding</word>
+	<word weight="0.02127659574468085" count="2">december</word>
+	<word weight="0.02127659574468085" count="2">november</word>
+	<word weight="0.02127659574468085" count="2">technology</word>
+	<word weight="0.02127659574468085" count="2">advanced</word>
+	<word weight="0.02127659574468085" count="2">colleges</word>
+	<word weight="0.02127659574468085" count="2">universities</word>
+	<word weight="0.02127659574468085" count="2">staff</word>
+	<word weight="0.02127659574468085" count="2">academic</word>
+	<word weight="0.02127659574468085" count="2">remuneration</word>
+	<phrase weight="0.16666666666666666" count="3">national incomes commission</phrase>
+	<phrase weight="0.1111111111111111" count="2">commission examined</phrase>
+	<phrase weight="0.1111111111111111" count="2">advanced technology</phrase>
+	<phrase weight="0.1111111111111111" count="2">domestic engineering</phrase>
+	<phrase weight="0.1111111111111111" count="2">academic staff</phrase>
+	<phrase weight="0.1111111111111111" count="2">electrical contracting</phrase>
+	<phrase weight="0.1111111111111111" count="2">scottish builders</phrase>
+	<phrase weight="0.05555555555555555" count="1">incomes commission</phrase>
+	<phrase weight="0.05555555555555555" count="1">inquiries conducted</phrase>
+	<phrase weight="0.05555555555555555" count="1">evidence submitted</phrase>
+  </topic>
+</topics>

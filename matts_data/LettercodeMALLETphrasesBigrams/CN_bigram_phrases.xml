@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.3484031778541175" totalTokens="233" titles="photographs, cn, air, successors, predecessors, british, commission, photographic, board, bs">
+	<word weight="0.2575107296137339" count="60">photographs</word>
+	<word weight="0.13733905579399142" count="32">cn</word>
+	<word weight="0.02575107296137339" count="6">air</word>
+	<word weight="0.02145922746781116" count="5">successors</word>
+	<word weight="0.017167381974248927" count="4">predecessors</word>
+	<word weight="0.017167381974248927" count="4">british</word>
+	<word weight="0.012875536480686695" count="3">commission</word>
+	<word weight="0.012875536480686695" count="3">photographic</word>
+	<word weight="0.012875536480686695" count="3">board</word>
+	<word weight="0.008583690987124463" count="2">hs</word>
+	<word weight="0.008583690987124463" count="2">bs</word>
+	<word weight="0.008583690987124463" count="2">mh</word>
+	<word weight="0.008583690987124463" count="2">rail</word>
+	<word weight="0.008583690987124463" count="2">wo</word>
+	<word weight="0.008583690987124463" count="2">ts</word>
+	<word weight="0.008583690987124463" count="2">operations</word>
+	<word weight="0.008583690987124463" count="2">fo</word>
+	<word weight="0.008583690987124463" count="2">os</word>
+	<word weight="0.008583690987124463" count="2">government</word>
+	<word weight="0.008583690987124463" count="2">local</word>
+	<phrase weight="0.047619047619047616" count="1">security measure</phrase>
+	<phrase weight="0.047619047619047616" count="1">british air commission</phrase>
+	<phrase weight="0.047619047619047616" count="1">special operations executive</phrase>
+	<phrase weight="0.047619047619047616" count="1">local government board</phrase>
+	<phrase weight="0.047619047619047616" count="1">nationalization railway companies</phrase>
+	<phrase weight="0.047619047619047616" count="1">successive works</phrase>
+	<phrase weight="0.047619047619047616" count="1">treasury solicitor</phrase>
+	<phrase weight="0.047619047619047616" count="1">defunct temporary</phrase>
+	<phrase weight="0.047619047619047616" count="1">supreme court</phrase>
+	<phrase weight="0.047619047619047616" count="1">british transport</phrase>
+	<phrase weight="0.047619047619047616" count="1">ordnance survey</phrase>
+	<phrase weight="0.047619047619047616" count="1">combined operations headquarters</phrase>
+	<phrase weight="0.047619047619047616" count="1">royal air force</phrase>
+	<phrase weight="0.047619047619047616" count="1">cn photographic prints</phrase>
+	<phrase weight="0.047619047619047616" count="1">british council</phrase>
+	<phrase weight="0.047619047619047616" count="1">local government</phrase>
+	<phrase weight="0.047619047619047616" count="1">artificial accumulation</phrase>
+	<phrase weight="0.047619047619047616" count="1">procurator general</phrase>
+	<phrase weight="0.047619047619047616" count="1">purchasing commission</phrase>
+	<phrase weight="0.047619047619047616" count="1">inland revenue</phrase>
+  </topic>
+</topics>

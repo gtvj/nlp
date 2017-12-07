@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.4209980303827505" totalTokens="1315" titles="uk government, transport, dft, www, rail, general, field, http, traffic, education">
+	<word weight="0.11939163498098859" count="157">transport</word>
+	<word weight="0.09429657794676806" count="124">uk</word>
+	<word weight="0.08973384030418251" count="118">dft</word>
+	<word weight="0.0699619771863118" count="92">government</word>
+	<word weight="0.016730038022813688" count="22">www</word>
+	<word weight="0.013688212927756654" count="18">rail</word>
+	<word weight="0.012927756653992395" count="17">field</word>
+	<word weight="0.012927756653992395" count="17">general</word>
+	<word weight="0.011406844106463879" count="15">http</word>
+	<word weight="0.01064638783269962" count="14">gov</word>
+	<word weight="0.009125475285171103" count="12">education</word>
+	<word weight="0.009125475285171103" count="12">traffic</word>
+	<word weight="0.008365019011406844" count="11">public</word>
+	<word weight="0.0076045627376425855" count="10">bikeability</word>
+	<word weight="0.0076045627376425855" count="10">secondary</word>
+	<word weight="0.0076045627376425855" count="10">speed</word>
+	<word weight="0.0076045627376425855" count="10">high</word>
+	<word weight="0.0076045627376425855" count="10">network</word>
+	<word weight="0.006844106463878327" count="9">road</word>
+	<word weight="0.006844106463878327" count="9">org</word>
+	<phrase weight="0.2545454545454545" count="56">uk government</phrase>
+	<phrase weight="0.01818181818181818" count="4">high speed</phrase>
+	<phrase weight="0.01818181818181818" count="4">high speed rail</phrase>
+	<phrase weight="0.01818181818181818" count="4">air travel insolvency protection advisory committee</phrase>
+	<phrase weight="0.01818181818181818" count="4">renewable fuels</phrase>
+	<phrase weight="0.01818181818181818" count="4">road safety</phrase>
+	<phrase weight="0.01818181818181818" count="4">early years</phrase>
+	<phrase weight="0.013636363636363636" count="3">highways maintenance efficiency programme</phrase>
+	<phrase weight="0.013636363636363636" count="3">drug drive</phrase>
+	<phrase weight="0.013636363636363636" count="3">british transport police authority</phrase>
+	<phrase weight="0.013636363636363636" count="3">transport direct</phrase>
+	<phrase weight="0.013636363636363636" count="3">trinity house</phrase>
+	<phrase weight="0.00909090909090909" count="2">human resources</phrase>
+	<phrase weight="0.00909090909090909" count="2">south rail line</phrase>
+	<phrase weight="0.00909090909090909" count="2">uk search</phrase>
+	<phrase weight="0.00909090909090909" count="2">dynamic integrated assignment</phrase>
+	<phrase weight="0.00909090909090909" count="2">drug driving law</phrase>
+	<phrase weight="0.00909090909090909" count="2">marine accident investigation branch</phrase>
+	<phrase weight="0.00909090909090909" count="2">private partnership agreements</phrase>
+	<phrase weight="0.00909090909090909" count="2">northern powerhouse</phrase>
+  </topic>
+</topics>

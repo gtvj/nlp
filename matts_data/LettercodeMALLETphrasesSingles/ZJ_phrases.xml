@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="14.500321881480408" totalTokens="251" titles="gazette, london, gazettes, official, notices, edinburgh, orders, online, bankruptcy, appointments">
+	<word weight="0.0796812749003984" count="20">gazette</word>
+	<word weight="0.06374501992031872" count="16">london</word>
+	<word weight="0.05976095617529881" count="15">gazettes</word>
+	<word weight="0.043824701195219126" count="11">official</word>
+	<word weight="0.027888446215139442" count="7">notices</word>
+	<word weight="0.02390438247011952" count="6">edinburgh</word>
+	<word weight="0.0199203187250996" count="5">orders</word>
+	<word weight="0.0199203187250996" count="5">online</word>
+	<word weight="0.01593625498007968" count="4">bankruptcy</word>
+	<word weight="0.01593625498007968" count="4">appointments</word>
+	<word weight="0.01593625498007968" count="4">acts</word>
+	<word weight="0.01593625498007968" count="4">policy</word>
+	<word weight="0.01593625498007968" count="4">takedown</word>
+	<word weight="0.01593625498007968" count="4">set</word>
+	<word weight="0.01593625498007968" count="4">criteria</word>
+	<word weight="0.01593625498007968" count="4">meets</word>
+	<word weight="0.01593625498007968" count="4">removed</word>
+	<word weight="0.01593625498007968" count="4">contained</word>
+	<word weight="0.01593625498007968" count="4">belfast</word>
+	<word weight="0.01195219123505976" count="3">indexes</word>
+  </topic>
+</topics>

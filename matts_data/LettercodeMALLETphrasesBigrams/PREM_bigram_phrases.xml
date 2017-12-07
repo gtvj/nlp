@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.72623899895088" totalTokens="887" titles="prime minister, uk government, street, downing, number, correspondence, committee, administration, appointments, women">
+	<word weight="0.12401352874859076" count="110">minister</word>
+	<word weight="0.12401352874859076" count="110">prime</word>
+	<word weight="0.03945885005636979" count="35">uk</word>
+	<word weight="0.033821871476888386" count="30">government</word>
+	<word weight="0.03269447576099211" count="29">street</word>
+	<word weight="0.03269447576099211" count="29">downing</word>
+	<word weight="0.015783540022547914" count="14">number</word>
+	<word weight="0.012401352874859075" count="11">correspondence</word>
+	<word weight="0.009019165727170236" count="8">committee</word>
+	<word weight="0.009019165727170236" count="8">administration</word>
+	<word weight="0.007891770011273957" count="7">appointments</word>
+	<word weight="0.006764374295377677" count="6">day</word>
+	<word weight="0.006764374295377677" count="6">work</word>
+	<word weight="0.006764374295377677" count="6">women</word>
+	<word weight="0.006764374295377677" count="6">speech</word>
+	<word weight="0.005636978579481398" count="5">gov</word>
+	<word weight="0.005636978579481398" count="5">honours</word>
+	<word weight="0.005636978579481398" count="5">diaries</word>
+	<word weight="0.005636978579481398" count="5">relate</word>
+	<word weight="0.005636978579481398" count="5">official</word>
+	<phrase weight="0.3541666666666667" count="68">prime minister</phrase>
+	<phrase weight="0.109375" count="21">uk government</phrase>
+	<phrase weight="0.03125" count="6">downing street</phrase>
+	<phrase weight="0.020833333333333332" count="4">international women</phrase>
+	<phrase weight="0.020833333333333332" count="4">mass destruction</phrase>
+	<phrase weight="0.020833333333333332" count="4">inquiries answerable</phrase>
+	<phrase weight="0.015625" count="3">butler review</phrase>
+	<phrase weight="0.010416666666666666" count="2">conservative administration</phrase>
+	<phrase weight="0.010416666666666666" count="2">local government rules</phrase>
+	<phrase weight="0.010416666666666666" count="2">troubled families speech</phrase>
+	<phrase weight="0.010416666666666666" count="2">big society awards</phrase>
+	<phrase weight="0.010416666666666666" count="2">uk points</phrase>
+	<phrase weight="0.010416666666666666" count="2">civil service</phrase>
+	<phrase weight="0.010416666666666666" count="2">charitable trusts</phrase>
+	<phrase weight="0.010416666666666666" count="2">david cameron</phrase>
+	<phrase weight="0.010416666666666666" count="2">virtual tour</phrase>
+	<phrase weight="0.010416666666666666" count="2">good school places</phrase>
+	<phrase weight="0.010416666666666666" count="2">helping women</phrase>
+	<phrase weight="0.010416666666666666" count="2">olympic legacy speech</phrase>
+	<phrase weight="0.010416666666666666" count="2">prime minister theresa</phrase>
+  </topic>
+</topics>

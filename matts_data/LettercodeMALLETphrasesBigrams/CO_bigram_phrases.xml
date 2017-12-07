@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.032448918195833" totalTokens="17151" titles="entry books, government gazettes, acts passed, chief clerk, blue books, correspondence, colonial, colonies, registers, sessional">
+	<word weight="0.08331875692379453" count="1429">correspondence</word>
+	<word weight="0.0825607836277768" count="1416">colonial</word>
+	<word weight="0.045653314675529126" count="783">colonies</word>
+	<word weight="0.03859833245874876" count="662">registers</word>
+	<word weight="0.03597457874176433" count="617">books</word>
+	<word weight="0.03148504460381319" count="540">entry</word>
+	<word weight="0.02542125823567139" count="436">government</word>
+	<word weight="0.01970730569646085" count="338">gazettes</word>
+	<word weight="0.0181913591044254" count="312">sessional</word>
+	<word weight="0.018074747828114978" count="310">miscellanea</word>
+	<word weight="0.016675412512389947" count="286">acts</word>
+	<word weight="0.013993353157250307" count="240">register</word>
+	<word weight="0.013060462946766953" count="224">letters</word>
+	<word weight="0.010786543058713778" count="185">war</word>
+	<word weight="0.00897906827590228" count="154">british</word>
+	<word weight="0.008221094979884555" count="141">local</word>
+	<word weight="0.007929566789108507" count="136">predecessors</word>
+	<word weight="0.007638038598332459" count="131">islands</word>
+	<word weight="0.007288204769401201" count="125">general</word>
+	<word weight="0.0068800653023147335" count="118">africa</word>
+	<phrase weight="0.16178107606679035" count="436">entry books</phrase>
+	<phrase weight="0.055658627087198514" count="150">government gazettes</phrase>
+	<phrase weight="0.022634508348794064" count="61">acts passed</phrase>
+	<phrase weight="0.019666048237476808" count="53">chief clerk</phrase>
+	<phrase weight="0.0163265306122449" count="44">blue books</phrase>
+	<phrase weight="0.0074211502782931356" count="20">hong kong</phrase>
+	<phrase weight="0.0074211502782931356" count="20">south africa</phrase>
+	<phrase weight="0.006679035250463822" count="18">shipping returns</phrase>
+	<phrase weight="0.006307977736549165" count="17">gold coast</phrase>
+	<phrase weight="0.006307977736549165" count="17">british guiana</phrase>
+	<phrase weight="0.0055658627087198514" count="15">caicos islands</phrase>
+	<phrase weight="0.0055658627087198514" count="15">west indies</phrase>
+	<phrase weight="0.005194805194805195" count="14">british honduras</phrase>
+	<phrase weight="0.005194805194805195" count="14">falkland islands</phrase>
+	<phrase weight="0.005194805194805195" count="14">western australia</phrase>
+	<phrase weight="0.005194805194805195" count="14">british north america</phrase>
+	<phrase weight="0.005194805194805195" count="14">nova scotia</phrase>
+	<phrase weight="0.005194805194805195" count="14">leeward islands</phrase>
+	<phrase weight="0.004823747680890538" count="13">sierra leone</phrase>
+	<phrase weight="0.004823747680890538" count="13">federated malay states</phrase>
+  </topic>
+</topics>

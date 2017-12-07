@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="12.22476045696671" totalTokens="128" titles="museum, london, books, correspondence, letters, accessions, registers, cuttings, press, photography">
+	<word weight="0.2265625" count="29">museum</word>
+	<word weight="0.2265625" count="29">london</word>
+	<word weight="0.0703125" count="9">books</word>
+	<word weight="0.046875" count="6">correspondence</word>
+	<word weight="0.0390625" count="5">letters</word>
+	<word weight="0.0234375" count="3">accessions</word>
+	<word weight="0.0234375" count="3">registers</word>
+	<word weight="0.0234375" count="3">cuttings</word>
+	<word weight="0.0234375" count="3">press</word>
+	<word weight="0.0234375" count="3">photography</word>
+	<word weight="0.0234375" count="3">letter</word>
+	<word weight="0.0234375" count="3">exhibitions</word>
+	<word weight="0.0234375" count="3">cash</word>
+	<word weight="0.0234375" count="3">visitors</word>
+	<word weight="0.0234375" count="3">general</word>
+	<word weight="0.0234375" count="3">photographs</word>
+	<word weight="0.0234375" count="3">archaeological</word>
+	<word weight="0.0234375" count="3">publications</word>
+	<word weight="0.0234375" count="3">minutes</word>
+	<word weight="0.015625" count="2">trustees</word>
+  </topic>
+</topics>

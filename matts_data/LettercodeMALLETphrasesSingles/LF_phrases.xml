@@ -1,0 +1,22 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="2.463877730055051" totalTokens="30" titles="telecommunications, reports, oftel, annual, unavailable, covering, act, section, pursuant, parliament">
+	<word weight="0.2" count="6">telecommunications</word>
+	<word weight="0.13333333333333333" count="4">reports</word>
+	<word weight="0.13333333333333333" count="4">oftel</word>
+	<word weight="0.1" count="3">annual</word>
+	<word weight="0.03333333333333333" count="1">unavailable</word>
+	<word weight="0.03333333333333333" count="1">covering</word>
+	<word weight="0.03333333333333333" count="1">act</word>
+	<word weight="0.03333333333333333" count="1">section</word>
+	<word weight="0.03333333333333333" count="1">pursuant</word>
+	<word weight="0.03333333333333333" count="1">parliament</word>
+	<word weight="0.03333333333333333" count="1">general</word>
+	<word weight="0.03333333333333333" count="1">director</word>
+	<word weight="0.03333333333333333" count="1">licences</word>
+	<word weight="0.03333333333333333" count="1">enforcing</word>
+	<word weight="0.03333333333333333" count="1">monitoring</word>
+	<word weight="0.03333333333333333" count="1">regulating</word>
+	<word weight="0.03333333333333333" count="1">responsibilities</word>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="25.771823794042337" totalTokens="110" titles="pensions, tribunals, appeal, registers, appeals, case, disability, assessment, entitlement, cases">
+	<word weight="0.10909090909090909" count="12">pensions</word>
+	<word weight="0.1" count="11">tribunals</word>
+	<word weight="0.09090909090909091" count="10">appeal</word>
+	<word weight="0.045454545454545456" count="5">registers</word>
+	<word weight="0.045454545454545456" count="5">appeals</word>
+	<word weight="0.03636363636363636" count="4">case</word>
+	<word weight="0.03636363636363636" count="4">tribunal</word>
+	<word weight="0.02727272727272727" count="3">disability</word>
+	<word weight="0.02727272727272727" count="3">assessment</word>
+	<word weight="0.02727272727272727" count="3">entitlement</word>
+	<word weight="0.02727272727272727" count="3">cases</word>
+	<word weight="0.02727272727272727" count="3">correspondence</word>
+	<word weight="0.01818181818181818" count="2">claims</word>
+	<word weight="0.01818181818181818" count="2">hearing</word>
+	<word weight="0.01818181818181818" count="2">war</word>
+	<word weight="0.01818181818181818" count="2">decisions</word>
+	<word weight="0.01818181818181818" count="2">arising</word>
+	<word weight="0.01818181818181818" count="2">administration</word>
+	<word weight="0.01818181818181818" count="2">selection</word>
+	<word weight="0.00909090909090909" count="1">applications</word>
+  </topic>
+</topics>

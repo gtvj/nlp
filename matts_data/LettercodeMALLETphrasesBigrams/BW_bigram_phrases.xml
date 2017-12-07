@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.139608337602988" totalTokens="4621" titles="british council, british council activities, overseas representative, comprising correspondence, recording dealings, british council policy, bw, headquarters, country, advisory">
+	<word weight="0.12984202553559834" count="600">council</word>
+	<word weight="0.12183510062756979" count="563">british</word>
+	<word weight="0.04998917983120537" count="231">bw</word>
+	<word weight="0.04328067517853278" count="200">headquarters</word>
+	<word weight="0.041765851547284134" count="193">activities</word>
+	<word weight="0.03873620428478684" count="179">country</word>
+	<word weight="0.029430859121402295" count="136">overseas</word>
+	<word weight="0.02921445574550963" count="135">correspondence</word>
+	<word weight="0.024669984851763686" count="114">representative</word>
+	<word weight="0.013633412681237828" count="63">advisory</word>
+	<word weight="0.011252975546418523" count="52">london</word>
+	<word weight="0.010170958666955204" count="47">committee</word>
+	<word weight="0.00995455529106254" count="46">comprising</word>
+	<word weight="0.009305345163384549" count="43">minutes</word>
+	<word weight="0.008656135035706556" count="40">committees</word>
+	<word weight="0.007790521532135901" count="36">policy</word>
+	<word weight="0.007357714780350574" count="34">dealings</word>
+	<word weight="0.007357714780350574" count="34">recording</word>
+	<word weight="0.006275697900887254" count="29">central</word>
+	<word weight="0.005410084397316598" count="25">united</word>
+	<phrase weight="0.30977734753146174" count="320">british council</phrase>
+	<phrase weight="0.08712487899322362" count="90">british council activities</phrase>
+	<phrase weight="0.061955469506292354" count="64">council activities</phrase>
+	<phrase weight="0.05808325266214908" count="60">overseas representative</phrase>
+	<phrase weight="0.03969022265246854" count="41">comprising correspondence</phrase>
+	<phrase weight="0.02904162633107454" count="30">recording dealings</phrase>
+	<phrase weight="0.02516940948693127" count="26">british council policy</phrase>
+	<phrase weight="0.017424975798644726" count="18">advisory committees</phrase>
+	<phrase weight="0.01452081316553727" count="15">united kingdom</phrase>
+	<phrase weight="0.011616650532429816" count="12">british council central</phrase>
+	<phrase weight="0.00968054211035818" count="10">staff engaged</phrase>
+	<phrase weight="0.00968054211035818" count="10">council central</phrase>
+	<phrase weight="0.006776379477250726" count="7">british council representatives</phrase>
+	<phrase weight="0.006776379477250726" count="7">advisory committee</phrase>
+	<phrase weight="0.00484027105517909" count="5">council policy</phrase>
+	<phrase weight="0.003872216844143272" count="4">london recording dealings</phrase>
+	<phrase weight="0.003872216844143272" count="4">great britain</phrase>
+	<phrase weight="0.003872216844143272" count="4">uk government</phrase>
+	<phrase weight="0.003872216844143272" count="4">west africa</phrase>
+	<phrase weight="0.002904162633107454" count="3">african republic</phrase>
+  </topic>
+</topics>

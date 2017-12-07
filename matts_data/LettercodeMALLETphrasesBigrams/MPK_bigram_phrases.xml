@@ -1,0 +1,33 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.3713212787669053" totalTokens="57" titles="maps, plans, place, drawings, foreign, public, location, inverted, identify, current">
+	<word weight="0.08771929824561403" count="5">maps</word>
+	<word weight="0.07017543859649122" count="4">plans</word>
+	<word weight="0.05263157894736842" count="3">place</word>
+	<word weight="0.05263157894736842" count="3">drawings</word>
+	<word weight="0.05263157894736842" count="3">foreign</word>
+	<word weight="0.03508771929824561" count="2">public</word>
+	<word weight="0.017543859649122806" count="1">location</word>
+	<word weight="0.017543859649122806" count="1">inverted</word>
+	<word weight="0.017543859649122806" count="1">drawing</word>
+	<word weight="0.017543859649122806" count="1">map</word>
+	<word weight="0.017543859649122806" count="1">identify</word>
+	<word weight="0.017543859649122806" count="1">current</word>
+	<word weight="0.017543859649122806" count="1">area</word>
+	<word weight="0.017543859649122806" count="1">geographical</word>
+	<word weight="0.017543859649122806" count="1">political</word>
+	<word weight="0.017543859649122806" count="1">change</word>
+	<word weight="0.017543859649122806" count="1">significant</word>
+	<word weight="0.017543859649122806" count="1">standardised</word>
+	<word weight="0.017543859649122806" count="1">modernised</word>
+	<word weight="0.017543859649122806" count="1">contemporary</word>
+	<phrase weight="0.125" count="1">technical drawings</phrase>
+	<phrase weight="0.125" count="1">small number</phrase>
+	<phrase weight="0.125" count="1">preservation measure</phrase>
+	<phrase weight="0.125" count="1">geographical area</phrase>
+	<phrase weight="0.125" count="1">twentieth century</phrase>
+	<phrase weight="0.125" count="1">significant change</phrase>
+	<phrase weight="0.125" count="1">common subject matter</phrase>
+	<phrase weight="0.125" count="1">artificial accumulations</phrase>
+  </topic>
+</topics>

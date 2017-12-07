@@ -1,0 +1,14 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="3.365906399337313" totalTokens="22" titles="store, society, index, list, off-site, stock, library, ">
+	<word weight="0.18181818181818182" count="4">store</word>
+	<word weight="0.18181818181818182" count="4">society</word>
+	<word weight="0.18181818181818182" count="4">index</word>
+	<word weight="0.18181818181818182" count="4">list</word>
+	<word weight="0.09090909090909091" count="2">off-site</word>
+	<word weight="0.045454545454545456" count="1">stock</word>
+	<word weight="0.045454545454545456" count="1">library</word>
+	<word weight="0.045454545454545456" count="1">site</word>
+	<word weight="0.045454545454545456" count="1">lis</word>
+  </topic>
+</topics>

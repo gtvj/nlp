@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="19.781019767554543" totalTokens="128" titles="judicial, appointments, commission, secretariat, policy, commissioners, range, successors, reform, government">
+	<word weight="0.171875" count="22">judicial</word>
+	<word weight="0.140625" count="18">appointments</word>
+	<word weight="0.109375" count="14">commission</word>
+	<word weight="0.03125" count="4">secretariat</word>
+	<word weight="0.0234375" count="3">policy</word>
+	<word weight="0.0234375" count="3">commissioners</word>
+	<word weight="0.0234375" count="3">range</word>
+	<word weight="0.015625" count="2">successors</word>
+	<word weight="0.015625" count="2">reform</word>
+	<word weight="0.015625" count="2">government</word>
+	<word weight="0.015625" count="2">processes</word>
+	<word weight="0.015625" count="2">significant</word>
+	<word weight="0.015625" count="2">appointment</word>
+	<word weight="0.015625" count="2">audits</word>
+	<word weight="0.015625" count="2">reports</word>
+	<word weight="0.015625" count="2">audit</word>
+	<word weight="0.015625" count="2">counsel</word>
+	<word weight="0.015625" count="2">queen's</word>
+	<word weight="0.015625" count="2">complaints</word>
+	<word weight="0.015625" count="2">investigation</word>
+  </topic>
+</topics>

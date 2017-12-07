@@ -1,0 +1,30 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.6269613037753272" totalTokens="45" titles="maps, plans, bench, king, court, drawings, public, standardised, modernised, contemporary">
+	<word weight="0.1111111111111111" count="5">maps</word>
+	<word weight="0.08888888888888889" count="4">plans</word>
+	<word weight="0.06666666666666667" count="3">bench</word>
+	<word weight="0.06666666666666667" count="3">king</word>
+	<word weight="0.06666666666666667" count="3">court</word>
+	<word weight="0.044444444444444446" count="2">drawings</word>
+	<word weight="0.044444444444444446" count="2">public</word>
+	<word weight="0.022222222222222223" count="1">standardised</word>
+	<word weight="0.022222222222222223" count="1">modernised</word>
+	<word weight="0.022222222222222223" count="1">contemporary</word>
+	<word weight="0.022222222222222223" count="1">names</word>
+	<word weight="0.022222222222222223" count="1">depicted</word>
+	<word weight="0.022222222222222223" count="1">places</word>
+	<word weight="0.022222222222222223" count="1">matter</word>
+	<word weight="0.022222222222222223" count="1">subject</word>
+	<word weight="0.022222222222222223" count="1">common</word>
+	<word weight="0.022222222222222223" count="1">awards</word>
+	<word weight="0.022222222222222223" count="1">enclosure</word>
+	<word weight="0.022222222222222223" count="1">relate</word>
+	<word weight="0.022222222222222223" count="1">kb</word>
+	<phrase weight="0.2" count="1">enclosure awards</phrase>
+	<phrase weight="0.2" count="1">preservation measure</phrase>
+	<phrase weight="0.2" count="1">twentieth century</phrase>
+	<phrase weight="0.2" count="1">subject matter</phrase>
+	<phrase weight="0.2" count="1">artificial accumulations</phrase>
+  </topic>
+</topics>

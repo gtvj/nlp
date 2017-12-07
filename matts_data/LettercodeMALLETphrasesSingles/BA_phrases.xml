@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.083721464692624" totalTokens="723" titles="civil, service, group, management, personnel, committee, predecessor, pay, division, government">
+	<word weight="0.0954356846473029" count="69">civil</word>
+	<word weight="0.08990318118948824" count="65">service</word>
+	<word weight="0.04426002766251729" count="32">group</word>
+	<word weight="0.04149377593360996" count="30">management</word>
+	<word weight="0.029045643153526972" count="21">personnel</word>
+	<word weight="0.022130013831258646" count="16">committee</word>
+	<word weight="0.019363762102351315" count="14">predecessor</word>
+	<word weight="0.016597510373443983" count="12">pay</word>
+	<word weight="0.016597510373443983" count="12">division</word>
+	<word weight="0.015214384508990318" count="11">government</word>
+	<word weight="0.013831258644536652" count="10">central</word>
+	<word weight="0.012448132780082987" count="9">minutes</word>
+	<word weight="0.011065006915629323" count="8">treasury</word>
+	<word weight="0.009681881051175657" count="7">policy</word>
+	<word weight="0.009681881051175657" count="7">services</word>
+	<word weight="0.008298755186721992" count="6">counter-inflation</word>
+	<word weight="0.008298755186721992" count="6">machinery</word>
+	<word weight="0.008298755186721992" count="6">report</word>
+	<word weight="0.006915629322268326" count="5">reports</word>
+	<word weight="0.006915629322268326" count="5">training</word>
+  </topic>
+</topics>

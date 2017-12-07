@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.0608940363417005" totalTokens="15089" titles="registrar general, royal commissions, trade marks, civil aviation, advisory committees, bt, board, seamen, shipping, division">
+	<word weight="0.03830605076545828" count="578">trade</word>
+	<word weight="0.033799456557757304" count="510">bt</word>
+	<word weight="0.028630127907747365" count="432">board</word>
+	<word weight="0.020279673934654383" count="306">seamen</word>
+	<word weight="0.01696600172310955" count="256">shipping</word>
+	<word weight="0.016502087613493272" count="249">general</word>
+	<word weight="0.011995493405792299" count="181">committees</word>
+	<word weight="0.010868844853867056" count="164">division</word>
+	<word weight="0.010603751076943469" count="160">registers</word>
+	<word weight="0.010139836967327192" count="153">companies</word>
+	<word weight="0.010139836967327192" count="153">successors</word>
+	<word weight="0.009543375969249122" count="144">registrar</word>
+	<word weight="0.008483000861554775" count="128">industry</word>
+	<word weight="0.007952813307707602" count="120">registry</word>
+	<word weight="0.007687719530784015" count="116">committee</word>
+	<word weight="0.0072238054211677385" count="109">commissions</word>
+	<word weight="0.007091258532705945" count="107">minutes</word>
+	<word weight="0.006494797534627875" count="98">successor</word>
+	<word weight="0.006494797534627875" count="98">commercial</word>
+	<word weight="0.0061634303134733915" count="93">industrial</word>
+	<phrase weight="0.045076586433260395" count="103">registrar general</phrase>
+	<phrase weight="0.023194748358862146" count="53">royal commissions</phrase>
+	<phrase weight="0.013566739606126914" count="31">trade marks</phrase>
+	<phrase weight="0.011378555798687089" count="26">civil aviation</phrase>
+	<phrase weight="0.00962800875273523" count="22">advisory committees</phrase>
+	<phrase weight="0.0087527352297593" count="20">world war</phrase>
+	<phrase weight="0.006564551422319475" count="15">raw materials</phrase>
+	<phrase weight="0.00612691466083151" count="14">commercial relations</phrase>
+	<phrase weight="0.0056892778993435445" count="13">electronic images</phrase>
+	<phrase weight="0.00525164113785558" count="12">patent registers</phrase>
+	<phrase weight="0.00525164113785558" count="12">companies registration</phrase>
+	<phrase weight="0.00437636761487965" count="10">designs act</phrase>
+	<phrase weight="0.00437636761487965" count="10">commercial policy divisions</phrase>
+	<phrase weight="0.00437636761487965" count="10">united kingdom</phrase>
+	<phrase weight="0.00437636761487965" count="10">enemy property</phrase>
+	<phrase weight="0.00437636761487965" count="10">investment grants</phrase>
+	<phrase weight="0.00437636761487965" count="10">crew lists</phrase>
+	<phrase weight="0.003938730853391685" count="9">overseas trade</phrase>
+	<phrase weight="0.003938730853391685" count="9">industrial property</phrase>
+	<phrase weight="0.00350109409190372" count="8">regional boards</phrase>
+  </topic>
+</topics>

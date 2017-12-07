@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.892324094769115" totalTokens="599" titles="bus, national, company, central, nbc, fh, transport, administration, companies, board">
+	<word weight="0.08514190317195326" count="51">bus</word>
+	<word weight="0.08180300500834725" count="49">national</word>
+	<word weight="0.07846410684474124" count="47">company</word>
+	<word weight="0.025041736227045076" count="15">central</word>
+	<word weight="0.025041736227045076" count="15">nbc</word>
+	<word weight="0.025041736227045076" count="15">fh</word>
+	<word weight="0.02337228714524207" count="14">transport</word>
+	<word weight="0.02337228714524207" count="14">administration</word>
+	<word weight="0.01669449081803005" count="10">companies</word>
+	<word weight="0.015025041736227046" count="9">board</word>
+	<word weight="0.015025041736227046" count="9">minutes</word>
+	<word weight="0.015025041736227046" count="9">unregistered</word>
+	<word weight="0.011686143572621035" count="7">regional</word>
+	<word weight="0.01001669449081803" count="6">executive</word>
+	<word weight="0.008347245409015025" count="5">staff</word>
+	<word weight="0.008347245409015025" count="5">policy</word>
+	<word weight="0.008347245409015025" count="5">services</word>
+	<word weight="0.008347245409015025" count="5">local</word>
+	<word weight="0.008347245409015025" count="5">correspondence</word>
+	<word weight="0.008347245409015025" count="5">development</word>
+	<phrase weight="0.15454545454545454" count="17">national bus company</phrase>
+	<phrase weight="0.05454545454545454" count="6">bus company</phrase>
+	<phrase weight="0.05454545454545454" count="6">central administration</phrase>
+	<phrase weight="0.02727272727272727" count="3">bus manufacturing companies</phrase>
+	<phrase weight="0.01818181818181818" count="2">local authorities</phrase>
+	<phrase weight="0.00909090909090909" count="1">minutes agenda</phrase>
+	<phrase weight="0.00909090909090909" count="1">supply buses</phrase>
+	<phrase weight="0.00909090909090909" count="1">divisional directors</phrase>
+	<phrase weight="0.00909090909090909" count="1">minibus operation</phrase>
+	<phrase weight="0.00909090909090909" count="1">mergers commission inquiry</phrase>
+	<phrase weight="0.00909090909090909" count="1">trial area</phrase>
+	<phrase weight="0.00909090909090909" count="1">leisure travel</phrase>
+	<phrase weight="0.00909090909090909" count="1">linked seaborne transport</phrase>
+	<phrase weight="0.00909090909090909" count="1">working conditions</phrase>
+	<phrase weight="0.00909090909090909" count="1">leyland national company</phrase>
+	<phrase weight="0.00909090909090909" count="1">strategic research</phrase>
+	<phrase weight="0.00909090909090909" count="1">binder hamlyn</phrase>
+	<phrase weight="0.00909090909090909" count="1">public affairs committee</phrase>
+	<phrase weight="0.00909090909090909" count="1">local authority</phrase>
+	<phrase weight="0.00909090909090909" count="1">principal operating</phrase>
+  </topic>
+</topics>

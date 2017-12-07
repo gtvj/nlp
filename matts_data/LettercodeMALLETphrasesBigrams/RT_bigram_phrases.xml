@@ -1,0 +1,24 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="2.6706425208492504" totalTokens="25" titles="africa, commission, rt, division, development, social, economic, community, international, recommendations">
+	<word weight="0.24" count="6">africa</word>
+	<word weight="0.2" count="5">commission</word>
+	<word weight="0.08" count="2">rt</word>
+	<word weight="0.04" count="1">division</word>
+	<word weight="0.04" count="1">development</word>
+	<word weight="0.04" count="1">social</word>
+	<word weight="0.04" count="1">economic</word>
+	<word weight="0.04" count="1">community</word>
+	<word weight="0.04" count="1">international</word>
+	<word weight="0.04" count="1">recommendations</word>
+	<word weight="0.04" count="1">delivering</word>
+	<word weight="0.04" count="1">task</word>
+	<word weight="0.04" count="1">reflect</word>
+	<word weight="0.04" count="1">government</word>
+	<word weight="0.04" count="1">uk</word>
+	<phrase weight="0.25" count="1">social development</phrase>
+	<phrase weight="0.25" count="1">delivering recommendations</phrase>
+	<phrase weight="0.25" count="1">africa reflect</phrase>
+	<phrase weight="0.25" count="1">uk government</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,32 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0" totalTokens="73" titles="board, joint, clinical, studies, nursing, dy, minutes, institutional, remit, courses">
+	<word weight="0.1232876712328767" count="9">board</word>
+	<word weight="0.1232876712328767" count="9">joint</word>
+	<word weight="0.1095890410958904" count="8">clinical</word>
+	<word weight="0.0821917808219178" count="6">studies</word>
+	<word weight="0.0821917808219178" count="6">nursing</word>
+	<word weight="0.0684931506849315" count="5">dy</word>
+	<word weight="0.0410958904109589" count="3">minutes</word>
+	<word weight="0.0273972602739726" count="2">institutional</word>
+	<word weight="0.0273972602739726" count="2">remit</word>
+	<word weight="0.0273972602739726" count="2">courses</word>
+	<word weight="0.0273972602739726" count="2">institutions</word>
+	<word weight="0.0273972602739726" count="2">training</word>
+	<word weight="0.0273972602739726" count="2">reports</word>
+	<word weight="0.0136986301369863" count="1">supervisory</word>
+	<word weight="0.0136986301369863" count="1">providing</word>
+	<word weight="0.0136986301369863" count="1">correspondence</word>
+	<word weight="0.0136986301369863" count="1">running</word>
+	<word weight="0.0136986301369863" count="1">wales</word>
+	<word weight="0.0136986301369863" count="1">england</word>
+	<word weight="0.0136986301369863" count="1">midwives</word>
+	<phrase weight="0.4375" count="7">joint board</phrase>
+	<phrase weight="0.25" count="4">nursing studies</phrase>
+	<phrase weight="0.0625" count="1">institutions running courses</phrase>
+	<phrase weight="0.0625" count="1">clinical nursing studies</phrase>
+	<phrase weight="0.0625" count="1">qualification clinical training</phrase>
+	<phrase weight="0.0625" count="1">institutions providing clinical training courses</phrase>
+	<phrase weight="0.0625" count="1">occasional publications</phrase>
+  </topic>
+</topics>

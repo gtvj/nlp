@@ -1,0 +1,20 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1233.5635701495012" totalTokens="15" titles="tribunals, appeal, service, independent, damage, vaccine, medical, security, social, president">
+	<word weight="0.2" count="3">tribunals</word>
+	<word weight="0.13333333333333333" count="2">appeal</word>
+	<word weight="0.06666666666666667" count="1">service</word>
+	<word weight="0.06666666666666667" count="1">tribunal</word>
+	<word weight="0.06666666666666667" count="1">independent</word>
+	<word weight="0.06666666666666667" count="1">damage</word>
+	<word weight="0.06666666666666667" count="1">vaccine</word>
+	<word weight="0.06666666666666667" count="1">medical</word>
+	<word weight="0.06666666666666667" count="1">security</word>
+	<word weight="0.06666666666666667" count="1">social</word>
+	<word weight="0.06666666666666667" count="1">president</word>
+	<word weight="0.06666666666666667" count="1">np</word>
+	<phrase weight="0.3333333333333333" count="1">damage tribunals</phrase>
+	<phrase weight="0.3333333333333333" count="1">appeal tribunals</phrase>
+	<phrase weight="0.3333333333333333" count="1">social security appeal tribunals</phrase>
+  </topic>
+</topics>

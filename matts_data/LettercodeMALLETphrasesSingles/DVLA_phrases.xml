@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="27.078097822141117" totalTokens="102" titles="licensing, vehicle, dvla, driver, government, online, registrations, personalised, microsite, draw">
+	<word weight="0.18627450980392157" count="19">licensing</word>
+	<word weight="0.18627450980392157" count="19">vehicle</word>
+	<word weight="0.16666666666666666" count="17">dvla</word>
+	<word weight="0.14705882352941177" count="15">driver</word>
+	<word weight="0.049019607843137254" count="5">government</word>
+	<word weight="0.0392156862745098" count="4">online</word>
+	<word weight="0.0196078431372549" count="2">registrations</word>
+	<word weight="0.0196078431372549" count="2">personalised</word>
+	<word weight="0.0196078431372549" count="2">microsite</word>
+	<word weight="0.0196078431372549" count="2">draw</word>
+	<word weight="0.0196078431372549" count="2">prize</word>
+	<word weight="0.0196078431372549" count="2">field</word>
+	<word weight="0.0196078431372549" count="2">general</word>
+	<word weight="0.0196078431372549" count="2">services</word>
+	<word weight="0.0196078431372549" count="2">business</word>
+	<word weight="0.00980392156862745" count="1">division</word>
+	<word weight="0.00980392156862745" count="1">www.vehiclelicence.gov.uk</word>
+	<word weight="0.00980392156862745" count="1">www.taxdisc.direct.gov.uk</word>
+	<word weight="0.00980392156862745" count="1">www.dvlaonline.gov.uk</word>
+	<word weight="0.00980392156862745" count="1">www.dvla.gov.uk</word>
+  </topic>
+</topics>

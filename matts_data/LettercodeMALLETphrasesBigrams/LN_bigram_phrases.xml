@@ -1,0 +1,14 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="4.357995511467345" totalTokens="17" titles="commission, societies, building, ln, regulation, bsc, ">
+	<word weight="0.23529411764705882" count="4">commission</word>
+	<word weight="0.23529411764705882" count="4">societies</word>
+	<word weight="0.23529411764705882" count="4">building</word>
+	<word weight="0.17647058823529413" count="3">ln</word>
+	<word weight="0.058823529411764705" count="1">regulation</word>
+	<word weight="0.058823529411764705" count="1">bsc</word>
+	<phrase weight="0.5" count="2">building societies commission</phrase>
+	<phrase weight="0.25" count="1">societies commission</phrase>
+	<phrase weight="0.25" count="1">building societies</phrase>
+  </topic>
+</topics>

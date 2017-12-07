@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.086828117720583" totalTokens="8102" titles="cabinet, committee, government, defence, minutes, war, committees, imperial, memoranda, intelligence">
+	<word weight="0.07627746235497408" count="618">cabinet</word>
+	<word weight="0.04431004690199951" count="359">committee</word>
+	<word weight="0.030116020735620835" count="244">government</word>
+	<word weight="0.029745741792150088" count="241">defence</word>
+	<word weight="0.02962231547765984" count="240">minutes</word>
+	<word weight="0.026660083929893854" count="216">war</word>
+	<word weight="0.019131078745988645" count="155">committees</word>
+	<word weight="0.015675141940261664" count="127">imperial</word>
+	<word weight="0.015304862996790916" count="124">memoranda</word>
+	<word weight="0.011602073562083436" count="94">intelligence</word>
+	<word weight="0.01110836830412244" count="90">service</word>
+	<word weight="0.009010120957788201" count="73">joint</word>
+	<word weight="0.008886694643297952" count="72">civil</word>
+	<word weight="0.007652431498395458" count="62">sub-committees</word>
+	<word weight="0.006294742039002715" count="51">correspondence</word>
+	<word weight="0.005677610466551469" count="46">central</word>
+	<word weight="0.005183905208590471" count="42">colonial</word>
+	<word weight="0.005183905208590471" count="42">section</word>
+	<word weight="0.005060478894100222" count="41">council</word>
+	<word weight="0.004937052579609973" count="40">commission</word>
+  </topic>
+</topics>

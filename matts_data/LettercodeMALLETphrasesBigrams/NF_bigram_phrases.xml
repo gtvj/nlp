@@ -1,0 +1,40 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="9.9928034058708" totalTokens="246" titles="trade, employers, unions, associations, nf, registry, registration, rtuea, amalgamations, engagements">
+	<word weight="0.09349593495934959" count="23">trade</word>
+	<word weight="0.07723577235772358" count="19">employers</word>
+	<word weight="0.07723577235772358" count="19">unions</word>
+	<word weight="0.07317073170731707" count="18">associations</word>
+	<word weight="0.06910569105691057" count="17">nf</word>
+	<word weight="0.056910569105691054" count="14">registry</word>
+	<word weight="0.028455284552845527" count="7">registration</word>
+	<word weight="0.02032520325203252" count="5">rtuea</word>
+	<word weight="0.016260162601626018" count="4">union</word>
+	<word weight="0.016260162601626018" count="4">amalgamations</word>
+	<word weight="0.016260162601626018" count="4">engagements</word>
+	<word weight="0.016260162601626018" count="4">act</word>
+	<word weight="0.016260162601626018" count="4">relations</word>
+	<word weight="0.012195121951219513" count="3">legal</word>
+	<word weight="0.012195121951219513" count="3">registrar</word>
+	<word weight="0.012195121951219513" count="3">chief</word>
+	<word weight="0.012195121951219513" count="3">transfers</word>
+	<word weight="0.012195121951219513" count="3">returns</word>
+	<word weight="0.012195121951219513" count="3">rules</word>
+	<word weight="0.012195121951219513" count="3">organisations</word>
+	<phrase weight="0.4722222222222222" count="17">trade unions</phrase>
+	<phrase weight="0.08333333333333333" count="3">trade union</phrase>
+	<phrase weight="0.05555555555555555" count="2">annual returns</phrase>
+	<phrase weight="0.05555555555555555" count="2">chief registrar</phrase>
+	<phrase weight="0.05555555555555555" count="2">individual organisations</phrase>
+	<phrase weight="0.027777777777777776" count="1">individual trade unions</phrase>
+	<phrase weight="0.027777777777777776" count="1">public relations</phrase>
+	<phrase weight="0.027777777777777776" count="1">statutory declarations</phrase>
+	<phrase weight="0.027777777777777776" count="1">registration procedures</phrase>
+	<phrase weight="0.027777777777777776" count="1">fund returns</phrase>
+	<phrase weight="0.027777777777777776" count="1">trade union practices</phrase>
+	<phrase weight="0.027777777777777776" count="1">certification officer</phrase>
+	<phrase weight="0.027777777777777776" count="1">relations act</phrase>
+	<phrase weight="0.027777777777777776" count="1">employers associations</phrase>
+	<phrase weight="0.027777777777777776" count="1">rtuea examination</phrase>
+  </topic>
+</topics>

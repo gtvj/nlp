@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.882945945674939" totalTokens="302" titles="council, js, education, funding, committee, england, reports, minutes, digital, participation">
+	<word weight="0.10596026490066225" count="32">council</word>
+	<word weight="0.08278145695364239" count="25">js</word>
+	<word weight="0.07947019867549669" count="24">education</word>
+	<word weight="0.0695364238410596" count="21">funding</word>
+	<word weight="0.04966887417218543" count="15">committee</word>
+	<word weight="0.04966887417218543" count="15">england</word>
+	<word weight="0.033112582781456956" count="10">reports</word>
+	<word weight="0.029801324503311258" count="9">minutes</word>
+	<word weight="0.026490066225165563" count="8">digital</word>
+	<word weight="0.016556291390728478" count="5">participation</word>
+	<word weight="0.016556291390728478" count="5">widening</word>
+	<word weight="0.016556291390728478" count="5">circulars</word>
+	<word weight="0.016556291390728478" count="5">evidence</word>
+	<word weight="0.016556291390728478" count="5">disabilities</word>
+	<word weight="0.016556291390728478" count="5">difficulties</word>
+	<word weight="0.016556291390728478" count="5">learning</word>
+	<word weight="0.013245033112582781" count="4">colleges</word>
+	<word weight="0.013245033112582781" count="4">march</word>
+	<word weight="0.013245033112582781" count="4">national</word>
+	<word weight="0.013245033112582781" count="4">migration</word>
+	<phrase weight="0.32653061224489793" count="16">education funding council</phrase>
+	<phrase weight="0.10204081632653061" count="5">learning difficulties</phrase>
+	<phrase weight="0.061224489795918366" count="3">participation committee</phrase>
+	<phrase weight="0.061224489795918366" count="3">funding council</phrase>
+	<phrase weight="0.061224489795918366" count="3">annual reports</phrase>
+	<phrase weight="0.04081632653061224" count="2">college inspectorate</phrase>
+	<phrase weight="0.04081632653061224" count="2">council minutes</phrase>
+	<phrase weight="0.02040816326530612" count="1">funding responsibilities</phrase>
+	<phrase weight="0.02040816326530612" count="1">cycle commencing</phrase>
+	<phrase weight="0.02040816326530612" count="1">lotus notes database</phrase>
+	<phrase weight="0.02040816326530612" count="1">committee members</phrase>
+	<phrase weight="0.02040816326530612" count="1">formal inspections</phrase>
+	<phrase weight="0.02040816326530612" count="1">educational inspectors employed</phrase>
+	<phrase weight="0.02040816326530612" count="1">earliest report covers</phrase>
+	<phrase weight="0.02040816326530612" count="1">submitted evidence</phrase>
+	<phrase weight="0.02040816326530612" count="1">council meetings</phrase>
+	<phrase weight="0.02040816326530612" count="1">inspector responsible</phrase>
+	<phrase weight="0.02040816326530612" count="1">widening participation committee</phrase>
+	<phrase weight="0.02040816326530612" count="1">widening participation committee set</phrase>
+	<phrase weight="0.02040816326530612" count="1">earlier circulars relate</phrase>
+  </topic>
+</topics>

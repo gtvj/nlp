@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.234295069799555" totalTokens="73" titles="london, maps, plans, borough, drawings, treasury, council, county, places, century">
+	<word weight="0.0958904109589041" count="7">london</word>
+	<word weight="0.0821917808219178" count="6">maps</word>
+	<word weight="0.0684931506849315" count="5">plans</word>
+	<word weight="0.0410958904109589" count="3">borough</word>
+	<word weight="0.0410958904109589" count="3">drawings</word>
+	<word weight="0.0410958904109589" count="3">treasury</word>
+	<word weight="0.0273972602739726" count="2">council</word>
+	<word weight="0.0273972602739726" count="2">county</word>
+	<word weight="0.0273972602739726" count="2">places</word>
+	<word weight="0.0273972602739726" count="2">century</word>
+	<word weight="0.0273972602739726" count="2">map</word>
+	<word weight="0.0273972602739726" count="2">extra</word>
+	<word weight="0.0273972602739726" count="2">public</word>
+	<word weight="0.0136986301369863" count="1">size</word>
+	<word weight="0.0136986301369863" count="1">measure</word>
+	<word weight="0.0136986301369863" count="1">preservation</word>
+	<word weight="0.0136986301369863" count="1">primarily</word>
+	<word weight="0.0136986301369863" count="1">transfer</word>
+	<word weight="0.0136986301369863" count="1">cater</word>
+	<word weight="0.0136986301369863" count="1">twentieth</word>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.773565753711098" totalTokens="1007" titles="audit, auditors, imprest, successors, accounts, commissioners, exchequer, national, reports, general">
+	<word weight="0.09632571996027806" count="97">audit</word>
+	<word weight="0.04667328699106256" count="47">auditors</word>
+	<word weight="0.04568023833167825" count="46">imprest</word>
+	<word weight="0.04568023833167825" count="46">successors</word>
+	<word weight="0.04270109235352532" count="43">accounts</word>
+	<word weight="0.0407149950347567" count="41">commissioners</word>
+	<word weight="0.038728897715988087" count="39">exchequer</word>
+	<word weight="0.016881827209533268" count="17">national</word>
+	<word weight="0.016881827209533268" count="17">reports</word>
+	<word weight="0.015888778550148957" count="16">general</word>
+	<word weight="0.014895729890764648" count="15">books</word>
+	<word weight="0.012909632571996028" count="13">claims</word>
+	<word weight="0.009930486593843098" count="10">comptroller</word>
+	<word weight="0.00893743793445879" count="9">policy</word>
+	<word weight="0.00893743793445879" count="9">declared</word>
+	<word weight="0.006951340615690168" count="7">letters</word>
+	<word weight="0.006951340615690168" count="7">public</word>
+	<word weight="0.006951340615690168" count="7">minutes</word>
+	<word weight="0.005958291956305859" count="6">treasury</word>
+	<word weight="0.005958291956305859" count="6">commissions</word>
+  </topic>
+</topics>

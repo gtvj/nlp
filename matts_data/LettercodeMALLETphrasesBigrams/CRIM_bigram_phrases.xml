@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.534947067196133" totalTokens="380" titles="court, criminal, central, cases, proceedings, reserved, crown, salaries, staff, trial">
+	<word weight="0.12368421052631579" count="47">court</word>
+	<word weight="0.05789473684210526" count="22">criminal</word>
+	<word weight="0.05" count="19">central</word>
+	<word weight="0.03684210526315789" count="14">cases</word>
+	<word weight="0.02894736842105263" count="11">proceedings</word>
+	<word weight="0.021052631578947368" count="8">reserved</word>
+	<word weight="0.018421052631578946" count="7">crown</word>
+	<word weight="0.015789473684210527" count="6">salaries</word>
+	<word weight="0.015789473684210527" count="6">staff</word>
+	<word weight="0.015789473684210527" count="6">trial</word>
+	<word weight="0.015789473684210527" count="6">consideration</word>
+	<word weight="0.015789473684210527" count="6">indictments</word>
+	<word weight="0.013157894736842105" count="5">calendars</word>
+	<word weight="0.010526315789473684" count="4">orders</word>
+	<word weight="0.010526315789473684" count="4">books</word>
+	<word weight="0.010526315789473684" count="4">committee</word>
+	<word weight="0.007894736842105263" count="3">verdict</word>
+	<word weight="0.007894736842105263" count="3">jury</word>
+	<word weight="0.007894736842105263" count="3">names</word>
+	<word weight="0.007894736842105263" count="3">depositions</word>
+	<phrase weight="0.22580645161290322" count="14">central criminal court</phrase>
+	<phrase weight="0.08064516129032258" count="5">crown cases reserved</phrase>
+	<phrase weight="0.06451612903225806" count="4">criminal court</phrase>
+	<phrase weight="0.03225806451612903" count="2">salaries committee</phrase>
+	<phrase weight="0.03225806451612903" count="2">cases referred</phrase>
+	<phrase weight="0.016129032258064516" count="1">orders administrative orders</phrase>
+	<phrase weight="0.016129032258064516" count="1">central criminal court providing</phrase>
+	<phrase weight="0.016129032258064516" count="1">court proceedings</phrase>
+	<phrase weight="0.016129032258064516" count="1">committing magistrates</phrase>
+	<phrase weight="0.016129032258064516" count="1">initial letters</phrase>
+	<phrase weight="0.016129032258064516" count="1">gaol delivery issued</phrase>
+	<phrase weight="0.016129032258064516" count="1">proposed forms</phrase>
+	<phrase weight="0.016129032258064516" count="1">trial calenders giving</phrase>
+	<phrase weight="0.016129032258064516" count="1">previous convictions</phrase>
+	<phrase weight="0.016129032258064516" count="1">generally endorsed</phrase>
+	<phrase weight="0.016129032258064516" count="1">alphabetical indexes</phrase>
+	<phrase weight="0.016129032258064516" count="1">notable cases</phrase>
+	<phrase weight="0.016129032258064516" count="1">criminal cases</phrase>
+	<phrase weight="0.016129032258064516" count="1">police courts</phrase>
+	<phrase weight="0.016129032258064516" count="1">persons indicted</phrase>
+  </topic>
+</topics>

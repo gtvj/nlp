@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="9.13881362603224" totalTokens="286" titles="dpp, prosecutions, public, director, criminal, case, court, registers, cases, trials">
+	<word weight="0.05944055944055944" count="17">dpp</word>
+	<word weight="0.055944055944055944" count="16">prosecutions</word>
+	<word weight="0.04895104895104895" count="14">public</word>
+	<word weight="0.04895104895104895" count="14">director</word>
+	<word weight="0.027972027972027972" count="8">criminal</word>
+	<word weight="0.027972027972027972" count="8">case</word>
+	<word weight="0.02097902097902098" count="6">court</word>
+	<word weight="0.02097902097902098" count="6">registers</word>
+	<word weight="0.017482517482517484" count="5">prosecution</word>
+	<word weight="0.017482517482517484" count="5">cases</word>
+	<word weight="0.013986013986013986" count="4">trials</word>
+	<word weight="0.013986013986013986" count="4">staff</word>
+	<word weight="0.01048951048951049" count="3">action</word>
+	<word weight="0.01048951048951049" count="3">procedure</word>
+	<word weight="0.01048951048951049" count="3">policy</word>
+	<word weight="0.01048951048951049" count="3">transcripts</word>
+	<word weight="0.01048951048951049" count="3">murder</word>
+	<word weight="0.01048951048951049" count="3">police</word>
+	<word weight="0.01048951048951049" count="3">precedent</word>
+	<word weight="0.006993006993006993" count="2">solicitor</word>
+  </topic>
+</topics>

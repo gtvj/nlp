@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.15306344993548" totalTokens="467" titles="munitions, reports, war, branch, contracts, liquidation, general, director, council, specimens">
+	<word weight="0.07494646680942184" count="35">munitions</word>
+	<word weight="0.027837259100642397" count="13">reports</word>
+	<word weight="0.021413276231263382" count="10">war</word>
+	<word weight="0.017130620985010708" count="8">branch</word>
+	<word weight="0.014989293361884369" count="7">contracts</word>
+	<word weight="0.014989293361884369" count="7">liquidation</word>
+	<word weight="0.01284796573875803" count="6">general</word>
+	<word weight="0.01284796573875803" count="6">director</word>
+	<word weight="0.01284796573875803" count="6">council</word>
+	<word weight="0.010706638115631691" count="5">specimens</word>
+	<word weight="0.010706638115631691" count="5">inspection</word>
+	<word weight="0.010706638115631691" count="5">explosives</word>
+	<word weight="0.010706638115631691" count="5">commission</word>
+	<word weight="0.010706638115631691" count="5">disposal</word>
+	<word weight="0.010706638115631691" count="5">committees</word>
+	<word weight="0.010706638115631691" count="5">history</word>
+	<word weight="0.008565310492505354" count="4">registry</word>
+	<word weight="0.008565310492505354" count="4">central</word>
+	<word weight="0.008565310492505354" count="4">supply</word>
+	<word weight="0.008565310492505354" count="4">george</word>
+  </topic>
+</topics>

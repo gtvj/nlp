@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.224908740515386" totalTokens="2057" titles="gov.uk, government, blog, inside, digital, health, service, budget, media, civil">
+	<word weight="0.2557122022362664" count="526">gov.uk</word>
+	<word weight="0.13077297034516286" count="269">government</word>
+	<word weight="0.10209042294603791" count="210">blog</word>
+	<word weight="0.02916869227029655" count="60">inside</word>
+	<word weight="0.02236266407389402" count="46">digital</word>
+	<word weight="0.013612056392805057" count="28">health</word>
+	<word weight="0.009236752552260573" count="19">service</word>
+	<word weight="0.008750607681088965" count="18">budget</word>
+	<word weight="0.007778317938745746" count="16">media</word>
+	<word weight="0.00583373845405931" count="12">civil</word>
+	<word weight="0.004861448711716091" count="10">gds</word>
+	<word weight="0.004861448711716091" count="10">strategy</word>
+	<word weight="0.004861448711716091" count="10">business</word>
+	<word weight="0.003889158969372873" count="8">transport</word>
+	<word weight="0.003889158969372873" count="8">social</word>
+	<word weight="0.003889158969372873" count="8">public</word>
+	<word weight="0.003889158969372873" count="8">pensions</word>
+	<word weight="0.003889158969372873" count="8">energy</word>
+	<word weight="0.003889158969372873" count="8">technology</word>
+	<word weight="0.003889158969372873" count="8">cabinet</word>
+  </topic>
+</topics>

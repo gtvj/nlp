@@ -1,0 +1,38 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="14.314588770491165" totalTokens="130" titles="council, consumer, aj, minutes, reports, meetings, releases, press, publications, annual">
+	<word weight="0.2076923076923077" count="27">council</word>
+	<word weight="0.2" count="26">consumer</word>
+	<word weight="0.16153846153846155" count="21">aj</word>
+	<word weight="0.06923076923076923" count="9">minutes</word>
+	<word weight="0.06153846153846154" count="8">reports</word>
+	<word weight="0.03076923076923077" count="4">meetings</word>
+	<word weight="0.023076923076923078" count="3">releases</word>
+	<word weight="0.023076923076923078" count="3">press</word>
+	<word weight="0.023076923076923078" count="3">publications</word>
+	<word weight="0.023076923076923078" count="3">annual</word>
+	<word weight="0.023076923076923078" count="3">committee</word>
+	<word weight="0.015384615384615385" count="2">organisations</word>
+	<word weight="0.015384615384615385" count="2">survey</word>
+	<word weight="0.015384615384615385" count="2">field</word>
+	<word weight="0.015384615384615385" count="2">submissions</word>
+	<word weight="0.007692307692307693" count="1">protection</word>
+	<word weight="0.007692307692307693" count="1">safeguard</word>
+	<word weight="0.007692307692307693" count="1">appointed</word>
+	<word weight="0.007692307692307693" count="1">consumers</word>
+	<word weight="0.007692307692307693" count="1">affecting</word>
+	<phrase weight="0.5384615384615384" count="14">consumer council</phrase>
+	<phrase weight="0.038461538461538464" count="1">public enquiries</phrase>
+	<phrase weight="0.038461538461538464" count="1">reports annual reports</phrase>
+	<phrase weight="0.038461538461538464" count="1">releases press releases</phrase>
+	<phrase weight="0.038461538461538464" count="1">committee minutes</phrase>
+	<phrase weight="0.038461538461538464" count="1">committee meetings</phrase>
+	<phrase weight="0.038461538461538464" count="1">evidence submitted</phrase>
+	<phrase weight="0.038461538461538464" count="1">organisations minutes</phrase>
+	<phrase weight="0.038461538461538464" count="1">safeguard consumer protection</phrase>
+	<phrase weight="0.038461538461538464" count="1">field survey reports</phrase>
+	<phrase weight="0.038461538461538464" count="1">press releases</phrase>
+	<phrase weight="0.038461538461538464" count="1">annual reports</phrase>
+	<phrase weight="0.038461538461538464" count="1">survey reports reports</phrase>
+  </topic>
+</topics>

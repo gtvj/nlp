@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="10.439002881040825" totalTokens="212" titles="trust, soldiers, sailors, irish, land, correspondence, london, ireland, headquarters, properties">
+	<word weight="0.08962264150943396" count="19">trust</word>
+	<word weight="0.08018867924528301" count="17">soldiers</word>
+	<word weight="0.08018867924528301" count="17">sailors</word>
+	<word weight="0.08018867924528301" count="17">irish</word>
+	<word weight="0.07547169811320754" count="16">land</word>
+	<word weight="0.04716981132075472" count="10">correspondence</word>
+	<word weight="0.04245283018867924" count="9">london</word>
+	<word weight="0.03773584905660377" count="8">ireland</word>
+	<word weight="0.0330188679245283" count="7">headquarters</word>
+	<word weight="0.02830188679245283" count="6">properties</word>
+	<word weight="0.018867924528301886" count="4">dublin</word>
+	<word weight="0.018867924528301886" count="4">miscellaneous</word>
+	<word weight="0.018867924528301886" count="4">northern</word>
+	<word weight="0.014150943396226415" count="3">southern</word>
+	<word weight="0.014150943396226415" count="3">policy</word>
+	<word weight="0.014150943396226415" count="3">tenancy</word>
+	<word weight="0.014150943396226415" count="3">trust's</word>
+	<word weight="0.014150943396226415" count="3">registers</word>
+	<word weight="0.014150943396226415" count="3">ledgers</word>
+	<word weight="0.014150943396226415" count="3">accounts</word>
+  </topic>
+</topics>

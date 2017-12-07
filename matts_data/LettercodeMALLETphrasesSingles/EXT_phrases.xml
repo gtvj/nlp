@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="11.170731370495695" totalTokens="161" titles="items, kew, public, lane, chancery, extracts, january, classes, rolled, moved">
+	<word weight="0.16770186335403728" count="27">items</word>
+	<word weight="0.07453416149068323" count="12">kew</word>
+	<word weight="0.055900621118012424" count="9">public</word>
+	<word weight="0.043478260869565216" count="7">lane</word>
+	<word weight="0.043478260869565216" count="7">chancery</word>
+	<word weight="0.037267080745341616" count="6">extracts</word>
+	<word weight="0.037267080745341616" count="6">january</word>
+	<word weight="0.037267080745341616" count="6">classes</word>
+	<word weight="0.037267080745341616" count="6">rolled</word>
+	<word weight="0.031055900621118012" count="5">moved</word>
+	<word weight="0.024844720496894408" count="4">boxed</word>
+	<word weight="0.024844720496894408" count="4">additions</word>
+	<word weight="0.018633540372670808" count="3">belong</word>
+	<word weight="0.018633540372670808" count="3">rest</word>
+	<word weight="0.018633540372670808" count="3">bulkier</word>
+	<word weight="0.018633540372670808" count="3">larger</word>
+	<word weight="0.018633540372670808" count="3">complete</word>
+	<word weight="0.018633540372670808" count="3">receive</word>
+	<word weight="0.012422360248447204" count="2">formats</word>
+	<word weight="0.012422360248447204" count="2">contained</word>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.7889014328368775" totalTokens="578" titles="ward, wards, court, liveries, accounts, feodaries, pleadings, wardship, extents, miscellaneous">
+	<word weight="0.08304498269896193" count="48">ward</word>
+	<word weight="0.06920415224913495" count="40">wards</word>
+	<word weight="0.06920415224913495" count="40">court</word>
+	<word weight="0.058823529411764705" count="34">liveries</word>
+	<word weight="0.01903114186851211" count="11">accounts</word>
+	<word weight="0.015570934256055362" count="9">feodaries</word>
+	<word weight="0.01384083044982699" count="8">pleadings</word>
+	<word weight="0.01384083044982699" count="8">wardship</word>
+	<word weight="0.01384083044982699" count="8">extents</word>
+	<word weight="0.01384083044982699" count="8">miscellaneous</word>
+	<word weight="0.012110726643598616" count="7">business</word>
+	<word weight="0.012110726643598616" count="7">indentures</word>
+	<word weight="0.012110726643598616" count="7">lands</word>
+	<word weight="0.010380622837370242" count="6">livery</word>
+	<word weight="0.010380622837370242" count="6">administration</word>
+	<word weight="0.010380622837370242" count="6">surveys</word>
+	<word weight="0.010380622837370242" count="6">depositions</word>
+	<word weight="0.00865051903114187" count="5">leases</word>
+	<word weight="0.00865051903114187" count="5">process</word>
+	<word weight="0.00865051903114187" count="5">inquisitions</word>
+  </topic>
+</topics>

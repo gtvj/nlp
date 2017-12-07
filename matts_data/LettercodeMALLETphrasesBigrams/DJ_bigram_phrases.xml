@@ -1,0 +1,30 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1476.5781450463514" totalTokens="72" titles="council, post, users, national, dj, reports, minutes, services, postal, meetings">
+	<word weight="0.18055555555555555" count="13">council</word>
+	<word weight="0.1527777777777778" count="11">post</word>
+	<word weight="0.125" count="9">users</word>
+	<word weight="0.1111111111111111" count="8">national</word>
+	<word weight="0.09722222222222222" count="7">dj</word>
+	<word weight="0.05555555555555555" count="4">reports</word>
+	<word weight="0.041666666666666664" count="3">minutes</word>
+	<word weight="0.027777777777777776" count="2">services</word>
+	<word weight="0.027777777777777776" count="2">postal</word>
+	<word weight="0.027777777777777776" count="2">meetings</word>
+	<word weight="0.013888888888888888" count="1">efficiency</word>
+	<word weight="0.013888888888888888" count="1">charges</word>
+	<word weight="0.013888888888888888" count="1">telephone</word>
+	<word weight="0.013888888888888888" count="1">matter</word>
+	<word weight="0.013888888888888888" count="1">subject</word>
+	<word weight="0.013888888888888888" count="1">proposals</word>
+	<word weight="0.013888888888888888" count="1">annual</word>
+	<word weight="0.013888888888888888" count="1">represented</word>
+	<word weight="0.013888888888888888" count="1">activities</word>
+	<word weight="0.013888888888888888" count="1">monitored</word>
+	<phrase weight="0.4444444444444444" count="4">national council</phrase>
+	<phrase weight="0.2222222222222222" count="2">users national council</phrase>
+	<phrase weight="0.1111111111111111" count="1">telephone charges</phrase>
+	<phrase weight="0.1111111111111111" count="1">represented postal services users</phrase>
+	<phrase weight="0.1111111111111111" count="1">council minutes</phrase>
+  </topic>
+</topics>

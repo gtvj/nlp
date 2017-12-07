@@ -1,0 +1,40 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="9.800286079592636" totalTokens="181" titles="business, link, uk, government, businesslink, finder, contracts, jobmatch, universal, budget">
+	<word weight="0.16574585635359115" count="30">business</word>
+	<word weight="0.143646408839779" count="26">link</word>
+	<word weight="0.09392265193370165" count="17">uk</word>
+	<word weight="0.0718232044198895" count="13">government</word>
+	<word weight="0.04419889502762431" count="8">businesslink</word>
+	<word weight="0.027624309392265192" count="5">finder</word>
+	<word weight="0.027624309392265192" count="5">contracts</word>
+	<word weight="0.022099447513812154" count="4">jobmatch</word>
+	<word weight="0.022099447513812154" count="4">universal</word>
+	<word weight="0.022099447513812154" count="4">budget</word>
+	<word weight="0.016574585635359115" count="3">queen</word>
+	<word weight="0.011049723756906077" count="2">gov</word>
+	<word weight="0.011049723756906077" count="2">contractsfinder</word>
+	<word weight="0.011049723756906077" count="2">http</word>
+	<word weight="0.011049723756906077" count="2">june</word>
+	<word weight="0.011049723756906077" count="2">affect</word>
+	<word weight="0.011049723756906077" count="2">field</word>
+	<word weight="0.011049723756906077" count="2">general</word>
+	<word weight="0.011049723756906077" count="2">awards</word>
+	<word weight="0.011049723756906077" count="2">payments</word>
+	<phrase weight="0.17647058823529413" count="6">business link</phrase>
+	<phrase weight="0.17647058823529413" count="6">uk government</phrase>
+	<phrase weight="0.11764705882352941" count="4">universal jobmatch</phrase>
+	<phrase weight="0.058823529411764705" count="2">budget report</phrase>
+	<phrase weight="0.058823529411764705" count="2">improvement service</phrase>
+	<phrase weight="0.058823529411764705" count="2">diamond jubilee</phrase>
+	<phrase weight="0.058823529411764705" count="2">practice home page</phrase>
+	<phrase weight="0.058823529411764705" count="2">budget affect</phrase>
+	<phrase weight="0.058823529411764705" count="2">business link contracts finder</phrase>
+	<phrase weight="0.029411764705882353" count="1">uk welcomes business</phrase>
+	<phrase weight="0.029411764705882353" count="1">contracts finder</phrase>
+	<phrase weight="0.029411764705882353" count="1">link contracts finder</phrase>
+	<phrase weight="0.029411764705882353" count="1">welcomes business</phrase>
+	<phrase weight="0.029411764705882353" count="1">electronic payments</phrase>
+	<phrase weight="0.029411764705882353" count="1">queens awards</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.236656790593361" totalTokens="4322" titles="general, register, census, statistics, population, national, registration, registers, returns, deaths">
+	<word weight="0.03447478019435447" count="149">general</word>
+	<word weight="0.028459046737621473" count="123">register</word>
+	<word weight="0.01966682091624248" count="85">census</word>
+	<word weight="0.01966682091624248" count="85">statistics</word>
+	<word weight="0.015502082369273484" count="67">population</word>
+	<word weight="0.015270708005552984" count="66">national</word>
+	<word weight="0.013651087459509487" count="59">registration</word>
+	<word weight="0.013188338732068487" count="57">registers</word>
+	<word weight="0.012262841277186487" count="53">returns</word>
+	<word weight="0.011337343822304488" count="49">deaths</word>
+	<word weight="0.011337343822304488" count="49">government</word>
+	<word weight="0.008329477093937991" count="36">death</word>
+	<word weight="0.008098102730217492" count="35">data</word>
+	<word weight="0.007866728366496992" count="34">censuses</word>
+	<word weight="0.007635354002776492" count="33">births</word>
+	<word weight="0.007403979639055993" count="32">surveys</word>
+	<word weight="0.0071726052753354926" count="31">marriages</word>
+	<word weight="0.006709856547894493" count="29">icd</word>
+	<word weight="0.006709856547894493" count="29">ons</word>
+	<word weight="0.006478482184173994" count="28">survey</word>
+  </topic>
+</topics>

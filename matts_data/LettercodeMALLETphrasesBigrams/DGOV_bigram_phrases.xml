@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.4025257638796385" totalTokens="1222" titles="uk government, directgov, service, careers, student, advice, finance, field, general, local">
+	<word weight="0.22995090016366612" count="281">directgov</word>
+	<word weight="0.09901800327332243" count="121">uk</word>
+	<word weight="0.09083469721767594" count="111">government</word>
+	<word weight="0.016366612111292964" count="20">gov</word>
+	<word weight="0.015548281505728314" count="19">direct</word>
+	<word weight="0.01309328968903437" count="16">service</word>
+	<word weight="0.009819967266775777" count="12">advice</word>
+	<word weight="0.009819967266775777" count="12">careers</word>
+	<word weight="0.009819967266775777" count="12">student</word>
+	<word weight="0.008183306055646482" count="10">local</word>
+	<word weight="0.008183306055646482" count="10">finance</word>
+	<word weight="0.008183306055646482" count="10">field</word>
+	<word weight="0.008183306055646482" count="10">general</word>
+	<word weight="0.006546644844517185" count="8">national</word>
+	<word weight="0.006546644844517185" count="8">search</word>
+	<word weight="0.006546644844517185" count="8">skills</word>
+	<word weight="0.004909983633387889" count="6">fire</word>
+	<word weight="0.004909983633387889" count="6">calculator</word>
+	<word weight="0.004909983633387889" count="6">queen</word>
+	<word weight="0.004909983633387889" count="6">safety</word>
+	<phrase weight="0.3308550185873606" count="89">uk government</phrase>
+	<phrase weight="0.022304832713754646" count="6">direct gov</phrase>
+	<phrase weight="0.022304832713754646" count="6">skills search</phrase>
+	<phrase weight="0.022304832713754646" count="6">careers advice</phrase>
+	<phrase weight="0.01858736059479554" count="5">student finance</phrase>
+	<phrase weight="0.01486988847583643" count="4">policing pledge</phrase>
+	<phrase weight="0.01486988847583643" count="4">driving standards</phrase>
+	<phrase weight="0.01486988847583643" count="4">food imports</phrase>
+	<phrase weight="0.01486988847583643" count="4">voluntary service</phrase>
+	<phrase weight="0.01486988847583643" count="4">swine flu</phrase>
+	<phrase weight="0.011152416356877323" count="3">national citizen service</phrase>
+	<phrase weight="0.011152416356877323" count="3">education maintenance allowance</phrase>
+	<phrase weight="0.011152416356877323" count="3">local directgov</phrase>
+	<phrase weight="0.011152416356877323" count="3">fire kills</phrase>
+	<phrase weight="0.011152416356877323" count="3">tv advert</phrase>
+	<phrase weight="0.007434944237918215" count="2">tax tools</phrase>
+	<phrase weight="0.007434944237918215" count="2">work rights</phrase>
+	<phrase weight="0.007434944237918215" count="2">enhanced rider scheme</phrase>
+	<phrase weight="0.007434944237918215" count="2">care support independence</phrase>
+	<phrase weight="0.007434944237918215" count="2">face careers advice</phrase>
+  </topic>
+</topics>

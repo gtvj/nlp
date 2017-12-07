@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.632483048501679" totalTokens="1308" titles="assistance, board, unemployment, benefits, successors, resettlement, commission, national, local, internal">
+	<word weight="0.08103975535168195" count="106">assistance</word>
+	<word weight="0.07110091743119266" count="93">board</word>
+	<word weight="0.047400611620795105" count="62">unemployment</word>
+	<word weight="0.02981651376146789" count="39">benefits</word>
+	<word weight="0.02981651376146789" count="39">successors</word>
+	<word weight="0.0290519877675841" count="38">resettlement</word>
+	<word weight="0.026758409785932722" count="35">commission</word>
+	<word weight="0.023700305810397553" count="31">national</word>
+	<word weight="0.013761467889908258" count="18">local</word>
+	<word weight="0.012232415902140673" count="16">internal</word>
+	<word weight="0.012232415902140673" count="16">business</word>
+	<word weight="0.011467889908256881" count="15">pensions</word>
+	<word weight="0.009938837920489297" count="13">social</word>
+	<word weight="0.009174311926605505" count="12">reports</word>
+	<word weight="0.008409785932721712" count="11">representative</word>
+	<word weight="0.008409785932721712" count="11">case</word>
+	<word weight="0.008409785932721712" count="11">unit</word>
+	<word weight="0.00764525993883792" count="10">central</word>
+	<word weight="0.006880733944954129" count="9">act</word>
+	<word weight="0.006880733944954129" count="9">minutes</word>
+  </topic>
+</topics>

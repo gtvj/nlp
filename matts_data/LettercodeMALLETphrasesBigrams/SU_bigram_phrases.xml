@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.693871100309114" totalTokens="858" titles="energy, change, uk, climate, su, government, climage, decc, nuclear, waste">
+	<word weight="0.11188811188811189" count="96">energy</word>
+	<word weight="0.10023310023310024" count="86">change</word>
+	<word weight="0.09090909090909091" count="78">uk</word>
+	<word weight="0.08275058275058275" count="71">climate</word>
+	<word weight="0.06293706293706294" count="54">su</word>
+	<word weight="0.06177156177156177" count="53">government</word>
+	<word weight="0.017482517482517484" count="15">climage</word>
+	<word weight="0.015151515151515152" count="13">decc</word>
+	<word weight="0.013986013986013986" count="12">nuclear</word>
+	<word weight="0.011655011655011656" count="10">waste</word>
+	<word weight="0.01048951048951049" count="9">http</word>
+	<word weight="0.01048951048951049" count="9">oil</word>
+	<word weight="0.009324009324009324" count="8">radioactive</word>
+	<word weight="0.008158508158508158" count="7">gas</word>
+	<word weight="0.006993006993006993" count="6">consultation</word>
+	<word weight="0.006993006993006993" count="6">tools</word>
+	<word weight="0.006993006993006993" count="6">calculator</word>
+	<word weight="0.006993006993006993" count="6">www</word>
+	<word weight="0.006993006993006993" count="6">field</word>
+	<word weight="0.006993006993006993" count="6">general</word>
+	<phrase weight="0.145985401459854" count="20">uk government</phrase>
+	<phrase weight="0.10218978102189781" count="14">climage change</phrase>
+	<phrase weight="0.08029197080291971" count="11">climate change</phrase>
+	<phrase weight="0.029197080291970802" count="4">radioactive waste management</phrase>
+	<phrase weight="0.021897810218978103" count="3">uk production data release</phrase>
+	<phrase weight="0.021897810218978103" count="3">nuclear decommissioning authority</phrase>
+	<phrase weight="0.021897810218978103" count="3">magnox limited</phrase>
+	<phrase weight="0.014598540145985401" count="2">fuel cells</phrase>
+	<phrase weight="0.014598540145985401" count="2">climate change news</phrase>
+	<phrase weight="0.014598540145985401" count="2">energy nps consultation</phrase>
+	<phrase weight="0.014598540145985401" count="2">english register</phrase>
+	<phrase weight="0.014598540145985401" count="2">draft national policy statements</phrase>
+	<phrase weight="0.014598540145985401" count="2">combined heat</phrase>
+	<phrase weight="0.014598540145985401" count="2">energy capital grants scheme</phrase>
+	<phrase weight="0.014598540145985401" count="2">oil fields production</phrase>
+	<phrase weight="0.014598540145985401" count="2">food crops centre</phrase>
+	<phrase weight="0.014598540145985401" count="2">student placements</phrase>
+	<phrase weight="0.014598540145985401" count="2">climate change blog</phrase>
+	<phrase weight="0.014598540145985401" count="2">disposal facility</phrase>
+	<phrase weight="0.014598540145985401" count="2">quality assurance</phrase>
+  </topic>
+</topics>

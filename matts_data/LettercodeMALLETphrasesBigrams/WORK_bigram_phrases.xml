@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.229433887959364" totalTokens="4778" titles="public buildings, united kingdom, directorate general, works, successors, royal, government, monuments, plans, ancient">
+	<word weight="0.05023022185014651" count="240">works</word>
+	<word weight="0.028254499790707408" count="135">buildings</word>
+	<word weight="0.026580159062369192" count="127">work</word>
+	<word weight="0.02385935537881959" count="114">successors</word>
+	<word weight="0.01820845542067811" count="87">public</word>
+	<word weight="0.01444118878191712" count="69">royal</word>
+	<word weight="0.01297614064462118" count="62">directorate</word>
+	<word weight="0.011720385098367517" count="56">building</word>
+	<word weight="0.011720385098367517" count="56">general</word>
+	<word weight="0.011511092507325241" count="55">government</word>
+	<word weight="0.010464629552113856" count="50">monuments</word>
+	<word weight="0.009836751778987024" count="47">plans</word>
+	<word weight="0.009208874005860193" count="44">ancient</word>
+	<word weight="0.008371703641691083" count="40">overseas</word>
+	<word weight="0.008371703641691083" count="40">predecessors</word>
+	<word weight="0.008162411050648808" count="39">drawings</word>
+	<word weight="0.007743825868564253" count="37">deeds</word>
+	<word weight="0.006697362913352867" count="32">kingdom</word>
+	<word weight="0.006697362913352867" count="32">united</word>
+	<word weight="0.006697362913352867" count="32">services</word>
+	<phrase weight="0.06295399515738499" count="52">public buildings</phrase>
+	<phrase weight="0.0387409200968523" count="32">united kingdom</phrase>
+	<phrase weight="0.031476997578692496" count="26">directorate general</phrase>
+	<phrase weight="0.023002421307506054" count="19">public building</phrase>
+	<phrase weight="0.01937046004842615" count="16">ancient monuments</phrase>
+	<phrase weight="0.018159806295399514" count="15">property services</phrase>
+	<phrase weight="0.013317191283292978" count="11">supplies division</phrase>
+	<phrase weight="0.012106537530266344" count="10">royal parks</phrase>
+	<phrase weight="0.012106537530266344" count="10">unregistered folders</phrase>
+	<phrase weight="0.00847457627118644" count="7">schedule books</phrase>
+	<phrase weight="0.00847457627118644" count="7">royal palaces</phrase>
+	<phrase weight="0.007263922518159807" count="6">brompton cemetery</phrase>
+	<phrase weight="0.006053268765133172" count="5">land revenues</phrase>
+	<phrase weight="0.004842615012106538" count="4">annual reports</phrase>
+	<phrase weight="0.004842615012106538" count="4">ancient monuments board</phrase>
+	<phrase weight="0.004842615012106538" count="4">ancient monuments branches</phrase>
+	<phrase weight="0.004842615012106538" count="4">site plans</phrase>
+	<phrase weight="0.004842615012106538" count="4">world war</phrase>
+	<phrase weight="0.004842615012106538" count="4">monuments branches</phrase>
+	<phrase weight="0.004842615012106538" count="4">osborne house</phrase>
+  </topic>
+</topics>

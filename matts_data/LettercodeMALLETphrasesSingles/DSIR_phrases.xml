@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.358029388116272" totalTokens="2252" titles="research, laboratory, industrial, scientific, reports, national, committee, committees, board, council">
+	<word weight="0.11012433392539965" count="248">research</word>
+	<word weight="0.0497335701598579" count="112">laboratory</word>
+	<word weight="0.047513321492007106" count="107">industrial</word>
+	<word weight="0.04573712255772647" count="103">scientific</word>
+	<word weight="0.02486678507992895" count="56">reports</word>
+	<word weight="0.023978685612788632" count="54">national</word>
+	<word weight="0.023978685612788632" count="54">committee</word>
+	<word weight="0.017761989342806393" count="40">committees</word>
+	<word weight="0.015541740674955595" count="35">board</word>
+	<word weight="0.014209591474245116" count="32">council</word>
+	<word weight="0.014209591474245116" count="32">spring</word>
+	<word weight="0.014209591474245116" count="32">warren</word>
+	<word weight="0.013765541740674956" count="31">physical</word>
+	<word weight="0.012877442273534635" count="29">meetings</word>
+	<word weight="0.010213143872113677" count="23">engineering</word>
+	<word weight="0.010213143872113677" count="23">minutes</word>
+	<word weight="0.009769094138543518" count="22">boards</word>
+	<word weight="0.009769094138543518" count="22">organisation</word>
+	<word weight="0.009325044404973356" count="21">road</word>
+	<word weight="0.009325044404973356" count="21">laboratories</word>
+  </topic>
+</topics>

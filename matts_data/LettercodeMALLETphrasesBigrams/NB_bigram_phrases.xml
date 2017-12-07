@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="12.071589513100541" totalTokens="285" titles="benefits, nb, claim, management, executive, payment, medical, etu, weekly, employment">
+	<word weight="0.06315789473684211" count="18">benefits</word>
+	<word weight="0.05263157894736842" count="15">nb</word>
+	<word weight="0.028070175438596492" count="8">claim</word>
+	<word weight="0.02456140350877193" count="7">management</word>
+	<word weight="0.02456140350877193" count="7">executive</word>
+	<word weight="0.02456140350877193" count="7">payment</word>
+	<word weight="0.021052631578947368" count="6">benefit</word>
+	<word weight="0.017543859649122806" count="5">medical</word>
+	<word weight="0.017543859649122806" count="5">etu</word>
+	<word weight="0.014035087719298246" count="4">weekly</word>
+	<word weight="0.014035087719298246" count="4">employment</word>
+	<word weight="0.014035087719298246" count="4">income</word>
+	<word weight="0.014035087719298246" count="4">partner</word>
+	<word weight="0.014035087719298246" count="4">applicant</word>
+	<word weight="0.014035087719298246" count="4">planning</word>
+	<word weight="0.014035087719298246" count="4">services</word>
+	<word weight="0.014035087719298246" count="4">bamt</word>
+	<word weight="0.014035087719298246" count="4">team</word>
+	<word weight="0.014035087719298246" count="4">chief</word>
+	<word weight="0.010526315789473684" count="3">award</word>
+	<phrase weight="0.09090909090909091" count="4">chief executive</phrase>
+	<phrase weight="0.09090909090909091" count="4">management team</phrase>
+	<phrase weight="0.06818181818181818" count="3">planning unit</phrase>
+	<phrase weight="0.06818181818181818" count="3">medical services</phrase>
+	<phrase weight="0.045454545454545456" count="2">earnings top</phrase>
+	<phrase weight="0.045454545454545456" count="2">pilot project</phrase>
+	<phrase weight="0.045454545454545456" count="2">weekly income</phrase>
+	<phrase weight="0.022727272727272728" count="1">building society</phrase>
+	<phrase weight="0.022727272727272728" count="1">management board</phrase>
+	<phrase weight="0.022727272727272728" count="1">national insurance</phrase>
+	<phrase weight="0.022727272727272728" count="1">medical advice</phrase>
+	<phrase weight="0.022727272727272728" count="1">executive directors</phrase>
+	<phrase weight="0.022727272727272728" count="1">fraud investigation</phrase>
+	<phrase weight="0.022727272727272728" count="1">benefit awarded</phrase>
+	<phrase weight="0.022727272727272728" count="1">gross income</phrase>
+	<phrase weight="0.022727272727272728" count="1">etu scheme</phrase>
+	<phrase weight="0.022727272727272728" count="1">social security claims</phrase>
+	<phrase weight="0.022727272727272728" count="1">pilot scheme introduced</phrase>
+	<phrase weight="0.022727272727272728" count="1">existing claim</phrase>
+	<phrase weight="0.022727272727272728" count="1">social policy</phrase>
+  </topic>
+</topics>

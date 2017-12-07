@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.914522146534513" totalTokens="963" titles="central, films, government, general, predecessor, ministries, coi, television, photographs, divisions">
+	<word weight="0.07165109034267912" count="69">central</word>
+	<word weight="0.0446521287642783" count="43">films</word>
+	<word weight="0.04153686396677051" count="40">government</word>
+	<word weight="0.02699896157840083" count="26">general</word>
+	<word weight="0.01973001038421599" count="19">predecessor</word>
+	<word weight="0.018691588785046728" count="18">ministries</word>
+	<word weight="0.016614745586708203" count="16">coi</word>
+	<word weight="0.01557632398753894" count="15">film</word>
+	<word weight="0.014537902388369679" count="14">television</word>
+	<word weight="0.012461059190031152" count="12">photographs</word>
+	<word weight="0.012461059190031152" count="12">divisions</word>
+	<word weight="0.01142263759086189" count="11">services</word>
+	<word weight="0.010384215991692628" count="10">online</word>
+	<word weight="0.010384215991692628" count="10">unit</word>
+	<word weight="0.010384215991692628" count="10">public</word>
+	<word weight="0.010384215991692628" count="10">british</word>
+	<word weight="0.009345794392523364" count="9">war</word>
+	<word weight="0.009345794392523364" count="9">units</word>
+	<word weight="0.008307372793354102" count="8">division</word>
+	<word weight="0.007268951194184839" count="7">collection</word>
+  </topic>
+</topics>

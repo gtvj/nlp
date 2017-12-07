@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="9.99943687664094" totalTokens="244" titles="board, intervention, agricultural, produce, policy, division, hy, central, market, finance">
+	<word weight="0.08196721311475409" count="20">board</word>
+	<word weight="0.0778688524590164" count="19">intervention</word>
+	<word weight="0.05327868852459016" count="13">agricultural</word>
+	<word weight="0.045081967213114756" count="11">produce</word>
+	<word weight="0.040983606557377046" count="10">policy</word>
+	<word weight="0.036885245901639344" count="9">division</word>
+	<word weight="0.036885245901639344" count="9">hy</word>
+	<word weight="0.028688524590163935" count="7">central</word>
+	<word weight="0.02459016393442623" count="6">market</word>
+	<word weight="0.020491803278688523" count="5">finance</word>
+	<word weight="0.01639344262295082" count="4">financial</word>
+	<word weight="0.01639344262295082" count="4">case</word>
+	<word weight="0.01639344262295082" count="4">representative</word>
+	<word weight="0.01639344262295082" count="4">schemes</word>
+	<word weight="0.012295081967213115" count="3">audit</word>
+	<word weight="0.012295081967213115" count="3">internal</word>
+	<word weight="0.012295081967213115" count="3">european</word>
+	<word weight="0.012295081967213115" count="3">support</word>
+	<word weight="0.012295081967213115" count="3">reports</word>
+	<word weight="0.00819672131147541" count="2">meat</word>
+	<phrase weight="0.2641509433962264" count="14">intervention board</phrase>
+	<phrase weight="0.05660377358490566" count="3">market division</phrase>
+	<phrase weight="0.03773584905660377" count="2">audit division</phrase>
+	<phrase weight="0.03773584905660377" count="2">commodity division</phrase>
+	<phrase weight="0.018867924528301886" count="1">divisions concerned</phrase>
+	<phrase weight="0.018867924528301886" count="1">schemes operated</phrase>
+	<phrase weight="0.018867924528301886" count="1">scientific sample</phrase>
+	<phrase weight="0.018867924528301886" count="1">drafting policy</phrase>
+	<phrase weight="0.018867924528301886" count="1">meat market</phrase>
+	<phrase weight="0.018867924528301886" count="1">financial irregularities</phrase>
+	<phrase weight="0.018867924528301886" count="1">relevant european economic community common agricultural policy schemes</phrase>
+	<phrase weight="0.018867924528301886" count="1">regulation case</phrase>
+	<phrase weight="0.018867924528301886" count="1">group meetings</phrase>
+	<phrase weight="0.018867924528301886" count="1">intervention stocks</phrase>
+	<phrase weight="0.018867924528301886" count="1">intervention action</phrase>
+	<phrase weight="0.018867924528301886" count="1">operational areas</phrase>
+	<phrase weight="0.018867924528301886" count="1">precedent cases</phrase>
+	<phrase weight="0.018867924528301886" count="1">market regulation</phrase>
+	<phrase weight="0.018867924528301886" count="1">animal health</phrase>
+	<phrase weight="0.018867924528301886" count="1">financial investigations</phrase>
+  </topic>
+</topics>

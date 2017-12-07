@@ -1,0 +1,32 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="74.93621333657626" totalTokens="97" titles="computer, central, hn, telecommunications, predecessors, cca, ccta, circulars, technical, service">
+	<word weight="0.13402061855670103" count="13">computer</word>
+	<word weight="0.12371134020618557" count="12">central</word>
+	<word weight="0.09278350515463918" count="9">hn</word>
+	<word weight="0.08247422680412371" count="8">telecommunications</word>
+	<word weight="0.041237113402061855" count="4">predecessors</word>
+	<word weight="0.030927835051546393" count="3">cca</word>
+	<word weight="0.030927835051546393" count="3">ccta</word>
+	<word weight="0.030927835051546393" count="3">circulars</word>
+	<word weight="0.030927835051546393" count="3">technical</word>
+	<word weight="0.020618556701030927" count="2">service</word>
+	<word weight="0.020618556701030927" count="2">civil</word>
+	<word weight="0.020618556701030927" count="2">assigned</word>
+	<word weight="0.020618556701030927" count="2">previously</word>
+	<word weight="0.010309278350515464" count="1">sectors</word>
+	<word weight="0.010309278350515464" count="1">public</word>
+	<word weight="0.010309278350515464" count="1">private</word>
+	<word weight="0.010309278350515464" count="1">organisations</word>
+	<word weight="0.010309278350515464" count="1">interested</word>
+	<word weight="0.010309278350515464" count="1">correspondence</word>
+	<word weight="0.010309278350515464" count="1">relationships</word>
+	<phrase weight="0.5" count="9">central computer</phrase>
+	<phrase weight="0.1111111111111111" count="2">technical circulars</phrase>
+	<phrase weight="0.1111111111111111" count="2">previously assigned</phrase>
+	<phrase weight="0.1111111111111111" count="2">civil service</phrase>
+	<phrase weight="0.05555555555555555" count="1">networked telephone system</phrase>
+	<phrase weight="0.05555555555555555" count="1">privacy aspects</phrase>
+	<phrase weight="0.05555555555555555" count="1">interested organisations</phrase>
+  </topic>
+</topics>

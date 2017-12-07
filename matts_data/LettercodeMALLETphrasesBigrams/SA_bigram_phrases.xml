@@ -1,0 +1,38 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="17.304150868342457" totalTokens="147" titles="judicial, appointments, commission, sa, uk, secretariat, gov, policy, commissioners, range">
+	<word weight="0.14965986394557823" count="22">judicial</word>
+	<word weight="0.12244897959183673" count="18">appointments</word>
+	<word weight="0.09523809523809523" count="14">commission</word>
+	<word weight="0.04081632653061224" count="6">sa</word>
+	<word weight="0.027210884353741496" count="4">uk</word>
+	<word weight="0.027210884353741496" count="4">secretariat</word>
+	<word weight="0.02040816326530612" count="3">gov</word>
+	<word weight="0.02040816326530612" count="3">policy</word>
+	<word weight="0.02040816326530612" count="3">commissioners</word>
+	<word weight="0.02040816326530612" count="3">range</word>
+	<word weight="0.013605442176870748" count="2">judiciary</word>
+	<word weight="0.013605442176870748" count="2">jac</word>
+	<word weight="0.013605442176870748" count="2">http</word>
+	<word weight="0.013605442176870748" count="2">successors</word>
+	<word weight="0.013605442176870748" count="2">reform</word>
+	<word weight="0.013605442176870748" count="2">government</word>
+	<word weight="0.013605442176870748" count="2">processes</word>
+	<word weight="0.013605442176870748" count="2">significant</word>
+	<word weight="0.013605442176870748" count="2">appointment</word>
+	<word weight="0.013605442176870748" count="2">audits</word>
+	<phrase weight="0.4" count="10">judicial appointments</phrase>
+	<phrase weight="0.16" count="4">judicial appointments commission</phrase>
+	<phrase weight="0.04" count="1">audits highlighted</phrase>
+	<phrase weight="0.04" count="1">judicial policy</phrase>
+	<phrase weight="0.04" count="1">significant input</phrase>
+	<phrase weight="0.04" count="1">constitutional reform bill</phrase>
+	<phrase weight="0.04" count="1">government reform</phrase>
+	<phrase weight="0.04" count="1">judicial appointments processes</phrase>
+	<phrase weight="0.04" count="1">judicial appointment processes</phrase>
+	<phrase weight="0.04" count="1">disappointed applicants</phrase>
+	<phrase weight="0.04" count="1">commissioners recommendations</phrase>
+	<phrase weight="0.04" count="1">judicial appointment competitions</phrase>
+	<phrase weight="0.04" count="1">appointments commission</phrase>
+  </topic>
+</topics>

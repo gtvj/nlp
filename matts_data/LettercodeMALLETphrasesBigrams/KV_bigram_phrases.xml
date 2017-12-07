@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.762161884709277" totalTokens="332" titles="security, service, kv, war, uk, world, warp, mi, gov, www">
+	<word weight="0.07530120481927711" count="25">security</word>
+	<word weight="0.07228915662650602" count="24">service</word>
+	<word weight="0.04819277108433735" count="16">kv</word>
+	<word weight="0.03313253012048193" count="11">war</word>
+	<word weight="0.030120481927710843" count="10">uk</word>
+	<word weight="0.02710843373493976" count="9">world</word>
+	<word weight="0.018072289156626505" count="6">warp</word>
+	<word weight="0.018072289156626505" count="6">mi</word>
+	<word weight="0.015060240963855422" count="5">gov</word>
+	<word weight="0.015060240963855422" count="5">www</word>
+	<word weight="0.015060240963855422" count="5">infrastructure</word>
+	<word weight="0.015060240963855422" count="5">national</word>
+	<word weight="0.015060240963855422" count="5">protection</word>
+	<word weight="0.015060240963855422" count="5">centre</word>
+	<word weight="0.015060240963855422" count="5">list</word>
+	<word weight="0.015060240963855422" count="5">download</word>
+	<word weight="0.015060240963855422" count="5">digital</word>
+	<word weight="0.012048192771084338" count="4">point</word>
+	<word weight="0.012048192771084338" count="4">reporting</word>
+	<word weight="0.012048192771084338" count="4">advice</word>
+	<phrase weight="0.22033898305084745" count="13">security service</phrase>
+	<phrase weight="0.0847457627118644" count="5">national infrastructure</phrase>
+	<phrase weight="0.06779661016949153" count="4">reporting point</phrase>
+	<phrase weight="0.06779661016949153" count="4">world war</phrase>
+	<phrase weight="0.05084745762711865" count="3">digital images</phrase>
+	<phrase weight="0.03389830508474576" count="2">world war periods</phrase>
+	<phrase weight="0.03389830508474576" count="2">uk government</phrase>
+	<phrase weight="0.01694915254237288" count="1">selection decisions applied</phrase>
+	<phrase weight="0.01694915254237288" count="1">palestine mandate</phrase>
+	<phrase weight="0.01694915254237288" count="1">organisations studied</phrase>
+	<phrase weight="0.01694915254237288" count="1">police raids</phrase>
+	<phrase weight="0.01694915254237288" count="1">operational selection policy osp</phrase>
+	<phrase weight="0.01694915254237288" count="1">official history</phrase>
+	<phrase weight="0.01694915254237288" count="1">soe personnel forming</phrase>
+	<phrase weight="0.01694915254237288" count="1">list stands</phrase>
+	<phrase weight="0.01694915254237288" count="1">service work</phrase>
+	<phrase weight="0.01694915254237288" count="1">japanese intelligence agents</phrase>
+	<phrase weight="0.01694915254237288" count="1">british official</phrase>
+	<phrase weight="0.01694915254237288" count="1">war years</phrase>
+	<phrase weight="0.01694915254237288" count="1">british fascist</phrase>
+  </topic>
+</topics>

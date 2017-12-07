@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.494073726266074" totalTokens="1066" titles="justice, government, field, general, legal, criminal, committee, council, public, judicial">
+	<word weight="0.1472795497185741" count="157">justice</word>
+	<word weight="0.08442776735459662" count="90">government</word>
+	<word weight="0.025328330206378986" count="27">field</word>
+	<word weight="0.025328330206378986" count="27">general</word>
+	<word weight="0.0225140712945591" count="24">legal</word>
+	<word weight="0.019699812382739212" count="21">criminal</word>
+	<word weight="0.01594746716697936" count="17">committee</word>
+	<word weight="0.01594746716697936" count="17">council</word>
+	<word weight="0.01594746716697936" count="17">public</word>
+	<word weight="0.0150093808630394" count="16">judicial</word>
+	<word weight="0.014071294559099437" count="15">rule</word>
+	<word weight="0.013133208255159476" count="14">inspectorate</word>
+	<word weight="0.013133208255159476" count="14">review</word>
+	<word weight="0.013133208255159476" count="14">civil</word>
+	<word weight="0.012195121951219513" count="13">procedure</word>
+	<word weight="0.01125703564727955" count="12">ombudsman</word>
+	<word weight="0.01125703564727955" count="12">victims</word>
+	<word weight="0.01125703564727955" count="12">panel</word>
+	<word weight="0.01125703564727955" count="12">board</word>
+	<word weight="0.010318949343339587" count="11">court</word>
+  </topic>
+</topics>

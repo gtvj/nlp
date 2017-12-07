@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="82.5260498423989" totalTokens="91" titles="literacy, adult, unit, skills, basic, minutes, agenda, reports, committee, management">
+	<word weight="0.13186813186813187" count="12">literacy</word>
+	<word weight="0.13186813186813187" count="12">adult</word>
+	<word weight="0.08791208791208792" count="8">unit</word>
+	<word weight="0.06593406593406594" count="6">skills</word>
+	<word weight="0.06593406593406594" count="6">basic</word>
+	<word weight="0.054945054945054944" count="5">minutes</word>
+	<word weight="0.054945054945054944" count="5">agenda</word>
+	<word weight="0.054945054945054944" count="5">reports</word>
+	<word weight="0.04395604395604396" count="4">committee</word>
+	<word weight="0.04395604395604396" count="4">management</word>
+	<word weight="0.04395604395604396" count="4">resource</word>
+	<word weight="0.02197802197802198" count="2">albsu</word>
+	<word weight="0.02197802197802198" count="2">alu</word>
+	<word weight="0.02197802197802198" count="2">projects</word>
+	<word weight="0.02197802197802198" count="2">performance</word>
+	<word weight="0.02197802197802198" count="2">term</word>
+	<word weight="0.02197802197802198" count="2">longer</word>
+	<word weight="0.02197802197802198" count="2">occasional</word>
+	<word weight="0.02197802197802198" count="2">annual</word>
+	<word weight="0.02197802197802198" count="2">successors</word>
+  </topic>
+</topics>

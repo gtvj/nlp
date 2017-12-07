@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.0767447984614655" totalTokens="718" titles="high court, del, books, delegates, registrar, act, exhibits, admiralty, assignation, council">
+	<word weight="0.06128133704735376" count="44">court</word>
+	<word weight="0.04456824512534819" count="32">high</word>
+	<word weight="0.0403899721448468" count="29">del</word>
+	<word weight="0.037604456824512536" count="27">books</word>
+	<word weight="0.036211699164345405" count="26">delegates</word>
+	<word weight="0.03064066852367688" count="22">registrar</word>
+	<word weight="0.019498607242339833" count="14">act</word>
+	<word weight="0.016713091922005572" count="12">exhibits</word>
+	<word weight="0.01532033426183844" count="11">admiralty</word>
+	<word weight="0.013927576601671309" count="10">proceedings</word>
+	<word weight="0.013927576601671309" count="10">assignation</word>
+	<word weight="0.013927576601671309" count="10">council</word>
+	<word weight="0.012534818941504178" count="9">ecclesiastical</word>
+	<word weight="0.012534818941504178" count="9">privy</word>
+	<word weight="0.012534818941504178" count="9">committee</word>
+	<word weight="0.012534818941504178" count="9">judicial</word>
+	<word weight="0.009749303621169917" count="7">business</word>
+	<word weight="0.009749303621169917" count="7">formal</word>
+	<word weight="0.009749303621169917" count="7">depositions</word>
+	<word weight="0.009749303621169917" count="7">courts</word>
+	<phrase weight="0.1935483870967742" count="24">high court</phrase>
+	<phrase weight="0.07258064516129033" count="9">judicial committee</phrase>
+	<phrase weight="0.06451612903225806" count="8">act books</phrase>
+	<phrase weight="0.03225806451612903" count="4">assignation books</phrase>
+	<phrase weight="0.03225806451612903" count="4">personal answers</phrase>
+	<phrase weight="0.016129032258064516" count="2">books del</phrase>
+	<phrase weight="0.016129032258064516" count="2">seventeenth century</phrase>
+	<phrase weight="0.016129032258064516" count="2">ecclesiastical courts</phrase>
+	<phrase weight="0.008064516129032258" count="1">instances receipts</phrase>
+	<phrase weight="0.008064516129032258" count="1">formal sittings</phrase>
+	<phrase weight="0.008064516129032258" count="1">business assigned</phrase>
+	<phrase weight="0.008064516129032258" count="1">appendix giving</phrase>
+	<phrase weight="0.008064516129032258" count="1">funds deposited</phrase>
+	<phrase weight="0.008064516129032258" count="1">losing party</phrase>
+	<phrase weight="0.008064516129032258" count="1">freight lists</phrase>
+	<phrase weight="0.008064516129032258" count="1">proctors acknowledging</phrase>
+	<phrase weight="0.008064516129032258" count="1">muniment books del</phrase>
+	<phrase weight="0.008064516129032258" count="1">judges hearing</phrase>
+	<phrase weight="0.008064516129032258" count="1">clerical discipline</phrase>
+	<phrase weight="0.008064516129032258" count="1">cambridge universities</phrase>
+  </topic>
+</topics>

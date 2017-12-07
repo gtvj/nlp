@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="11.3316378868997" totalTokens="470" titles="court, books, requests, henry, vols, charles, elizabeth, reign, viii, plaintiff">
+	<word weight="0.04468085106382979" count="21">court</word>
+	<word weight="0.027659574468085105" count="13">books</word>
+	<word weight="0.027659574468085105" count="13">requests</word>
+	<word weight="0.023404255319148935" count="11">henry</word>
+	<word weight="0.014893617021276596" count="7">vols</word>
+	<word weight="0.014893617021276596" count="7">charles</word>
+	<word weight="0.014893617021276596" count="7">elizabeth</word>
+	<word weight="0.014893617021276596" count="7">reign</word>
+	<word weight="0.014893617021276596" count="7">viii</word>
+	<word weight="0.01276595744680851" count="6">plaintiff</word>
+	<word weight="0.010638297872340425" count="5">appearance</word>
+	<word weight="0.010638297872340425" count="5">registers</word>
+	<word weight="0.00851063829787234" count="4">vii</word>
+	<word weight="0.00851063829787234" count="4">proceedings</word>
+	<word weight="0.00851063829787234" count="4">work</word>
+	<word weight="0.00851063829787234" count="4">shakespeare</word>
+	<word weight="0.00851063829787234" count="4">case</word>
+	<word weight="0.00851063829787234" count="4">writs</word>
+	<word weight="0.006382978723404255" count="3">person</word>
+	<word weight="0.006382978723404255" count="3">defendants</word>
+	<phrase weight="0.08823529411764706" count="6">henry viii</phrase>
+	<phrase weight="0.04411764705882353" count="3">appearance books</phrase>
+	<phrase weight="0.04411764705882353" count="3">star chamber</phrase>
+	<phrase weight="0.04411764705882353" count="3">henry vii</phrase>
+	<phrase weight="0.029411764705882353" count="2">order books</phrase>
+	<phrase weight="0.014705882352941176" count="1">answer petitions submitted</phrase>
+	<phrase weight="0.014705882352941176" count="1">professor guy</phrase>
+	<phrase weight="0.014705882352941176" count="1">genuinely unable</phrase>
+	<phrase weight="0.014705882352941176" count="1">personal research aid</phrase>
+	<phrase weight="0.014705882352941176" count="1">late sixteenth century</phrase>
+	<phrase weight="0.014705882352941176" count="1">mountjoy concerns</phrase>
+	<phrase weight="0.014705882352941176" count="1">person making</phrase>
+	<phrase weight="0.014705882352941176" count="1">marriage contracts</phrase>
+	<phrase weight="0.014705882352941176" count="1">pleadings pleadings</phrase>
+	<phrase weight="0.014705882352941176" count="1">affidavit books</phrase>
+	<phrase weight="0.014705882352941176" count="1">blackfriars playhouse</phrase>
+	<phrase weight="0.014705882352941176" count="1">draft memoranda</phrase>
+	<phrase weight="0.014705882352941176" count="1">joint male plaintiff</phrase>
+	<phrase weight="0.014705882352941176" count="1">language skills</phrase>
+	<phrase weight="0.014705882352941176" count="1">condell describes</phrase>
+  </topic>
+</topics>

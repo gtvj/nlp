@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="20.420062168032437" totalTokens="129" titles="law, commission, reports, working, statute, reform, committee, advisory, consultation, civil">
+	<word weight="0.20155038759689922" count="26">law</word>
+	<word weight="0.14728682170542637" count="19">commission</word>
+	<word weight="0.046511627906976744" count="6">reports</word>
+	<word weight="0.031007751937984496" count="4">working</word>
+	<word weight="0.023255813953488372" count="3">statute</word>
+	<word weight="0.023255813953488372" count="3">reform</word>
+	<word weight="0.015503875968992248" count="2">committee</word>
+	<word weight="0.015503875968992248" count="2">advisory</word>
+	<word weight="0.015503875968992248" count="2">consultation</word>
+	<word weight="0.015503875968992248" count="2">civil</word>
+	<word weight="0.015503875968992248" count="2">criminal</word>
+	<word weight="0.015503875968992248" count="2">scottish</word>
+	<word weight="0.015503875968992248" count="2">parliament</word>
+	<word weight="0.015503875968992248" count="2">set</word>
+	<word weight="0.015503875968992248" count="2">complete</word>
+	<word weight="0.015503875968992248" count="2">annual</word>
+	<word weight="0.015503875968992248" count="2">commissioners</word>
+	<word weight="0.015503875968992248" count="2">government</word>
+	<word weight="0.007751937984496124" count="1">division</word>
+	<word weight="0.007751937984496124" count="1">collaboration</word>
+  </topic>
+</topics>

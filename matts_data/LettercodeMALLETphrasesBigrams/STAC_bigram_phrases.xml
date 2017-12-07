@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.641175398409022" totalTokens="1099" titles="star chamber, court, proceedings, heard, reign, disputes, cases, elizabeth, suits, henry">
+	<word weight="0.050955414012738856" count="56">court</word>
+	<word weight="0.03821656050955414" count="42">chamber</word>
+	<word weight="0.03821656050955414" count="42">star</word>
+	<word weight="0.03002729754322111" count="33">proceedings</word>
+	<word weight="0.017288444040036398" count="19">reign</word>
+	<word weight="0.017288444040036398" count="19">heard</word>
+	<word weight="0.015468607825295723" count="17">disputes</word>
+	<word weight="0.011828935395814377" count="13">cases</word>
+	<word weight="0.010009099181073703" count="11">henry</word>
+	<word weight="0.010009099181073703" count="11">elizabeth</word>
+	<word weight="0.010009099181073703" count="11">suits</word>
+	<word weight="0.009099181073703366" count="10">title</word>
+	<word weight="0.009099181073703366" count="10">criminal</word>
+	<word weight="0.009099181073703366" count="10">civil</word>
+	<word weight="0.00818926296633303" count="9">riot</word>
+	<word weight="0.00818926296633303" count="9">equity</word>
+	<word weight="0.00818926296633303" count="9">council</word>
+	<word weight="0.007279344858962694" count="8">offences</word>
+	<word weight="0.007279344858962694" count="8">brought</word>
+	<word weight="0.007279344858962694" count="8">procedure</word>
+	<phrase weight="0.18181818181818182" count="34">star chamber</phrase>
+	<phrase weight="0.0374331550802139" count="7">judicial proceedings</phrase>
+	<phrase weight="0.026737967914438502" count="5">proceedings heard</phrase>
+	<phrase weight="0.0213903743315508" count="4">henry viii</phrase>
+	<phrase weight="0.016042780748663103" count="3">criminal business</phrase>
+	<phrase weight="0.016042780748663103" count="3">common law</phrase>
+	<phrase weight="0.016042780748663103" count="3">henry vii</phrase>
+	<phrase weight="0.016042780748663103" count="3">edward vi</phrase>
+	<phrase weight="0.0106951871657754" count="2">suits brought</phrase>
+	<phrase weight="0.0106951871657754" count="2">great seal</phrase>
+	<phrase weight="0.0106951871657754" count="2">tithe disputes</phrase>
+	<phrase weight="0.0106951871657754" count="2">legal procedure</phrase>
+	<phrase weight="0.0106951871657754" count="2">criminal cases</phrase>
+	<phrase weight="0.0106951871657754" count="2">alleged offences</phrase>
+	<phrase weight="0.0106951871657754" count="2">conciliar justice</phrase>
+	<phrase weight="0.0106951871657754" count="2">cases alleging perversion</phrase>
+	<phrase weight="0.0106951871657754" count="2">criminal court</phrase>
+	<phrase weight="0.0106951871657754" count="2">equity heard</phrase>
+	<phrase weight="0.0106951871657754" count="2">customary rights</phrase>
+	<phrase weight="0.0106951871657754" count="2">court dealt</phrase>
+  </topic>
+</topics>

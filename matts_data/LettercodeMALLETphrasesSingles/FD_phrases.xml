@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.892239474467588" totalTokens="1148" titles="research, medical, council, committee, minutes, reports, board, general, health, units">
+	<word weight="0.16463414634146342" count="189">research</word>
+	<word weight="0.11846689895470383" count="136">medical</word>
+	<word weight="0.07926829268292683" count="91">council</word>
+	<word weight="0.041811846689895474" count="48">committee</word>
+	<word weight="0.020905923344947737" count="24">minutes</word>
+	<word weight="0.01916376306620209" count="22">reports</word>
+	<word weight="0.01916376306620209" count="22">board</word>
+	<word weight="0.018292682926829267" count="21">general</word>
+	<word weight="0.01132404181184669" count="13">health</word>
+	<word weight="0.009581881533101045" count="11">units</word>
+	<word weight="0.008710801393728223" count="10">topics</word>
+	<word weight="0.008710801393728223" count="10">projects</word>
+	<word weight="0.008710801393728223" count="10">boards</word>
+	<word weight="0.0078397212543554" count="9">correspondence</word>
+	<word weight="0.006968641114982578" count="8">committees</word>
+	<word weight="0.006097560975609756" count="7">industrial</word>
+	<word weight="0.006097560975609756" count="7">policy</word>
+	<word weight="0.006097560975609756" count="7">grants</word>
+	<word weight="0.005226480836236934" count="6">government</word>
+	<word weight="0.004355400696864111" count="5">relations</word>
+  </topic>
+</topics>

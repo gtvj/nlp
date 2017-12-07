@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.3853868649648542" totalTokens="68" titles="national, seals, cards, index, library, aids, finding, legends, overseas, latin">
+	<word weight="0.08823529411764706" count="6">national</word>
+	<word weight="0.07352941176470588" count="5">seals</word>
+	<word weight="0.058823529411764705" count="4">seal</word>
+	<word weight="0.058823529411764705" count="4">cards</word>
+	<word weight="0.058823529411764705" count="4">index</word>
+	<word weight="0.029411764705882353" count="2">library</word>
+	<word weight="0.029411764705882353" count="2">card</word>
+	<word weight="0.029411764705882353" count="2">aids</word>
+	<word weight="0.029411764705882353" count="2">finding</word>
+	<word weight="0.014705882352941176" count="1">legends</word>
+	<word weight="0.014705882352941176" count="1">overseas</word>
+	<word weight="0.014705882352941176" count="1">latin</word>
+	<word weight="0.014705882352941176" count="1">english</word>
+	<word weight="0.014705882352941176" count="1">referred</word>
+	<word weight="0.014705882352941176" count="1">journals</word>
+	<word weight="0.014705882352941176" count="1">books</word>
+	<word weight="0.014705882352941176" count="1">bibliographical</word>
+	<word weight="0.014705882352941176" count="1">green</word>
+	<word weight="0.014705882352941176" count="1">museum</word>
+	<word weight="0.014705882352941176" count="1">british</word>
+  </topic>
+</topics>

@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.19273869548947" totalTokens="397" titles="alienation, books, entry, fines, writs, pre, accounts, post, common, property">
+	<word weight="0.060453400503778336" count="24">alienation</word>
+	<word weight="0.05289672544080604" count="21">books</word>
+	<word weight="0.037783375314861464" count="15">entry</word>
+	<word weight="0.0327455919395466" count="13">fines</word>
+	<word weight="0.02518891687657431" count="10">writs</word>
+	<word weight="0.022670025188916875" count="9">pre</word>
+	<word weight="0.020151133501259445" count="8">accounts</word>
+	<word weight="0.017632241813602016" count="7">post</word>
+	<word weight="0.017632241813602016" count="7">common</word>
+	<word weight="0.017632241813602016" count="7">property</word>
+	<word weight="0.015113350125944584" count="6">account</word>
+	<word weight="0.015113350125944584" count="6">affidavits</word>
+	<word weight="0.015113350125944584" count="6">court</word>
+	<word weight="0.015113350125944584" count="6">covenant</word>
+	<word weight="0.012594458438287154" count="5">expenses</word>
+	<word weight="0.012594458438287154" count="5">licences</word>
+	<word weight="0.012594458438287154" count="5">charles</word>
+	<word weight="0.012594458438287154" count="5">land</word>
+	<word weight="0.010075566750629723" count="4">collection</word>
+	<word weight="0.010075566750629723" count="4">pleas</word>
+	<phrase weight="0.09090909090909091" count="6">entry books</phrase>
+	<phrase weight="0.045454545454545456" count="3">common pleas</phrase>
+	<phrase weight="0.045454545454545456" count="3">charles ii</phrase>
+	<phrase weight="0.030303030303030304" count="2">conveying property</phrase>
+	<phrase weight="0.030303030303030304" count="2">st albans</phrase>
+	<phrase weight="0.030303030303030304" count="2">covenant purchased</phrase>
+	<phrase weight="0.015151515151515152" count="1">internal accounts</phrase>
+	<phrase weight="0.015151515151515152" count="1">accounts begin</phrase>
+	<phrase weight="0.015151515151515152" count="1">make final concords</phrase>
+	<phrase weight="0.015151515151515152" count="1">post fines</phrase>
+	<phrase weight="0.015151515151515152" count="1">covenant alienation</phrase>
+	<phrase weight="0.015151515151515152" count="1">recoveries alienation</phrase>
+	<phrase weight="0.015151515151515152" count="1">fines alienation</phrase>
+	<phrase weight="0.015151515151515152" count="1">fines payable</phrase>
+	<phrase weight="0.015151515151515152" count="1">books derived</phrase>
+	<phrase weight="0.015151515151515152" count="1">covenant issued</phrase>
+	<phrase weight="0.015151515151515152" count="1">fines collection act</phrase>
+	<phrase weight="0.015151515151515152" count="1">deputy receivers</phrase>
+	<phrase weight="0.015151515151515152" count="1">simple chronological</phrase>
+	<phrase weight="0.015151515151515152" count="1">total sums collected</phrase>
+  </topic>
+</topics>

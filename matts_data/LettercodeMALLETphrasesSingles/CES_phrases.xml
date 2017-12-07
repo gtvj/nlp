@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.708834315272913" totalTokens="720" titles="skills, employment, commission, government, people, justice, sector, construction, industry, iip">
+	<word weight="0.16944444444444445" count="122">skills</word>
+	<word weight="0.09861111111111111" count="71">employment</word>
+	<word weight="0.09583333333333334" count="69">commission</word>
+	<word weight="0.09027777777777778" count="65">government</word>
+	<word weight="0.016666666666666666" count="12">people</word>
+	<word weight="0.016666666666666666" count="12">justice</word>
+	<word weight="0.016666666666666666" count="12">sector</word>
+	<word weight="0.013888888888888888" count="10">construction</word>
+	<word weight="0.013888888888888888" count="10">industry</word>
+	<word weight="0.013888888888888888" count="10">iip</word>
+	<word weight="0.013888888888888888" count="10">investors</word>
+	<word weight="0.011111111111111112" count="8">skillset</word>
+	<word weight="0.011111111111111112" count="8">creative</word>
+	<word weight="0.011111111111111112" count="8">field</word>
+	<word weight="0.011111111111111112" count="8">general</word>
+	<word weight="0.009722222222222222" count="7">learning</word>
+	<word weight="0.008333333333333333" count="6">development</word>
+	<word weight="0.008333333333333333" count="6">england</word>
+	<word weight="0.006944444444444444" count="5">lifelong</word>
+	<word weight="0.006944444444444444" count="5">financial</word>
+  </topic>
+</topics>

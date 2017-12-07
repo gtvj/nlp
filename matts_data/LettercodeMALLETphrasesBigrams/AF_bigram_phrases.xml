@@ -1,0 +1,35 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="16.48202336756258" totalTokens="149" titles="boundary, commission, england, wales, af, parliamentary, uk, commissions, general, boundaries">
+	<word weight="0.14093959731543623" count="21">boundary</word>
+	<word weight="0.10738255033557047" count="16">commission</word>
+	<word weight="0.08053691275167785" count="12">england</word>
+	<word weight="0.08053691275167785" count="12">wales</word>
+	<word weight="0.053691275167785234" count="8">af</word>
+	<word weight="0.040268456375838924" count="6">parliamentary</word>
+	<word weight="0.040268456375838924" count="6">uk</word>
+	<word weight="0.03355704697986577" count="5">commissions</word>
+	<word weight="0.026845637583892617" count="4">general</word>
+	<word weight="0.020134228187919462" count="3">boundaries</word>
+	<word weight="0.020134228187919462" count="3">gov</word>
+	<word weight="0.020134228187919462" count="3">government</word>
+	<word weight="0.013422818791946308" count="2">consultation</word>
+	<word weight="0.013422818791946308" count="2">notifications</word>
+	<word weight="0.013422818791946308" count="2">public</word>
+	<word weight="0.013422818791946308" count="2">representations</word>
+	<word weight="0.013422818791946308" count="2">statistics</word>
+	<word weight="0.013422818791946308" count="2">maps</word>
+	<word weight="0.013422818791946308" count="2">minutes</word>
+	<word weight="0.013422818791946308" count="2">commons</word>
+	<phrase weight="0.4" count="10">boundary commission</phrase>
+	<phrase weight="0.12" count="3">uk government</phrase>
+	<phrase weight="0.08" count="2">parliamentary boundary commissions</phrase>
+	<phrase weight="0.08" count="2">public notifications</phrase>
+	<phrase weight="0.08" count="2">boundary commissions</phrase>
+	<phrase weight="0.08" count="2">parliamentary boundary commission</phrase>
+	<phrase weight="0.04" count="1">english parliamentary boundary commission</phrase>
+	<phrase weight="0.04" count="1">welsh commission</phrase>
+	<phrase weight="0.04" count="1">welsh parliamentary boundary commission</phrase>
+	<phrase weight="0.04" count="1">electoral constituency boundaries</phrase>
+  </topic>
+</topics>

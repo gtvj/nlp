@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="13.380878124141578" totalTokens="173" titles="maps, atlases, library, london, miscellaneous, reproductions, reproduced, cartographers, well-known, commission">
+	<word weight="0.09826589595375723" count="17">maps</word>
+	<word weight="0.06358381502890173" count="11">atlases</word>
+	<word weight="0.05202312138728324" count="9">library</word>
+	<word weight="0.028901734104046242" count="5">london</word>
+	<word weight="0.028901734104046242" count="5">miscellaneous</word>
+	<word weight="0.023121387283236993" count="4">reproductions</word>
+	<word weight="0.023121387283236993" count="4">reproduced</word>
+	<word weight="0.023121387283236993" count="4">cartographers</word>
+	<word weight="0.023121387283236993" count="4">well-known</word>
+	<word weight="0.017341040462427744" count="3">commission</word>
+	<word weight="0.017341040462427744" count="3">john</word>
+	<word weight="0.017341040462427744" count="3">facsimile</word>
+	<word weight="0.017341040462427744" count="3">plans</word>
+	<word weight="0.017341040462427744" count="3">society</word>
+	<word weight="0.017341040462427744" count="3">topographical</word>
+	<word weight="0.017341040462427744" count="3">miscellany</word>
+	<word weight="0.017341040462427744" count="3">public</word>
+	<word weight="0.011560693641618497" count="2">customs</word>
+	<word weight="0.011560693641618497" count="2">scotland</word>
+	<word weight="0.011560693641618497" count="2">survey</word>
+  </topic>
+</topics>

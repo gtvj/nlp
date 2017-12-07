@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.253001827681133" totalTokens="1685" titles="royal greenwich observatory, rgo, publications, observations, almanac, astronomical, nautical, cape, astronomers, plates">
+	<word weight="0.1281899109792285" count="216">royal</word>
+	<word weight="0.12759643916913946" count="215">observatory</word>
+	<word weight="0.12640949554896141" count="213">rgo</word>
+	<word weight="0.11572700296735905" count="195">greenwich</word>
+	<word weight="0.01543026706231454" count="26">publications</word>
+	<word weight="0.013649851632047478" count="23">observations</word>
+	<word weight="0.011869436201780416" count="20">almanac</word>
+	<word weight="0.010682492581602374" count="18">astronomical</word>
+	<word weight="0.009495548961424332" count="16">nautical</word>
+	<word weight="0.00771513353115727" count="13">astronomers</word>
+	<word weight="0.00771513353115727" count="13">cape</word>
+	<word weight="0.006528189910979229" count="11">solar</word>
+	<word weight="0.006528189910979229" count="11">plates</word>
+	<word weight="0.005341246290801187" count="9">telescope</word>
+	<word weight="0.005341246290801187" count="9">hope</word>
+	<word weight="0.005341246290801187" count="9">good</word>
+	<word weight="0.004747774480712166" count="8">photographs</word>
+	<word weight="0.004154302670623145" count="7">project</word>
+	<word weight="0.004154302670623145" count="7">microfilm</word>
+	<word weight="0.0035608308605341245" count="6">la</word>
+	<phrase weight="0.6390977443609023" count="170">royal greenwich observatory</phrase>
+	<phrase weight="0.03007518796992481" count="8">royal observatory</phrase>
+	<phrase weight="0.02631578947368421" count="7">nautical almanac</phrase>
+	<phrase weight="0.02631578947368421" count="7">royal observatory cape</phrase>
+	<phrase weight="0.022556390977443608" count="6">greenwich observatory</phrase>
+	<phrase weight="0.007518796992481203" count="2">automatic meridian circle</phrase>
+	<phrase weight="0.007518796992481203" count="2">astronomical plates</phrase>
+	<phrase weight="0.007518796992481203" count="2">james bradley</phrase>
+	<phrase weight="0.007518796992481203" count="2">kew observatory</phrase>
+	<phrase weight="0.007518796992481203" count="2">newton group</phrase>
+	<phrase weight="0.007518796992481203" count="2">astronomer royal</phrase>
+	<phrase weight="0.007518796992481203" count="2">astronomy research council</phrase>
+	<phrase weight="0.0037593984962406013" count="1">eclipse plates</phrase>
+	<phrase weight="0.0037593984962406013" count="1">technical apparatus</phrase>
+	<phrase weight="0.0037593984962406013" count="1">hm nautical almanac</phrase>
+	<phrase weight="0.0037593984962406013" count="1">lead mining interests</phrase>
+	<phrase weight="0.0037593984962406013" count="1">dynamical astronomy</phrase>
+	<phrase weight="0.0037593984962406013" count="1">reversible transit circle</phrase>
+	<phrase weight="0.0037593984962406013" count="1">altazimuth telescope</phrase>
+	<phrase weight="0.0037593984962406013" count="1">good hope solar</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,24 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.4002118690066252" totalTokens="38" titles="board, eh, pay, policy, general, case, policies, inflation, counter, prices">
+	<word weight="0.18421052631578946" count="7">board</word>
+	<word weight="0.18421052631578946" count="7">eh</word>
+	<word weight="0.15789473684210525" count="6">pay</word>
+	<word weight="0.07894736842105263" count="3">policy</word>
+	<word weight="0.05263157894736842" count="2">general</word>
+	<word weight="0.05263157894736842" count="2">case</word>
+	<word weight="0.02631578947368421" count="1">policies</word>
+	<word weight="0.02631578947368421" count="1">inflation</word>
+	<word weight="0.02631578947368421" count="1">counter</word>
+	<word weight="0.02631578947368421" count="1">prices</word>
+	<word weight="0.02631578947368421" count="1">incomes</word>
+	<word weight="0.02631578947368421" count="1">speeches</word>
+	<word weight="0.02631578947368421" count="1">texts</word>
+	<word weight="0.02631578947368421" count="1">reports</word>
+	<word weight="0.02631578947368421" count="1">statistics</word>
+	<word weight="0.02631578947368421" count="1">correspondence</word>
+	<word weight="0.02631578947368421" count="1">precedent</word>
+	<phrase weight="0.75" count="3">pay board</phrase>
+	<phrase weight="0.25" count="1">inflation policies</phrase>
+  </topic>
+</topics>

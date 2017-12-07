@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.6384574517239479" totalTokens="43" titles="price, commission, prices, meetings, minutes, charges, protection, consumer, state, secretary">
+	<word weight="0.13953488372093023" count="6">price</word>
+	<word weight="0.09302325581395349" count="4">commission</word>
+	<word weight="0.046511627906976744" count="2">prices</word>
+	<word weight="0.046511627906976744" count="2">meetings</word>
+	<word weight="0.046511627906976744" count="2">minutes</word>
+	<word weight="0.023255813953488372" count="1">charges</word>
+	<word weight="0.023255813953488372" count="1">protection</word>
+	<word weight="0.023255813953488372" count="1">consumer</word>
+	<word weight="0.023255813953488372" count="1">state</word>
+	<word weight="0.023255813953488372" count="1">secretary</word>
+	<word weight="0.023255813953488372" count="1">advising</word>
+	<word weight="0.023255813953488372" count="1">act</word>
+	<word weight="0.023255813953488372" count="1">inflation</word>
+	<word weight="0.023255813953488372" count="1">counter</word>
+	<word weight="0.023255813953488372" count="1">code</word>
+	<word weight="0.023255813953488372" count="1">administering</word>
+	<word weight="0.023255813953488372" count="1">notices</word>
+	<word weight="0.023255813953488372" count="1">press</word>
+	<word weight="0.023255813953488372" count="1">data</word>
+	<word weight="0.023255813953488372" count="1">panel</word>
+  </topic>
+</topics>

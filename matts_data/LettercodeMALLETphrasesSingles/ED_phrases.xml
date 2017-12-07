@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.072950449989995" totalTokens="15693" titles="education, branch, schools, board, science, committee, local, minutes, reports, successors">
+	<word weight="0.08443254954438284" count="1325">education</word>
+	<word weight="0.02950360033135793" count="463">branch</word>
+	<word weight="0.021092206716370358" count="331">schools</word>
+	<word weight="0.018670744918116357" count="293">board</word>
+	<word weight="0.014210157395016887" count="223">science</word>
+	<word weight="0.012617090422481362" count="198">school</word>
+	<word weight="0.012489645064678518" count="196">committee</word>
+	<word weight="0.01191614095456573" count="187">local</word>
+	<word weight="0.009940737908621678" count="156">minutes</word>
+	<word weight="0.009940737908621678" count="156">reports</word>
+	<word weight="0.008475116293888994" count="133">successors</word>
+	<word weight="0.008283948257184733" count="130">act</word>
+	<word weight="0.008220225578283311" count="129">elementary</word>
+	<word weight="0.007965334862677627" count="125">general</word>
+	<word weight="0.007901612183776207" count="124">teachers</word>
+	<word weight="0.0075192761103676795" count="118">educational</word>
+	<word weight="0.007009494679156312" count="110">technical</word>
+	<word weight="0.007009494679156312" count="110">council</word>
+	<word weight="0.007009494679156312" count="110">authorities</word>
+	<word weight="0.006945772000254891" count="109">predecessors</word>
+  </topic>
+</topics>

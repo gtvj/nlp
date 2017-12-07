@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.968257889939855" totalTokens="537" titles="service, civil, csc, commission, examination, commissioners, annual, tables, rules, results">
+	<word weight="0.09497206703910614" count="51">service</word>
+	<word weight="0.0931098696461825" count="50">civil</word>
+	<word weight="0.06517690875232775" count="35">csc</word>
+	<word weight="0.0521415270018622" count="28">commission</word>
+	<word weight="0.0186219739292365" count="10">examination</word>
+	<word weight="0.01675977653631285" count="9">commissioners</word>
+	<word weight="0.0148975791433892" count="8">annual</word>
+	<word weight="0.01303538175046555" count="7">tables</word>
+	<word weight="0.01303538175046555" count="7">rules</word>
+	<word weight="0.0111731843575419" count="6">results</word>
+	<word weight="0.0111731843575419" count="6">candidates</word>
+	<word weight="0.0111731843575419" count="6">regulations</word>
+	<word weight="0.00931098696461825" count="5">reports</word>
+	<word weight="0.00931098696461825" count="5">report</word>
+	<word weight="0.00931098696461825" count="5">commissioner's</word>
+	<word weight="0.00931098696461825" count="5">marks</word>
+	<word weight="0.00931098696461825" count="5">examinations</word>
+	<word weight="0.00931098696461825" count="5">application</word>
+	<word weight="0.00931098696461825" count="5">staff</word>
+	<word weight="0.00931098696461825" count="5">competitions</word>
+  </topic>
+</topics>

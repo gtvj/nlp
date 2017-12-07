@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="10.105571101888648" totalTokens="216" titles="national, wm, laboratory, measures, weights, rohs, programme, government, uk, energy">
+	<word weight="0.06944444444444445" count="15">national</word>
+	<word weight="0.05555555555555555" count="12">wm</word>
+	<word weight="0.05092592592592592" count="11">laboratory</word>
+	<word weight="0.05092592592592592" count="11">measures</word>
+	<word weight="0.05092592592592592" count="11">weights</word>
+	<word weight="0.037037037037037035" count="8">rohs</word>
+	<word weight="0.032407407407407406" count="7">programme</word>
+	<word weight="0.032407407407407406" count="7">government</word>
+	<word weight="0.032407407407407406" count="7">uk</word>
+	<word weight="0.023148148148148147" count="5">energy</word>
+	<word weight="0.018518518518518517" count="4">measurement</word>
+	<word weight="0.018518518518518517" count="4">labelling</word>
+	<word weight="0.018518518518518517" count="4">substances</word>
+	<word weight="0.018518518518518517" count="4">hazardous</word>
+	<word weight="0.018518518518518517" count="4">restriction</word>
+	<word weight="0.018518518518518517" count="4">metrology</word>
+	<word weight="0.018518518518518517" count="4">legal</word>
+	<word weight="0.018518518518518517" count="4">board</word>
+	<word weight="0.013888888888888888" count="3">bis</word>
+	<word weight="0.013888888888888888" count="3">business</word>
+	<phrase weight="0.17073170731707318" count="7">national weights</phrase>
+	<phrase weight="0.12195121951219512" count="5">uk government</phrase>
+	<phrase weight="0.0975609756097561" count="4">hazardous substances</phrase>
+	<phrase weight="0.04878048780487805" count="2">steering board</phrase>
+	<phrase weight="0.04878048780487805" count="2">energy labelling regulations</phrase>
+	<phrase weight="0.04878048780487805" count="2">legal metrology programme</phrase>
+	<phrase weight="0.04878048780487805" count="2">national measurement</phrase>
+	<phrase weight="0.04878048780487805" count="2">regulatory reform</phrase>
+	<phrase weight="0.024390243902439025" count="1">independent appointee</phrase>
+	<phrase weight="0.024390243902439025" count="1">rohs energy labelling</phrase>
+	<phrase weight="0.024390243902439025" count="1">leap seconds</phrase>
+	<phrase weight="0.024390243902439025" count="1">rohs eup</phrase>
+	<phrase weight="0.024390243902439025" count="1">energy labelling</phrase>
+	<phrase weight="0.024390243902439025" count="1">instruments directive</phrase>
+	<phrase weight="0.024390243902439025" count="1">senior officials</phrase>
+	<phrase weight="0.024390243902439025" count="1">steering board agendas</phrase>
+	<phrase weight="0.024390243902439025" count="1">consumer protection</phrase>
+	<phrase weight="0.024390243902439025" count="1">metrology programme</phrase>
+	<phrase weight="0.024390243902439025" count="1">high level objectives</phrase>
+	<phrase weight="0.024390243902439025" count="1">operational role</phrase>
+  </topic>
+</topics>

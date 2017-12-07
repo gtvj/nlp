@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.303585633804791" totalTokens="2942" titles="air, force, royal, reports, operations, command, general, raf, personnel, books">
+	<word weight="0.1397008837525493" count="411">air</word>
+	<word weight="0.033650577838205305" count="99">force</word>
+	<word weight="0.026512576478585997" count="78">royal</word>
+	<word weight="0.024473147518694765" count="72">reports</word>
+	<word weight="0.013936097892590074" count="41">operations</word>
+	<word weight="0.013936097892590074" count="41">command</word>
+	<word weight="0.013936097892590074" count="41">general</word>
+	<word weight="0.013596193065941536" count="40">raf</word>
+	<word weight="0.013256288239292998" count="39">personnel</word>
+	<word weight="0.01257647858599592" count="37">books</word>
+	<word weight="0.011896668932698844" count="35">war</word>
+	<word weight="0.010876954452753228" count="32">research</word>
+	<word weight="0.010197144799456152" count="30">defence</word>
+	<word weight="0.008157715839564922" count="24">staff</word>
+	<word weight="0.007477906186267845" count="22">development</word>
+	<word weight="0.007477906186267845" count="22">allied</word>
+	<word weight="0.007138001359619306" count="21">world</word>
+	<word weight="0.007138001359619306" count="21">branch</word>
+	<word weight="0.006798096532970768" count="20">british</word>
+	<word weight="0.006798096532970768" count="20">chief</word>
+	<phrase weight="0.021825396825396824" count="11">air member</phrase>
+	<phrase weight="0.021825396825396824" count="11">royal air force</phrase>
+	<phrase weight="0.01984126984126984" count="10">air boards</phrase>
+	<phrase weight="0.017857142857142856" count="9">world war</phrase>
+	<phrase weight="0.015873015873015872" count="8">judge advocate general</phrase>
+	<phrase weight="0.013888888888888888" count="7">master general</phrase>
+	<phrase weight="0.011904761904761904" count="6">air force</phrase>
+	<phrase weight="0.00992063492063492" count="5">british air forces</phrase>
+	<phrase weight="0.00992063492063492" count="5">air staff</phrase>
+	<phrase weight="0.00992063492063492" count="5">advocate general</phrase>
+	<phrase weight="0.00992063492063492" count="5">official history</phrase>
+	<phrase weight="0.007936507936507936" count="4">air council</phrase>
+	<phrase weight="0.007936507936507936" count="4">books started</phrase>
+	<phrase weight="0.007936507936507936" count="4">raf stations</phrase>
+	<phrase weight="0.007936507936507936" count="4">air forces</phrase>
+	<phrase weight="0.005952380952380952" count="3">airship works</phrase>
+	<phrase weight="0.005952380952380952" count="3">tactical air force</phrase>
+	<phrase weight="0.005952380952380952" count="3">transport command development unit</phrase>
+	<phrase weight="0.005952380952380952" count="3">flying training command</phrase>
+	<phrase weight="0.005952380952380952" count="3">air members</phrase>
+  </topic>
+</topics>

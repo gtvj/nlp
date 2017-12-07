@@ -1,0 +1,22 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="237.64828742281688" totalTokens="69" titles="beis, strategy, industrial, energy, business, government, hub, consultation, growthshowcase, level">
+	<word weight="0.17391304347826086" count="12">beis</word>
+	<word weight="0.11594202898550725" count="8">strategy</word>
+	<word weight="0.11594202898550725" count="8">industrial</word>
+	<word weight="0.11594202898550725" count="8">energy</word>
+	<word weight="0.11594202898550725" count="8">business</word>
+	<word weight="0.057971014492753624" count="4">government</word>
+	<word weight="0.028985507246376812" count="2">hub</word>
+	<word weight="0.028985507246376812" count="2">consultation</word>
+	<word weight="0.028985507246376812" count="2">growthshowcase</word>
+	<word weight="0.028985507246376812" count="2">level</word>
+	<word weight="0.028985507246376812" count="2">bim</word>
+	<word weight="0.028985507246376812" count="2">modelling</word>
+	<word weight="0.028985507246376812" count="2">building</word>
+	<word weight="0.028985507246376812" count="2">britain</word>
+	<word weight="0.028985507246376812" count="2">built</word>
+	<word weight="0.028985507246376812" count="2">digital</word>
+	<word weight="0.014492753623188406" count="1">division</word>
+  </topic>
+</topics>

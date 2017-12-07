@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="9.077221266068028" totalTokens="350" titles="transport, goods, policy, successors, aviation, division, vehicles, security, heavy, survey">
+	<word weight="0.09142857142857143" count="32">transport</word>
+	<word weight="0.02857142857142857" count="10">goods</word>
+	<word weight="0.025714285714285714" count="9">policy</word>
+	<word weight="0.025714285714285714" count="9">successors</word>
+	<word weight="0.02" count="7">aviation</word>
+	<word weight="0.02" count="7">division</word>
+	<word weight="0.017142857142857144" count="6">vehicles</word>
+	<word weight="0.014285714285714285" count="5">security</word>
+	<word weight="0.014285714285714285" count="5">heavy</word>
+	<word weight="0.014285714285714285" count="5">survey</word>
+	<word weight="0.011428571428571429" count="4">international</word>
+	<word weight="0.011428571428571429" count="4">public</word>
+	<word weight="0.011428571428571429" count="4">road</word>
+	<word weight="0.011428571428571429" count="4">vehicle</word>
+	<word weight="0.011428571428571429" count="4">continuing</word>
+	<word weight="0.011428571428571429" count="4">statistics</word>
+	<word weight="0.008571428571428572" count="3">avi</word>
+	<word weight="0.008571428571428572" count="3">traffic</word>
+	<word weight="0.008571428571428572" count="3">air</word>
+	<word weight="0.008571428571428572" count="3">london</word>
+  </topic>
+</topics>

@@ -1,0 +1,39 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="29.033585125251083" totalTokens="123" titles="health, education, minutes, fp, council, authority, development, meetings, hec, unregistered">
+	<word weight="0.17073170731707318" count="21">health</word>
+	<word weight="0.12195121951219512" count="15">education</word>
+	<word weight="0.08943089430894309" count="11">minutes</word>
+	<word weight="0.07317073170731707" count="9">fp</word>
+	<word weight="0.06504065040650407" count="8">council</word>
+	<word weight="0.04065040650406504" count="5">authority</word>
+	<word weight="0.04065040650406504" count="5">development</word>
+	<word weight="0.016260162601626018" count="2">meetings</word>
+	<word weight="0.016260162601626018" count="2">hec</word>
+	<word weight="0.016260162601626018" count="2">unregistered</word>
+	<word weight="0.008130081300813009" count="1">committees</word>
+	<word weight="0.008130081300813009" count="1">successors</word>
+	<word weight="0.008130081300813009" count="1">successor</word>
+	<word weight="0.008130081300813009" count="1">trace</word>
+	<word weight="0.008130081300813009" count="1">special</word>
+	<word weight="0.008130081300813009" count="1">inception</word>
+	<word weight="0.008130081300813009" count="1">committee</word>
+	<word weight="0.008130081300813009" count="1">audit</word>
+	<word weight="0.008130081300813009" count="1">resources</word>
+	<word weight="0.008130081300813009" count="1">board</word>
+	<phrase weight="0.30434782608695654" count="7">health education council</phrase>
+	<phrase weight="0.13043478260869565" count="3">health education authority</phrase>
+	<phrase weight="0.08695652173913043" count="2">health development</phrase>
+	<phrase weight="0.043478260869565216" count="1">special health authority</phrase>
+	<phrase weight="0.043478260869565216" count="1">handicapped children</phrase>
+	<phrase weight="0.043478260869565216" count="1">education authority</phrase>
+	<phrase weight="0.043478260869565216" count="1">kidney donation</phrase>
+	<phrase weight="0.043478260869565216" count="1">vaccination programmes</phrase>
+	<phrase weight="0.043478260869565216" count="1">foot health education</phrase>
+	<phrase weight="0.043478260869565216" count="1">board minutes</phrase>
+	<phrase weight="0.043478260869565216" count="1">good neighbour</phrase>
+	<phrase weight="0.043478260869565216" count="1">social services</phrase>
+	<phrase weight="0.043478260869565216" count="1">health education officers</phrase>
+	<phrase weight="0.043478260869565216" count="1">proposed amendment regulations</phrase>
+  </topic>
+</topics>

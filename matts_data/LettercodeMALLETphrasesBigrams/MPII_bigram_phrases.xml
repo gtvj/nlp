@@ -1,0 +1,37 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0816825182668455" totalTokens="95" titles="london, maps, borough, plans, county, current, places, drawings, council, area">
+	<word weight="0.08421052631578947" count="8">london</word>
+	<word weight="0.05263157894736842" count="5">maps</word>
+	<word weight="0.042105263157894736" count="4">borough</word>
+	<word weight="0.042105263157894736" count="4">plans</word>
+	<word weight="0.031578947368421054" count="3">county</word>
+	<word weight="0.031578947368421054" count="3">current</word>
+	<word weight="0.031578947368421054" count="3">places</word>
+	<word weight="0.031578947368421054" count="3">drawings</word>
+	<word weight="0.031578947368421054" count="3">map</word>
+	<word weight="0.021052631578947368" count="2">council</word>
+	<word weight="0.021052631578947368" count="2">area</word>
+	<word weight="0.021052631578947368" count="2">public</word>
+	<word weight="0.021052631578947368" count="2">individual</word>
+	<word weight="0.021052631578947368" count="2">assigned</word>
+	<word weight="0.021052631578947368" count="2">extra</word>
+	<word weight="0.010526315789473684" count="1">outer</word>
+	<word weight="0.010526315789473684" count="1">kent</word>
+	<word weight="0.010526315789473684" count="1">surrey</word>
+	<word weight="0.010526315789473684" count="1">middlesex</word>
+	<word weight="0.010526315789473684" count="1">essex</word>
+	<phrase weight="0.08333333333333333" count="1">london borough</phrase>
+	<phrase weight="0.08333333333333333" count="1">preservation measure</phrase>
+	<phrase weight="0.08333333333333333" count="1">london council</phrase>
+	<phrase weight="0.08333333333333333" count="1">geographical area</phrase>
+	<phrase weight="0.08333333333333333" count="1">common subject matter</phrase>
+	<phrase weight="0.08333333333333333" count="1">london county council</phrase>
+	<phrase weight="0.08333333333333333" count="1">significant change</phrase>
+	<phrase weight="0.08333333333333333" count="1">twentieth century</phrase>
+	<phrase weight="0.08333333333333333" count="1">individual map extract</phrase>
+	<phrase weight="0.08333333333333333" count="1">london area</phrase>
+	<phrase weight="0.08333333333333333" count="1">individual map</phrase>
+	<phrase weight="0.08333333333333333" count="1">technical drawings</phrase>
+  </topic>
+</topics>

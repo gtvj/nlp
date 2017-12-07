@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="83.7504771292377" totalTokens="78" titles="rail, regulation, regulator, reports, annual, publications, successor, portal, data, guidance">
+	<word weight="0.23076923076923078" count="18">rail</word>
+	<word weight="0.1282051282051282" count="10">regulation</word>
+	<word weight="0.10256410256410256" count="8">regulator</word>
+	<word weight="0.038461538461538464" count="3">reports</word>
+	<word weight="0.038461538461538464" count="3">annual</word>
+	<word weight="0.038461538461538464" count="3">publications</word>
+	<word weight="0.02564102564102564" count="2">successor</word>
+	<word weight="0.02564102564102564" count="2">portal</word>
+	<word weight="0.02564102564102564" count="2">data</word>
+	<word weight="0.02564102564102564" count="2">guidance</word>
+	<word weight="0.02564102564102564" count="2">government</word>
+	<word weight="0.01282051282051282" count="1">division</word>
+	<word weight="0.01282051282051282" count="1">orr</word>
+	<word weight="0.01282051282051282" count="1">industry</word>
+	<word weight="0.01282051282051282" count="1">railway</word>
+	<word weight="0.01282051282051282" count="1">transport</word>
+	<word weight="0.01282051282051282" count="1">state</word>
+	<word weight="0.01282051282051282" count="1">secretary</word>
+	<word weight="0.01282051282051282" count="1">tickets</word>
+	<word weight="0.01282051282051282" count="1">retailing</word>
+  </topic>
+</topics>

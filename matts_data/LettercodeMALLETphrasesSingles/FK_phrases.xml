@@ -1,0 +1,24 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.8890095739030164" totalTokens="39" titles="government, regional, local, state, secretary, private, planning, presentation, machinery, policy">
+	<word weight="0.1282051282051282" count="5">government</word>
+	<word weight="0.10256410256410256" count="4">regional</word>
+	<word weight="0.10256410256410256" count="4">local</word>
+	<word weight="0.10256410256410256" count="4">state</word>
+	<word weight="0.10256410256410256" count="4">secretary</word>
+	<word weight="0.07692307692307693" count="3">private</word>
+	<word weight="0.07692307692307693" count="3">planning</word>
+	<word weight="0.02564102564102564" count="1">presentation</word>
+	<word weight="0.02564102564102564" count="1">machinery</word>
+	<word weight="0.02564102564102564" count="1">policy</word>
+	<word weight="0.02564102564102564" count="1">aspects</word>
+	<word weight="0.02564102564102564" count="1">regions</word>
+	<word weight="0.02564102564102564" count="1">meetings</word>
+	<word weight="0.02564102564102564" count="1">visits</word>
+	<word weight="0.02564102564102564" count="1">relate</word>
+	<word weight="0.02564102564102564" count="1">appointment</word>
+	<word weight="0.02564102564102564" count="1">pre-dating</word>
+	<word weight="0.02564102564102564" count="1">crosland</word>
+	<word weight="0.02564102564102564" count="1">anthony</word>
+  </topic>
+</topics>

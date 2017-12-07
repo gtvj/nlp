@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.51752090205344" totalTokens="542" titles="debt, national, savings, general, ndo, trustee, minutes, banks, books, commutation">
+	<word weight="0.08118081180811808" count="44">debt</word>
+	<word weight="0.07933579335793357" count="43">national</word>
+	<word weight="0.04428044280442804" count="24">savings</word>
+	<word weight="0.042435424354243544" count="23">general</word>
+	<word weight="0.04059040590405904" count="22">ndo</word>
+	<word weight="0.02952029520295203" count="16">trustee</word>
+	<word weight="0.025830258302583026" count="14">minutes</word>
+	<word weight="0.023985239852398525" count="13">banks</word>
+	<word weight="0.023985239852398525" count="13">bank</word>
+	<word weight="0.01845018450184502" count="10">books</word>
+	<word weight="0.016605166051660517" count="9">commutation</word>
+	<word weight="0.016605166051660517" count="9">pensions</word>
+	<word weight="0.016605166051660517" count="9">committee</word>
+	<word weight="0.016605166051660517" count="9">inspection</word>
+	<word weight="0.014760147601476014" count="8">board</word>
+	<word weight="0.012915129151291513" count="7">reports</word>
+	<word weight="0.012915129151291513" count="7">nominees</word>
+	<word weight="0.012915129151291513" count="7">life</word>
+	<word weight="0.01107011070110701" count="6">commissioners</word>
+	<word weight="0.01107011070110701" count="6">annuities</word>
+	<phrase weight="0.1875" count="18">national debt</phrase>
+	<phrase weight="0.052083333333333336" count="5">trustee savings bank inspection committee</phrase>
+	<phrase weight="0.041666666666666664" count="4">trustee savings banks</phrase>
+	<phrase weight="0.03125" count="3">savings bank inspection committee</phrase>
+	<phrase weight="0.03125" count="3">savings banks</phrase>
+	<phrase weight="0.020833333333333332" count="2">annuities paid</phrase>
+	<phrase weight="0.020833333333333332" count="2">unindexed minutes</phrase>
+	<phrase weight="0.020833333333333332" count="2">formal meetings</phrase>
+	<phrase weight="0.020833333333333332" count="2">life annuities granted</phrase>
+	<phrase weight="0.020833333333333332" count="2">national debt commissioners</phrase>
+	<phrase weight="0.020833333333333332" count="2">royal irish constabulary</phrase>
+	<phrase weight="0.010416666666666666" count="1">statutory regulations</phrase>
+	<phrase weight="0.010416666666666666" count="1">regional amalgamations</phrase>
+	<phrase weight="0.010416666666666666" count="1">comprising general</phrase>
+	<phrase weight="0.010416666666666666" count="1">unclaimed stocks</phrase>
+	<phrase weight="0.010416666666666666" count="1">medical investigations</phrase>
+	<phrase weight="0.010416666666666666" count="1">closed savings banks rules</phrase>
+	<phrase weight="0.010416666666666666" count="1">law appointed</phrase>
+	<phrase weight="0.010416666666666666" count="1">occurred merging local trustee savings banks</phrase>
+	<phrase weight="0.010416666666666666" count="1">respective trustees</phrase>
+  </topic>
+</topics>

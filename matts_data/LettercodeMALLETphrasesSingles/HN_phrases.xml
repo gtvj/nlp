@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="141.1599676688304" totalTokens="88" titles="computer, central, telecommunications, predecessors, cca, circulars, technical, service, civil, ccta">
+	<word weight="0.14772727272727273" count="13">computer</word>
+	<word weight="0.13636363636363635" count="12">central</word>
+	<word weight="0.09090909090909091" count="8">telecommunications</word>
+	<word weight="0.045454545454545456" count="4">predecessors</word>
+	<word weight="0.03409090909090909" count="3">cca</word>
+	<word weight="0.03409090909090909" count="3">circulars</word>
+	<word weight="0.03409090909090909" count="3">technical</word>
+	<word weight="0.022727272727272728" count="2">service</word>
+	<word weight="0.022727272727272728" count="2">civil</word>
+	<word weight="0.022727272727272728" count="2">ccta</word>
+	<word weight="0.022727272727272728" count="2">assigned</word>
+	<word weight="0.022727272727272728" count="2">previously</word>
+	<word weight="0.011363636363636364" count="1">sectors</word>
+	<word weight="0.011363636363636364" count="1">public</word>
+	<word weight="0.011363636363636364" count="1">private</word>
+	<word weight="0.011363636363636364" count="1">organisations</word>
+	<word weight="0.011363636363636364" count="1">interested</word>
+	<word weight="0.011363636363636364" count="1">correspondence</word>
+	<word weight="0.011363636363636364" count="1">relationships</word>
+	<word weight="0.011363636363636364" count="1">ccta's</word>
+  </topic>
+</topics>

@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.1950757505687495" totalTokens="548" titles="milk marketing board, jv, dairy, reports, committee, annual, quality, minutes, producers, meetings">
+	<word weight="0.12956204379562045" count="71">milk</word>
+	<word weight="0.08211678832116788" count="45">marketing</word>
+	<word weight="0.07664233576642336" count="42">board</word>
+	<word weight="0.03467153284671533" count="19">jv</word>
+	<word weight="0.016423357664233577" count="9">dairy</word>
+	<word weight="0.014598540145985401" count="8">committee</word>
+	<word weight="0.014598540145985401" count="8">reports</word>
+	<word weight="0.012773722627737226" count="7">annual</word>
+	<word weight="0.010948905109489052" count="6">quality</word>
+	<word weight="0.009124087591240875" count="5">breeding</word>
+	<word weight="0.009124087591240875" count="5">minutes</word>
+	<word weight="0.009124087591240875" count="5">producers</word>
+	<word weight="0.009124087591240875" count="5">meetings</word>
+	<word weight="0.009124087591240875" count="5">products</word>
+	<word weight="0.009124087591240875" count="5">uk</word>
+	<word weight="0.0072992700729927005" count="4">committees</word>
+	<word weight="0.0072992700729927005" count="4">recording</word>
+	<word weight="0.0072992700729927005" count="4">scheme</word>
+	<word weight="0.0072992700729927005" count="4">agricultural</word>
+	<word weight="0.0072992700729927005" count="4">general</word>
+	<phrase weight="0.21296296296296297" count="23">milk marketing board</phrase>
+	<phrase weight="0.037037037037037035" count="4">marketing board</phrase>
+	<phrase weight="0.018518518518518517" count="2">annual general meetings</phrase>
+	<phrase weight="0.018518518518518517" count="2">milk products</phrase>
+	<phrase weight="0.009259259259259259" count="1">milk transportation</phrase>
+	<phrase weight="0.009259259259259259" count="1">marketing board social events</phrase>
+	<phrase weight="0.009259259259259259" count="1">milk quality incentive schemes</phrase>
+	<phrase weight="0.009259259259259259" count="1">management planning</phrase>
+	<phrase weight="0.009259259259259259" count="1">milk marketing board annual reports</phrase>
+	<phrase weight="0.009259259259259259" count="1">general meetings</phrase>
+	<phrase weight="0.009259259259259259" count="1">milk quality liaison</phrase>
+	<phrase weight="0.009259259259259259" count="1">personnel aspects</phrase>
+	<phrase weight="0.009259259259259259" count="1">milk supplied</phrase>
+	<phrase weight="0.009259259259259259" count="1">dairy products</phrase>
+	<phrase weight="0.009259259259259259" count="1">eec milk quotas</phrase>
+	<phrase weight="0.009259259259259259" count="1">cattle breeding</phrase>
+	<phrase weight="0.009259259259259259" count="1">production organisation</phrase>
+	<phrase weight="0.009259259259259259" count="1">price paid</phrase>
+	<phrase weight="0.009259259259259259" count="1">national milk recording</phrase>
+	<phrase weight="0.009259259259259259" count="1">agricultural producers</phrase>
+  </topic>
+</topics>

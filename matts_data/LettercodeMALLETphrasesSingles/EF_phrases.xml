@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.950350982226129" totalTokens="791" titles="safety, health, executive, hse, explosives, inspectorate, government, commission, home, reports">
+	<word weight="0.1011378002528445" count="80">safety</word>
+	<word weight="0.09481668773704172" count="75">health</word>
+	<word weight="0.0606826801517067" count="48">executive</word>
+	<word weight="0.045512010113780026" count="36">hse</word>
+	<word weight="0.025284450063211124" count="20">explosives</word>
+	<word weight="0.021491782553729456" count="17">inspectorate</word>
+	<word weight="0.021491782553729456" count="17">government</word>
+	<word weight="0.017699115044247787" count="14">commission</word>
+	<word weight="0.01390644753476612" count="11">home</word>
+	<word weight="0.012642225031605562" count="10">reports</word>
+	<word weight="0.011378002528445006" count="9">nuclear</word>
+	<word weight="0.011378002528445006" count="9">committee</word>
+	<word weight="0.010113780025284451" count="8">inquiry</word>
+	<word weight="0.008849557522123894" count="7">policy</word>
+	<word weight="0.008849557522123894" count="7">meetings</word>
+	<word weight="0.008849557522123894" count="7">work</word>
+	<word weight="0.008849557522123894" count="7">regulation</word>
+	<word weight="0.008849557522123894" count="7">regulations</word>
+	<word weight="0.008849557522123894" count="7">hazardous</word>
+	<word weight="0.008849557522123894" count="7">substances</word>
+  </topic>
+</topics>

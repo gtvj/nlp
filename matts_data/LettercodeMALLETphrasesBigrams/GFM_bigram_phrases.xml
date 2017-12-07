@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.7761431950591" totalTokens="1243" titles="german war, gfm, project, foreign, captured, selection, university, filmed, filming, relations">
+	<word weight="0.10136765888978279" count="126">german</word>
+	<word weight="0.06275140788415125" count="78">gfm</word>
+	<word weight="0.05631536604987932" count="70">project</word>
+	<word weight="0.053901850362027354" count="67">war</word>
+	<word weight="0.042638777152051485" count="53">foreign</word>
+	<word weight="0.02252614641995173" count="28">captured</word>
+	<word weight="0.02011263073209976" count="25">university</word>
+	<word weight="0.02011263073209976" count="25">selection</word>
+	<word weight="0.019308125502815767" count="24">filmed</word>
+	<word weight="0.016894609814963796" count="21">filming</word>
+	<word weight="0.008849557522123894" count="11">relations</word>
+	<word weight="0.008045052292839904" count="10">italian</word>
+	<word weight="0.007240547063555913" count="9">american</word>
+	<word weight="0.007240547063555913" count="9">von</word>
+	<word weight="0.007240547063555913" count="9">national</word>
+	<word weight="0.006436041834271922" count="8">italy</word>
+	<word weight="0.006436041834271922" count="8">affairs</word>
+	<word weight="0.0056315366049879325" count="7">loesch</word>
+	<word weight="0.0056315366049879325" count="7">june</word>
+	<word weight="0.0056315366049879325" count="7">michigan</word>
+	<phrase weight="0.228" count="57">german war</phrase>
+	<phrase weight="0.076" count="19">captured german foreign</phrase>
+	<phrase weight="0.068" count="17">german foreign</phrase>
+	<phrase weight="0.024" count="6">german naval</phrase>
+	<phrase weight="0.016" count="4">german relations</phrase>
+	<phrase weight="0.016" count="4">von loesch</phrase>
+	<phrase weight="0.012" count="3">foreign minister</phrase>
+	<phrase weight="0.012" count="3">professor chabod</phrase>
+	<phrase weight="0.012" count="3">american committee</phrase>
+	<phrase weight="0.012" count="3">exact duplicates</phrase>
+	<phrase weight="0.012" count="3">michigan selection</phrase>
+	<phrase weight="0.012" count="3">london school</phrase>
+	<phrase weight="0.012" count="3">world war</phrase>
+	<phrase weight="0.012" count="3">mitchell library</phrase>
+	<phrase weight="0.012" count="3">california selection</phrase>
+	<phrase weight="0.012" count="3">professor medlicott</phrase>
+	<phrase weight="0.008" count="2">commonwealth national library</phrase>
+	<phrase weight="0.008" count="2">internal situation</phrase>
+	<phrase weight="0.008" count="2">papal states</phrase>
+	<phrase weight="0.008" count="2">japanese governments</phrase>
+  </topic>
+</topics>

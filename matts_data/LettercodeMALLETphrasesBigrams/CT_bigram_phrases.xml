@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.611226178267752" totalTokens="1223" titles="national insurance commissioners, security commissioners, ct, decisions, social, benefit, allowance, family, support, child">
+	<word weight="0.14227309893704007" count="174">commissioners</word>
+	<word weight="0.07358953393295176" count="90">ct</word>
+	<word weight="0.056418642681929684" count="69">decisions</word>
+	<word weight="0.05233033524121014" count="64">security</word>
+	<word weight="0.05233033524121014" count="64">social</word>
+	<word weight="0.041700735895339326" count="51">insurance</word>
+	<word weight="0.04088307440719542" count="50">national</word>
+	<word weight="0.03679476696647588" count="45">benefit</word>
+	<word weight="0.029435813573180702" count="36">allowance</word>
+	<word weight="0.02698282910874898" count="33">family</word>
+	<word weight="0.02125919869174162" count="26">support</word>
+	<word weight="0.017170891251022075" count="21">child</word>
+	<word weight="0.016353229762878167" count="20">scotland</word>
+	<word weight="0.01553556827473426" count="19">income</word>
+	<word weight="0.014717906786590351" count="18">successors</word>
+	<word weight="0.013900245298446443" count="17">appeals</word>
+	<word weight="0.012264922322158627" count="15">prefixes</word>
+	<word weight="0.011447260834014717" count="14">starred</word>
+	<word weight="0.01062959934587081" count="13">industrial</word>
+	<word weight="0.01062959934587081" count="13">wales</word>
+	<phrase weight="0.199203187250996" count="50">national insurance commissioners</phrase>
+	<phrase weight="0.12749003984063745" count="32">security commissioners</phrase>
+	<phrase weight="0.0796812749003984" count="20">social security commissioners</phrase>
+	<phrase weight="0.04780876494023904" count="12">child support commissioners</phrase>
+	<phrase weight="0.0398406374501992" count="10">industrial injuries</phrase>
+	<phrase weight="0.035856573705179286" count="9">sickness benefit</phrase>
+	<phrase weight="0.035856573705179286" count="9">family income supplement</phrase>
+	<phrase weight="0.03187250996015936" count="8">attendance allowance</phrase>
+	<phrase weight="0.027888446215139442" count="7">family credit</phrase>
+	<phrase weight="0.027888446215139442" count="7">unemployment benefit</phrase>
+	<phrase weight="0.027888446215139442" count="7">statutory sick pay</phrase>
+	<phrase weight="0.02390438247011952" count="6">mobility allowance</phrase>
+	<phrase weight="0.02390438247011952" count="6">income support</phrase>
+	<phrase weight="0.02390438247011952" count="6">chief commissioner</phrase>
+	<phrase weight="0.0199203187250996" count="5">incapacity benefit</phrase>
+	<phrase weight="0.0199203187250996" count="5">family allowance</phrase>
+	<phrase weight="0.0199203187250996" count="5">family allowances</phrase>
+	<phrase weight="0.01593625498007968" count="4">child support</phrase>
+	<phrase weight="0.01593625498007968" count="4">retirement pension</phrase>
+	<phrase weight="0.01593625498007968" count="4">disability living allowance</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="19.873590338258246" totalTokens="124" titles="boundary, commission, england, wales, parliamentary, commissions, general, boundaries, government, consultation">
+	<word weight="0.1693548387096774" count="21">boundary</word>
+	<word weight="0.12903225806451613" count="16">commission</word>
+	<word weight="0.0967741935483871" count="12">england</word>
+	<word weight="0.08064516129032258" count="10">wales</word>
+	<word weight="0.04838709677419355" count="6">parliamentary</word>
+	<word weight="0.04032258064516129" count="5">commissions</word>
+	<word weight="0.03225806451612903" count="4">general</word>
+	<word weight="0.024193548387096774" count="3">boundaries</word>
+	<word weight="0.024193548387096774" count="3">government</word>
+	<word weight="0.016129032258064516" count="2">consultation</word>
+	<word weight="0.016129032258064516" count="2">notifications</word>
+	<word weight="0.016129032258064516" count="2">public</word>
+	<word weight="0.016129032258064516" count="2">representations</word>
+	<word weight="0.016129032258064516" count="2">statistics</word>
+	<word weight="0.016129032258064516" count="2">maps</word>
+	<word weight="0.016129032258064516" count="2">minutes</word>
+	<word weight="0.016129032258064516" count="2">commons</word>
+	<word weight="0.016129032258064516" count="2">house</word>
+	<word weight="0.016129032258064516" count="2">representation</word>
+	<word weight="0.016129032258064516" count="2">seats</word>
+  </topic>
+</topics>

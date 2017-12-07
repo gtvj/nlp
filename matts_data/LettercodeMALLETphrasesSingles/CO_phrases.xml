@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.03261036832873" totalTokens="16992" titles="correspondence, colonial, colonies, registers, books, entry, government, gazettes, sessional, miscellanea">
+	<word weight="0.08409839924670433" count="1429">correspondence</word>
+	<word weight="0.08333333333333333" count="1416">colonial</word>
+	<word weight="0.04608050847457627" count="783">colonies</word>
+	<word weight="0.03895951035781544" count="662">registers</word>
+	<word weight="0.03631120527306968" count="617">books</word>
+	<word weight="0.03177966101694915" count="540">entry</word>
+	<word weight="0.025659133709981168" count="436">government</word>
+	<word weight="0.01989171374764595" count="338">gazettes</word>
+	<word weight="0.018361581920903956" count="312">sessional</word>
+	<word weight="0.01824387947269303" count="310">miscellanea</word>
+	<word weight="0.016831450094161957" count="286">acts</word>
+	<word weight="0.014124293785310734" count="240">register</word>
+	<word weight="0.011593691148775894" count="197">out-letters</word>
+	<word weight="0.010887476459510359" count="185">war</word>
+	<word weight="0.009063088512241054" count="154">british</word>
+	<word weight="0.008298022598870056" count="141">local</word>
+	<word weight="0.00800376647834275" count="136">predecessors</word>
+	<word weight="0.007709510357815442" count="131">islands</word>
+	<word weight="0.007356403013182674" count="125">general</word>
+	<word weight="0.006826741996233522" count="116">africa</word>
+  </topic>
+</topics>

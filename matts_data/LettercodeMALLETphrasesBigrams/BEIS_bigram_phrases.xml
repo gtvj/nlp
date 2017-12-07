@@ -1,0 +1,28 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="131.70926543207517" totalTokens="73" titles="beis, strategy, industrial, energy, business, government, uk, hub, consultation, growthshowcase">
+	<word weight="0.1643835616438356" count="12">beis</word>
+	<word weight="0.1095890410958904" count="8">strategy</word>
+	<word weight="0.1095890410958904" count="8">industrial</word>
+	<word weight="0.1095890410958904" count="8">energy</word>
+	<word weight="0.1095890410958904" count="8">business</word>
+	<word weight="0.0547945205479452" count="4">government</word>
+	<word weight="0.0547945205479452" count="4">uk</word>
+	<word weight="0.0273972602739726" count="2">hub</word>
+	<word weight="0.0273972602739726" count="2">consultation</word>
+	<word weight="0.0273972602739726" count="2">growthshowcase</word>
+	<word weight="0.0273972602739726" count="2">level</word>
+	<word weight="0.0273972602739726" count="2">bim</word>
+	<word weight="0.0273972602739726" count="2">modelling</word>
+	<word weight="0.0273972602739726" count="2">building</word>
+	<word weight="0.0273972602739726" count="2">britain</word>
+	<word weight="0.0273972602739726" count="2">built</word>
+	<word weight="0.0273972602739726" count="2">digital</word>
+	<word weight="0.0136986301369863" count="1">division</word>
+	<phrase weight="0.5714285714285714" count="8">industrial strategy</phrase>
+	<phrase weight="0.14285714285714285" count="2">uk government</phrase>
+	<phrase weight="0.14285714285714285" count="2">consultation hub</phrase>
+	<phrase weight="0.07142857142857142" count="1">built britain</phrase>
+	<phrase weight="0.07142857142857142" count="1">digital built britain</phrase>
+  </topic>
+</topics>

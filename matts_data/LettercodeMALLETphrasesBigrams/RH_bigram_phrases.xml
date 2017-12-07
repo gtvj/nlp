@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.169512796624784" totalTokens="3308" titles="uk government, education, schools, children, dfe, families, dcsf, rh, national, learning">
+	<word weight="0.07859733978234583" count="260">education</word>
+	<word weight="0.0761789600967352" count="252">schools</word>
+	<word weight="0.07043530834340991" count="233">children</word>
+	<word weight="0.06831922611850061" count="226">uk</word>
+	<word weight="0.06620314389359129" count="219">dfe</word>
+	<word weight="0.06348246674727932" count="210">families</word>
+	<word weight="0.06287787182587666" count="208">dcsf</word>
+	<word weight="0.06076178960096735" count="201">rh</word>
+	<word weight="0.058645707376058044" count="194">government</word>
+	<word weight="0.009673518742442563" count="32">national</word>
+	<word weight="0.009673518742442563" count="32">school</word>
+	<word weight="0.008162031438935914" count="27">learning</word>
+	<word weight="0.006650544135429262" count="22">www</word>
+	<word weight="0.006045949214026602" count="20">general</word>
+	<word weight="0.005743651753325272" count="19">field</word>
+	<word weight="0.0048367593712212815" count="16">gov</word>
+	<word weight="0.0048367593712212815" count="16">standards</word>
+	<word weight="0.004534461910519952" count="15">teaching</word>
+	<word weight="0.004232164449818622" count="14">advisory</word>
+	<word weight="0.004232164449818622" count="14">research</word>
+	<phrase weight="0.2937062937062937" count="126">uk government</phrase>
+	<phrase weight="0.02097902097902098" count="9">healthy schools</phrase>
+	<phrase weight="0.018648018648018648" count="8">national college</phrase>
+	<phrase weight="0.011655011655011656" count="5">national strategies</phrase>
+	<phrase weight="0.011655011655011656" count="5">education funding</phrase>
+	<phrase weight="0.011655011655011656" count="5">digital design</phrase>
+	<phrase weight="0.009324009324009324" count="4">family court advisory</phrase>
+	<phrase weight="0.009324009324009324" count="4">learning resources</phrase>
+	<phrase weight="0.009324009324009324" count="4">workforce development council</phrase>
+	<phrase weight="0.009324009324009324" count="4">national centre</phrase>
+	<phrase weight="0.009324009324009324" count="4">school visits</phrase>
+	<phrase weight="0.006993006993006993" count="3">standards board</phrase>
+	<phrase weight="0.006993006993006993" count="3">level standards</phrase>
+	<phrase weight="0.006993006993006993" count="3">science learning centres</phrase>
+	<phrase weight="0.006993006993006993" count="3">independent advisory group</phrase>
+	<phrase weight="0.006993006993006993" count="3">raising standards</phrase>
+	<phrase weight="0.006993006993006993" count="3">enterprise village</phrase>
+	<phrase weight="0.006993006993006993" count="3">higher education statistics</phrase>
+	<phrase weight="0.004662004662004662" count="2">national advisory centre</phrase>
+	<phrase weight="0.004662004662004662" count="2">recruitment service</phrase>
+  </topic>
+</topics>

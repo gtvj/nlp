@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.6335422978103067" totalTokens="44" titles="british, telecommunications, reports, corporation, public, accounts, market, kingdom, united, services">
+	<word weight="0.13636363636363635" count="6">british</word>
+	<word weight="0.11363636363636363" count="5">telecommunications</word>
+	<word weight="0.09090909090909091" count="4">reports</word>
+	<word weight="0.06818181818181818" count="3">corporation</word>
+	<word weight="0.06818181818181818" count="3">public</word>
+	<word weight="0.045454545454545456" count="2">telecom</word>
+	<word weight="0.045454545454545456" count="2">accounts</word>
+	<word weight="0.022727272727272728" count="1">market</word>
+	<word weight="0.022727272727272728" count="1">kingdom</word>
+	<word weight="0.022727272727272728" count="1">united</word>
+	<word weight="0.022727272727272728" count="1">services</word>
+	<word weight="0.022727272727272728" count="1">provider</word>
+	<word weight="0.022727272727272728" count="1">position</word>
+	<word weight="0.022727272727272728" count="1">monopoly</word>
+	<word weight="0.022727272727272728" count="1">withdrawal</word>
+	<word weight="0.022727272727272728" count="1">gradual</word>
+	<word weight="0.022727272727272728" count="1">innovations</word>
+	<word weight="0.022727272727272728" count="1">technical</word>
+	<word weight="0.022727272727272728" count="1">illuminating</word>
+	<word weight="0.022727272727272728" count="1">trading</word>
+  </topic>
+</topics>

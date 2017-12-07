@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.57700739751865" totalTokens="252" titles="water, services, reports, annual, regulation, ofwat, publications, authority, general, director">
+	<word weight="0.18253968253968253" count="46">water</word>
+	<word weight="0.14682539682539683" count="37">services</word>
+	<word weight="0.04365079365079365" count="11">reports</word>
+	<word weight="0.031746031746031744" count="8">annual</word>
+	<word weight="0.031746031746031744" count="8">regulation</word>
+	<word weight="0.031746031746031744" count="8">ofwat</word>
+	<word weight="0.01984126984126984" count="5">publications</word>
+	<word weight="0.01984126984126984" count="5">authority</word>
+	<word weight="0.015873015873015872" count="4">general</word>
+	<word weight="0.015873015873015872" count="4">director</word>
+	<word weight="0.015873015873015872" count="4">digital</word>
+	<word weight="0.015873015873015872" count="4">reviews</word>
+	<word weight="0.015873015873015872" count="4">periodic</word>
+	<word weight="0.015873015873015872" count="4">research</word>
+	<word weight="0.015873015873015872" count="4">consultation</word>
+	<word weight="0.015873015873015872" count="4">national</word>
+	<word weight="0.015873015873015872" count="4">service</word>
+	<word weight="0.015873015873015872" count="4">customer</word>
+	<word weight="0.011904761904761904" count="3">supplies</word>
+	<word weight="0.011904761904761904" count="3">procedures</word>
+  </topic>
+</topics>

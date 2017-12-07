@@ -1,0 +1,17 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.5680053017807707" totalTokens="30" titles="contributions, minutes, meetings, board, management, circulars, plans, business, reports, annual">
+	<word weight="0.2" count="6">contributions</word>
+	<word weight="0.1" count="3">minutes</word>
+	<word weight="0.1" count="3">meetings</word>
+	<word weight="0.1" count="3">board</word>
+	<word weight="0.1" count="3">management</word>
+	<word weight="0.06666666666666667" count="2">circulars</word>
+	<word weight="0.06666666666666667" count="2">plans</word>
+	<word weight="0.06666666666666667" count="2">business</word>
+	<word weight="0.06666666666666667" count="2">reports</word>
+	<word weight="0.06666666666666667" count="2">annual</word>
+	<word weight="0.03333333333333333" count="1">insurance</word>
+	<word weight="0.03333333333333333" count="1">national</word>
+  </topic>
+</topics>

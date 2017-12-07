@@ -1,0 +1,42 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0873953911715295" totalTokens="104" titles="company, bay, hudson, vancouver, bh, coal, wool, american, island, river">
+	<word weight="0.1346153846153846" count="14">company</word>
+	<word weight="0.04807692307692308" count="5">bay</word>
+	<word weight="0.04807692307692308" count="5">hudson</word>
+	<word weight="0.028846153846153848" count="3">vancouver</word>
+	<word weight="0.028846153846153848" count="3">bh</word>
+	<word weight="0.019230769230769232" count="2">coal</word>
+	<word weight="0.019230769230769232" count="2">wool</word>
+	<word weight="0.019230769230769232" count="2">american</word>
+	<word weight="0.019230769230769232" count="2">island</word>
+	<word weight="0.019230769230769232" count="2">river</word>
+	<word weight="0.019230769230769232" count="2">red</word>
+	<word weight="0.019230769230769232" count="2">north</word>
+	<word weight="0.009615384615384616" count="1">microfilmed</word>
+	<word weight="0.009615384615384616" count="1">land</word>
+	<word weight="0.009615384615384616" count="1">western</word>
+	<word weight="0.009615384615384616" count="1">atlases</word>
+	<word weight="0.009615384615384616" count="1">specifications</word>
+	<word weight="0.009615384615384616" count="1">drawings</word>
+	<word weight="0.009615384615384616" count="1">architects</word>
+	<word weight="0.009615384615384616" count="1">towns</word>
+	<phrase weight="0.15" count="3">bay company</phrase>
+	<phrase weight="0.1" count="2">wool company</phrase>
+	<phrase weight="0.05" count="1">parliamentary select committees</phrase>
+	<phrase weight="0.05" count="1">bh hudson</phrase>
+	<phrase weight="0.05" count="1">subsidiary companies</phrase>
+	<phrase weight="0.05" count="1">north america</phrase>
+	<phrase weight="0.05" count="1">sound agricultural company</phrase>
+	<phrase weight="0.05" count="1">river tallow company</phrase>
+	<phrase weight="0.05" count="1">british territories</phrase>
+	<phrase weight="0.05" count="1">coal mining company</phrase>
+	<phrase weight="0.05" count="1">island colony</phrase>
+	<phrase weight="0.05" count="1">island steam sawmill company</phrase>
+	<phrase weight="0.05" count="1">american company</phrase>
+	<phrase weight="0.05" count="1">west company</phrase>
+	<phrase weight="0.05" count="1">bay company forts</phrase>
+	<phrase weight="0.05" count="1">financial society</phrase>
+	<phrase weight="0.05" count="1">red river settlement</phrase>
+  </topic>
+</topics>

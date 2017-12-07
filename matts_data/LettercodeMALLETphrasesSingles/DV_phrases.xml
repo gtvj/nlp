@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.565993186136417" totalTokens="268" titles="midwives, board, central, training, reports, midwifery, cmb, correspondence, roll, conduct">
+	<word weight="0.13059701492537312" count="35">midwives</word>
+	<word weight="0.11940298507462686" count="32">board</word>
+	<word weight="0.07835820895522388" count="21">central</word>
+	<word weight="0.041044776119402986" count="11">training</word>
+	<word weight="0.026119402985074626" count="7">reports</word>
+	<word weight="0.026119402985074626" count="7">midwifery</word>
+	<word weight="0.018656716417910446" count="5">cmb</word>
+	<word weight="0.018656716417910446" count="5">correspondence</word>
+	<word weight="0.014925373134328358" count="4">roll</word>
+	<word weight="0.014925373134328358" count="4">conduct</word>
+	<word weight="0.014925373134328358" count="4">registration</word>
+	<word weight="0.014925373134328358" count="4">overseas</word>
+	<word weight="0.011194029850746268" count="3">rules</word>
+	<word weight="0.011194029850746268" count="3">annual</word>
+	<word weight="0.011194029850746268" count="3">general</word>
+	<word weight="0.011194029850746268" count="3">minutes</word>
+	<word weight="0.011194029850746268" count="3">work</word>
+	<word weight="0.011194029850746268" count="3">qualifications</word>
+	<word weight="0.011194029850746268" count="3">reciprocal</word>
+	<word weight="0.011194029850746268" count="3">members</word>
+  </topic>
+</topics>

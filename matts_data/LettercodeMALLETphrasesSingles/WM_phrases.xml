@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="10.66114984687847" totalTokens="197" titles="national, laboratory, measures, weights, rohs, programme, government, energy, measurement, labelling">
+	<word weight="0.07614213197969544" count="15">national</word>
+	<word weight="0.05583756345177665" count="11">laboratory</word>
+	<word weight="0.05583756345177665" count="11">measures</word>
+	<word weight="0.05583756345177665" count="11">weights</word>
+	<word weight="0.04060913705583756" count="8">rohs</word>
+	<word weight="0.03553299492385787" count="7">programme</word>
+	<word weight="0.03553299492385787" count="7">government</word>
+	<word weight="0.025380710659898477" count="5">energy</word>
+	<word weight="0.02030456852791878" count="4">measurement</word>
+	<word weight="0.02030456852791878" count="4">labelling</word>
+	<word weight="0.02030456852791878" count="4">substances</word>
+	<word weight="0.02030456852791878" count="4">hazardous</word>
+	<word weight="0.02030456852791878" count="4">restriction</word>
+	<word weight="0.02030456852791878" count="4">metrology</word>
+	<word weight="0.02030456852791878" count="4">legal</word>
+	<word weight="0.02030456852791878" count="4">board</word>
+	<word weight="0.015228426395939087" count="3">bis</word>
+	<word weight="0.015228426395939087" count="3">business</word>
+	<word weight="0.015228426395939087" count="3">eup</word>
+	<word weight="0.015228426395939087" count="3">monitoring</word>
+  </topic>
+</topics>

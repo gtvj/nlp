@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.319497139129345" totalTokens="3473" titles="high court, admiralty division, prize, books, instance, hca, courts, ships, appeals, registrar">
+	<word weight="0.06766484307515117" count="235">court</word>
+	<word weight="0.06305787503599193" count="219">admiralty</word>
+	<word weight="0.039159228332853444" count="136">high</word>
+	<word weight="0.033400518283904404" count="116">prize</word>
+	<word weight="0.028217679239850274" count="98">books</word>
+	<word weight="0.027353872732507917" count="95">instance</word>
+	<word weight="0.02303484019579614" count="80">hca</word>
+	<word weight="0.02130722718111143" count="74">courts</word>
+	<word weight="0.013820904117477686" count="48">ships</word>
+	<word weight="0.010365678088108263" count="36">appeals</word>
+	<word weight="0.010077742585660812" count="35">registrar</word>
+	<word weight="0.009789807083213361" count="34">proceedings</word>
+	<word weight="0.009213936078318457" count="32">cases</word>
+	<word weight="0.008350129570976101" count="29">marshal</word>
+	<word weight="0.00806219406852865" count="28">division</word>
+	<word weight="0.007774258566081198" count="27">justice</word>
+	<word weight="0.007486323063633746" count="26">prizes</word>
+	<word weight="0.007486323063633746" count="26">warrants</word>
+	<word weight="0.007198387561186294" count="25">divorce</word>
+	<word weight="0.007198387561186294" count="25">probate</word>
+	<phrase weight="0.18272425249169436" count="110">high court</phrase>
+	<phrase weight="0.03820598006644518" count="23">admiralty division</phrase>
+	<phrase weight="0.03322259136212625" count="20">supreme court</phrase>
+	<phrase weight="0.03322259136212625" count="20">prize court</phrase>
+	<phrase weight="0.023255813953488372" count="14">instance court</phrase>
+	<phrase weight="0.02159468438538206" count="13">admiralty registrar</phrase>
+	<phrase weight="0.019933554817275746" count="12">assignation books</phrase>
+	<phrase weight="0.019933554817275746" count="12">prize courts</phrase>
+	<phrase weight="0.018272425249169437" count="11">admiralty courts</phrase>
+	<phrase weight="0.016611295681063124" count="10">wide variety</phrase>
+	<phrase weight="0.014950166112956811" count="9">minute books</phrase>
+	<phrase weight="0.014950166112956811" count="9">admiralty marshal</phrase>
+	<phrase weight="0.013289036544850499" count="8">act books</phrase>
+	<phrase weight="0.013289036544850499" count="8">slave trade adviser</phrase>
+	<phrase weight="0.008305647840531562" count="5">commercial disputes</phrase>
+	<phrase weight="0.008305647840531562" count="5">bench division</phrase>
+	<phrase weight="0.008305647840531562" count="5">slave trade</phrase>
+	<phrase weight="0.008305647840531562" count="5">prize cases</phrase>
+	<phrase weight="0.008305647840531562" count="5">judicial committee</phrase>
+	<phrase weight="0.006644518272425249" count="4">finally decisive</phrase>
+  </topic>
+</topics>

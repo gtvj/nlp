@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.63366647469239" totalTokens="1725" titles="metropolitan police, commissioner, crime, receiver, successors, service, datasets, registers, general, correspondence">
+	<word weight="0.08579710144927537" count="148">police</word>
+	<word weight="0.059710144927536235" count="103">metropolitan</word>
+	<word weight="0.02434782608695652" count="42">commissioner</word>
+	<word weight="0.020869565217391306" count="36">crime</word>
+	<word weight="0.01391304347826087" count="24">receiver</word>
+	<word weight="0.013333333333333334" count="23">successors</word>
+	<word weight="0.011014492753623189" count="19">service</word>
+	<word weight="0.010434782608695653" count="18">datasets</word>
+	<word weight="0.008695652173913044" count="15">registers</word>
+	<word weight="0.008115942028985508" count="14">general</word>
+	<word weight="0.006956521739130435" count="12">data</word>
+	<word weight="0.006956521739130435" count="12">correspondence</word>
+	<word weight="0.006956521739130435" count="12">public</word>
+	<word weight="0.006376811594202898" count="11">offence</word>
+	<word weight="0.006376811594202898" count="11">special</word>
+	<word weight="0.006376811594202898" count="11">uk</word>
+	<word weight="0.005797101449275362" count="10">system</word>
+	<word weight="0.005797101449275362" count="10">buildings</word>
+	<word weight="0.005797101449275362" count="10">relate</word>
+	<word weight="0.005797101449275362" count="10">cases</word>
+	<phrase weight="0.174496644295302" count="52">metropolitan police</phrase>
+	<phrase weight="0.030201342281879196" count="9">metropolitan police service</phrase>
+	<phrase weight="0.010067114093959731" count="3">marital status</phrase>
+	<phrase weight="0.010067114093959731" count="3">general correspondence</phrase>
+	<phrase weight="0.010067114093959731" count="3">police officers</phrase>
+	<phrase weight="0.010067114093959731" count="3">stolen property</phrase>
+	<phrase weight="0.010067114093959731" count="3">civil staff</phrase>
+	<phrase weight="0.010067114093959731" count="3">advisory committee</phrase>
+	<phrase weight="0.010067114093959731" count="3">police work</phrase>
+	<phrase weight="0.006711409395973154" count="2">crime victims</phrase>
+	<phrase weight="0.006711409395973154" count="2">buildings owned</phrase>
+	<phrase weight="0.006711409395973154" count="2">uk government</phrase>
+	<phrase weight="0.006711409395973154" count="2">police service</phrase>
+	<phrase weight="0.006711409395973154" count="2">metropolitan police crime report book</phrase>
+	<phrase weight="0.006711409395973154" count="2">confidential books</phrase>
+	<phrase weight="0.006711409395973154" count="2">police stations</phrase>
+	<phrase weight="0.006711409395973154" count="2">meetings minutes</phrase>
+	<phrase weight="0.006711409395973154" count="2">serial number</phrase>
+	<phrase weight="0.006711409395973154" count="2">metropolitan police area</phrase>
+	<phrase weight="0.006711409395973154" count="2">crime book</phrase>
+  </topic>
+</topics>

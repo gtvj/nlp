@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.253561158408654" totalTokens="466" titles="uk government, learning, skills, council, rc, national, apprenticeships, lsc, framework, learner">
+	<word weight="0.10515021459227468" count="49">skills</word>
+	<word weight="0.10515021459227468" count="49">learning</word>
+	<word weight="0.09656652360515021" count="45">council</word>
+	<word weight="0.08798283261802575" count="41">uk</word>
+	<word weight="0.07939914163090128" count="37">rc</word>
+	<word weight="0.06652360515021459" count="31">government</word>
+	<word weight="0.023605150214592276" count="11">national</word>
+	<word weight="0.017167381974248927" count="8">apprenticeships</word>
+	<word weight="0.015021459227467811" count="7">lsc</word>
+	<word weight="0.012875536480686695" count="6">excellence</word>
+	<word weight="0.012875536480686695" count="6">framework</word>
+	<word weight="0.012875536480686695" count="6">learner</word>
+	<word weight="0.012875536480686695" count="6">advice</word>
+	<word weight="0.01072961373390558" count="5">gov</word>
+	<word weight="0.01072961373390558" count="5">academy</word>
+	<word weight="0.008583690987124463" count="4">http</word>
+	<word weight="0.008583690987124463" count="4">network</word>
+	<word weight="0.008583690987124463" count="4">centres</word>
+	<word weight="0.008583690987124463" count="4">nextstep</word>
+	<word weight="0.008583690987124463" count="4">field</word>
+	<phrase weight="0.3055555555555556" count="22">uk government</phrase>
+	<phrase weight="0.125" count="9">skills council</phrase>
+	<phrase weight="0.041666666666666664" count="3">national skills academy</phrase>
+	<phrase weight="0.027777777777777776" count="2">learner panel</phrase>
+	<phrase weight="0.027777777777777776" count="2">national employer service</phrase>
+	<phrase weight="0.027777777777777776" count="2">skills academy</phrase>
+	<phrase weight="0.027777777777777776" count="2">apprentice ambassadors network</phrase>
+	<phrase weight="0.027777777777777776" count="2">mobile learning</phrase>
+	<phrase weight="0.027777777777777776" count="2">framework reform</phrase>
+	<phrase weight="0.027777777777777776" count="2">national learner satisfaction site</phrase>
+	<phrase weight="0.027777777777777776" count="2">vocational excellence</phrase>
+	<phrase weight="0.013888888888888888" count="1">nextstep extranet</phrase>
+	<phrase weight="0.013888888888888888" count="1">learning network</phrase>
+	<phrase weight="0.013888888888888888" count="1">decision maker tool</phrase>
+	<phrase weight="0.013888888888888888" count="1">nln materials</phrase>
+	<phrase weight="0.013888888888888888" count="1">uk online centres</phrase>
+	<phrase weight="0.013888888888888888" count="1">advice resources</phrase>
+	<phrase weight="0.013888888888888888" count="1">career decision maker tool</phrase>
+	<phrase weight="0.013888888888888888" count="1">scholarship programme</phrase>
+	<phrase weight="0.013888888888888888" count="1">online centres</phrase>
+  </topic>
+</topics>

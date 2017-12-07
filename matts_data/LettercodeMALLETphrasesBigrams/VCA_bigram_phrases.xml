@@ -1,0 +1,32 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.053392976629651" totalTokens="59" titles="certification, vehicle, fuel, vca, data, car, uk, government, field, general">
+	<word weight="0.15254237288135594" count="9">certification</word>
+	<word weight="0.15254237288135594" count="9">vehicle</word>
+	<word weight="0.0847457627118644" count="5">fuel</word>
+	<word weight="0.0847457627118644" count="5">vca</word>
+	<word weight="0.06779661016949153" count="4">data</word>
+	<word weight="0.06779661016949153" count="4">car</word>
+	<word weight="0.06779661016949153" count="4">uk</word>
+	<word weight="0.05084745762711865" count="3">government</word>
+	<word weight="0.03389830508474576" count="2">field</word>
+	<word weight="0.03389830508474576" count="2">general</word>
+	<word weight="0.01694915254237288" count="1">tools</word>
+	<word weight="0.01694915254237288" count="1">division</word>
+	<word weight="0.01694915254237288" count="1">webtag</word>
+	<word weight="0.01694915254237288" count="1">guidance</word>
+	<word weight="0.01694915254237288" count="1">analysis</word>
+	<word weight="0.01694915254237288" count="1">transport</word>
+	<word weight="0.01694915254237288" count="1">database</word>
+	<word weight="0.01694915254237288" count="1">consumption</word>
+	<word weight="0.01694915254237288" count="1">van</word>
+	<word weight="0.01694915254237288" count="1">gov</word>
+	<phrase weight="0.2727272727272727" count="3">vehicle certification</phrase>
+	<phrase weight="0.18181818181818182" count="2">uk government</phrase>
+	<phrase weight="0.18181818181818182" count="2">car fuel data</phrase>
+	<phrase weight="0.09090909090909091" count="1">fuel data tools</phrase>
+	<phrase weight="0.09090909090909091" count="1">analysis guidance</phrase>
+	<phrase weight="0.09090909090909091" count="1">fuel data</phrase>
+	<phrase weight="0.09090909090909091" count="1">fuel consumption database</phrase>
+  </topic>
+</topics>

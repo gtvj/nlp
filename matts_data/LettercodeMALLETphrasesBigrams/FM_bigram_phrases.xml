@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.523540964227172" totalTokens="319" titles="heritage, english, fm, historic, uk, monuments, england, government, buildings, viewfinder">
+	<word weight="0.109717868338558" count="35">heritage</word>
+	<word weight="0.10344827586206896" count="33">english</word>
+	<word weight="0.06583072100313479" count="21">fm</word>
+	<word weight="0.06269592476489028" count="20">historic</word>
+	<word weight="0.05329153605015674" count="17">uk</word>
+	<word weight="0.050156739811912224" count="16">monuments</word>
+	<word weight="0.0438871473354232" count="14">england</word>
+	<word weight="0.04075235109717868" count="13">government</word>
+	<word weight="0.02821316614420063" count="9">buildings</word>
+	<word weight="0.018808777429467086" count="6">viewfinder</word>
+	<word weight="0.018808777429467086" count="6">committee</word>
+	<word weight="0.018808777429467086" count="6">advisory</word>
+	<word weight="0.01567398119122257" count="5">national</word>
+	<word weight="0.01567398119122257" count="5">reports</word>
+	<word weight="0.01567398119122257" count="5">commission</word>
+	<word weight="0.012539184952978056" count="4">org</word>
+	<word weight="0.012539184952978056" count="4">sites</word>
+	<word weight="0.012539184952978056" count="4">thesauri</word>
+	<word weight="0.012539184952978056" count="4">images</word>
+	<word weight="0.012539184952978056" count="4">ancient</word>
+	<phrase weight="0.1724137931034483" count="10">english heritage</phrase>
+	<phrase weight="0.13793103448275862" count="8">uk government</phrase>
+	<phrase weight="0.08620689655172414" count="5">historic england</phrase>
+	<phrase weight="0.06896551724137931" count="4">national monuments</phrase>
+	<phrase weight="0.06896551724137931" count="4">historic buildings</phrase>
+	<phrase weight="0.034482758620689655" count="2">ancient monuments laboratory</phrase>
+	<phrase weight="0.034482758620689655" count="2">historic environment local management</phrase>
+	<phrase weight="0.017241379310344827" count="1">heritage images</phrase>
+	<phrase weight="0.017241379310344827" count="1">heritage gateway</phrase>
+	<phrase weight="0.017241379310344827" count="1">scheduled monuments</phrase>
+	<phrase weight="0.017241379310344827" count="1">monuments laboratory</phrase>
+	<phrase weight="0.017241379310344827" count="1">county lists</phrase>
+	<phrase weight="0.017241379310344827" count="1">heritage providing scientific advice</phrase>
+	<phrase weight="0.017241379310344827" count="1">heritage prints</phrase>
+	<phrase weight="0.017241379310344827" count="1">historic buildings advisory committee minutes</phrase>
+	<phrase weight="0.017241379310344827" count="1">wreck sites</phrase>
+	<phrase weight="0.017241379310344827" count="1">historic wreck sites</phrase>
+	<phrase weight="0.017241379310344827" count="1">future transfer reserved</phrase>
+	<phrase weight="0.017241379310344827" count="1">historic buildings advisory committee</phrase>
+	<phrase weight="0.017241379310344827" count="1">climate change</phrase>
+  </topic>
+</topics>

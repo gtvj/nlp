@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.3593029871605777" totalTokens="59" titles="public, lists, relate, archival, aids, finding, reports, summaries, indexes, obsolete">
+	<word weight="0.0847457627118644" count="5">public</word>
+	<word weight="0.0847457627118644" count="5">lists</word>
+	<word weight="0.06779661016949153" count="4">relate</word>
+	<word weight="0.03389830508474576" count="2">archival</word>
+	<word weight="0.03389830508474576" count="2">aids</word>
+	<word weight="0.03389830508474576" count="2">finding</word>
+	<word weight="0.03389830508474576" count="2">reports</word>
+	<word weight="0.03389830508474576" count="2">summaries</word>
+	<word weight="0.03389830508474576" count="2">indexes</word>
+	<word weight="0.03389830508474576" count="2">obsolete</word>
+	<word weight="0.01694915254237288" count="1">readers</word>
+	<word weight="0.01694915254237288" count="1">interest</word>
+	<word weight="0.01694915254237288" count="1">appears</word>
+	<word weight="0.01694915254237288" count="1">additional</word>
+	<word weight="0.01694915254237288" count="1">revised</word>
+	<word weight="0.01694915254237288" count="1">showing</word>
+	<word weight="0.01694915254237288" count="1">fire</word>
+	<word weight="0.01694915254237288" count="1">accidentally</word>
+	<word weight="0.01694915254237288" count="1">chancellor</word>
+	<word weight="0.01694915254237288" count="1">lord</word>
+  </topic>
+</topics>

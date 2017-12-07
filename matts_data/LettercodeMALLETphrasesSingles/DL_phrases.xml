@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.434627985519506" totalTokens="3151" titles="duchy, lancaster, court, council, chancellor, chamber, lands, warrants, commissions, accounts">
+	<word weight="0.07108854331958109" count="224">duchy</word>
+	<word weight="0.041891463027610286" count="132">lancaster</word>
+	<word weight="0.020628371945414153" count="65">court</word>
+	<word weight="0.015550618851158363" count="49">council</word>
+	<word weight="0.014598540145985401" count="46">chancellor</word>
+	<word weight="0.012377023167248492" count="39">chamber</word>
+	<word weight="0.012059663598857505" count="38">lands</word>
+	<word weight="0.008886067914947636" count="28">warrants</word>
+	<word weight="0.00856870834655665" count="27">commissions</word>
+	<word weight="0.00856870834655665" count="27">accounts</word>
+	<word weight="0.007933989209774674" count="25">letters</word>
+	<word weight="0.006664550936210727" count="21">rolls</word>
+	<word weight="0.006664550936210727" count="21">proceedings</word>
+	<word weight="0.006347191367819739" count="20">books</word>
+	<word weight="0.006347191367819739" count="20">leases</word>
+	<word weight="0.006029831799428753" count="19">draft</word>
+	<word weight="0.006029831799428753" count="19">henry</word>
+	<word weight="0.005395112662646779" count="17">county</word>
+	<word weight="0.005395112662646779" count="17">orders</word>
+	<word weight="0.0050777530942557915" count="16">drafts</word>
+  </topic>
+</topics>

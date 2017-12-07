@@ -1,0 +1,14 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0" totalTokens="69" titles="complaints, police, reports, authority, review, annual, board, public, members, ">
+	<word weight="0.2318840579710145" count="16">complaints</word>
+	<word weight="0.21739130434782608" count="15">police</word>
+	<word weight="0.13043478260869565" count="9">reports</word>
+	<word weight="0.10144927536231885" count="7">authority</word>
+	<word weight="0.08695652173913043" count="6">review</word>
+	<word weight="0.08695652173913043" count="6">annual</word>
+	<word weight="0.07246376811594203" count="5">board</word>
+	<word weight="0.057971014492753624" count="4">public</word>
+	<word weight="0.014492753623188406" count="1">members</word>
+  </topic>
+</topics>

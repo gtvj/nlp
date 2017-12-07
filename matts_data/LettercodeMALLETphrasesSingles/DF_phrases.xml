@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.112834518666504" totalTokens="7805" titles="museum, history, natural, british, correspondence, zoology, section, letters, trustees, mineralogy">
+	<word weight="0.051889814221652786" count="405">museum</word>
+	<word weight="0.038693145419602816" count="302">history</word>
+	<word weight="0.037924407431133886" count="296">natural</word>
+	<word weight="0.037540038436899424" count="293">british</word>
+	<word weight="0.02703395259449071" count="211">correspondence</word>
+	<word weight="0.015631005765534913" count="122">zoology</word>
+	<word weight="0.013709160794362588" count="107">section</word>
+	<word weight="0.012556053811659192" count="98">letters</word>
+	<word weight="0.012043561819346573" count="94">trustees</word>
+	<word weight="0.011787315823190262" count="92">mineralogy</word>
+	<word weight="0.011146700832799488" count="87">staff</word>
+	<word weight="0.010762331838565023" count="84">reports</word>
+	<word weight="0.009352978859705317" count="73">botany</word>
+	<word weight="0.008968609865470852" count="70">library</word>
+	<word weight="0.008968609865470852" count="70">books</word>
+	<word weight="0.008071748878923767" count="63">palaeontology</word>
+	<word weight="0.007687379884689302" count="60">general</word>
+	<word weight="0.007303010890454837" count="57">publications</word>
+	<word weight="0.007174887892376682" count="56">collections</word>
+	<word weight="0.006278026905829596" count="49">keeper</word>
+  </topic>
+</topics>

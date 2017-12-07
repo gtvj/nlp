@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.252031288143265" totalTokens="2936" titles="civil aviation authority, air registration board, national air traffic services, dr, airworthiness, division, group, safety, aircraft, reports">
+	<word weight="0.06198910081743869" count="182">civil</word>
+	<word weight="0.05653950953678474" count="166">aviation</word>
+	<word weight="0.052111716621253405" count="153">air</word>
+	<word weight="0.05108991825613079" count="150">authority</word>
+	<word weight="0.039168937329700275" count="115">dr</word>
+	<word weight="0.030653950953678476" count="90">traffic</word>
+	<word weight="0.027588555858310628" count="81">services</word>
+	<word weight="0.027247956403269755" count="80">airworthiness</word>
+	<word weight="0.02282016348773842" count="67">board</word>
+	<word weight="0.022138964577656677" count="65">national</word>
+	<word weight="0.02111716621253406" count="62">division</word>
+	<word weight="0.020095367847411442" count="59">group</word>
+	<word weight="0.01907356948228883" count="56">safety</word>
+	<word weight="0.016689373297002725" count="49">registration</word>
+	<word weight="0.015667574931880108" count="46">aircraft</word>
+	<word weight="0.013964577656675749" count="41">reports</word>
+	<word weight="0.013623978201634877" count="40">predecessors</word>
+	<word weight="0.013283378746594006" count="39">committee</word>
+	<word weight="0.013283378746594006" count="39">regulatory</word>
+	<word weight="0.011580381471389645" count="34">requirements</word>
+	<phrase weight="0.14917127071823205" count="81">civil aviation authority</phrase>
+	<phrase weight="0.08103130755064457" count="44">aviation authority</phrase>
+	<phrase weight="0.07366482504604052" count="40">air registration board</phrase>
+	<phrase weight="0.0423572744014733" count="23">national air traffic services</phrase>
+	<phrase weight="0.03683241252302026" count="20">airworthiness division</phrase>
+	<phrase weight="0.009208103130755065" count="5">safety regulatory group</phrase>
+	<phrase weight="0.007366482504604052" count="4">registration board</phrase>
+	<phrase weight="0.007366482504604052" count="4">civil aircraft</phrase>
+	<phrase weight="0.007366482504604052" count="4">airspace policy</phrase>
+	<phrase weight="0.007366482504604052" count="4">legal adviser</phrase>
+	<phrase weight="0.007366482504604052" count="4">airworthiness requirements</phrase>
+	<phrase weight="0.0055248618784530384" count="3">air traffic control evaluation unit</phrase>
+	<phrase weight="0.0055248618784530384" count="3">ordinating committee</phrase>
+	<phrase weight="0.0055248618784530384" count="3">united kingdom</phrase>
+	<phrase weight="0.0055248618784530384" count="3">air traffic control</phrase>
+	<phrase weight="0.0055248618784530384" count="3">national air traffic control services</phrase>
+	<phrase weight="0.0055248618784530384" count="3">general air traffic operations</phrase>
+	<phrase weight="0.0055248618784530384" count="3">annual reports</phrase>
+	<phrase weight="0.0055248618784530384" count="3">air traffic services</phrase>
+	<phrase weight="0.0055248618784530384" count="3">support unit</phrase>
+  </topic>
+</topics>

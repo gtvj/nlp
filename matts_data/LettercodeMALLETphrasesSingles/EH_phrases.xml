@@ -1,0 +1,20 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.5902948903837149" totalTokens="30" titles="board, pay, policy, general, case, policies, counter-inflation, prices, incomes, speeches">
+	<word weight="0.23333333333333334" count="7">board</word>
+	<word weight="0.2" count="6">pay</word>
+	<word weight="0.1" count="3">policy</word>
+	<word weight="0.06666666666666667" count="2">general</word>
+	<word weight="0.06666666666666667" count="2">case</word>
+	<word weight="0.03333333333333333" count="1">policies</word>
+	<word weight="0.03333333333333333" count="1">counter-inflation</word>
+	<word weight="0.03333333333333333" count="1">prices</word>
+	<word weight="0.03333333333333333" count="1">incomes</word>
+	<word weight="0.03333333333333333" count="1">speeches</word>
+	<word weight="0.03333333333333333" count="1">texts</word>
+	<word weight="0.03333333333333333" count="1">reports</word>
+	<word weight="0.03333333333333333" count="1">statistics</word>
+	<word weight="0.03333333333333333" count="1">correspondence</word>
+	<word weight="0.03333333333333333" count="1">precedent</word>
+  </topic>
+</topics>

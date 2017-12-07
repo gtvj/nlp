@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="2.5103242838162503" totalTokens="32" titles="inquiry, redfern, uk, government, facilities, nuclear, analysis, tissue, human, division">
+	<word weight="0.1875" count="6">inquiry</word>
+	<word weight="0.15625" count="5">redfern</word>
+	<word weight="0.09375" count="3">uk</word>
+	<word weight="0.0625" count="2">government</word>
+	<word weight="0.0625" count="2">facilities</word>
+	<word weight="0.0625" count="2">nuclear</word>
+	<word weight="0.0625" count="2">analysis</word>
+	<word weight="0.0625" count="2">tissue</word>
+	<word weight="0.0625" count="2">human</word>
+	<word weight="0.03125" count="1">division</word>
+	<word weight="0.03125" count="1">qc</word>
+	<word weight="0.03125" count="1">michael</word>
+	<word weight="0.03125" count="1">conducted</word>
+	<word weight="0.03125" count="1">april</word>
+	<word weight="0.03125" count="1">announced</word>
+	<phrase weight="0.2857142857142857" count="2">human tissue analysis</phrase>
+	<phrase weight="0.2857142857142857" count="2">nuclear facilities</phrase>
+	<phrase weight="0.14285714285714285" count="1">uk government</phrase>
+	<phrase weight="0.14285714285714285" count="1">redfern inquiry</phrase>
+	<phrase weight="0.14285714285714285" count="1">michael redfern qc</phrase>
+  </topic>
+</topics>

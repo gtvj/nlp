@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="11.969890882019" totalTokens="197" titles="service, court, le, successors, uk, courts, government, hm, statistics, data">
+	<word weight="0.08629441624365482" count="17">service</word>
+	<word weight="0.07106598984771574" count="14">court</word>
+	<word weight="0.050761421319796954" count="10">le</word>
+	<word weight="0.04568527918781726" count="9">successors</word>
+	<word weight="0.04568527918781726" count="9">uk</word>
+	<word weight="0.04060913705583756" count="8">courts</word>
+	<word weight="0.03553299492385787" count="7">government</word>
+	<word weight="0.030456852791878174" count="6">hm</word>
+	<word weight="0.025380710659898477" count="5">statistics</word>
+	<word weight="0.02030456852791878" count="4">data</word>
+	<word weight="0.02030456852791878" count="4">datasets</word>
+	<word weight="0.02030456852791878" count="4">judicial</word>
+	<word weight="0.015228426395939087" count="3">general</word>
+	<word weight="0.015228426395939087" count="3">crown</word>
+	<word weight="0.015228426395939087" count="3">division</word>
+	<word weight="0.01015228426395939" count="2">gov</word>
+	<word weight="0.01015228426395939" count="2">www</word>
+	<word weight="0.01015228426395939" count="2">tribunals</word>
+	<word weight="0.01015228426395939" count="2">majesty</word>
+	<word weight="0.01015228426395939" count="2">committee</word>
+	<phrase weight="0.22727272727272727" count="10">court service</phrase>
+	<phrase weight="0.06818181818181818" count="3">hm courts service</phrase>
+	<phrase weight="0.045454545454545456" count="2">lord chancellor</phrase>
+	<phrase weight="0.045454545454545456" count="2">tribunals service</phrase>
+	<phrase weight="0.022727272727272728" count="1">judge advocate general</phrase>
+	<phrase weight="0.022727272727272728" count="1">crown court rule committee</phrase>
+	<phrase weight="0.022727272727272728" count="1">courts service</phrase>
+	<phrase weight="0.022727272727272728" count="1">time scale</phrase>
+	<phrase weight="0.022727272727272728" count="1">possession claims online</phrase>
+	<phrase weight="0.022727272727272728" count="1">judicial statistics</phrase>
+	<phrase weight="0.022727272727272728" count="1">family mediation helpline</phrase>
+	<phrase weight="0.022727272727272728" count="1">advocate general</phrase>
+	<phrase weight="0.022727272727272728" count="1">make updates</phrase>
+	<phrase weight="0.022727272727272728" count="1">data input</phrase>
+	<phrase weight="0.022727272727272728" count="1">individual datasets</phrase>
+	<phrase weight="0.022727272727272728" count="1">wales dating</phrase>
+	<phrase weight="0.022727272727272728" count="1">mediation helpline</phrase>
+	<phrase weight="0.022727272727272728" count="1">judicial statistics database</phrase>
+	<phrase weight="0.022727272727272728" count="1">subsequent annual accessions</phrase>
+	<phrase weight="0.022727272727272728" count="1">court boards</phrase>
+  </topic>
+</topics>

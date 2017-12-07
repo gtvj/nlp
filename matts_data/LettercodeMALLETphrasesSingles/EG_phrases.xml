@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.923573092893354" totalTokens="1137" titles="energy, division, policy, atomic, industry, oil, nationalised, industries, inquiry, nuclear">
+	<word weight="0.08795074758135445" count="100">energy</word>
+	<word weight="0.04221635883905013" count="48">division</word>
+	<word weight="0.025505716798592787" count="29">policy</word>
+	<word weight="0.022867194371152155" count="26">atomic</word>
+	<word weight="0.01759014951627089" count="20">industry</word>
+	<word weight="0.014072119613016711" count="16">oil</word>
+	<word weight="0.011433597185576077" count="13">nationalised</word>
+	<word weight="0.010554089709762533" count="12">industries</word>
+	<word weight="0.010554089709762533" count="12">inquiry</word>
+	<word weight="0.010554089709762533" count="12">nuclear</word>
+	<word weight="0.009674582233948988" count="11">international</word>
+	<word weight="0.009674582233948988" count="11">public</word>
+	<word weight="0.008795074758135445" count="10">power</word>
+	<word weight="0.008795074758135445" count="10">development</word>
+	<word weight="0.008795074758135445" count="10">technology</word>
+	<word weight="0.0079155672823219" count="9">relate</word>
+	<word weight="0.0079155672823219" count="9">predecessors</word>
+	<word weight="0.007036059806508356" count="8">successors</word>
+	<word weight="0.007036059806508356" count="8">gas</word>
+	<word weight="0.007036059806508356" count="8">research</word>
+  </topic>
+</topics>

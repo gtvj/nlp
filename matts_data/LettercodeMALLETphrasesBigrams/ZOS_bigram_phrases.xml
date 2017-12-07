@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.624689920456923" totalTokens="1030" titles="ordnance survey, maps, inch, wales, england, library, grid, national, sheet, scotland">
+	<word weight="0.0854368932038835" count="88">maps</word>
+	<word weight="0.04757281553398058" count="49">survey</word>
+	<word weight="0.039805825242718446" count="41">inch</word>
+	<word weight="0.03495145631067961" count="36">ordnance</word>
+	<word weight="0.020388349514563107" count="21">library</word>
+	<word weight="0.020388349514563107" count="21">wales</word>
+	<word weight="0.020388349514563107" count="21">england</word>
+	<word weight="0.019417475728155338" count="20">grid</word>
+	<word weight="0.01650485436893204" count="17">national</word>
+	<word weight="0.014563106796116505" count="15">sheet</word>
+	<word weight="0.013592233009708738" count="14">map</word>
+	<word weight="0.01262135922330097" count="13">scotland</word>
+	<word weight="0.010679611650485437" count="11">ireland</word>
+	<word weight="0.010679611650485437" count="11">britain</word>
+	<word weight="0.010679611650485437" count="11">great</word>
+	<word weight="0.009708737864077669" count="10">boundaries</word>
+	<word weight="0.009708737864077669" count="10">showing</word>
+	<word weight="0.009708737864077669" count="10">administrative</word>
+	<word weight="0.009708737864077669" count="10">edition</word>
+	<word weight="0.008737864077669903" count="9">parishes</word>
+	<phrase weight="0.14356435643564355" count="29">ordnance survey</phrase>
+	<phrase weight="0.09405940594059406" count="19">inch maps</phrase>
+	<phrase weight="0.034653465346534656" count="7">national grid</phrase>
+	<phrase weight="0.01485148514851485" count="3">provisional edition</phrase>
+	<phrase weight="0.01485148514851485" count="3">survey maps</phrase>
+	<phrase weight="0.01485148514851485" count="3">military grids</phrase>
+	<phrase weight="0.009900990099009901" count="2">kilometre intervals</phrase>
+	<phrase weight="0.009900990099009901" count="2">great britain</phrase>
+	<phrase weight="0.009900990099009901" count="2">wales south</phrase>
+	<phrase weight="0.009900990099009901" count="2">kilometre square</phrase>
+	<phrase weight="0.009900990099009901" count="2">ordnance survey maps</phrase>
+	<phrase weight="0.009900990099009901" count="2">base map</phrase>
+	<phrase weight="0.009900990099009901" count="2">ten miles</phrase>
+	<phrase weight="0.009900990099009901" count="2">pro library</phrase>
+	<phrase weight="0.009900990099009901" count="2">showing civil parishes</phrase>
+	<phrase weight="0.009900990099009901" count="2">local government</phrase>
+	<phrase weight="0.009900990099009901" count="2">administrative area diagrams</phrase>
+	<phrase weight="0.0049504950495049506" count="1">trinity college dublin</phrase>
+	<phrase weight="0.0049504950495049506" count="1">land maps</phrase>
+	<phrase weight="0.0049504950495049506" count="1">showing petty sessional boundaries</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.076773259731949" totalTokens="10096" titles="admiralty, royal, navy, naval, board, reports, books, service, ships, officers">
+	<word weight="0.05160459587955626" count="521">admiralty</word>
+	<word weight="0.026545166402535656" count="268">royal</word>
+	<word weight="0.026049920760697304" count="263">navy</word>
+	<word weight="0.022781299524564185" count="230">naval</word>
+	<word weight="0.020106973058637085" count="203">board</word>
+	<word weight="0.017234548335974643" count="174">reports</word>
+	<word weight="0.01624405705229794" count="164">books</word>
+	<word weight="0.014064976228209191" count="142">service</word>
+	<word weight="0.012282091917591125" count="124">ships</word>
+	<word weight="0.011687797147385102" count="118">officers</word>
+	<word weight="0.01099445324881141" count="111">registers</word>
+	<word weight="0.009706814580031696" count="98">pay</word>
+	<word weight="0.009013470681458004" count="91">greenwich</word>
+	<word weight="0.008914421553090333" count="90">correspondence</word>
+	<word weight="0.008815372424722662" count="89">research</word>
+	<word weight="0.00822107765451664" count="83">hospital</word>
+	<word weight="0.007824881141045958" count="79">war</word>
+	<word weight="0.006438193343898574" count="65">marines</word>
+	<word weight="0.006339144215530904" count="64">letters</word>
+	<word weight="0.005942947702060222" count="60">minutes</word>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.03794587954669" totalTokens="252" titles="land, registry, data, government, books, index, price, practice, house, division">
+	<word weight="0.19444444444444445" count="49">land</word>
+	<word weight="0.19047619047619047" count="48">registry</word>
+	<word weight="0.047619047619047616" count="12">data</word>
+	<word weight="0.04365079365079365" count="11">government</word>
+	<word weight="0.03571428571428571" count="9">books</word>
+	<word weight="0.03571428571428571" count="9">index</word>
+	<word weight="0.031746031746031744" count="8">price</word>
+	<word weight="0.027777777777777776" count="7">practice</word>
+	<word weight="0.023809523809523808" count="6">house</word>
+	<word weight="0.01984126984126984" count="5">division</word>
+	<word weight="0.015873015873015872" count="4">plans</word>
+	<word weight="0.015873015873015872" count="4">map</word>
+	<word weight="0.015873015873015872" count="4">linked</word>
+	<word weight="0.011904761904761904" count="3">legal</word>
+	<word weight="0.011904761904761904" count="3">reports</word>
+	<word weight="0.011904761904761904" count="3">chief</word>
+	<word weight="0.011904761904761904" count="3">registration</word>
+	<word weight="0.007936507936507936" count="2">blog</word>
+	<word weight="0.007936507936507936" count="2">public</word>
+	<word weight="0.007936507936507936" count="2">paid</word>
+  </topic>
+</topics>

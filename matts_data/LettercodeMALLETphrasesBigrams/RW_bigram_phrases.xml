@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.101611614791934" totalTokens="696" titles="national, rw, uk, government, fo, war, forgeries, management, preservation, nationalarchives">
+	<word weight="0.13218390804597702" count="92">national</word>
+	<word weight="0.05172413793103448" count="36">rw</word>
+	<word weight="0.04597701149425287" count="32">uk</word>
+	<word weight="0.04310344827586207" count="30">government</word>
+	<word weight="0.01293103448275862" count="9">fo</word>
+	<word weight="0.01293103448275862" count="9">war</word>
+	<word weight="0.011494252873563218" count="8">forgeries</word>
+	<word weight="0.010057471264367816" count="7">management</word>
+	<word weight="0.010057471264367816" count="7">preservation</word>
+	<word weight="0.008620689655172414" count="6">gov</word>
+	<word weight="0.008620689655172414" count="6">nationalarchives</word>
+	<word weight="0.008620689655172414" count="6">http</word>
+	<word weight="0.008620689655172414" count="6">council</word>
+	<word weight="0.008620689655172414" count="6">private</word>
+	<word weight="0.008620689655172414" count="6">digital</word>
+	<word weight="0.007183908045977011" count="5">ufos</word>
+	<word weight="0.007183908045977011" count="5">gifted</word>
+	<word weight="0.007183908045977011" count="5">rolls</word>
+	<word weight="0.007183908045977011" count="5">internal</word>
+	<word weight="0.007183908045977011" count="5">public</word>
+	<phrase weight="0.15126050420168066" count="18">uk government</phrase>
+	<phrase weight="0.03361344537815126" count="4">advisory council</phrase>
+	<phrase weight="0.025210084033613446" count="3">management system</phrase>
+	<phrase weight="0.01680672268907563" count="2">war crimes</phrase>
+	<phrase weight="0.01680672268907563" count="2">media player</phrase>
+	<phrase weight="0.01680672268907563" count="2">world war</phrase>
+	<phrase weight="0.01680672268907563" count="2">working group</phrase>
+	<phrase weight="0.01680672268907563" count="2">management board</phrase>
+	<phrase weight="0.01680672268907563" count="2">digital preservation</phrase>
+	<phrase weight="0.01680672268907563" count="2">designs preview</phrase>
+	<phrase weight="0.01680672268907563" count="2">research guides</phrase>
+	<phrase weight="0.01680672268907563" count="2">national council</phrase>
+	<phrase weight="0.01680672268907563" count="2">richard perryn</phrase>
+	<phrase weight="0.01680672268907563" count="2">john da cunha</phrase>
+	<phrase weight="0.01680672268907563" count="2">black presence</phrase>
+	<phrase weight="0.01680672268907563" count="2">publication scheme</phrase>
+	<phrase weight="0.01680672268907563" count="2">home front stories</phrase>
+	<phrase weight="0.01680672268907563" count="2">lady margaret sackville</phrase>
+	<phrase weight="0.01680672268907563" count="2">ramsay macdonald</phrase>
+	<phrase weight="0.01680672268907563" count="2">civil war</phrase>
+  </topic>
+</topics>

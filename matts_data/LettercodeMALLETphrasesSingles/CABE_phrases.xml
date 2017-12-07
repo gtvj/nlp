@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.046764606584736" totalTokens="668" titles="cabe, design, environment, built, architecture, commission, space, research, development, planning">
+	<word weight="0.06287425149700598" count="42">cabe</word>
+	<word weight="0.041916167664670656" count="28">design</word>
+	<word weight="0.038922155688622756" count="26">environment</word>
+	<word weight="0.038922155688622756" count="26">built</word>
+	<word weight="0.029940119760479042" count="20">architecture</word>
+	<word weight="0.029940119760479042" count="20">commission</word>
+	<word weight="0.025449101796407185" count="17">space</word>
+	<word weight="0.023952095808383235" count="16">research</word>
+	<word weight="0.019461077844311378" count="13">development</word>
+	<word weight="0.017964071856287425" count="12">planning</word>
+	<word weight="0.016467065868263474" count="11">skills</word>
+	<word weight="0.016467065868263474" count="11">work</word>
+	<word weight="0.014970059880239521" count="10">projects</word>
+	<word weight="0.014970059880239521" count="10">programme</word>
+	<word weight="0.014970059880239521" count="10">public</word>
+	<word weight="0.011976047904191617" count="8">building</word>
+	<word weight="0.011976047904191617" count="8">management</word>
+	<word weight="0.010479041916167664" count="7">cabe's</word>
+	<word weight="0.010479041916167664" count="7">programmes</word>
+	<word weight="0.008982035928143712" count="6">evaluation</word>
+  </topic>
+</topics>

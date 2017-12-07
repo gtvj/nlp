@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.63681428544688" totalTokens="1013" titles="maps, survey, ordnance, library, wales, england, grid, one-inch, national, sheet">
+	<word weight="0.08687068114511352" count="88">maps</word>
+	<word weight="0.04837117472852912" count="49">survey</word>
+	<word weight="0.035538005923000986" count="36">ordnance</word>
+	<word weight="0.02073050345508391" count="21">library</word>
+	<word weight="0.02073050345508391" count="21">wales</word>
+	<word weight="0.02073050345508391" count="21">england</word>
+	<word weight="0.019743336623889437" count="20">grid</word>
+	<word weight="0.019743336623889437" count="20">one-inch</word>
+	<word weight="0.01678183613030602" count="17">national</word>
+	<word weight="0.014807502467917079" count="15">sheet</word>
+	<word weight="0.013820335636722606" count="14">map</word>
+	<word weight="0.012833168805528134" count="13">scotland</word>
+	<word weight="0.011846001974333662" count="12">six-inch</word>
+	<word weight="0.01085883514313919" count="11">ireland</word>
+	<word weight="0.01085883514313919" count="11">britain</word>
+	<word weight="0.01085883514313919" count="11">great</word>
+	<word weight="0.009871668311944718" count="10">boundaries</word>
+	<word weight="0.009871668311944718" count="10">showing</word>
+	<word weight="0.009871668311944718" count="10">administrative</word>
+	<word weight="0.009871668311944718" count="10">edition</word>
+  </topic>
+</topics>

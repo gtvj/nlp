@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.700664254524118" totalTokens="320" titles="council, arts, music, encouragement, britain, directorate, great, museum, albert, victoria">
+	<word weight="0.14375" count="46">council</word>
+	<word weight="0.115625" count="37">arts</word>
+	<word weight="0.1" count="32">music</word>
+	<word weight="0.0875" count="28">encouragement</word>
+	<word weight="0.05" count="16">britain</word>
+	<word weight="0.05" count="16">directorate</word>
+	<word weight="0.04375" count="14">great</word>
+	<word weight="0.025" count="8">museum</word>
+	<word weight="0.025" count="8">albert</word>
+	<word weight="0.025" count="8">victoria</word>
+	<word weight="0.025" count="8">incorporated</word>
+	<word weight="0.025" count="8">designated</word>
+	<word weight="0.025" count="8">arts's</word>
+	<word weight="0.021875" count="7">correspondence</word>
+	<word weight="0.015625" count="5">minutes</word>
+	<word weight="0.015625" count="5">regional</word>
+	<word weight="0.0125" count="4">committee</word>
+	<word weight="0.0125" count="4">festival</word>
+	<word weight="0.009375" count="3">scottish</word>
+	<word weight="0.009375" count="3">cema</word>
+  </topic>
+</topics>

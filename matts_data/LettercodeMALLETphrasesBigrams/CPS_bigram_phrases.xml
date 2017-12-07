@@ -1,0 +1,26 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="271.4275701459499" totalTokens="83" titles="service, prosecution, crown, cps, hmcpsi, uk, inspectorate, government, www, http">
+	<word weight="0.1566265060240964" count="13">service</word>
+	<word weight="0.1566265060240964" count="13">prosecution</word>
+	<word weight="0.1566265060240964" count="13">crown</word>
+	<word weight="0.12048192771084337" count="10">cps</word>
+	<word weight="0.07228915662650602" count="6">hmcpsi</word>
+	<word weight="0.060240963855421686" count="5">uk</word>
+	<word weight="0.04819277108433735" count="4">inspectorate</word>
+	<word weight="0.04819277108433735" count="4">hm</word>
+	<word weight="0.03614457831325301" count="3">government</word>
+	<word weight="0.024096385542168676" count="2">gov</word>
+	<word weight="0.024096385542168676" count="2">www</word>
+	<word weight="0.024096385542168676" count="2">http</word>
+	<word weight="0.024096385542168676" count="2">blog</word>
+	<word weight="0.012048192771084338" count="1">division</word>
+	<word weight="0.012048192771084338" count="1">justiceinspectorates</word>
+	<word weight="0.012048192771084338" count="1">field</word>
+	<word weight="0.012048192771084338" count="1">general</word>
+	<phrase weight="0.4" count="6">crown prosecution service</phrase>
+	<phrase weight="0.26666666666666666" count="4">hm crown prosecution service inspectorate</phrase>
+	<phrase weight="0.2" count="3">prosecution service</phrase>
+	<phrase weight="0.13333333333333333" count="2">uk government</phrase>
+  </topic>
+</topics>

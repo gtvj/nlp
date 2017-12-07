@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="20.490972734554894" totalTokens="104" titles="electricity, gas, ofgem, markets, government, act, reports, annual, renewables, chp">
+	<word weight="0.1346153846153846" count="14">electricity</word>
+	<word weight="0.1346153846153846" count="14">gas</word>
+	<word weight="0.125" count="13">ofgem</word>
+	<word weight="0.11538461538461539" count="12">markets</word>
+	<word weight="0.057692307692307696" count="6">government</word>
+	<word weight="0.028846153846153848" count="3">act</word>
+	<word weight="0.028846153846153848" count="3">reports</word>
+	<word weight="0.028846153846153848" count="3">annual</word>
+	<word weight="0.028846153846153848" count="3">renewables</word>
+	<word weight="0.019230769230769232" count="2">chp</word>
+	<word weight="0.019230769230769232" count="2">relation</word>
+	<word weight="0.019230769230769232" count="2">report</word>
+	<word weight="0.019230769230769232" count="2">register</word>
+	<word weight="0.019230769230769232" count="2">public</word>
+	<word weight="0.019230769230769232" count="2">electronic</word>
+	<word weight="0.019230769230769232" count="2">shopping</word>
+	<word weight="0.019230769230769232" count="2">energy</word>
+	<word weight="0.019230769230769232" count="2">accounts</word>
+	<word weight="0.019230769230769232" count="2">incentive</word>
+	<word weight="0.019230769230769232" count="2">heat</word>
+  </topic>
+</topics>

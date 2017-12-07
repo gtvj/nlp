@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.328509770568134" totalTokens="2819" titles="division, power, coal, fuel, electricity, gas, mines, successors, board, predecessors">
+	<word weight="0.04292302234835048" count="121">division</word>
+	<word weight="0.04114934373891451" count="116">power</word>
+	<word weight="0.03263568641362185" count="92">coal</word>
+	<word weight="0.024122029088329194" count="68">fuel</word>
+	<word weight="0.02199361475700603" count="62">electricity</word>
+	<word weight="0.021284143313231644" count="60">gas</word>
+	<word weight="0.018091521816246896" count="51">mines</word>
+	<word weight="0.01489890031926215" count="42">successors</word>
+	<word weight="0.01489890031926215" count="42">board</word>
+	<word weight="0.014544164597374955" count="41">predecessors</word>
+	<word weight="0.012770485987938986" count="36">petroleum</word>
+	<word weight="0.012061014544164597" count="34">oil</word>
+	<word weight="0.011706278822277403" count="33">statistics</word>
+	<word weight="0.010287335934728628" count="29">trade</word>
+	<word weight="0.010287335934728628" count="29">divisions</word>
+	<word weight="0.009932600212841433" count="28">industry</word>
+	<word weight="0.00886839304717985" count="25">committee</word>
+	<word weight="0.007804185881518269" count="22">planning</word>
+	<word weight="0.007804185881518269" count="22">general</word>
+	<word weight="0.007449450159631075" count="21">commission</word>
+  </topic>
+</topics>

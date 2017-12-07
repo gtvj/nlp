@@ -1,0 +1,30 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.6384574517239479" totalTokens="43" titles="maps, commission, forestry, plans, act, public, size, measure, preservation, primarily">
+	<word weight="0.13953488372093023" count="6">maps</word>
+	<word weight="0.06976744186046512" count="3">commission</word>
+	<word weight="0.06976744186046512" count="3">forestry</word>
+	<word weight="0.06976744186046512" count="3">plans</word>
+	<word weight="0.046511627906976744" count="2">act</word>
+	<word weight="0.046511627906976744" count="2">forest</word>
+	<word weight="0.046511627906976744" count="2">public</word>
+	<word weight="0.023255813953488372" count="1">size</word>
+	<word weight="0.023255813953488372" count="1">measure</word>
+	<word weight="0.023255813953488372" count="1">preservation</word>
+	<word weight="0.023255813953488372" count="1">primarily</word>
+	<word weight="0.023255813953488372" count="1">transfer</word>
+	<word weight="0.023255813953488372" count="1">drawings</word>
+	<word weight="0.023255813953488372" count="1">cater</word>
+	<word weight="0.023255813953488372" count="1">century</word>
+	<word weight="0.023255813953488372" count="1">twentieth</word>
+	<word weight="0.023255813953488372" count="1">accumulations</word>
+	<word weight="0.023255813953488372" count="1">artificial</word>
+	<word weight="0.023255813953488372" count="1">parent</word>
+	<word weight="0.023255813953488372" count="1">remain</word>
+	<phrase weight="0.42857142857142855" count="3">forestry commission</phrase>
+	<phrase weight="0.14285714285714285" count="1">base maps</phrase>
+	<phrase weight="0.14285714285714285" count="1">preservation measure</phrase>
+	<phrase weight="0.14285714285714285" count="1">twentieth century</phrase>
+	<phrase weight="0.14285714285714285" count="1">forest act</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,29 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.8571513952424774" totalTokens="40" titles="maps, council, privy, plans, drawings, public, extra, standardised, modernised, contemporary">
+	<word weight="0.125" count="5">maps</word>
+	<word weight="0.075" count="3">council</word>
+	<word weight="0.075" count="3">privy</word>
+	<word weight="0.075" count="3">plans</word>
+	<word weight="0.05" count="2">drawings</word>
+	<word weight="0.05" count="2">public</word>
+	<word weight="0.05" count="2">extra</word>
+	<word weight="0.025" count="1">standardised</word>
+	<word weight="0.025" count="1">modernised</word>
+	<word weight="0.025" count="1">contemporary</word>
+	<word weight="0.025" count="1">names</word>
+	<word weight="0.025" count="1">depicted</word>
+	<word weight="0.025" count="1">places</word>
+	<word weight="0.025" count="1">matter</word>
+	<word weight="0.025" count="1">subject</word>
+	<word weight="0.025" count="1">common</word>
+	<word weight="0.025" count="1">pc</word>
+	<word weight="0.025" count="1">size</word>
+	<word weight="0.025" count="1">measure</word>
+	<word weight="0.025" count="1">preservation</word>
+	<phrase weight="0.5" count="3">privy council</phrase>
+	<phrase weight="0.16666666666666666" count="1">common subject matter</phrase>
+	<phrase weight="0.16666666666666666" count="1">preservation measure</phrase>
+	<phrase weight="0.16666666666666666" count="1">twentieth century</phrase>
+  </topic>
+</topics>

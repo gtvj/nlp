@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.741952770682929" totalTokens="2036" titles="court, durham, chancery, palatinate, pleas, common, equity, assizes, books, courts">
+	<word weight="0.043713163064833006" count="89">court</word>
+	<word weight="0.0412573673870334" count="84">durham</word>
+	<word weight="0.029469548133595286" count="60">chancery</word>
+	<word weight="0.018172888015717092" count="37">palatinate</word>
+	<word weight="0.016208251473477406" count="33">pleas</word>
+	<word weight="0.016208251473477406" count="33">common</word>
+	<word weight="0.010805500982318271" count="22">equity</word>
+	<word weight="0.009823182711198428" count="20">assizes</word>
+	<word weight="0.008840864440078585" count="18">books</word>
+	<word weight="0.008840864440078585" count="18">courts</word>
+	<word weight="0.008840864440078585" count="18">depositions</word>
+	<word weight="0.008349705304518664" count="17">cursitor</word>
+	<word weight="0.007858546168958742" count="16">law</word>
+	<word weight="0.007858546168958742" count="16">cases</word>
+	<word weight="0.0073673870333988214" count="15">chancellor</word>
+	<word weight="0.0073673870333988214" count="15">century</word>
+	<word weight="0.0068762278978389" count="14">commissioners</word>
+	<word weight="0.0068762278978389" count="14">rolls</word>
+	<word weight="0.0068762278978389" count="14">proceedings</word>
+	<word weight="0.005893909626719057" count="12">affidavits</word>
+  </topic>
+</topics>

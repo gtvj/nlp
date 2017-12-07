@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.13017276788306" totalTokens="5858" titles="british, railways, board, transport, commission, region, reports, minutes, services, successors">
+	<word weight="0.11198361215431887" count="656">british</word>
+	<word weight="0.08415841584158416" count="493">railways</word>
+	<word weight="0.040628200751109594" count="238">board</word>
+	<word weight="0.02406964834414476" count="141">transport</word>
+	<word weight="0.01809491293956982" count="106">commission</word>
+	<word weight="0.017753499487879822" count="104">region</word>
+	<word weight="0.014339364970979856" count="84">reports</word>
+	<word weight="0.013827244793444863" count="81">minutes</word>
+	<word weight="0.012803004438374873" count="75">railway</word>
+	<word weight="0.011608057357459884" count="68">services</word>
+	<word weight="0.00904745646978491" count="53">successors</word>
+	<word weight="0.008535336292249915" count="50">rail</word>
+	<word weight="0.008364629566404916" count="49">regions</word>
+	<word weight="0.00802321611471492" count="47">research</word>
+	<word weight="0.007852509388869921" count="46">london</word>
+	<word weight="0.007852509388869921" count="46">road</word>
+	<word weight="0.007681802663024923" count="45">executive</word>
+	<word weight="0.006316148856264937" count="37">eastern</word>
+	<word weight="0.006316148856264937" count="37">western</word>
+	<word weight="0.0059747354045749405" count="35">meetings</word>
+  </topic>
+</topics>

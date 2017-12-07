@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.327394940912037" totalTokens="657" titles="food, uk, standards, km, committee, government, advisory, meat, hygiene, service">
+	<word weight="0.1232876712328767" count="81">food</word>
+	<word weight="0.0578386605783866" count="38">uk</word>
+	<word weight="0.0578386605783866" count="38">standards</word>
+	<word weight="0.0517503805175038" count="34">km</word>
+	<word weight="0.0380517503805175" count="25">committee</word>
+	<word weight="0.0273972602739726" count="18">government</word>
+	<word weight="0.0258751902587519" count="17">gov</word>
+	<word weight="0.0258751902587519" count="17">advisory</word>
+	<word weight="0.0243531202435312" count="16">meat</word>
+	<word weight="0.0228310502283105" count="15">hygiene</word>
+	<word weight="0.0213089802130898" count="14">service</word>
+	<word weight="0.0167427701674277" count="11">general</word>
+	<word weight="0.015220700152207" count="10">science</word>
+	<word weight="0.015220700152207" count="10">http</word>
+	<word weight="0.0136986301369863" count="9">regulations</word>
+	<word weight="0.0121765601217656" count="8">labelling</word>
+	<word weight="0.0106544901065449" count="7">board</word>
+	<word weight="0.0106544901065449" count="7">minutes</word>
+	<word weight="0.0106544901065449" count="7">https</word>
+	<word weight="0.0106544901065449" count="7">field</word>
+	<phrase weight="0.14678899082568808" count="16">food standards</phrase>
+	<phrase weight="0.12844036697247707" count="14">uk government</phrase>
+	<phrase weight="0.11926605504587157" count="13">advisory committee</phrase>
+	<phrase weight="0.07339449541284404" count="8">meat hygiene service</phrase>
+	<phrase weight="0.03669724770642202" count="4">food law policy</phrase>
+	<phrase weight="0.03669724770642202" count="4">subjects covers</phrase>
+	<phrase weight="0.03669724770642202" count="4">general advisory committee</phrase>
+	<phrase weight="0.027522935779816515" count="3">legal requirements</phrase>
+	<phrase weight="0.027522935779816515" count="3">social science research committee</phrase>
+	<phrase weight="0.01834862385321101" count="2">uk food law policy</phrase>
+	<phrase weight="0.01834862385321101" count="2">united kingdom</phrase>
+	<phrase weight="0.009174311926605505" count="1">meat hygiene service senior management team minutes</phrase>
+	<phrase weight="0.009174311926605505" count="1">standards board</phrase>
+	<phrase weight="0.009174311926605505" count="1">bottled drinking water regulations</phrase>
+	<phrase weight="0.009174311926605505" count="1">food vision</phrase>
+	<phrase weight="0.009174311926605505" count="1">agricultural products</phrase>
+	<phrase weight="0.009174311926605505" count="1">annual report</phrase>
+	<phrase weight="0.009174311926605505" count="1">consumer panel</phrase>
+	<phrase weight="0.009174311926605505" count="1">food labelling</phrase>
+	<phrase weight="0.009174311926605505" count="1">eat safe scheme</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="10.22467454665335" totalTokens="289" titles="parliamentary, legislation, bills, counsel, memoranda, process, level, highest, policy, translation">
+	<word weight="0.10034602076124567" count="29">parliamentary</word>
+	<word weight="0.08650519031141868" count="25">legislation</word>
+	<word weight="0.058823529411764705" count="17">bills</word>
+	<word weight="0.04844290657439446" count="14">counsel</word>
+	<word weight="0.02768166089965398" count="8">memoranda</word>
+	<word weight="0.02422145328719723" count="7">process</word>
+	<word weight="0.020761245674740483" count="6">level</word>
+	<word weight="0.020761245674740483" count="6">highest</word>
+	<word weight="0.020761245674740483" count="6">policy</word>
+	<word weight="0.020761245674740483" count="6">translation</word>
+	<word weight="0.020761245674740483" count="6">reflect</word>
+	<word weight="0.020761245674740483" count="6">correspondence</word>
+	<word weight="0.020761245674740483" count="6">drafting</word>
+	<word weight="0.01730103806228374" count="5">orders</word>
+	<word weight="0.01730103806228374" count="5">contents</word>
+	<word weight="0.01730103806228374" count="5">sponsored</word>
+	<word weight="0.01730103806228374" count="5">retained</word>
+	<word weight="0.01730103806228374" count="5">consult</word>
+	<word weight="0.01730103806228374" count="5">government</word>
+	<word weight="0.01730103806228374" count="5">sponsoring</word>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="9.560068518704417" totalTokens="290" titles="towns, commission, english, reports, partnerships, annual, minutes, board, database, sites">
+	<word weight="0.05517241379310345" count="16">towns</word>
+	<word weight="0.04827586206896552" count="14">commission</word>
+	<word weight="0.04827586206896552" count="14">english</word>
+	<word weight="0.03103448275862069" count="9">reports</word>
+	<word weight="0.03103448275862069" count="9">partnerships</word>
+	<word weight="0.027586206896551724" count="8">annual</word>
+	<word weight="0.027586206896551724" count="8">minutes</word>
+	<word weight="0.02413793103448276" count="7">board</word>
+	<word weight="0.020689655172413793" count="6">database</word>
+	<word weight="0.020689655172413793" count="6">sites</word>
+	<word weight="0.017241379310344827" count="5">accounts</word>
+	<word weight="0.017241379310344827" count="5">regeneration</word>
+	<word weight="0.017241379310344827" count="5">development</word>
+	<word weight="0.013793103448275862" count="4">corporations</word>
+	<word weight="0.013793103448275862" count="4">urban</word>
+	<word weight="0.010344827586206896" count="3">run</word>
+	<word weight="0.010344827586206896" count="3">cnt</word>
+	<word weight="0.010344827586206896" count="3">association</word>
+	<word weight="0.010344827586206896" count="3">creation</word>
+	<word weight="0.010344827586206896" count="3">library</word>
+  </topic>
+</topics>

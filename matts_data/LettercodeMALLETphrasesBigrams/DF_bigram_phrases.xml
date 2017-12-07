@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.11063815418807" totalTokens="8141" titles="british museum, df, history, natural, correspondence, zoology, section, letters, mineralogy, trustees">
+	<word weight="0.051345043606436554" count="418">museum</word>
+	<word weight="0.03807886009089793" count="310">df</word>
+	<word weight="0.03709617983048766" count="302">history</word>
+	<word weight="0.036359169635179954" count="296">natural</word>
+	<word weight="0.035990664537526106" count="293">british</word>
+	<word weight="0.025918191868320846" count="211">correspondence</word>
+	<word weight="0.015108709003807886" count="123">zoology</word>
+	<word weight="0.013266183515538632" count="108">section</word>
+	<word weight="0.012652008352782214" count="103">mineralogy</word>
+	<word weight="0.012652008352782214" count="103">letters</word>
+	<word weight="0.01154649305982066" count="94">trustees</word>
+	<word weight="0.010686647831961675" count="87">staff</word>
+	<word weight="0.010440977766859108" count="85">keeper</word>
+	<word weight="0.010318142734307825" count="84">reports</word>
+	<word weight="0.00982680260410269" count="80">director</word>
+	<word weight="0.009089792408794988" count="74">botany</word>
+	<word weight="0.008966957376243704" count="73">library</word>
+	<word weight="0.008598452278589854" count="70">books</word>
+	<word weight="0.007738607050730868" count="63">palaeontology</word>
+	<word weight="0.007370101953077018" count="60">general</word>
+	<phrase weight="0.20422004521477016" count="271">british museum</phrase>
+	<phrase weight="0.014318010550113038" count="19">natural history</phrase>
+	<phrase weight="0.013564431047475508" count="18">general library</phrase>
+	<phrase weight="0.00904295403165034" count="12">museum secretary</phrase>
+	<phrase weight="0.00904295403165034" count="12">natural history museum</phrase>
+	<phrase weight="0.00904295403165034" count="12">central administration</phrase>
+	<phrase weight="0.007535795026375283" count="10">annual reports</phrase>
+	<phrase weight="0.006782215523737754" count="9">successive heads</phrase>
+	<phrase weight="0.006782215523737754" count="9">publications section</phrase>
+	<phrase weight="0.0052750565184626974" count="7">official letters</phrase>
+	<phrase weight="0.0052750565184626974" count="7">principal librarian</phrase>
+	<phrase weight="0.0052750565184626974" count="7">visitors books</phrase>
+	<phrase weight="0.00452147701582517" count="6">south kensington</phrase>
+	<phrase weight="0.00452147701582517" count="6">letters addressed</phrase>
+	<phrase weight="0.0037678975131876413" count="5">zoology library</phrase>
+	<phrase weight="0.0037678975131876413" count="5">research projects</phrase>
+	<phrase weight="0.0037678975131876413" count="5">museum staff</phrase>
+	<phrase weight="0.0037678975131876413" count="5">outgoing letters</phrase>
+	<phrase weight="0.0037678975131876413" count="5">incoming letters</phrase>
+	<phrase weight="0.003014318010550113" count="4">committee meetings</phrase>
+  </topic>
+</topics>

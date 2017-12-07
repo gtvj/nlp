@@ -1,0 +1,29 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.2755853748240282" totalTokens="52" titles="inquiry, mubarek, zahid, sd, report, final, division, government, uk, bengali">
+	<word weight="0.19230769230769232" count="10">inquiry</word>
+	<word weight="0.1346153846153846" count="7">mubarek</word>
+	<word weight="0.1346153846153846" count="7">zahid</word>
+	<word weight="0.07692307692307693" count="4">sd</word>
+	<word weight="0.038461538461538464" count="2">report</word>
+	<word weight="0.038461538461538464" count="2">final</word>
+	<word weight="0.019230769230769232" count="1">division</word>
+	<word weight="0.019230769230769232" count="1">government</word>
+	<word weight="0.019230769230769232" count="1">uk</word>
+	<word weight="0.019230769230769232" count="1">bengali</word>
+	<word weight="0.019230769230769232" count="1">gujarati</word>
+	<word weight="0.019230769230769232" count="1">hindi</word>
+	<word weight="0.019230769230769232" count="1">punjabi</word>
+	<word weight="0.019230769230769232" count="1">urdu</word>
+	<word weight="0.019230769230769232" count="1">welsh</word>
+	<word weight="0.019230769230769232" count="1">key</word>
+	<word weight="0.019230769230769232" count="1">close</word>
+	<word weight="0.019230769230769232" count="1">releases</word>
+	<word weight="0.019230769230769232" count="1">news</word>
+	<word weight="0.019230769230769232" count="1">questions</word>
+	<phrase weight="0.3333333333333333" count="3">zahid mubarek inquiry</phrase>
+	<phrase weight="0.3333333333333333" count="3">mubarek inquiry</phrase>
+	<phrase weight="0.2222222222222222" count="2">final report</phrase>
+	<phrase weight="0.1111111111111111" count="1">frequently asked questions</phrase>
+  </topic>
+</topics>

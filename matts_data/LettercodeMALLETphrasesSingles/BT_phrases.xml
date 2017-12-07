@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.062280102198489" totalTokens="14424" titles="trade, board, seamen, shipping, general, committees, registers, division, companies, successors">
+	<word weight="0.0370216306156406" count="534">trade</word>
+	<word weight="0.029187465335551856" count="421">board</word>
+	<word weight="0.01982806433721575" count="286">seamen</word>
+	<word weight="0.01774819744869662" count="256">shipping</word>
+	<word weight="0.017193566278424846" count="248">general</word>
+	<word weight="0.012132556849694952" count="175">committees</word>
+	<word weight="0.011092623405435386" count="160">registers</word>
+	<word weight="0.010815307820299502" count="156">division</word>
+	<word weight="0.010607321131447587" count="153">companies</word>
+	<word weight="0.010607321131447587" count="153">successors</word>
+	<word weight="0.009983361064891847" count="144">registrar</word>
+	<word weight="0.00887409872434831" count="128">industry</word>
+	<word weight="0.008250138657792568" count="119">registry</word>
+	<word weight="0.00776483638380477" count="112">committee</word>
+	<word weight="0.007556849694952857" count="109">commissions</word>
+	<word weight="0.007418191902384914" count="107">minutes</word>
+	<word weight="0.006794231835829174" count="98">successor</word>
+	<word weight="0.0067249029395452025" count="97">commercial</word>
+	<word weight="0.006447587354409318" count="93">industrial</word>
+	<word weight="0.006239600665557404" count="90">policy</word>
+  </topic>
+</topics>

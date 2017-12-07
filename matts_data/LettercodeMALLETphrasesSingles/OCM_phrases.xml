@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="13.723879792227248" totalTokens="111" titles="ofcom, government, communications, committee, advisory, england, stakeholders, people, disabled, analysts">
+	<word weight="0.34234234234234234" count="38">ofcom</word>
+	<word weight="0.10810810810810811" count="12">government</word>
+	<word weight="0.09009009009009009" count="10">communications</word>
+	<word weight="0.05405405405405406" count="6">committee</word>
+	<word weight="0.05405405405405406" count="6">advisory</word>
+	<word weight="0.018018018018018018" count="2">england</word>
+	<word weight="0.018018018018018018" count="2">stakeholders</word>
+	<word weight="0.018018018018018018" count="2">people</word>
+	<word weight="0.018018018018018018" count="2">disabled</word>
+	<word weight="0.018018018018018018" count="2">older</word>
+	<word weight="0.018018018018018018" count="2">analysts</word>
+	<word weight="0.018018018018018018" count="2">media</word>
+	<word weight="0.018018018018018018" count="2">updates</word>
+	<word weight="0.018018018018018018" count="2">news</word>
+	<word weight="0.018018018018018018" count="2">board</word>
+	<word weight="0.018018018018018018" count="2">licensing</word>
+	<word weight="0.018018018018018018" count="2">services</word>
+	<word weight="0.018018018018018018" count="2">postal</word>
+	<word weight="0.018018018018018018" count="2">wales</word>
+	<word weight="0.018018018018018018" count="2">panel</word>
+  </topic>
+</topics>

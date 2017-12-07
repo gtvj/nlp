@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="34.3219176302435" totalTokens="89" titles="bureau, location, reports, london, research, minutes, publicity, annual, consultants, development">
+	<word weight="0.15730337078651685" count="14">bureau</word>
+	<word weight="0.15730337078651685" count="14">location</word>
+	<word weight="0.0898876404494382" count="8">reports</word>
+	<word weight="0.0449438202247191" count="4">london</word>
+	<word weight="0.0449438202247191" count="4">research</word>
+	<word weight="0.033707865168539325" count="3">minutes</word>
+	<word weight="0.033707865168539325" count="3">publicity</word>
+	<word weight="0.033707865168539325" count="3">annual</word>
+	<word weight="0.02247191011235955" count="2">consultants</word>
+	<word weight="0.02247191011235955" count="2">development</word>
+	<word weight="0.02247191011235955" count="2">studies</word>
+	<word weight="0.02247191011235955" count="2">surveys</word>
+	<word weight="0.011235955056179775" count="1">meetings</word>
+	<word weight="0.011235955056179775" count="1">committee</word>
+	<word weight="0.011235955056179775" count="1">railway</word>
+	<word weight="0.011235955056179775" count="1">underground</word>
+	<word weight="0.011235955056179775" count="1">cards</word>
+	<word weight="0.011235955056179775" count="1">advertisement</word>
+	<word weight="0.011235955056179775" count="1">set</word>
+	<word weight="0.011235955056179775" count="1">leaflets</word>
+  </topic>
+</topics>

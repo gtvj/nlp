@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.685581799522117" totalTokens="1945" titles="land, enrolments, revenue, woods, crown, forests, destroyed, revenues, number, accounts">
+	<word weight="0.049357326478149104" count="96">land</word>
+	<word weight="0.04832904884318766" count="94">enrolments</word>
+	<word weight="0.030334190231362468" count="59">revenue</word>
+	<word weight="0.021593830334190232" count="42">woods</word>
+	<word weight="0.02056555269922879" count="40">crown</word>
+	<word weight="0.02005141388174807" count="39">forests</word>
+	<word weight="0.01953727506426735" count="38">destroyed</word>
+	<word weight="0.019023136246786632" count="37">revenues</word>
+	<word weight="0.017480719794344474" count="34">number</word>
+	<word weight="0.01696658097686375" count="33">accounts</word>
+	<word weight="0.013367609254498715" count="26">lands</word>
+	<word weight="0.012339331619537276" count="24">rents</word>
+	<word weight="0.010282776349614395" count="20">works</word>
+	<word weight="0.009768637532133676" count="19">deeds</word>
+	<word weight="0.008740359897172237" count="17">rentals</word>
+	<word weight="0.008740359897172237" count="17">commissioners</word>
+	<word weight="0.008226221079691516" count="16">london</word>
+	<word weight="0.008226221079691516" count="16">books</word>
+	<word weight="0.0071979434447300775" count="14">deposits</word>
+	<word weight="0.006169665809768638" count="12">estates</word>
+  </topic>
+</topics>

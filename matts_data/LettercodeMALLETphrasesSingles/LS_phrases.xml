@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.749461801679835" totalTokens="1068" titles="lord, steward's, accounts, household, royal, expenses, bills, board, kitchen, creditors">
+	<word weight="0.026217228464419477" count="28">lord</word>
+	<word weight="0.020599250936329586" count="22">steward's</word>
+	<word weight="0.019662921348314606" count="21">accounts</word>
+	<word weight="0.019662921348314606" count="21">household</word>
+	<word weight="0.015917602996254682" count="17">royal</word>
+	<word weight="0.0149812734082397" count="16">expenses</word>
+	<word weight="0.014044943820224719" count="15">bills</word>
+	<word weight="0.013108614232209739" count="14">board</word>
+	<word weight="0.012172284644194757" count="13">kitchen</word>
+	<word weight="0.011235955056179775" count="12">creditors</word>
+	<word weight="0.011235955056179775" count="12">account</word>
+	<word weight="0.010299625468164793" count="11">salaries</word>
+	<word weight="0.010299625468164793" count="11">allowances</word>
+	<word weight="0.010299625468164793" count="11">books</word>
+	<word weight="0.009363295880149813" count="10">palace</word>
+	<word weight="0.009363295880149813" count="10">cloth</word>
+	<word weight="0.009363295880149813" count="10">green</word>
+	<word weight="0.009363295880149813" count="10">paid</word>
+	<word weight="0.009363295880149813" count="10">amount</word>
+	<word weight="0.009363295880149813" count="10">services</word>
+  </topic>
+</topics>

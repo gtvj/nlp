@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.831340389359584" totalTokens="507" titles="gallery, national, letters, pictures, work, board, correspondence, meetings, photographs, publications">
+	<word weight="0.09270216962524655" count="47">gallery</word>
+	<word weight="0.08678500986193294" count="44">national</word>
+	<word weight="0.021696252465483234" count="11">letters</word>
+	<word weight="0.021696252465483234" count="11">pictures</word>
+	<word weight="0.01972386587771203" count="10">work</word>
+	<word weight="0.01972386587771203" count="10">board</word>
+	<word weight="0.01775147928994083" count="9">correspondence</word>
+	<word weight="0.01775147928994083" count="9">meetings</word>
+	<word weight="0.013806706114398421" count="7">photographs</word>
+	<word weight="0.013806706114398421" count="7">publications</word>
+	<word weight="0.013806706114398421" count="7">minutes</word>
+	<word weight="0.013806706114398421" count="7">collection</word>
+	<word weight="0.011834319526627219" count="6">books</word>
+	<word weight="0.009861932938856016" count="5">register</word>
+	<word weight="0.009861932938856016" count="5">family</word>
+	<word weight="0.009861932938856016" count="5">wornum</word>
+	<word weight="0.009861932938856016" count="5">conservation</word>
+	<word weight="0.007889546351084813" count="4">davies</word>
+	<word weight="0.007889546351084813" count="4">prints</word>
+	<word weight="0.007889546351084813" count="4">memoranda</word>
+  </topic>
+</topics>

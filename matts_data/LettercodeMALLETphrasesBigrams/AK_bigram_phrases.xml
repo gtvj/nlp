@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.093810108384444" totalTokens="386" titles="county, ak, court, london, greater, lincolnshire, service, west, derbyshire, warwick">
+	<word weight="0.18652849740932642" count="72">county</word>
+	<word weight="0.17357512953367876" count="67">ak</word>
+	<word weight="0.16580310880829016" count="64">court</word>
+	<word weight="0.023316062176165803" count="9">london</word>
+	<word weight="0.02072538860103627" count="8">greater</word>
+	<word weight="0.018134715025906734" count="7">lincolnshire</word>
+	<word weight="0.015544041450777202" count="6">service</word>
+	<word weight="0.012953367875647668" count="5">west</word>
+	<word weight="0.010362694300518135" count="4">derbyshire</word>
+	<word weight="0.010362694300518135" count="4">warwick</word>
+	<word weight="0.007772020725388601" count="3">yorkshire</word>
+	<word weight="0.007772020725388601" count="3">cambridgeshire</word>
+	<word weight="0.007772020725388601" count="3">sheffield</word>
+	<word weight="0.007772020725388601" count="3">surrey</word>
+	<word weight="0.0051813471502590676" count="2">worcester</word>
+	<word weight="0.0051813471502590676" count="2">durham</word>
+	<word weight="0.0051813471502590676" count="2">northumberland</word>
+	<word weight="0.0051813471502590676" count="2">gloucestershire</word>
+	<word weight="0.0051813471502590676" count="2">staffordshire</word>
+	<word weight="0.0051813471502590676" count="2">public</word>
+	<phrase weight="0.028985507246376812" count="2">county courts</phrase>
+	<phrase weight="0.028985507246376812" count="2">city libraries</phrase>
+	<phrase weight="0.014492753623188406" count="1">lewes county court</phrase>
+	<phrase weight="0.014492753623188406" count="1">holbeach county court</phrase>
+	<phrase weight="0.014492753623188406" count="1">wisbech county court</phrase>
+	<phrase weight="0.014492753623188406" count="1">derby county court</phrase>
+	<phrase weight="0.014492753623188406" count="1">sheffield county court</phrase>
+	<phrase weight="0.014492753623188406" count="1">dudley county court</phrase>
+	<phrase weight="0.014492753623188406" count="1">ringwood county court</phrase>
+	<phrase weight="0.014492753623188406" count="1">skipton county court</phrase>
+	<phrase weight="0.014492753623188406" count="1">southend county court</phrase>
+	<phrase weight="0.014492753623188406" count="1">spilsby county court</phrase>
+	<phrase weight="0.014492753623188406" count="1">warwick county court</phrase>
+	<phrase weight="0.014492753623188406" count="1">middlesbrough county court</phrase>
+	<phrase weight="0.014492753623188406" count="1">walsall county court</phrase>
+	<phrase weight="0.014492753623188406" count="1">bridgend county court</phrase>
+	<phrase weight="0.014492753623188406" count="1">edmonton county court</phrase>
+	<phrase weight="0.014492753623188406" count="1">local repositories</phrase>
+	<phrase weight="0.014492753623188406" count="1">brighton county court</phrase>
+	<phrase weight="0.014492753623188406" count="1">guildford county court</phrase>
+  </topic>
+</topics>

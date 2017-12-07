@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="21.451111483249708" totalTokens="190" titles="london, maps, plans, borough, county, current, place, places, rolled, public">
+	<word weight="0.08421052631578947" count="16">london</word>
+	<word weight="0.05789473684210526" count="11">maps</word>
+	<word weight="0.04736842105263158" count="9">plans</word>
+	<word weight="0.042105263157894736" count="8">borough</word>
+	<word weight="0.031578947368421054" count="6">county</word>
+	<word weight="0.031578947368421054" count="6">current</word>
+	<word weight="0.031578947368421054" count="6">place</word>
+	<word weight="0.031578947368421054" count="6">places</word>
+	<word weight="0.02631578947368421" count="5">map</word>
+	<word weight="0.02631578947368421" count="5">rolled</word>
+	<word weight="0.02631578947368421" count="5">public</word>
+	<word weight="0.021052631578947368" count="4">council</word>
+	<word weight="0.021052631578947368" count="4">area</word>
+	<word weight="0.021052631578947368" count="4">drawings</word>
+	<word weight="0.015789473684210527" count="3">government</word>
+	<word weight="0.015789473684210527" count="3">length</word>
+	<word weight="0.010526315789473684" count="2">rail</word>
+	<word weight="0.010526315789473684" count="2">metres</word>
+	<word weight="0.010526315789473684" count="2">outer</word>
+	<word weight="0.010526315789473684" count="2">kent</word>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.9302489323426855" totalTokens="561" titles="international, whaling, commission, annual, european, meetings, special, committee, reports, scientific">
+	<word weight="0.08199643493761141" count="46">international</word>
+	<word weight="0.0748663101604278" count="42">whaling</word>
+	<word weight="0.058823529411764705" count="33">commission</word>
+	<word weight="0.0213903743315508" count="12">annual</word>
+	<word weight="0.0196078431372549" count="11">european</word>
+	<word weight="0.0196078431372549" count="11">meetings</word>
+	<word weight="0.017825311942959002" count="10">special</word>
+	<word weight="0.016042780748663103" count="9">committee</word>
+	<word weight="0.0142602495543672" count="8">reports</word>
+	<word weight="0.0142602495543672" count="8">scientific</word>
+	<word weight="0.012477718360071301" count="7">organisations</word>
+	<word weight="0.012477718360071301" count="7">research</word>
+	<word weight="0.0106951871657754" count="6">commission's</word>
+	<word weight="0.008912655971479501" count="5">organisation</word>
+	<word weight="0.008912655971479501" count="5">treaty</word>
+	<word weight="0.008912655971479501" count="5">brussels</word>
+	<word weight="0.008912655971479501" count="5">whales</word>
+	<word weight="0.008912655971479501" count="5">convention</word>
+	<word weight="0.0071301247771836" count="4">journal</word>
+	<word weight="0.0071301247771836" count="4">formal</word>
+  </topic>
+</topics>

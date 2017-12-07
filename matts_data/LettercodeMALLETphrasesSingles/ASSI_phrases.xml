@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.2578911163123525" totalTokens="4820" titles="circuit, assizes, books, circuits, wales, indictments, chester, north, minute, court">
+	<word weight="0.04419087136929461" count="213">circuit</word>
+	<word weight="0.024481327800829875" count="118">assizes</word>
+	<word weight="0.024273858921161826" count="117">books</word>
+	<word weight="0.017634854771784232" count="85">circuits</word>
+	<word weight="0.01701244813278008" count="82">wales</word>
+	<word weight="0.013692946058091286" count="66">indictments</word>
+	<word weight="0.012448132780082987" count="60">chester</word>
+	<word weight="0.011825726141078838" count="57">north</word>
+	<word weight="0.011203319502074689" count="54">minute</word>
+	<word weight="0.011203319502074689" count="54">court</word>
+	<word weight="0.011203319502074689" count="54">south</word>
+	<word weight="0.01037344398340249" count="50">northern</word>
+	<word weight="0.01037344398340249" count="50">civil</word>
+	<word weight="0.00975103734439834" count="47">home</word>
+	<word weight="0.00975103734439834" count="47">division</word>
+	<word weight="0.00892116182572614" count="43">oxford</word>
+	<word weight="0.00892116182572614" count="43">trial</word>
+	<word weight="0.008713692946058092" count="42">assize</word>
+	<word weight="0.00850622406639004" count="41">cases</word>
+	<word weight="0.008298755186721992" count="40">norfolk</word>
+  </topic>
+</topics>

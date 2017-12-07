@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="25.838898790354452" totalTokens="121" titles="fields, playing, association, national, leadership, grants, centres, technical, finance, foundation">
+	<word weight="0.11570247933884298" count="14">fields</word>
+	<word weight="0.09917355371900827" count="12">playing</word>
+	<word weight="0.06611570247933884" count="8">association</word>
+	<word weight="0.06611570247933884" count="8">national</word>
+	<word weight="0.05785123966942149" count="7">play</word>
+	<word weight="0.03305785123966942" count="4">leadership</word>
+	<word weight="0.03305785123966942" count="4">grants</word>
+	<word weight="0.024793388429752067" count="3">centres</word>
+	<word weight="0.024793388429752067" count="3">technical</word>
+	<word weight="0.024793388429752067" count="3">finance</word>
+	<word weight="0.024793388429752067" count="3">foundation</word>
+	<word weight="0.024793388429752067" count="3">grounds</word>
+	<word weight="0.01652892561983471" count="2">publications</word>
+	<word weight="0.01652892561983471" count="2">playgrounds</word>
+	<word weight="0.01652892561983471" count="2">upkeep</word>
+	<word weight="0.01652892561983471" count="2">layout</word>
+	<word weight="0.01652892561983471" count="2">advice</word>
+	<word weight="0.01652892561983471" count="2">appeals</word>
+	<word weight="0.01652892561983471" count="2">policy</word>
+	<word weight="0.01652892561983471" count="2">george's</word>
+  </topic>
+</topics>

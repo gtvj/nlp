@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.551399704074372" totalTokens="1112" titles="tribunals service, courts, uk, majesty, government, guidance, immigration, appeals, asylum, general">
+	<word weight="0.13309352517985612" count="148">tribunals</word>
+	<word weight="0.12140287769784172" count="135">service</word>
+	<word weight="0.08453237410071943" count="94">tribunal</word>
+	<word weight="0.06115107913669065" count="68">courts</word>
+	<word weight="0.05755395683453238" count="64">uk</word>
+	<word weight="0.05575539568345324" count="62">majesty</word>
+	<word weight="0.05575539568345324" count="62">tr</word>
+	<word weight="0.0539568345323741" count="60">government</word>
+	<word weight="0.03327338129496403" count="37">guidance</word>
+	<word weight="0.019784172661870502" count="22">immigration</word>
+	<word weight="0.015287769784172662" count="17">appeals</word>
+	<word weight="0.012589928057553957" count="14">asylum</word>
+	<word weight="0.011690647482014389" count="13">general</word>
+	<word weight="0.009892086330935251" count="11">tier</word>
+	<word weight="0.008992805755395683" count="10">tax</word>
+	<word weight="0.008992805755395683" count="10">special</word>
+	<word weight="0.008093525179856115" count="9">chamber</word>
+	<word weight="0.008093525179856115" count="9">upper</word>
+	<word weight="0.008093525179856115" count="9">field</word>
+	<word weight="0.007194244604316547" count="8">services</word>
+	<phrase weight="0.2413793103448276" count="49">tribunals service</phrase>
+	<phrase weight="0.09852216748768473" count="20">uk government</phrase>
+	<phrase weight="0.04926108374384237" count="10">tier tribunal</phrase>
+	<phrase weight="0.03940886699507389" count="8">upper tribunal</phrase>
+	<phrase weight="0.029556650246305417" count="6">hm courts</phrase>
+	<phrase weight="0.029556650246305417" count="6">special educational</phrase>
+	<phrase weight="0.014778325123152709" count="3">asylum chamber</phrase>
+	<phrase weight="0.014778325123152709" count="3">tribunal guidance</phrase>
+	<phrase weight="0.014778325123152709" count="3">social security</phrase>
+	<phrase weight="0.009852216748768473" count="2">estate agent appeals tribunal</phrase>
+	<phrase weight="0.009852216748768473" count="2">employment appeal tribunal</phrase>
+	<phrase weight="0.009852216748768473" count="2">gender recognition panel</phrase>
+	<phrase weight="0.009852216748768473" count="2">asylum tribunal guidance</phrase>
+	<phrase weight="0.009852216748768473" count="2">criminal injuries compensation appeals panel</phrase>
+	<phrase weight="0.009852216748768473" count="2">appeal tribunal</phrase>
+	<phrase weight="0.009852216748768473" count="2">support tribunal</phrase>
+	<phrase weight="0.009852216748768473" count="2">immigration tribunal</phrase>
+	<phrase weight="0.009852216748768473" count="2">general commissioners</phrase>
+	<phrase weight="0.009852216748768473" count="2">hm land registry</phrase>
+	<phrase weight="0.009852216748768473" count="2">tax tribunal</phrase>
+  </topic>
+</topics>

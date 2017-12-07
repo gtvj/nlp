@@ -1,0 +1,10 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="10.075656904080555" totalTokens="14" titles="commission, societies, building, regulation, bsc, ">
+	<word weight="0.2857142857142857" count="4">commission</word>
+	<word weight="0.2857142857142857" count="4">societies</word>
+	<word weight="0.2857142857142857" count="4">building</word>
+	<word weight="0.07142857142857142" count="1">regulation</word>
+	<word weight="0.07142857142857142" count="1">bsc</word>
+  </topic>
+</topics>

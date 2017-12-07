@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="13.788657394204957" totalTokens="118" titles="scottish, administration, government, scotland, service, insolvency, scotland's, accountant, bankruptcy, general">
+	<word weight="0.17796610169491525" count="21">scottish</word>
+	<word weight="0.11016949152542373" count="13">administration</word>
+	<word weight="0.09322033898305085" count="11">government</word>
+	<word weight="0.0847457627118644" count="10">scotland</word>
+	<word weight="0.03389830508474576" count="4">service</word>
+	<word weight="0.03389830508474576" count="4">insolvency</word>
+	<word weight="0.03389830508474576" count="4">scotland's</word>
+	<word weight="0.03389830508474576" count="4">accountant</word>
+	<word weight="0.025423728813559324" count="3">bankruptcy</word>
+	<word weight="0.025423728813559324" count="3">general</word>
+	<word weight="0.01694915254237288" count="2">audit</word>
+	<word weight="0.01694915254237288" count="2">printer</word>
+	<word weight="0.01694915254237288" count="2">queen's</word>
+	<word weight="0.01694915254237288" count="2">inspection</word>
+	<word weight="0.01694915254237288" count="2">work</word>
+	<word weight="0.01694915254237288" count="2">social</word>
+	<word weight="0.01694915254237288" count="2">commission</word>
+	<word weight="0.01694915254237288" count="2">boundary</word>
+	<word weight="0.01694915254237288" count="2">council</word>
+	<word weight="0.01694915254237288" count="2">consumer</word>
+  </topic>
+</topics>

@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="17.060205334517374" totalTokens="194" titles="relations, commission, board, racial, ck, race, equality, minutes, community, committees">
+	<word weight="0.06701030927835051" count="13">relations</word>
+	<word weight="0.05670103092783505" count="11">commission</word>
+	<word weight="0.04639175257731959" count="9">board</word>
+	<word weight="0.041237113402061855" count="8">racial</word>
+	<word weight="0.041237113402061855" count="8">ck</word>
+	<word weight="0.03608247422680412" count="7">race</word>
+	<word weight="0.03608247422680412" count="7">equality</word>
+	<word weight="0.030927835051546393" count="6">minutes</word>
+	<word weight="0.030927835051546393" count="6">community</word>
+	<word weight="0.02577319587628866" count="5">committees</word>
+	<word weight="0.020618556701030927" count="4">cases</word>
+	<word weight="0.020618556701030927" count="4">reports</word>
+	<word weight="0.020618556701030927" count="4">predecessors</word>
+	<word weight="0.015463917525773196" count="3">act</word>
+	<word weight="0.015463917525773196" count="3">committee</word>
+	<word weight="0.015463917525773196" count="3">division</word>
+	<word weight="0.015463917525773196" count="3">annual</word>
+	<word weight="0.010309278350515464" count="2">machinery</word>
+	<word weight="0.010309278350515464" count="2">west</word>
+	<word weight="0.010309278350515464" count="2">set</word>
+	<phrase weight="0.15" count="6">racial equality</phrase>
+	<phrase weight="0.075" count="3">race relations board</phrase>
+	<phrase weight="0.05" count="2">relations board</phrase>
+	<phrase weight="0.05" count="2">england region</phrase>
+	<phrase weight="0.05" count="2">community relations commission</phrase>
+	<phrase weight="0.025" count="1">community relations council</phrase>
+	<phrase weight="0.025" count="1">industries possessing</phrase>
+	<phrase weight="0.025" count="1">ethnic minority communities</phrase>
+	<phrase weight="0.025" count="1">industrial machinery reports</phrase>
+	<phrase weight="0.025" count="1">community relations councils</phrase>
+	<phrase weight="0.025" count="1">west midlands conciliation committees</phrase>
+	<phrase weight="0.025" count="1">cases dealt</phrase>
+	<phrase weight="0.025" count="1">national advisory committee</phrase>
+	<phrase weight="0.025" count="1">cases investigated</phrase>
+	<phrase weight="0.025" count="1">development division</phrase>
+	<phrase weight="0.025" count="1">procedural significance</phrase>
+	<phrase weight="0.025" count="1">legal advice</phrase>
+	<phrase weight="0.025" count="1">annual reports annual reports</phrase>
+	<phrase weight="0.025" count="1">board meetings</phrase>
+	<phrase weight="0.025" count="1">regional committees</phrase>
+  </topic>
+</topics>

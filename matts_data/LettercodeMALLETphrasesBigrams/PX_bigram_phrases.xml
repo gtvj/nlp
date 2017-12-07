@@ -1,0 +1,22 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.4675389667384227" totalTokens="37" titles="commission, services, postal, px, consultation, postcomm, public, remits, statutory, pursuance">
+	<word weight="0.16216216216216217" count="6">commission</word>
+	<word weight="0.16216216216216217" count="6">services</word>
+	<word weight="0.16216216216216217" count="6">postal</word>
+	<word weight="0.10810810810810811" count="4">px</word>
+	<word weight="0.08108108108108109" count="3">consultation</word>
+	<word weight="0.08108108108108109" count="3">postcomm</word>
+	<word weight="0.05405405405405406" count="2">public</word>
+	<word weight="0.02702702702702703" count="1">remits</word>
+	<word weight="0.02702702702702703" count="1">statutory</word>
+	<word weight="0.02702702702702703" count="1">pursuance</word>
+	<word weight="0.02702702702702703" count="1">distibuted</word>
+	<word weight="0.02702702702702703" count="1">division</word>
+	<word weight="0.02702702702702703" count="1">government</word>
+	<word weight="0.02702702702702703" count="1">uk</word>
+	<phrase weight="0.5714285714285714" count="4">postal services commission</phrase>
+	<phrase weight="0.2857142857142857" count="2">services commission</phrase>
+	<phrase weight="0.14285714285714285" count="1">uk government</phrase>
+  </topic>
+</topics>

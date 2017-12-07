@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="117.3434669463772" totalTokens="78" titles="royal, monuments, england, commission, annual, reports, minutes, warrants, reviews, correspondence">
+	<word weight="0.15384615384615385" count="12">royal</word>
+	<word weight="0.1282051282051282" count="10">monuments</word>
+	<word weight="0.11538461538461539" count="9">england</word>
+	<word weight="0.11538461538461539" count="9">commission</word>
+	<word weight="0.07692307692307693" count="6">annual</word>
+	<word weight="0.0641025641025641" count="5">reports</word>
+	<word weight="0.038461538461538464" count="3">minutes</word>
+	<word weight="0.038461538461538464" count="3">warrants</word>
+	<word weight="0.02564102564102564" count="2">reviews</word>
+	<word weight="0.02564102564102564" count="2">correspondence</word>
+	<word weight="0.02564102564102564" count="2">members</word>
+	<word weight="0.02564102564102564" count="2">appointment</word>
+	<word weight="0.01282051282051282" count="1">committees</word>
+	<word weight="0.01282051282051282" count="1">ancient</word>
+	<word weight="0.01282051282051282" count="1">recording</word>
+	<word weight="0.01282051282051282" count="1">local</word>
+	<word weight="0.01282051282051282" count="1">articles</word>
+	<word weight="0.01282051282051282" count="1">secretary's</word>
+	<word weight="0.01282051282051282" count="1">addition</word>
+	<word weight="0.01282051282051282" count="1">march</word>
+  </topic>
+</topics>

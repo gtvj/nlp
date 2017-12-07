@@ -1,0 +1,32 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0646720660616522" totalTokens="59" titles="rail, passenger, franchising, ka, industry, overviews, reports, annual, director, transport">
+	<word weight="0.1694915254237288" count="10">rail</word>
+	<word weight="0.1694915254237288" count="10">passenger</word>
+	<word weight="0.13559322033898305" count="8">franchising</word>
+	<word weight="0.0847457627118644" count="5">ka</word>
+	<word weight="0.05084745762711865" count="3">industry</word>
+	<word weight="0.05084745762711865" count="3">overviews</word>
+	<word weight="0.05084745762711865" count="3">reports</word>
+	<word weight="0.05084745762711865" count="3">annual</word>
+	<word weight="0.03389830508474576" count="2">director</word>
+	<word weight="0.01694915254237288" count="1">transport</word>
+	<word weight="0.01694915254237288" count="1">state</word>
+	<word weight="0.01694915254237288" count="1">secretary</word>
+	<word weight="0.01694915254237288" count="1">introduction</word>
+	<word weight="0.01694915254237288" count="1">serve</word>
+	<word weight="0.01694915254237288" count="1">opraf</word>
+	<word weight="0.01694915254237288" count="1">issued</word>
+	<word weight="0.01694915254237288" count="1">privatisation</word>
+	<word weight="0.01694915254237288" count="1">franchise</word>
+	<word weight="0.01694915254237288" count="1">services</word>
+	<word weight="0.01694915254237288" count="1">secure</word>
+	<phrase weight="0.36363636363636365" count="4">passenger rail franchising</phrase>
+	<phrase weight="0.18181818181818182" count="2">annual reports</phrase>
+	<phrase weight="0.09090909090909091" count="1">secure rail passenger services</phrase>
+	<phrase weight="0.09090909090909091" count="1">rail industry overviews</phrase>
+	<phrase weight="0.09090909090909091" count="1">rail franchising</phrase>
+	<phrase weight="0.09090909090909091" count="1">passenger rail industry issued</phrase>
+	<phrase weight="0.09090909090909091" count="1">passenger rail industry</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.362327632594056" totalTokens="4175" titles="court, chancery, palatinate, lancaster, pl, orders, case, district, books, registry">
+	<word weight="0.046706586826347304" count="195">court</word>
+	<word weight="0.024191616766467066" count="101">chancery</word>
+	<word weight="0.020838323353293414" count="87">palatinate</word>
+	<word weight="0.02035928143712575" count="85">lancaster</word>
+	<word weight="0.020119760479041918" count="84">pl</word>
+	<word weight="0.014850299401197605" count="62">orders</word>
+	<word weight="0.01341317365269461" count="56">case</word>
+	<word weight="0.01341317365269461" count="56">district</word>
+	<word weight="0.012694610778443114" count="53">books</word>
+	<word weight="0.01125748502994012" count="47">registry</word>
+	<word weight="0.01029940119760479" count="43">rolls</word>
+	<word weight="0.01029940119760479" count="43">pleas</word>
+	<word weight="0.00934131736526946" count="39">common</word>
+	<word weight="0.008622754491017964" count="36">number</word>
+	<word weight="0.008622754491017964" count="36">order</word>
+	<word weight="0.0081437125748503" count="34">entries</word>
+	<word weight="0.007904191616766467" count="33">writs</word>
+	<word weight="0.007425149700598803" count="31">plaintiff</word>
+	<word weight="0.007425149700598803" count="31">affidavits</word>
+	<word weight="0.007425149700598803" count="31">fines</word>
+	<phrase weight="0.03166666666666667" count="19">liverpool district registry</phrase>
+	<phrase weight="0.028333333333333332" count="17">common pleas</phrase>
+	<phrase weight="0.02666666666666667" count="16">chancery court</phrase>
+	<phrase weight="0.018333333333333333" count="11">manchester district registry</phrase>
+	<phrase weight="0.016666666666666666" count="10">plea rolls</phrase>
+	<phrase weight="0.011666666666666667" count="7">district registrar</phrase>
+	<phrase weight="0.01" count="6">court orders</phrase>
+	<phrase weight="0.01" count="6">palatinate court</phrase>
+	<phrase weight="0.01" count="6">crown court</phrase>
+	<phrase weight="0.01" count="6">preston district registry</phrase>
+	<phrase weight="0.01" count="6">county palatine</phrase>
+	<phrase weight="0.008333333333333333" count="5">henry vii</phrase>
+	<phrase weight="0.008333333333333333" count="5">small number</phrase>
+	<phrase weight="0.006666666666666667" count="4">henry viii</phrase>
+	<phrase weight="0.006666666666666667" count="4">entry books</phrase>
+	<phrase weight="0.006666666666666667" count="4">docket rolls</phrase>
+	<phrase weight="0.006666666666666667" count="4">lancaster chancery court</phrase>
+	<phrase weight="0.006666666666666667" count="4">henry vi</phrase>
+	<phrase weight="0.005" count="3">remembrance books</phrase>
+	<phrase weight="0.005" count="3">principal registrar</phrase>
+  </topic>
+</topics>

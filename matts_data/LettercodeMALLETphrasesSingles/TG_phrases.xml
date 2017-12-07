@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.991611349825192" totalTokens="915" titles="tate, gallery, correspondence, page, education, policy, modern, exhibition, e.g, relates">
+	<word weight="0.11584699453551912" count="106">tate</word>
+	<word weight="0.040437158469945354" count="37">gallery</word>
+	<word weight="0.034972677595628415" count="32">correspondence</word>
+	<word weight="0.030601092896174863" count="28">page</word>
+	<word weight="0.015300546448087432" count="14">education</word>
+	<word weight="0.012021857923497269" count="11">policy</word>
+	<word weight="0.009836065573770493" count="9">modern</word>
+	<word weight="0.009836065573770493" count="9">exhibition</word>
+	<word weight="0.008743169398907104" count="8">e.g</word>
+	<word weight="0.008743169398907104" count="8">relates</word>
+	<word weight="0.007650273224043716" count="7">art</word>
+	<word weight="0.007650273224043716" count="7">development</word>
+	<word weight="0.007650273224043716" count="7">project</word>
+	<word weight="0.006557377049180328" count="6">trustees</word>
+	<word weight="0.006557377049180328" count="6">museum</word>
+	<word weight="0.006557377049180328" count="6">projects</word>
+	<word weight="0.006557377049180328" count="6">publicity</word>
+	<word weight="0.006557377049180328" count="6">galleries</word>
+	<word weight="0.006557377049180328" count="6">documentation</word>
+	<word weight="0.006557377049180328" count="6">interest</word>
+  </topic>
+</topics>

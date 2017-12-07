@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.072657235484405" totalTokens="557" titles="uk trade, uk government, ukti, investment, business, defence, exporting, great, global, british">
+	<word weight="0.20825852782764812" count="116">uk</word>
+	<word weight="0.18850987432675045" count="105">ukti</word>
+	<word weight="0.11310592459605028" count="63">investment</word>
+	<word weight="0.11310592459605028" count="63">trade</word>
+	<word weight="0.06642728904847396" count="37">government</word>
+	<word weight="0.017953321364452424" count="10">business</word>
+	<word weight="0.00718132854578097" count="4">showcase</word>
+	<word weight="0.00718132854578097" count="4">organisation</word>
+	<word weight="0.00718132854578097" count="4">defence</word>
+	<word weight="0.00718132854578097" count="4">exporting</word>
+	<word weight="0.00718132854578097" count="4">great</word>
+	<word weight="0.00718132854578097" count="4">global</word>
+	<word weight="0.00718132854578097" count="4">export</word>
+	<word weight="0.00718132854578097" count="4">british</word>
+	<word weight="0.00718132854578097" count="4">asia</word>
+	<word weight="0.00718132854578097" count="4">world</word>
+	<word weight="0.00718132854578097" count="4">technology</word>
+	<word weight="0.00718132854578097" count="4">events</word>
+	<word weight="0.005385996409335727" count="3">entrepreneurs</word>
+	<word weight="0.003590664272890485" count="2">cdms</word>
+	<phrase weight="0.3113207547169811" count="33">uk trade</phrase>
+	<phrase weight="0.2169811320754717" count="23">uk government</phrase>
+	<phrase weight="0.03773584905660377" count="4">ukti defence</phrase>
+	<phrase weight="0.018867924528301886" count="2">local investment showcase</phrase>
+	<phrase weight="0.018867924528301886" count="2">great britain</phrase>
+	<phrase weight="0.018867924528301886" count="2">export week</phrase>
+	<phrase weight="0.018867924528301886" count="2">ukti global entrepreneurs</phrase>
+	<phrase weight="0.018867924528301886" count="2">ukti life sciences international business innovation zone</phrase>
+	<phrase weight="0.018867924528301886" count="2">british business embassy</phrase>
+	<phrase weight="0.018867924528301886" count="2">uk pavilion</phrase>
+	<phrase weight="0.009433962264150943" count="1">customer data management system</phrase>
+	<phrase weight="0.009433962264150943" count="1">technology marketing toolkit</phrase>
+	<phrase weight="0.009433962264150943" count="1">ukti uk water</phrase>
+	<phrase weight="0.009433962264150943" count="1">world uk</phrase>
+	<phrase weight="0.009433962264150943" count="1">technology world uk</phrase>
+	<phrase weight="0.009433962264150943" count="1">sustainable world</phrase>
+	<phrase weight="0.009433962264150943" count="1">ukti australia</phrase>
+	<phrase weight="0.009433962264150943" count="1">tech city uk</phrase>
+	<phrase weight="0.009433962264150943" count="1">london press service</phrase>
+	<phrase weight="0.009433962264150943" count="1">energy events</phrase>
+  </topic>
+</topics>

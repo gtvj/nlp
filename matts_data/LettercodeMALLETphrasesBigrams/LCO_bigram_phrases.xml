@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.368198940961874" totalTokens="2341" titles="lord chancellor, committee, legal, administrative, committees, circuit, courts, minutes, administration, county">
+	<word weight="0.055531824006834686" count="130">lord</word>
+	<word weight="0.05254164886800513" count="123">chancellor</word>
+	<word weight="0.021785561725758223" count="51">committee</word>
+	<word weight="0.021358393848782572" count="50">legal</word>
+	<word weight="0.014096539940196497" count="33">committees</word>
+	<word weight="0.014096539940196497" count="33">administrative</word>
+	<word weight="0.013669372063220846" count="32">circuit</word>
+	<word weight="0.012815036309269542" count="30">courts</word>
+	<word weight="0.012387868432293891" count="29">court</word>
+	<word weight="0.012387868432293891" count="29">minutes</word>
+	<word weight="0.010679196924391286" count="25">administration</word>
+	<word weight="0.010252029047415635" count="24">county</word>
+	<word weight="0.009824861170439982" count="23">central</word>
+	<word weight="0.009397693293464331" count="22">correspondence</word>
+	<word weight="0.00854335753951303" count="20">case</word>
+	<word weight="0.00854335753951303" count="20">services</word>
+	<word weight="0.007689021785561726" count="18">meetings</word>
+	<word weight="0.007261853908586074" count="17">crown</word>
+	<word weight="0.006407518154634771" count="15">visitors</word>
+	<word weight="0.006407518154634771" count="15">administrators</word>
+	<phrase weight="0.22747747747747749" count="101">lord chancellor</phrase>
+	<phrase weight="0.013513513513513514" count="6">legal services ombudsman</phrase>
+	<phrase weight="0.013513513513513514" count="6">lord chancellors</phrase>
+	<phrase weight="0.013513513513513514" count="6">chief clerks</phrase>
+	<phrase weight="0.01126126126126126" count="5">legal aid</phrase>
+	<phrase weight="0.009009009009009009" count="4">rule committee</phrase>
+	<phrase weight="0.009009009009009009" count="4">crown courts</phrase>
+	<phrase weight="0.009009009009009009" count="4">invited comments</phrase>
+	<phrase weight="0.009009009009009009" count="4">individual experts</phrase>
+	<phrase weight="0.009009009009009009" count="4">circuit advisory committee</phrase>
+	<phrase weight="0.009009009009009009" count="4">advocate general</phrase>
+	<phrase weight="0.009009009009009009" count="4">appellate authorities</phrase>
+	<phrase weight="0.009009009009009009" count="4">services ombudsman</phrase>
+	<phrase weight="0.006756756756756757" count="3">dataease database</phrase>
+	<phrase weight="0.006756756756756757" count="3">county court rule committee</phrase>
+	<phrase weight="0.006756756756756757" count="3">legal adviser</phrase>
+	<phrase weight="0.006756756756756757" count="3">legal services</phrase>
+	<phrase weight="0.0045045045045045045" count="2">personal injuries litigation</phrase>
+	<phrase weight="0.0045045045045045045" count="2">parliamentary elections</phrase>
+	<phrase weight="0.0045045045045045045" count="2">war crimes</phrase>
+  </topic>
+</topics>

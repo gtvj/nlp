@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0" totalTokens="65" titles="council, post, users, national, reports, minutes, services, postal, meetings, efficiency">
+	<word weight="0.2" count="13">council</word>
+	<word weight="0.16923076923076924" count="11">post</word>
+	<word weight="0.13846153846153847" count="9">users</word>
+	<word weight="0.12307692307692308" count="8">national</word>
+	<word weight="0.06153846153846154" count="4">reports</word>
+	<word weight="0.046153846153846156" count="3">minutes</word>
+	<word weight="0.03076923076923077" count="2">services</word>
+	<word weight="0.03076923076923077" count="2">postal</word>
+	<word weight="0.03076923076923077" count="2">meetings</word>
+	<word weight="0.015384615384615385" count="1">efficiency</word>
+	<word weight="0.015384615384615385" count="1">charges</word>
+	<word weight="0.015384615384615385" count="1">telephone</word>
+	<word weight="0.015384615384615385" count="1">matter</word>
+	<word weight="0.015384615384615385" count="1">subject</word>
+	<word weight="0.015384615384615385" count="1">proposals</word>
+	<word weight="0.015384615384615385" count="1">annual</word>
+	<word weight="0.015384615384615385" count="1">represented</word>
+	<word weight="0.015384615384615385" count="1">activities</word>
+	<word weight="0.015384615384615385" count="1">monitored</word>
+	<word weight="0.015384615384615385" count="1">pounc</word>
+  </topic>
+</topics>

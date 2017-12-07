@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.4563783458810295" totalTokens="39" titles="adjudicator's, revenue, reports, annual, adjudicators, inland, complaints, http://www.adjudicators.gov.uk, http://www.adjudicatorsoffice.gov.uk, field">
+	<word weight="0.20512820512820512" count="8">adjudicator's</word>
+	<word weight="0.1282051282051282" count="5">revenue</word>
+	<word weight="0.07692307692307693" count="3">reports</word>
+	<word weight="0.07692307692307693" count="3">annual</word>
+	<word weight="0.07692307692307693" count="3">adjudicators</word>
+	<word weight="0.05128205128205128" count="2">inland</word>
+	<word weight="0.05128205128205128" count="2">complaints</word>
+	<word weight="0.02564102564102564" count="1">http://www.adjudicators.gov.uk</word>
+	<word weight="0.02564102564102564" count="1">http://www.adjudicatorsoffice.gov.uk</word>
+	<word weight="0.02564102564102564" count="1">field</word>
+	<word weight="0.02564102564102564" count="1">general</word>
+	<word weight="0.02564102564102564" count="1">government</word>
+	<word weight="0.02564102564102564" count="1">valuation</word>
+	<word weight="0.02564102564102564" count="1">citizens</word>
+	<word weight="0.02564102564102564" count="1">investigation</word>
+	<word weight="0.02564102564102564" count="1">division</word>
+	<word weight="0.02564102564102564" count="1">affairs</word>
+	<word weight="0.02564102564102564" count="1">handle</word>
+	<word weight="0.02564102564102564" count="1">customs</word>
+	<word weight="0.02564102564102564" count="1">citizen</word>
+  </topic>
+</topics>

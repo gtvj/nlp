@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.141911176504887" totalTokens="4325" titles="commonwealth relations, government gazettes, high commission, sessional, dominions, acts, print, confidential, africa, general">
+	<word weight="0.08554913294797688" count="370">commonwealth</word>
+	<word weight="0.057803468208092484" count="250">relations</word>
+	<word weight="0.04971098265895954" count="215">government</word>
+	<word weight="0.047630057803468205" count="206">gazettes</word>
+	<word weight="0.045780346820809246" count="198">sessional</word>
+	<word weight="0.04115606936416185" count="178">dominions</word>
+	<word weight="0.036300578034682084" count="157">acts</word>
+	<word weight="0.03028901734104046" count="131">print</word>
+	<word weight="0.03005780346820809" count="130">confidential</word>
+	<word weight="0.023352601156069363" count="101">high</word>
+	<word weight="0.019653179190751446" count="85">africa</word>
+	<word weight="0.018265895953757227" count="79">general</word>
+	<word weight="0.014335260115606936" count="62">south</word>
+	<word weight="0.011560693641618497" count="50">commission</word>
+	<word weight="0.011329479768786127" count="49">divisions</word>
+	<word weight="0.010635838150289017" count="46">correspondence</word>
+	<word weight="0.010635838150289017" count="46">economic</word>
+	<word weight="0.008786127167630059" count="38">commissioners</word>
+	<word weight="0.008786127167630059" count="38">successors</word>
+	<word weight="0.008092485549132947" count="35">australia</word>
+	<phrase weight="0.20072992700729927" count="165">commonwealth relations</phrase>
+	<phrase weight="0.19343065693430658" count="159">government gazettes</phrase>
+	<phrase weight="0.03527980535279805" count="29">high commission</phrase>
+	<phrase weight="0.015815085158150853" count="13">southern rhodesia</phrase>
+	<phrase weight="0.014598540145985401" count="12">high commissioner</phrase>
+	<phrase weight="0.012165450121654502" count="10">south africa</phrase>
+	<phrase weight="0.010948905109489052" count="9">bechuanaland protectorate</phrase>
+	<phrase weight="0.010948905109489052" count="9">african divisions</phrase>
+	<phrase weight="0.00851581508515815" count="7">west indies</phrase>
+	<phrase weight="0.00851581508515815" count="7">general africa</phrase>
+	<phrase weight="0.00851581508515815" count="7">high commissioners</phrase>
+	<phrase weight="0.00851581508515815" count="7">overseas settlement</phrase>
+	<phrase weight="0.00851581508515815" count="7">aid divisions</phrase>
+	<phrase weight="0.0072992700729927005" count="6">irish free state</phrase>
+	<phrase weight="0.006082725060827251" count="5">middle east</phrase>
+	<phrase weight="0.006082725060827251" count="5">central african</phrase>
+	<phrase weight="0.006082725060827251" count="5">western australia</phrase>
+	<phrase weight="0.006082725060827251" count="5">east africa</phrase>
+	<phrase weight="0.006082725060827251" count="5">south australia</phrase>
+	<phrase weight="0.006082725060827251" count="5">united kingdom</phrase>
+  </topic>
+</topics>

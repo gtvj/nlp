@@ -1,0 +1,36 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="59.2534699532927" totalTokens="95" titles="association, minutes, museums, hk, meetings, annual, council, reports, general, agenda">
+	<word weight="0.12631578947368421" count="12">association</word>
+	<word weight="0.08421052631578947" count="8">minutes</word>
+	<word weight="0.08421052631578947" count="8">museums</word>
+	<word weight="0.07368421052631578" count="7">hk</word>
+	<word weight="0.06315789473684211" count="6">meetings</word>
+	<word weight="0.06315789473684211" count="6">annual</word>
+	<word weight="0.05263157894736842" count="5">council</word>
+	<word weight="0.05263157894736842" count="5">reports</word>
+	<word weight="0.042105263157894736" count="4">general</word>
+	<word weight="0.031578947368421054" count="3">agenda</word>
+	<word weight="0.031578947368421054" count="3">earlier</word>
+	<word weight="0.021052631578947368" count="2">museum</word>
+	<word weight="0.021052631578947368" count="2">activities</word>
+	<word weight="0.021052631578947368" count="2">survived</word>
+	<word weight="0.010526315789473684" count="1">signed</word>
+	<word weight="0.010526315789473684" count="1">notes</word>
+	<word weight="0.010526315789473684" count="1">rough</word>
+	<word weight="0.010526315789473684" count="1">names</word>
+	<word weight="0.010526315789473684" count="1">functions</word>
+	<word weight="0.010526315789473684" count="1">believed</word>
+	<phrase weight="0.25" count="4">museums association</phrase>
+	<phrase weight="0.125" count="2">annual reports</phrase>
+	<phrase weight="0.125" count="2">annual general meetings</phrase>
+	<phrase weight="0.0625" count="1">general purposes committee</phrase>
+	<phrase weight="0.0625" count="1">formal minutes</phrase>
+	<phrase weight="0.0625" count="1">general meetings</phrase>
+	<phrase weight="0.0625" count="1">rough notes</phrase>
+	<phrase weight="0.0625" count="1">association governing</phrase>
+	<phrase weight="0.0625" count="1">museum association</phrase>
+	<phrase weight="0.0625" count="1">reports deal</phrase>
+	<phrase weight="0.0625" count="1">provincial museums</phrase>
+  </topic>
+</topics>

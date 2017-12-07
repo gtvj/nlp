@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="488.06207504661245" totalTokens="99" titles="inquests, july, bombings, london, coroner's, emails, attachments, solicitor, digital, letters">
+	<word weight="0.1111111111111111" count="11">inquests</word>
+	<word weight="0.0707070707070707" count="7">july</word>
+	<word weight="0.0707070707070707" count="7">bombings</word>
+	<word weight="0.0707070707070707" count="7">london</word>
+	<word weight="0.0707070707070707" count="7">coroner's</word>
+	<word weight="0.04040404040404041" count="4">emails</word>
+	<word weight="0.030303030303030304" count="3">attachments</word>
+	<word weight="0.030303030303030304" count="3">solicitor</word>
+	<word weight="0.030303030303030304" count="3">digital</word>
+	<word weight="0.020202020202020204" count="2">letters</word>
+	<word weight="0.020202020202020204" count="2">spreadsheets</word>
+	<word weight="0.010101010101010102" count="1">remain</word>
+	<word weight="0.010101010101010102" count="1">treated</word>
+	<word weight="0.010101010101010102" count="1">presentations</word>
+	<word weight="0.010101010101010102" count="1">powerpoint</word>
+	<word weight="0.010101010101010102" count="1">outlook</word>
+	<word weight="0.010101010101010102" count="1">excel</word>
+	<word weight="0.010101010101010102" count="1">word</word>
+	<word weight="0.010101010101010102" count="1">microsoft</word>
+	<word weight="0.010101010101010102" count="1">images</word>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="16.514218392413365" totalTokens="157" titles="pesticides, safety, directorate, government, meetings, executive, health, regulations, directive, water">
+	<word weight="0.10828025477707007" count="17">pesticides</word>
+	<word weight="0.09554140127388536" count="15">safety</word>
+	<word weight="0.08280254777070063" count="13">directorate</word>
+	<word weight="0.03184713375796178" count="5">government</word>
+	<word weight="0.03184713375796178" count="5">meetings</word>
+	<word weight="0.03184713375796178" count="5">executive</word>
+	<word weight="0.03184713375796178" count="5">health</word>
+	<word weight="0.03184713375796178" count="5">regulations</word>
+	<word weight="0.025477707006369428" count="4">directive</word>
+	<word weight="0.025477707006369428" count="4">water</word>
+	<word weight="0.025477707006369428" count="4">work</word>
+	<word weight="0.01910828025477707" count="3">environment</word>
+	<word weight="0.01910828025477707" count="3">committee</word>
+	<word weight="0.01910828025477707" count="3">advisory</word>
+	<word weight="0.01910828025477707" count="3">chemical</word>
+	<word weight="0.012738853503184714" count="2">centre</word>
+	<word weight="0.012738853503184714" count="2">media</word>
+	<word weight="0.012738853503184714" count="2">hse</word>
+	<word weight="0.012738853503184714" count="2">detergent</word>
+	<word weight="0.012738853503184714" count="2">pollution</word>
+  </topic>
+</topics>

@@ -1,0 +1,33 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="16.90765473692042" totalTokens="122" titles="coastguard, maritime, uk, mca, government, register, ship, www, zone, activity">
+	<word weight="0.1557377049180328" count="19">coastguard</word>
+	<word weight="0.1557377049180328" count="19">maritime</word>
+	<word weight="0.11475409836065574" count="14">uk</word>
+	<word weight="0.10655737704918032" count="13">mca</word>
+	<word weight="0.05737704918032787" count="7">government</word>
+	<word weight="0.03278688524590164" count="4">register</word>
+	<word weight="0.03278688524590164" count="4">ship</word>
+	<word weight="0.02459016393442623" count="3">gov</word>
+	<word weight="0.02459016393442623" count="3">www</word>
+	<word weight="0.01639344262295082" count="2">zone</word>
+	<word weight="0.01639344262295082" count="2">activity</word>
+	<word weight="0.01639344262295082" count="2">kid</word>
+	<word weight="0.01639344262295082" count="2">group</word>
+	<word weight="0.01639344262295082" count="2">ensign</word>
+	<word weight="0.01639344262295082" count="2">red</word>
+	<word weight="0.01639344262295082" count="2">smart</word>
+	<word weight="0.01639344262295082" count="2">sea</word>
+	<word weight="0.01639344262295082" count="2">video</word>
+	<word weight="0.01639344262295082" count="2">online</word>
+	<word weight="0.01639344262295082" count="2">podcasts</word>
+	<phrase weight="0.3125" count="5">uk government</phrase>
+	<phrase weight="0.125" count="2">ship register</phrase>
+	<phrase weight="0.125" count="2">uk ship register</phrase>
+	<phrase weight="0.125" count="2">activity zone</phrase>
+	<phrase weight="0.125" count="2">news podcasts</phrase>
+	<phrase weight="0.0625" count="1">ensign group</phrase>
+	<phrase weight="0.0625" count="1">red ensign group</phrase>
+	<phrase weight="0.0625" count="1">sea smart</phrase>
+  </topic>
+</topics>

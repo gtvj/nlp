@@ -1,0 +1,14 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="3.720742158406821" totalTokens="19" titles="society, roll, pipe, site, stock, library, ">
+	<word weight="0.21052631578947367" count="4">society</word>
+	<word weight="0.21052631578947367" count="4">roll</word>
+	<word weight="0.21052631578947367" count="4">pipe</word>
+	<word weight="0.15789473684210525" count="3">site</word>
+	<word weight="0.15789473684210525" count="3">stock</word>
+	<word weight="0.05263157894736842" count="1">library</word>
+	<phrase weight="0.5" count="2">pipe roll society stock</phrase>
+	<phrase weight="0.25" count="1">library stock</phrase>
+	<phrase weight="0.25" count="1">pipe roll society</phrase>
+  </topic>
+</topics>

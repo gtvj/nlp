@@ -1,0 +1,36 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="17.13656206972692" totalTokens="131" titles="authority, standards, parliamentary, independent, ipsa, uk, government, consultation, expenses, officer">
+	<word weight="0.15267175572519084" count="20">authority</word>
+	<word weight="0.15267175572519084" count="20">standards</word>
+	<word weight="0.15267175572519084" count="20">parliamentary</word>
+	<word weight="0.15267175572519084" count="20">independent</word>
+	<word weight="0.07633587786259542" count="10">ipsa</word>
+	<word weight="0.061068702290076333" count="8">uk</word>
+	<word weight="0.04580152671755725" count="6">government</word>
+	<word weight="0.015267175572519083" count="2">consultation</word>
+	<word weight="0.015267175572519083" count="2">expenses</word>
+	<word weight="0.015267175572519083" count="2">officer</word>
+	<word weight="0.015267175572519083" count="2">compliance</word>
+	<word weight="0.015267175572519083" count="2">programme</word>
+	<word weight="0.015267175572519083" count="2">implementation</word>
+	<word weight="0.015267175572519083" count="2">recruitment</word>
+	<word weight="0.015267175572519083" count="2">publication</word>
+	<word weight="0.015267175572519083" count="2">org</word>
+	<word weight="0.015267175572519083" count="2">www</word>
+	<word weight="0.015267175572519083" count="2">http</word>
+	<word weight="0.007633587786259542" count="1">division</word>
+	<word weight="0.007633587786259542" count="1">theipsa</word>
+	<phrase weight="0.29411764705882354" count="5">independent parliamentary standards authority</phrase>
+	<phrase weight="0.17647058823529413" count="3">parliamentary standards authority</phrase>
+	<phrase weight="0.058823529411764705" count="1">parliamentary standards authority publication</phrase>
+	<phrase weight="0.058823529411764705" count="1">independent parliamentary standards authority recruitment</phrase>
+	<phrase weight="0.058823529411764705" count="1">independent parliamentary standards authority implementation programme</phrase>
+	<phrase weight="0.058823529411764705" count="1">independent parliamentary standards authority publication</phrase>
+	<phrase weight="0.058823529411764705" count="1">uk government</phrase>
+	<phrase weight="0.058823529411764705" count="1">parliamentary standards authority recruitment</phrase>
+	<phrase weight="0.058823529411764705" count="1">expenses consultation</phrase>
+	<phrase weight="0.058823529411764705" count="1">compliance officer</phrase>
+	<phrase weight="0.058823529411764705" count="1">parliamentary standards authority implementation programme</phrase>
+  </topic>
+</topics>

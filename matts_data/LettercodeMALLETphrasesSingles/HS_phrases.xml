@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.047539522404666" totalTokens="1351" titles="index, soe, cards, operations, executive, special, nominal, subject, personnel, agents">
+	<word weight="0.04219096965210955" count="57">index</word>
+	<word weight="0.037009622501850484" count="50">soe</word>
+	<word weight="0.03478904515173945" count="47">cards</word>
+	<word weight="0.033308660251665435" count="45">operations</word>
+	<word weight="0.023686158401184307" count="32">executive</word>
+	<word weight="0.0229459659511473" count="31">special</word>
+	<word weight="0.01628423390081421" count="22">nominal</word>
+	<word weight="0.014063656550703183" count="19">subject</word>
+	<word weight="0.012583271650629163" count="17">personnel</word>
+	<word weight="0.011843079200592153" count="16">card</word>
+	<word weight="0.010362694300518135" count="14">agents</word>
+	<word weight="0.010362694300518135" count="14">war</word>
+	<word weight="0.009622501850481125" count="13">subjects</word>
+	<word weight="0.008882309400444115" count="12">activities</word>
+	<word weight="0.008882309400444115" count="12">section</word>
+	<word weight="0.008142116950407105" count="11">sections</word>
+	<word weight="0.008142116950407105" count="11">contacts</word>
+	<word weight="0.007401924500370096" count="10">number</word>
+	<word weight="0.007401924500370096" count="10">field</word>
+	<word weight="0.006661732050333087" count="9">east</word>
+  </topic>
+</topics>

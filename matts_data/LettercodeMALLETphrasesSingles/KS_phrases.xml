@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0561464845708917" totalTokens="69" titles="radiocommunications, division, services, legal, reports, industry, trade, spectrum, annual, publications">
+	<word weight="0.11594202898550725" count="8">radiocommunications</word>
+	<word weight="0.07246376811594203" count="5">radio</word>
+	<word weight="0.057971014492753624" count="4">division</word>
+	<word weight="0.043478260869565216" count="3">services</word>
+	<word weight="0.043478260869565216" count="3">legal</word>
+	<word weight="0.043478260869565216" count="3">reports</word>
+	<word weight="0.043478260869565216" count="3">industry</word>
+	<word weight="0.043478260869565216" count="3">trade</word>
+	<word weight="0.028985507246376812" count="2">spectrum</word>
+	<word weight="0.028985507246376812" count="2">annual</word>
+	<word weight="0.028985507246376812" count="2">publications</word>
+	<word weight="0.014492753623188406" count="1">phones</word>
+	<word weight="0.014492753623188406" count="1">mobile</word>
+	<word weight="0.014492753623188406" count="1">generation</word>
+	<word weight="0.014492753623188406" count="1">sale</word>
+	<word weight="0.014492753623188406" count="1">caroline</word>
+	<word weight="0.014492753623188406" count="1">home</word>
+	<word weight="0.014492753623188406" count="1">ship</word>
+	<word weight="0.014492753623188406" count="1">revenge</word>
+	<word weight="0.014492753623188406" count="1">ross</word>
+  </topic>
+</topics>

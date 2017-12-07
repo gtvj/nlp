@@ -1,0 +1,35 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="12.054238432654556" totalTokens="131" titles="ofcom, uk, government, communications, committee, advisory, org, www, england, stakeholders">
+	<word weight="0.3053435114503817" count="40">ofcom</word>
+	<word weight="0.10687022900763359" count="14">uk</word>
+	<word weight="0.0916030534351145" count="12">government</word>
+	<word weight="0.07633587786259542" count="10">communications</word>
+	<word weight="0.04580152671755725" count="6">committee</word>
+	<word weight="0.04580152671755725" count="6">advisory</word>
+	<word weight="0.015267175572519083" count="2">org</word>
+	<word weight="0.015267175572519083" count="2">www</word>
+	<word weight="0.015267175572519083" count="2">england</word>
+	<word weight="0.015267175572519083" count="2">stakeholders</word>
+	<word weight="0.015267175572519083" count="2">people</word>
+	<word weight="0.015267175572519083" count="2">disabled</word>
+	<word weight="0.015267175572519083" count="2">older</word>
+	<word weight="0.015267175572519083" count="2">analysts</word>
+	<word weight="0.015267175572519083" count="2">media</word>
+	<word weight="0.015267175572519083" count="2">updates</word>
+	<word weight="0.015267175572519083" count="2">news</word>
+	<word weight="0.015267175572519083" count="2">board</word>
+	<word weight="0.015267175572519083" count="2">licensing</word>
+	<word weight="0.015267175572519083" count="2">services</word>
+	<phrase weight="0.36" count="9">uk government</phrase>
+	<phrase weight="0.2" count="5">ofcom advisory committee</phrase>
+	<phrase weight="0.08" count="2">postal services</phrase>
+	<phrase weight="0.08" count="2">ofcom media</phrase>
+	<phrase weight="0.08" count="2">disabled people</phrase>
+	<phrase weight="0.04" count="1">communications consumer panel</phrase>
+	<phrase weight="0.04" count="1">consumer panel</phrase>
+	<phrase weight="0.04" count="1">advisory committee</phrase>
+	<phrase weight="0.04" count="1">ofcom licensing</phrase>
+	<phrase weight="0.04" count="1">ofcom stakeholders</phrase>
+  </topic>
+</topics>

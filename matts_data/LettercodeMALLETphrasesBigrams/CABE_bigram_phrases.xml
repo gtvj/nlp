@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.031174225839443" totalTokens="671" titles="cabe, design, environment, built, architecture, commission, space, research, development, planning">
+	<word weight="0.07302533532041729" count="49">cabe</word>
+	<word weight="0.041728763040238454" count="28">design</word>
+	<word weight="0.040238450074515646" count="27">environment</word>
+	<word weight="0.038748137108792845" count="26">built</word>
+	<word weight="0.029806259314456036" count="20">architecture</word>
+	<word weight="0.029806259314456036" count="20">commission</word>
+	<word weight="0.02533532041728763" count="17">space</word>
+	<word weight="0.02384500745156483" count="16">research</word>
+	<word weight="0.019374068554396422" count="13">development</word>
+	<word weight="0.01788375558867362" count="12">planning</word>
+	<word weight="0.01639344262295082" count="11">skills</word>
+	<word weight="0.01639344262295082" count="11">work</word>
+	<word weight="0.014903129657228018" count="10">projects</word>
+	<word weight="0.014903129657228018" count="10">programme</word>
+	<word weight="0.014903129657228018" count="10">public</word>
+	<word weight="0.011922503725782414" count="8">building</word>
+	<word weight="0.011922503725782414" count="8">management</word>
+	<word weight="0.010432190760059613" count="7">programmes</word>
+	<word weight="0.00894187779433681" count="6">evaluation</word>
+	<word weight="0.00894187779433681" count="6">government</word>
+	<phrase weight="0.13076923076923078" count="17">built environment</phrase>
+	<phrase weight="0.023076923076923078" count="3">urban design</phrase>
+	<phrase weight="0.023076923076923078" count="3">planning advice</phrase>
+	<phrase weight="0.015384615384615385" count="2">uk government</phrase>
+	<phrase weight="0.015384615384615385" count="2">cabe space</phrase>
+	<phrase weight="0.015384615384615385" count="2">skills development</phrase>
+	<phrase weight="0.015384615384615385" count="2">campaign reports</phrase>
+	<phrase weight="0.015384615384615385" count="2">inclusive design team</phrase>
+	<phrase weight="0.015384615384615385" count="2">handover notes</phrase>
+	<phrase weight="0.015384615384615385" count="2">direct impact</phrase>
+	<phrase weight="0.015384615384615385" count="2">public space strategy</phrase>
+	<phrase weight="0.007692307692307693" count="1">initiative jointly initiated</phrase>
+	<phrase weight="0.007692307692307693" count="1">development framework workshops</phrase>
+	<phrase weight="0.007692307692307693" count="1">projects managed</phrase>
+	<phrase weight="0.007692307692307693" count="1">policy development function</phrase>
+	<phrase weight="0.007692307692307693" count="1">space leaders programme</phrase>
+	<phrase weight="0.007692307692307693" count="1">research projects exploring</phrase>
+	<phrase weight="0.007692307692307693" count="1">tall buildings</phrase>
+	<phrase weight="0.007692307692307693" count="1">project management</phrase>
+	<phrase weight="0.007692307692307693" count="1">british architects</phrase>
+  </topic>
+</topics>

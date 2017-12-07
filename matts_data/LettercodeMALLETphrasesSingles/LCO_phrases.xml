@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.369780090983099" totalTokens="2322" titles="lord, chancellor's, legal, committee, administrative, committees, circuit, courts, minutes, administration">
+	<word weight="0.05598621877691645" count="130">lord</word>
+	<word weight="0.04608096468561585" count="107">chancellor's</word>
+	<word weight="0.02153316106804479" count="50">legal</word>
+	<word weight="0.021102497846683894" count="49">committee</word>
+	<word weight="0.014211886304909561" count="33">administrative</word>
+	<word weight="0.013781223083548665" count="32">committees</word>
+	<word weight="0.013781223083548665" count="32">circuit</word>
+	<word weight="0.012919896640826873" count="30">courts</word>
+	<word weight="0.012489233419465978" count="29">court</word>
+	<word weight="0.012489233419465978" count="29">minutes</word>
+	<word weight="0.010766580534022395" count="25">administration</word>
+	<word weight="0.0103359173126615" count="24">county</word>
+	<word weight="0.009905254091300603" count="23">central</word>
+	<word weight="0.00904392764857881" count="21">correspondence</word>
+	<word weight="0.008613264427217916" count="20">case</word>
+	<word weight="0.008613264427217916" count="20">services</word>
+	<word weight="0.007751937984496124" count="18">meetings</word>
+	<word weight="0.007321274763135229" count="17">crown</word>
+	<word weight="0.0068906115417743325" count="16">chancellor</word>
+	<word weight="0.006459948320413436" count="15">visitors</word>
+  </topic>
+</topics>

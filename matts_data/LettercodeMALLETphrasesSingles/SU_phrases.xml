@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.791097907544591" totalTokens="687" titles="energy, change, climate, government, climage, nuclear, waste, oil, decc, radioactive">
+	<word weight="0.13682678311499272" count="94">energy</word>
+	<word weight="0.12518195050946143" count="86">change</word>
+	<word weight="0.10334788937409024" count="71">climate</word>
+	<word weight="0.07714701601164484" count="53">government</word>
+	<word weight="0.021834061135371178" count="15">climage</word>
+	<word weight="0.017467248908296942" count="12">nuclear</word>
+	<word weight="0.01455604075691412" count="10">waste</word>
+	<word weight="0.013100436681222707" count="9">oil</word>
+	<word weight="0.013100436681222707" count="9">decc</word>
+	<word weight="0.011644832605531296" count="8">radioactive</word>
+	<word weight="0.010189228529839884" count="7">gas</word>
+	<word weight="0.008733624454148471" count="6">tools</word>
+	<word weight="0.008733624454148471" count="6">field</word>
+	<word weight="0.008733624454148471" count="6">general</word>
+	<word weight="0.008733624454148471" count="6">scheme</word>
+	<word weight="0.008733624454148471" count="6">heat</word>
+	<word weight="0.008733624454148471" count="6">production</word>
+	<word weight="0.00727802037845706" count="5">national</word>
+	<word weight="0.00727802037845706" count="5">magnox</word>
+	<word weight="0.005822416302765648" count="4">committee</word>
+  </topic>
+</topics>

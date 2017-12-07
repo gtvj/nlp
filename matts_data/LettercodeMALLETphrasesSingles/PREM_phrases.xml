@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.751404641018019" totalTokens="840" titles="prime, minister's, government, street, downing, number, correspondence, administration, committee, appointments">
+	<word weight="0.13095238095238096" count="110">prime</word>
+	<word weight="0.10714285714285714" count="90">minister's</word>
+	<word weight="0.03571428571428571" count="30">government</word>
+	<word weight="0.034523809523809526" count="29">street</word>
+	<word weight="0.034523809523809526" count="29">downing</word>
+	<word weight="0.023809523809523808" count="20">minister</word>
+	<word weight="0.013095238095238096" count="11">number</word>
+	<word weight="0.013095238095238096" count="11">correspondence</word>
+	<word weight="0.009523809523809525" count="8">administration</word>
+	<word weight="0.008333333333333333" count="7">committee</word>
+	<word weight="0.008333333333333333" count="7">appointments</word>
+	<word weight="0.007142857142857143" count="6">day</word>
+	<word weight="0.007142857142857143" count="6">work</word>
+	<word weight="0.007142857142857143" count="6">speech</word>
+	<word weight="0.005952380952380952" count="5">honours</word>
+	<word weight="0.005952380952380952" count="5">diaries</word>
+	<word weight="0.005952380952380952" count="5">relate</word>
+	<word weight="0.005952380952380952" count="5">official</word>
+	<word weight="0.004761904761904762" count="4">blair</word>
+	<word weight="0.004761904761904762" count="4">tony</word>
+  </topic>
+</topics>

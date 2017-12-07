@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.63739214016262" totalTokens="1110" titles="commissioners, decisions, security, social, insurance, national, benefit, allowance, family, support">
+	<word weight="0.15675675675675677" count="174">commissioners</word>
+	<word weight="0.062162162162162166" count="69">decisions</word>
+	<word weight="0.05765765765765766" count="64">security</word>
+	<word weight="0.05765765765765766" count="64">social</word>
+	<word weight="0.04594594594594595" count="51">insurance</word>
+	<word weight="0.04504504504504504" count="50">national</word>
+	<word weight="0.04054054054054054" count="45">benefit</word>
+	<word weight="0.032432432432432434" count="36">allowance</word>
+	<word weight="0.02972972972972973" count="33">family</word>
+	<word weight="0.023423423423423424" count="26">support</word>
+	<word weight="0.018018018018018018" count="20">scotland</word>
+	<word weight="0.018018018018018018" count="20">child</word>
+	<word weight="0.017117117117117116" count="19">income</word>
+	<word weight="0.016216216216216217" count="18">successors</word>
+	<word weight="0.015315315315315315" count="17">appeals</word>
+	<word weight="0.013513513513513514" count="15">prefixes</word>
+	<word weight="0.012612612612612612" count="14">starred</word>
+	<word weight="0.011711711711711712" count="13">industrial</word>
+	<word weight="0.011711711711711712" count="13">wales</word>
+	<word weight="0.011711711711711712" count="13">attendance</word>
+  </topic>
+</topics>

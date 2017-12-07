@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.858213828089217" totalTokens="273" titles="land, registry, uk, data, government, books, index, price, practice, house">
+	<word weight="0.1794871794871795" count="49">land</word>
+	<word weight="0.17582417582417584" count="48">registry</word>
+	<word weight="0.05128205128205128" count="14">uk</word>
+	<word weight="0.04395604395604396" count="12">data</word>
+	<word weight="0.040293040293040296" count="11">government</word>
+	<word weight="0.03296703296703297" count="9">books</word>
+	<word weight="0.03296703296703297" count="9">index</word>
+	<word weight="0.029304029304029304" count="8">price</word>
+	<word weight="0.02564102564102564" count="7">practice</word>
+	<word weight="0.02197802197802198" count="6">house</word>
+	<word weight="0.018315018315018316" count="5">division</word>
+	<word weight="0.014652014652014652" count="4">plans</word>
+	<word weight="0.014652014652014652" count="4">map</word>
+	<word weight="0.014652014652014652" count="4">linked</word>
+	<word weight="0.01098901098901099" count="3">legal</word>
+	<word weight="0.01098901098901099" count="3">reports</word>
+	<word weight="0.01098901098901099" count="3">registrar</word>
+	<word weight="0.01098901098901099" count="3">chief</word>
+	<word weight="0.01098901098901099" count="3">gov</word>
+	<word weight="0.01098901098901099" count="3">www</word>
+	<phrase weight="0.2222222222222222" count="12">land registry</phrase>
+	<phrase weight="0.037037037037037035" count="2">map books</phrase>
+	<phrase weight="0.037037037037037035" count="2">uk government</phrase>
+	<phrase weight="0.037037037037037035" count="2">house price index</phrase>
+	<phrase weight="0.037037037037037035" count="2">annual reports</phrase>
+	<phrase weight="0.037037037037037035" count="2">practice division</phrase>
+	<phrase weight="0.018518518518518517" count="1">land registry blog</phrase>
+	<phrase weight="0.018518518518518517" count="1">general administration</phrase>
+	<phrase weight="0.018518518518518517" count="1">land registrar</phrase>
+	<phrase weight="0.018518518518518517" count="1">ordnance survey map</phrase>
+	<phrase weight="0.018518518518518517" count="1">registry portal login</phrase>
+	<phrase weight="0.018518518518518517" count="1">registry public data</phrase>
+	<phrase weight="0.018518518518518517" count="1">middlesex deeds registry</phrase>
+	<phrase weight="0.018518518518518517" count="1">land registry portal login</phrase>
+	<phrase weight="0.018518518518518517" count="1">parcels books</phrase>
+	<phrase weight="0.018518518518518517" count="1">registry price paid data</phrase>
+	<phrase weight="0.018518518518518517" count="1">middlesex registry</phrase>
+	<phrase weight="0.018518518518518517" count="1">plans practice books</phrase>
+	<phrase weight="0.018518518518518517" count="1">land registry house price index data</phrase>
+	<phrase weight="0.018518518518518517" count="1">registry house price search</phrase>
+  </topic>
+</topics>

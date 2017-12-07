@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.255587933509687" totalTokens="441" titles="ukti, investment, trade, government, business, showcase, organisation, defence, exporting, great">
+	<word weight="0.23809523809523808" count="105">ukti</word>
+	<word weight="0.14285714285714285" count="63">investment</word>
+	<word weight="0.14285714285714285" count="63">trade</word>
+	<word weight="0.08390022675736962" count="37">government</word>
+	<word weight="0.022675736961451247" count="10">business</word>
+	<word weight="0.009070294784580499" count="4">showcase</word>
+	<word weight="0.009070294784580499" count="4">organisation</word>
+	<word weight="0.009070294784580499" count="4">defence</word>
+	<word weight="0.009070294784580499" count="4">exporting</word>
+	<word weight="0.009070294784580499" count="4">great</word>
+	<word weight="0.009070294784580499" count="4">global</word>
+	<word weight="0.009070294784580499" count="4">export</word>
+	<word weight="0.009070294784580499" count="4">british</word>
+	<word weight="0.009070294784580499" count="4">asia</word>
+	<word weight="0.009070294784580499" count="4">world</word>
+	<word weight="0.009070294784580499" count="4">technology</word>
+	<word weight="0.009070294784580499" count="4">events</word>
+	<word weight="0.006802721088435374" count="3">entrepreneurs</word>
+	<word weight="0.0045351473922902496" count="2">cdms</word>
+	<word weight="0.0045351473922902496" count="2">china</word>
+  </topic>
+</topics>

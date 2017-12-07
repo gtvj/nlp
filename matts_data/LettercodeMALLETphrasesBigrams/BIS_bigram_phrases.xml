@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.226061787523595" totalTokens="2386" titles="uk government, skills, bis, business, innovation, east, midlands, service, funding, general">
+	<word weight="0.09052808046940486" count="216">skills</word>
+	<word weight="0.08968985750209556" count="214">uk</word>
+	<word weight="0.0892707460184409" count="213">bis</word>
+	<word weight="0.08172673931265717" count="195">business</word>
+	<word weight="0.08005029337803855" count="191">innovation</word>
+	<word weight="0.07041072925398156" count="168">government</word>
+	<word weight="0.016764459346186086" count="40">east</word>
+	<word weight="0.01173512154233026" count="28">midlands</word>
+	<word weight="0.010058675607711651" count="24">service</word>
+	<word weight="0.009639564124056999" count="23">funding</word>
+	<word weight="0.008801341156747695" count="21">general</word>
+	<word weight="0.008382229673093043" count="20">west</word>
+	<word weight="0.008382229673093043" count="20">field</word>
+	<word weight="0.00796311818943839" count="19">http</word>
+	<word weight="0.0075440067057837385" count="18">south</word>
+	<word weight="0.0075440067057837385" count="18">nextstep</word>
+	<word weight="0.0075440067057837385" count="18">www</word>
+	<word weight="0.006705783738474434" count="16">training</word>
+	<word weight="0.006286672254819782" count="15">board</word>
+	<word weight="0.006286672254819782" count="15">gov</word>
+	<phrase weight="0.2650918635170604" count="101">uk government</phrase>
+	<phrase weight="0.049868766404199474" count="19">skills funding</phrase>
+	<phrase weight="0.02099737532808399" count="8">east midlands</phrase>
+	<phrase weight="0.01837270341207349" count="7">engineering construction industry training board</phrase>
+	<phrase weight="0.015748031496062992" count="6">uk resource centre</phrase>
+	<phrase weight="0.015748031496062992" count="6">manufacturing advisory service</phrase>
+	<phrase weight="0.013123359580052493" count="5">technology strategy board</phrase>
+	<phrase weight="0.010498687664041995" count="4">south west</phrase>
+	<phrase weight="0.010498687664041995" count="4">credit framework</phrase>
+	<phrase weight="0.010498687664041995" count="4">data service</phrase>
+	<phrase weight="0.007874015748031496" count="3">catapult programme</phrase>
+	<phrase weight="0.007874015748031496" count="3">national training awards</phrase>
+	<phrase weight="0.007874015748031496" count="3">advice resources</phrase>
+	<phrase weight="0.007874015748031496" count="3">business companion</phrase>
+	<phrase weight="0.007874015748031496" count="3">companies house</phrase>
+	<phrase weight="0.007874015748031496" count="3">news releases</phrase>
+	<phrase weight="0.007874015748031496" count="3">archaeology data service</phrase>
+	<phrase weight="0.007874015748031496" count="3">uk space</phrase>
+	<phrase weight="0.005249343832020997" count="2">nextstep east</phrase>
+	<phrase weight="0.005249343832020997" count="2">strategic futures training</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.5222252113132555" totalTokens="1214" titles="pensions, officers, paymaster, naval, allowances, army, general's, royal, widows, civil">
+	<word weight="0.060955518945634266" count="74">pensions</word>
+	<word weight="0.04036243822075782" count="49">officers</word>
+	<word weight="0.032948929159802305" count="40">paymaster</word>
+	<word weight="0.028830313014827018" count="35">naval</word>
+	<word weight="0.028830313014827018" count="35">allowances</word>
+	<word weight="0.026359143327841845" count="32">army</word>
+	<word weight="0.023887973640856673" count="29">pay</word>
+	<word weight="0.0214168039538715" count="26">general's</word>
+	<word weight="0.01729818780889621" count="21">royal</word>
+	<word weight="0.01729818780889621" count="21">widows</word>
+	<word weight="0.015650741350906095" count="19">civil</word>
+	<word weight="0.014827018121911038" count="18">services</word>
+	<word weight="0.012355848434925865" count="15">general</word>
+	<word weight="0.012355848434925865" count="15">half</word>
+	<word weight="0.011532125205930808" count="14">payments</word>
+	<word weight="0.011532125205930808" count="14">warrant</word>
+	<word weight="0.01070840197693575" count="13">books</word>
+	<word weight="0.01070840197693575" count="13">retired</word>
+	<word weight="0.009060955518945634" count="11">paid</word>
+	<word weight="0.009060955518945634" count="11">registers</word>
+  </topic>
+</topics>

@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.224927077024336" totalTokens="4653" titles="general register, national statistics, uk government, rg, census, population, registration, registers, returns, deaths">
+	<word weight="0.04534708790027939" count="211">rg</word>
+	<word weight="0.03266709649688373" count="152">general</word>
+	<word weight="0.026434558349451968" count="123">register</word>
+	<word weight="0.018912529550827423" count="88">statistics</word>
+	<word weight="0.018482699333763165" count="86">census</word>
+	<word weight="0.014399312271652698" count="67">population</word>
+	<word weight="0.014184397163120567" count="66">national</word>
+	<word weight="0.013109821620459918" count="61">registration</word>
+	<word weight="0.012250161186331399" count="57">registers</word>
+	<word weight="0.01182033096926714" count="55">uk</word>
+	<word weight="0.01139050075220288" count="53">returns</word>
+	<word weight="0.01053084031807436" count="49">deaths</word>
+	<word weight="0.01053084031807436" count="49">government</word>
+	<word weight="0.009241349666881582" count="43">ons</word>
+	<word weight="0.007736943907156673" count="36">death</word>
+	<word weight="0.007522028798624543" count="35">births</word>
+	<word weight="0.007522028798624543" count="35">data</word>
+	<word weight="0.007307113690092413" count="34">censuses</word>
+	<word weight="0.006877283473028154" count="32">surveys</word>
+	<word weight="0.006662368364496024" count="31">marriages</word>
+	<phrase weight="0.08751458576429405" count="75">general register</phrase>
+	<phrase weight="0.029171528588098017" count="25">national statistics</phrase>
+	<phrase weight="0.028004667444574097" count="24">uk government</phrase>
+	<phrase weight="0.01633605600933489" count="14">population censuses</phrase>
+	<phrase weight="0.011668611435239206" count="10">searched online</phrase>
+	<phrase weight="0.011668611435239206" count="10">channel islands</phrase>
+	<phrase weight="0.010501750291715286" count="9">royal navy</phrase>
+	<phrase weight="0.010501750291715286" count="9">individual members</phrase>
+	<phrase weight="0.009334889148191364" count="8">electronic images</phrase>
+	<phrase weight="0.009334889148191364" count="8">registrar general</phrase>
+	<phrase weight="0.009334889148191364" count="8">returns enumerators</phrase>
+	<phrase weight="0.008168028004667444" count="7">historic deaths tables</phrase>
+	<phrase weight="0.007001166861143524" count="6">ports abroad</phrase>
+	<phrase weight="0.005834305717619603" count="5">population estimates</phrase>
+	<phrase weight="0.005834305717619603" count="5">census statistics</phrase>
+	<phrase weight="0.005834305717619603" count="5">local authorities</phrase>
+	<phrase weight="0.005834305717619603" count="5">statistics division</phrase>
+	<phrase weight="0.005834305717619603" count="5">national registration</phrase>
+	<phrase weight="0.004667444574095682" count="4">coloured school leavers</phrase>
+	<phrase weight="0.004667444574095682" count="4">religious worship certifying act</phrase>
+  </topic>
+</topics>

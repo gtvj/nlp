@@ -1,0 +1,23 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0" totalTokens="63" titles="council, services, postal, consumer, postwatch, meetings, minutes, snapshot, wide, world">
+	<word weight="0.1746031746031746" count="11">council</word>
+	<word weight="0.12698412698412698" count="8">services</word>
+	<word weight="0.12698412698412698" count="8">postal</word>
+	<word weight="0.12698412698412698" count="8">consumer</word>
+	<word weight="0.1111111111111111" count="7">postwatch</word>
+	<word weight="0.06349206349206349" count="4">meetings</word>
+	<word weight="0.047619047619047616" count="3">minutes</word>
+	<word weight="0.031746031746031744" count="2">snapshot</word>
+	<word weight="0.031746031746031744" count="2">wide</word>
+	<word weight="0.031746031746031744" count="2">world</word>
+	<word weight="0.015873015873015872" count="1">june</word>
+	<word weight="0.015873015873015872" count="1">captured</word>
+	<word weight="0.015873015873015872" count="1">division</word>
+	<word weight="0.015873015873015872" count="1">committee</word>
+	<word weight="0.015873015873015872" count="1">london</word>
+	<word weight="0.015873015873015872" count="1">greater</word>
+	<word weight="0.015873015873015872" count="1">resulting</word>
+	<word weight="0.015873015873015872" count="1">government</word>
+  </topic>
+</topics>

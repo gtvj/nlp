@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.5642185711594685" totalTokens="337" titles="remploy, reports, manager, meetings, employment, group, annual, persons, disabled, agreements">
+	<word weight="0.10979228486646884" count="37">remploy</word>
+	<word weight="0.02967359050445104" count="10">reports</word>
+	<word weight="0.020771513353115726" count="7">manager</word>
+	<word weight="0.020771513353115726" count="7">meetings</word>
+	<word weight="0.020771513353115726" count="7">employment</word>
+	<word weight="0.017804154302670624" count="6">group</word>
+	<word weight="0.017804154302670624" count="6">annual</word>
+	<word weight="0.017804154302670624" count="6">persons</word>
+	<word weight="0.017804154302670624" count="6">disabled</word>
+	<word weight="0.01483679525222552" count="5">agreements</word>
+	<word weight="0.01483679525222552" count="5">correspondence</word>
+	<word weight="0.01483679525222552" count="5">corporation</word>
+	<word weight="0.01483679525222552" count="5">board</word>
+	<word weight="0.011869436201780416" count="4">schedules</word>
+	<word weight="0.011869436201780416" count="4">articles</word>
+	<word weight="0.011869436201780416" count="4">monthly</word>
+	<word weight="0.011869436201780416" count="4">financial</word>
+	<word weight="0.011869436201780416" count="4">products</word>
+	<word weight="0.011869436201780416" count="4">director's</word>
+	<word weight="0.011869436201780416" count="4">miscellaneous</word>
+  </topic>
+</topics>

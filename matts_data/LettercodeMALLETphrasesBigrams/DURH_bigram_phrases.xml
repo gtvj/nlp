@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.741611636644313" totalTokens="2039" titles="court, durham, chancery, palatinate, pleas, common, equity, cursitor, assizes, books">
+	<word weight="0.04413928396272683" count="90">court</word>
+	<word weight="0.04119666503187837" count="84">durham</word>
+	<word weight="0.029426189308484552" count="60">chancery</word>
+	<word weight="0.018146150073565473" count="37">palatinate</word>
+	<word weight="0.016184404119666502" count="33">pleas</word>
+	<word weight="0.016184404119666502" count="33">common</word>
+	<word weight="0.010789602746444336" count="22">equity</word>
+	<word weight="0.010299166257969592" count="21">cursitor</word>
+	<word weight="0.00980872976949485" count="20">assizes</word>
+	<word weight="0.008827856792545365" count="18">books</word>
+	<word weight="0.008827856792545365" count="18">courts</word>
+	<word weight="0.008827856792545365" count="18">depositions</word>
+	<word weight="0.00784698381559588" count="16">chancellor</word>
+	<word weight="0.00784698381559588" count="16">century</word>
+	<word weight="0.00784698381559588" count="16">law</word>
+	<word weight="0.00784698381559588" count="16">cases</word>
+	<word weight="0.006866110838646395" count="14">commissioners</word>
+	<word weight="0.006866110838646395" count="14">rolls</word>
+	<word weight="0.006866110838646395" count="14">defendant</word>
+	<word weight="0.006866110838646395" count="14">proceedings</word>
+	<phrase weight="0.05964912280701754" count="17">chancery court</phrase>
+	<phrase weight="0.0456140350877193" count="13">common law</phrase>
+	<phrase weight="0.021052631578947368" count="6">durham chancery court</phrase>
+	<phrase weight="0.014035087719298246" count="4">equity proceedings</phrase>
+	<phrase weight="0.010526315789473684" count="3">enclosure awards</phrase>
+	<phrase weight="0.010526315789473684" count="3">quarter sessions</phrase>
+	<phrase weight="0.007017543859649123" count="2">jury lists</phrase>
+	<phrase weight="0.007017543859649123" count="2">minute books</phrase>
+	<phrase weight="0.007017543859649123" count="2">criminal proceedings</phrase>
+	<phrase weight="0.007017543859649123" count="2">county palatine</phrase>
+	<phrase weight="0.007017543859649123" count="2">eighteenth century</phrase>
+	<phrase weight="0.007017543859649123" count="2">official business</phrase>
+	<phrase weight="0.007017543859649123" count="2">nineteenth century</phrase>
+	<phrase weight="0.007017543859649123" count="2">petitions addressed</phrase>
+	<phrase weight="0.007017543859649123" count="2">draft judgments</phrase>
+	<phrase weight="0.007017543859649123" count="2">gaol delivery</phrase>
+	<phrase weight="0.007017543859649123" count="2">durham court</phrase>
+	<phrase weight="0.007017543859649123" count="2">gaol delivery rolls</phrase>
+	<phrase weight="0.007017543859649123" count="2">common land</phrase>
+	<phrase weight="0.0035087719298245615" count="1">court sessions</phrase>
+  </topic>
+</topics>

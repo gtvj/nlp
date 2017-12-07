@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="11.345224131840236" totalTokens="468" titles="court, books, requests, henry, vols, charles, reign, elizabeth, viii, plaintiff">
+	<word weight="0.042735042735042736" count="20">court</word>
+	<word weight="0.027777777777777776" count="13">books</word>
+	<word weight="0.027777777777777776" count="13">requests</word>
+	<word weight="0.023504273504273504" count="11">henry</word>
+	<word weight="0.014957264957264958" count="7">vols</word>
+	<word weight="0.014957264957264958" count="7">charles</word>
+	<word weight="0.014957264957264958" count="7">reign</word>
+	<word weight="0.01282051282051282" count="6">elizabeth</word>
+	<word weight="0.01282051282051282" count="6">viii</word>
+	<word weight="0.01282051282051282" count="6">plaintiff</word>
+	<word weight="0.010683760683760684" count="5">appearance</word>
+	<word weight="0.010683760683760684" count="5">registers</word>
+	<word weight="0.008547008547008548" count="4">vii</word>
+	<word weight="0.008547008547008548" count="4">proceedings</word>
+	<word weight="0.008547008547008548" count="4">work</word>
+	<word weight="0.008547008547008548" count="4">case</word>
+	<word weight="0.008547008547008548" count="4">writs</word>
+	<word weight="0.00641025641025641" count="3">person</word>
+	<word weight="0.00641025641025641" count="3">defendants</word>
+	<word weight="0.00641025641025641" count="3">recorded</word>
+  </topic>
+</topics>

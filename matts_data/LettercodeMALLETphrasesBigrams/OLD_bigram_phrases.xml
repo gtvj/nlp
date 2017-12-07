@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="9.610693607002792" totalTokens="286" titles="olympic, lottery, distributor, grants, minutes, agenda, london, board, committee, locog">
+	<word weight="0.13636363636363635" count="39">olympic</word>
+	<word weight="0.11888111888111888" count="34">lottery</word>
+	<word weight="0.10839160839160839" count="31">distributor</word>
+	<word weight="0.03496503496503497" count="10">grants</word>
+	<word weight="0.03146853146853147" count="9">minutes</word>
+	<word weight="0.03146853146853147" count="9">agenda</word>
+	<word weight="0.027972027972027972" count="8">london</word>
+	<word weight="0.027972027972027972" count="8">board</word>
+	<word weight="0.02097902097902098" count="6">committee</word>
+	<word weight="0.017482517482517484" count="5">locog</word>
+	<word weight="0.017482517482517484" count="5">games</word>
+	<word weight="0.017482517482517484" count="5">paralympic</word>
+	<word weight="0.017482517482517484" count="5">grant</word>
+	<word weight="0.017482517482517484" count="5">meetings</word>
+	<word weight="0.013986013986013986" count="4">sport</word>
+	<word weight="0.01048951048951049" count="3">considered</word>
+	<word weight="0.01048951048951049" count="3">funds</word>
+	<word weight="0.01048951048951049" count="3">july</word>
+	<word weight="0.01048951048951049" count="3">event</word>
+	<word weight="0.01048951048951049" count="3">conference</word>
+	<phrase weight="0.2413793103448276" count="14">olympic lottery distributor</phrase>
+	<phrase weight="0.08620689655172414" count="5">lottery distributor</phrase>
+	<phrase weight="0.08620689655172414" count="5">paralympic games</phrase>
+	<phrase weight="0.08620689655172414" count="5">lottery distributor board</phrase>
+	<phrase weight="0.034482758620689655" count="2">glasgow conference event</phrase>
+	<phrase weight="0.034482758620689655" count="2">london organising committee</phrase>
+	<phrase weight="0.034482758620689655" count="2">east london business alliance</phrase>
+	<phrase weight="0.034482758620689655" count="2">olympic delivery authority</phrase>
+	<phrase weight="0.034482758620689655" count="2">international convention</phrase>
+	<phrase weight="0.034482758620689655" count="2">olympic lottery distributor transformers</phrase>
+	<phrase weight="0.017241379310344827" count="1">uk national lottery grant funds</phrase>
+	<phrase weight="0.017241379310344827" count="1">memorable london</phrase>
+	<phrase weight="0.017241379310344827" count="1">update reports circulated</phrase>
+	<phrase weight="0.017241379310344827" count="1">olympic lottery distributor audit committee</phrase>
+	<phrase weight="0.017241379310344827" count="1">olympic lottery distributors funding</phrase>
+	<phrase weight="0.017241379310344827" count="1">delivery authority</phrase>
+	<phrase weight="0.017241379310344827" count="1">organising committee</phrase>
+	<phrase weight="0.017241379310344827" count="1">uk lottery funds</phrase>
+	<phrase weight="0.017241379310344827" count="1">lottery distributor audit committee</phrase>
+	<phrase weight="0.017241379310344827" count="1">london business alliance</phrase>
+  </topic>
+</topics>

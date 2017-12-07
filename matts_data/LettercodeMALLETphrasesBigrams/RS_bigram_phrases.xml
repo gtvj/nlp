@@ -1,0 +1,14 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.9689232718740795" totalTokens="8" titles="jt, code, intended, england, commission, government, local, rs, ">
+	<word weight="0.125" count="1">jt</word>
+	<word weight="0.125" count="1">code</word>
+	<word weight="0.125" count="1">intended</word>
+	<word weight="0.125" count="1">england</word>
+	<word weight="0.125" count="1">commission</word>
+	<word weight="0.125" count="1">government</word>
+	<word weight="0.125" count="1">local</word>
+	<word weight="0.125" count="1">rs</word>
+	<phrase weight="1.0" count="1">local government commission</phrase>
+  </topic>
+</topics>

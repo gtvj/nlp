@@ -1,0 +1,21 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.269461300229038" totalTokens="49" titles="board, transport, british, docks, reports, accounts, minutes, annual, committee, finance">
+	<word weight="0.14285714285714285" count="7">board</word>
+	<word weight="0.14285714285714285" count="7">transport</word>
+	<word weight="0.14285714285714285" count="7">british</word>
+	<word weight="0.12244897959183673" count="6">docks</word>
+	<word weight="0.08163265306122448" count="4">reports</word>
+	<word weight="0.061224489795918366" count="3">accounts</word>
+	<word weight="0.061224489795918366" count="3">minutes</word>
+	<word weight="0.04081632653061224" count="2">annual</word>
+	<word weight="0.04081632653061224" count="2">committee</word>
+	<word weight="0.04081632653061224" count="2">finance</word>
+	<word weight="0.02040816326530612" count="1">memoranda</word>
+	<word weight="0.02040816326530612" count="1">commisssion</word>
+	<word weight="0.02040816326530612" count="1">ports</word>
+	<word weight="0.02040816326530612" count="1">management</word>
+	<word weight="0.02040816326530612" count="1">sector</word>
+	<word weight="0.02040816326530612" count="1">public</word>
+  </topic>
+</topics>

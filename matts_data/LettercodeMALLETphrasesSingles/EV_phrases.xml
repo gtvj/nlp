@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="10.334994926788074" totalTokens="213" titles="research, science, council, minutes, engineering, technology, committee, board, university, sciences">
+	<word weight="0.14553990610328638" count="31">research</word>
+	<word weight="0.12206572769953052" count="26">science</word>
+	<word weight="0.11737089201877934" count="25">council</word>
+	<word weight="0.06572769953051644" count="14">minutes</word>
+	<word weight="0.06103286384976526" count="13">engineering</word>
+	<word weight="0.028169014084507043" count="6">technology</word>
+	<word weight="0.028169014084507043" count="6">committee</word>
+	<word weight="0.028169014084507043" count="6">board</word>
+	<word weight="0.028169014084507043" count="6">university</word>
+	<word weight="0.023474178403755867" count="5">sciences</word>
+	<word weight="0.023474178403755867" count="5">physical</word>
+	<word weight="0.018779342723004695" count="4">grants</word>
+	<word weight="0.018779342723004695" count="4">correspondence</word>
+	<word weight="0.018779342723004695" count="4">agenda</word>
+	<word weight="0.014084507042253521" count="3">meeting</word>
+	<word weight="0.014084507042253521" count="3">charter</word>
+	<word weight="0.014084507042253521" count="3">scientific</word>
+	<word weight="0.009389671361502348" count="2">lack</word>
+	<word weight="0.009389671361502348" count="2">current</word>
+	<word weight="0.009389671361502348" count="2">seal</word>
+  </topic>
+</topics>

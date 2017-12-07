@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.2082612490170765" totalTokens="427" titles="meteorological, correspondence, registers, observatory, kew, government, predecessor, centre, reports, charts">
+	<word weight="0.09836065573770492" count="42">meteorological</word>
+	<word weight="0.0351288056206089" count="15">correspondence</word>
+	<word weight="0.02810304449648712" count="12">met</word>
+	<word weight="0.02810304449648712" count="12">registers</word>
+	<word weight="0.02107728337236534" count="9">observatory</word>
+	<word weight="0.01639344262295082" count="7">kew</word>
+	<word weight="0.01639344262295082" count="7">government</word>
+	<word weight="0.01639344262295082" count="7">predecessor</word>
+	<word weight="0.01405152224824356" count="6">centre</word>
+	<word weight="0.0117096018735363" count="5">reports</word>
+	<word weight="0.0117096018735363" count="5">charts</word>
+	<word weight="0.0117096018735363" count="5">national</word>
+	<word weight="0.0117096018735363" count="5">fitzroy</word>
+	<word weight="0.0117096018735363" count="5">trade</word>
+	<word weight="0.0117096018735363" count="5">board</word>
+	<word weight="0.00936768149882904" count="4">ross</word>
+	<word weight="0.00936768149882904" count="4">minutes</word>
+	<word weight="0.00936768149882904" count="4">scientific</word>
+	<word weight="0.00936768149882904" count="4">research</word>
+	<word weight="0.00936768149882904" count="4">personnel</word>
+  </topic>
+</topics>

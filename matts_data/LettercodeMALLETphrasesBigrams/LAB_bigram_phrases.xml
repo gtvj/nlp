@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.206911366869139" totalTokens="4297" titles="central administration, employment, labour, industrial, committee, training, policy, division, service, health">
+	<word weight="0.047009541540609726" count="202">employment</word>
+	<word weight="0.030486385850593437" count="131">labour</word>
+	<word weight="0.020712124738189435" count="89">industrial</word>
+	<word weight="0.01861764021410286" count="80">committee</word>
+	<word weight="0.01489411217128229" count="64">training</word>
+	<word weight="0.012799627647195718" count="55">central</word>
+	<word weight="0.01210146613916686" count="52">policy</word>
+	<word weight="0.011170584128461718" count="48">division</word>
+	<word weight="0.010937863625785431" count="47">service</word>
+	<word weight="0.010705143123109146" count="46">health</word>
+	<word weight="0.01047242262043286" count="45">national</word>
+	<word weight="0.010239702117756575" count="44">services</word>
+	<word weight="0.010239702117756575" count="44">general</word>
+	<word weight="0.010006981615080289" count="43">safety</word>
+	<word weight="0.010006981615080289" count="43">inspectorate</word>
+	<word weight="0.009774261112404002" count="42">manpower</word>
+	<word weight="0.008377938096346288" count="36">tribunals</word>
+	<word weight="0.008145217593670002" count="35">administration</word>
+	<word weight="0.0076797765883174305" count="33">regional</word>
+	<word weight="0.0076797765883174305" count="33">reports</word>
+	<phrase weight="0.0348993288590604" count="26">central administration</phrase>
+	<phrase weight="0.021476510067114093" count="16">industrial tribunals</phrase>
+	<phrase weight="0.021476510067114093" count="16">national service</phrase>
+	<phrase weight="0.01476510067114094" count="11">manpower services commission</phrase>
+	<phrase weight="0.01476510067114094" count="11">explosives inspectorate</phrase>
+	<phrase weight="0.010738255033557046" count="8">industrial relations</phrase>
+	<phrase weight="0.009395973154362415" count="7">factory inspectorate</phrase>
+	<phrase weight="0.006711409395973154" count="5">safety executive</phrase>
+	<phrase weight="0.006711409395973154" count="5">wages councils</phrase>
+	<phrase weight="0.006711409395973154" count="5">safety commission</phrase>
+	<phrase weight="0.006711409395973154" count="5">disabled persons</phrase>
+	<phrase weight="0.006711409395973154" count="5">trade unions</phrase>
+	<phrase weight="0.006711409395973154" count="5">youth employment</phrase>
+	<phrase weight="0.006711409395973154" count="5">united kingdom</phrase>
+	<phrase weight="0.006711409395973154" count="5">complete set</phrase>
+	<phrase weight="0.006711409395973154" count="5">economic policy</phrase>
+	<phrase weight="0.005369127516778523" count="4">employment service</phrase>
+	<phrase weight="0.005369127516778523" count="4">robens committee</phrase>
+	<phrase weight="0.005369127516778523" count="4">occupational safety</phrase>
+	<phrase weight="0.005369127516778523" count="4">prices division</phrase>
+  </topic>
+</topics>

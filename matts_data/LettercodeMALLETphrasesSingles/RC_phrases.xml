@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.479484646608976" totalTokens="366" titles="skills, learning, council, government, national, excellence, apprenticeships, framework, learner, advice">
+	<word weight="0.13387978142076504" count="49">skills</word>
+	<word weight="0.13387978142076504" count="49">learning</word>
+	<word weight="0.12295081967213115" count="45">council</word>
+	<word weight="0.08469945355191257" count="31">government</word>
+	<word weight="0.030054644808743168" count="11">national</word>
+	<word weight="0.01639344262295082" count="6">excellence</word>
+	<word weight="0.01639344262295082" count="6">apprenticeships</word>
+	<word weight="0.01639344262295082" count="6">framework</word>
+	<word weight="0.01639344262295082" count="6">learner</word>
+	<word weight="0.01639344262295082" count="6">advice</word>
+	<word weight="0.01366120218579235" count="5">academy</word>
+	<word weight="0.01092896174863388" count="4">lsc</word>
+	<word weight="0.01092896174863388" count="4">network</word>
+	<word weight="0.01092896174863388" count="4">centres</word>
+	<word weight="0.01092896174863388" count="4">nextstep</word>
+	<word weight="0.01092896174863388" count="4">field</word>
+	<word weight="0.01092896174863388" count="4">general</word>
+	<word weight="0.01092896174863388" count="4">hands</word>
+	<word weight="0.01092896174863388" count="4">training</word>
+	<word weight="0.01092896174863388" count="4">panel</word>
+  </topic>
+</topics>

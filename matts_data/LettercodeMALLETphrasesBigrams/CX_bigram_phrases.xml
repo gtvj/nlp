@@ -1,0 +1,31 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.6208359620246517" totalTokens="46" titles="price, commission, cx, prices, meetings, minutes, charges, protection, consumer, state">
+	<word weight="0.13043478260869565" count="6">price</word>
+	<word weight="0.08695652173913043" count="4">commission</word>
+	<word weight="0.06521739130434782" count="3">cx</word>
+	<word weight="0.043478260869565216" count="2">prices</word>
+	<word weight="0.043478260869565216" count="2">meetings</word>
+	<word weight="0.043478260869565216" count="2">minutes</word>
+	<word weight="0.021739130434782608" count="1">charges</word>
+	<word weight="0.021739130434782608" count="1">protection</word>
+	<word weight="0.021739130434782608" count="1">consumer</word>
+	<word weight="0.021739130434782608" count="1">state</word>
+	<word weight="0.021739130434782608" count="1">secretary</word>
+	<word weight="0.021739130434782608" count="1">advising</word>
+	<word weight="0.021739130434782608" count="1">act</word>
+	<word weight="0.021739130434782608" count="1">inflation</word>
+	<word weight="0.021739130434782608" count="1">counter</word>
+	<word weight="0.021739130434782608" count="1">code</word>
+	<word weight="0.021739130434782608" count="1">administering</word>
+	<word weight="0.021739130434782608" count="1">notices</word>
+	<word weight="0.021739130434782608" count="1">press</word>
+	<word weight="0.021739130434782608" count="1">data</word>
+	<phrase weight="0.2857142857142857" count="2">price commission</phrase>
+	<phrase weight="0.14285714285714285" count="1">food panel</phrase>
+	<phrase weight="0.14285714285714285" count="1">statutory price codes</phrase>
+	<phrase weight="0.14285714285714285" count="1">commission administering</phrase>
+	<phrase weight="0.14285714285714285" count="1">consumer protection</phrase>
+	<phrase weight="0.14285714285714285" count="1">counter inflation act</phrase>
+  </topic>
+</topics>

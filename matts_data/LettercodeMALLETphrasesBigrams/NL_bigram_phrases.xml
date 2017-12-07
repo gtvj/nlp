@@ -1,0 +1,30 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.9139736166560262" totalTokens="37" titles="commission, system, voting, independent, members, nl, reform, electoral, consideration, minutes">
+	<word weight="0.16216216216216217" count="6">commission</word>
+	<word weight="0.10810810810810811" count="4">system</word>
+	<word weight="0.10810810810810811" count="4">voting</word>
+	<word weight="0.10810810810810811" count="4">independent</word>
+	<word weight="0.05405405405405406" count="2">members</word>
+	<word weight="0.05405405405405406" count="2">nl</word>
+	<word weight="0.02702702702702703" count="1">reform</word>
+	<word weight="0.02702702702702703" count="1">electoral</word>
+	<word weight="0.02702702702702703" count="1">consideration</word>
+	<word weight="0.02702702702702703" count="1">minutes</word>
+	<word weight="0.02702702702702703" count="1">internal</word>
+	<word weight="0.02702702702702703" count="1">report</word>
+	<word weight="0.02702702702702703" count="1">miscellaneous</word>
+	<word weight="0.02702702702702703" count="1">pressure</word>
+	<word weight="0.02702702702702703" count="1">academics</word>
+	<word weight="0.02702702702702703" count="1">parliament</word>
+	<word weight="0.02702702702702703" count="1">parties</word>
+	<word weight="0.02702702702702703" count="1">political</word>
+	<word weight="0.02702702702702703" count="1">public</word>
+	<word weight="0.02702702702702703" count="1">submitted</word>
+	<phrase weight="0.42857142857142855" count="3">independent commission</phrase>
+	<phrase weight="0.14285714285714285" count="1">internal minutes</phrase>
+	<phrase weight="0.14285714285714285" count="1">evidence submitted</phrase>
+	<phrase weight="0.14285714285714285" count="1">political parties</phrase>
+	<phrase weight="0.14285714285714285" count="1">voting system</phrase>
+  </topic>
+</topics>

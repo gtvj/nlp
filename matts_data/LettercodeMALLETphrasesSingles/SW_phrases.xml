@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.605499917641385" totalTokens="339" titles="england, natural, government, project, network, countryside, biodiversity, system, life, map">
+	<word weight="0.1415929203539823" count="48">england</word>
+	<word weight="0.1415929203539823" count="48">natural</word>
+	<word weight="0.09734513274336283" count="33">government</word>
+	<word weight="0.02359882005899705" count="8">project</word>
+	<word weight="0.02359882005899705" count="8">network</word>
+	<word weight="0.02359882005899705" count="8">countryside</word>
+	<word weight="0.02064896755162242" count="7">biodiversity</word>
+	<word weight="0.017699115044247787" count="6">system</word>
+	<word weight="0.017699115044247787" count="6">life</word>
+	<word weight="0.014749262536873156" count="5">map</word>
+	<word weight="0.014749262536873156" count="5">nature</word>
+	<word weight="0.011799410029498525" count="4">reporting</word>
+	<word weight="0.011799410029498525" count="4">action</word>
+	<word weight="0.011799410029498525" count="4">sites</word>
+	<word weight="0.011799410029498525" count="4">publications</word>
+	<word weight="0.011799410029498525" count="4">conservation</word>
+	<word weight="0.011799410029498525" count="4">river</word>
+	<word weight="0.011799410029498525" count="4">living</word>
+	<word weight="0.008849557522123894" count="3">bars</word>
+	<word weight="0.008849557522123894" count="3">manager's</word>
+  </topic>
+</topics>

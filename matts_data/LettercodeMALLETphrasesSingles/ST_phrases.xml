@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.246770493341891" totalTokens="220" titles="skills, universities, innovation, government, council, board, technology, dius, facilities, science">
+	<word weight="0.09545454545454546" count="21">skills</word>
+	<word weight="0.09545454545454546" count="21">universities</word>
+	<word weight="0.09545454545454546" count="21">innovation</word>
+	<word weight="0.07727272727272727" count="17">government</word>
+	<word weight="0.02727272727272727" count="6">council</word>
+	<word weight="0.02727272727272727" count="6">board</word>
+	<word weight="0.02727272727272727" count="6">technology</word>
+	<word weight="0.022727272727272728" count="5">dius</word>
+	<word weight="0.01818181818181818" count="4">facilities</word>
+	<word weight="0.01818181818181818" count="4">science</word>
+	<word weight="0.01818181818181818" count="4">training</word>
+	<word weight="0.01818181818181818" count="4">industry</word>
+	<word weight="0.01818181818181818" count="4">construction</word>
+	<word weight="0.01818181818181818" count="4">engineering</word>
+	<word weight="0.01818181818181818" count="4">fair</word>
+	<word weight="0.00909090909090909" count="2">sandbox</word>
+	<word weight="0.00909090909090909" count="2">group</word>
+	<word weight="0.00909090909090909" count="2">safety</word>
+	<word weight="0.00909090909090909" count="2">national</word>
+	<word weight="0.00909090909090909" count="2">contractor</word>
+  </topic>
+</topics>

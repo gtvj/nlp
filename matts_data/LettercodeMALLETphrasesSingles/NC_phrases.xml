@@ -1,0 +1,15 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="2.6745533211818513" totalTokens="24" titles="board, national, charities, lottery, fund, community, reports, annual, charity, lotteries">
+	<word weight="0.16666666666666666" count="4">board</word>
+	<word weight="0.16666666666666666" count="4">national</word>
+	<word weight="0.125" count="3">charities</word>
+	<word weight="0.125" count="3">lottery</word>
+	<word weight="0.08333333333333333" count="2">fund</word>
+	<word weight="0.08333333333333333" count="2">community</word>
+	<word weight="0.08333333333333333" count="2">reports</word>
+	<word weight="0.08333333333333333" count="2">annual</word>
+	<word weight="0.041666666666666664" count="1">charity</word>
+	<word weight="0.041666666666666664" count="1">lotteries</word>
+  </topic>
+</topics>

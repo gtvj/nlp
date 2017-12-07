@@ -1,0 +1,32 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="23.013970108619397" totalTokens="88" titles="rail, maps, transport, british, surveys, plans, scale, london, waterways, inland">
+	<word weight="0.18181818181818182" count="16">rail</word>
+	<word weight="0.125" count="11">maps</word>
+	<word weight="0.11363636363636363" count="10">transport</word>
+	<word weight="0.11363636363636363" count="10">british</word>
+	<word weight="0.10227272727272728" count="9">surveys</word>
+	<word weight="0.10227272727272728" count="9">plans</word>
+	<word weight="0.022727272727272728" count="2">scale</word>
+	<word weight="0.022727272727272728" count="2">london</word>
+	<word weight="0.022727272727272728" count="2">waterways</word>
+	<word weight="0.022727272727272728" count="2">inland</word>
+	<word weight="0.022727272727272728" count="2">canals</word>
+	<word weight="0.022727272727272728" count="2">railway</word>
+	<word weight="0.011363636363636364" count="1">small</word>
+	<word weight="0.011363636363636364" count="1">atlases</word>
+	<word weight="0.011363636363636364" count="1">ports</word>
+	<word weight="0.011363636363636364" count="1">towns</word>
+	<word weight="0.011363636363636364" count="1">foreign</word>
+	<word weight="0.011363636363636364" count="1">empire</word>
+	<word weight="0.011363636363636364" count="1">railways</word>
+	<word weight="0.011363636363636364" count="1">house</word>
+	<phrase weight="0.5" count="8">british transport</phrase>
+	<phrase weight="0.125" count="2">scale maps</phrase>
+	<phrase weight="0.125" count="2">inland waterways</phrase>
+	<phrase weight="0.0625" count="1">london transport</phrase>
+	<phrase weight="0.0625" count="1">british empire</phrase>
+	<phrase weight="0.0625" count="1">railway clearing house</phrase>
+	<phrase weight="0.0625" count="1">individual railway companies</phrase>
+  </topic>
+</topics>

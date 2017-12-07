@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="56.3851425639704" totalTokens="98" titles="work, social, council, training, education, central, ccetsw, reports, publications, aids">
+	<word weight="0.08163265306122448" count="8">work</word>
+	<word weight="0.08163265306122448" count="8">social</word>
+	<word weight="0.08163265306122448" count="8">council</word>
+	<word weight="0.07142857142857142" count="7">training</word>
+	<word weight="0.07142857142857142" count="7">education</word>
+	<word weight="0.061224489795918366" count="6">central</word>
+	<word weight="0.05102040816326531" count="5">ccetsw</word>
+	<word weight="0.04081632653061224" count="4">reports</word>
+	<word weight="0.030612244897959183" count="3">publications</word>
+	<word weight="0.030612244897959183" count="3">aids</word>
+	<word weight="0.030612244897959183" count="3">minutes</word>
+	<word weight="0.02040816326530612" count="2">working</word>
+	<word weight="0.02040816326530612" count="2">internal</word>
+	<word weight="0.02040816326530612" count="2">meetings</word>
+	<word weight="0.01020408163265306" count="1">disks</word>
+	<word weight="0.01020408163265306" count="1">computer</word>
+	<word weight="0.01020408163265306" count="1">videos</word>
+	<word weight="0.01020408163265306" count="1">media</word>
+	<word weight="0.01020408163265306" count="1">mixed</word>
+	<word weight="0.01020408163265306" count="1">abuse</word>
+  </topic>
+</topics>

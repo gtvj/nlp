@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="9.689374339897427" totalTokens="494" titles="coal, mining, authority, reports, system, kd, mrs, damage, property, surface">
+	<word weight="0.08097165991902834" count="40">coal</word>
+	<word weight="0.05465587044534413" count="27">mining</word>
+	<word weight="0.05263157894736842" count="26">authority</word>
+	<word weight="0.038461538461538464" count="19">reports</word>
+	<word weight="0.03643724696356275" count="18">system</word>
+	<word weight="0.032388663967611336" count="16">kd</word>
+	<word weight="0.016194331983805668" count="8">mrs</word>
+	<word weight="0.01417004048582996" count="7">damage</word>
+	<word weight="0.01417004048582996" count="7">property</word>
+	<word weight="0.01417004048582996" count="7">surface</word>
+	<word weight="0.012145748987854251" count="6">data</word>
+	<word weight="0.012145748987854251" count="6">committee</word>
+	<word weight="0.008097165991902834" count="4">environment</word>
+	<word weight="0.008097165991902834" count="4">uk</word>
+	<word weight="0.008097165991902834" count="4">stability</word>
+	<word weight="0.008097165991902834" count="4">ground</word>
+	<word weight="0.008097165991902834" count="4">time</word>
+	<word weight="0.008097165991902834" count="4">land</word>
+	<word weight="0.008097165991902834" count="4">board</word>
+	<word weight="0.006072874493927126" count="3">accounts</word>
+	<phrase weight="0.13043478260869565" count="12">coal authority</phrase>
+	<phrase weight="0.05434782608695652" count="5">mining reports</phrase>
+	<phrase weight="0.03260869565217391" count="3">surface damage system</phrase>
+	<phrase weight="0.021739130434782608" count="2">domestic property</phrase>
+	<phrase weight="0.021739130434782608" count="2">coal authority ground stability reports</phrase>
+	<phrase weight="0.021739130434782608" count="2">annual reports</phrase>
+	<phrase weight="0.021739130434782608" count="2">authority ground stability reports</phrase>
+	<phrase weight="0.021739130434782608" count="2">reports system</phrase>
+	<phrase weight="0.021739130434782608" count="2">law society scheme</phrase>
+	<phrase weight="0.010869565217391304" count="1">launched locally</phrase>
+	<phrase weight="0.010869565217391304" count="1">surface land areas</phrase>
+	<phrase weight="0.010869565217391304" count="1">reports system dataset</phrase>
+	<phrase weight="0.010869565217391304" count="1">british coal</phrase>
+	<phrase weight="0.010869565217391304" count="1">damage system</phrase>
+	<phrase weight="0.010869565217391304" count="1">property development</phrase>
+	<phrase weight="0.010869565217391304" count="1">industry alongside property management</phrase>
+	<phrase weight="0.010869565217391304" count="1">standard form</phrase>
+	<phrase weight="0.010869565217391304" count="1">external assessors</phrase>
+	<phrase weight="0.010869565217391304" count="1">coal mining areas</phrase>
+	<phrase weight="0.010869565217391304" count="1">modern ordnance survey map data</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="4.6204261375125215" totalTokens="35" titles="pro, extract, special, entries, current, numbers, order, numerical, list, publicly-available">
+	<word weight="0.08571428571428572" count="3">pro</word>
+	<word weight="0.05714285714285714" count="2">extract</word>
+	<word weight="0.05714285714285714" count="2">special</word>
+	<word weight="0.02857142857142857" count="1">entries</word>
+	<word weight="0.02857142857142857" count="1">current</word>
+	<word weight="0.02857142857142857" count="1">numbers</word>
+	<word weight="0.02857142857142857" count="1">order</word>
+	<word weight="0.02857142857142857" count="1">numerical</word>
+	<word weight="0.02857142857142857" count="1">list</word>
+	<word weight="0.02857142857142857" count="1">publicly-available</word>
+	<word weight="0.02857142857142857" count="1">treated</word>
+	<word weight="0.02857142857142857" count="1">officially</word>
+	<word weight="0.02857142857142857" count="1">codes</word>
+	<word weight="0.02857142857142857" count="1">location</word>
+	<word weight="0.02857142857142857" count="1">hca</word>
+	<word weight="0.02857142857142857" count="1">reverted</word>
+	<word weight="0.02857142857142857" count="1">extracts</word>
+	<word weight="0.02857142857142857" count="1">abolished</word>
+	<word weight="0.02857142857142857" count="1">transfer</word>
+	<word weight="0.02857142857142857" count="1">non-cartographic</word>
+  </topic>
+</topics>

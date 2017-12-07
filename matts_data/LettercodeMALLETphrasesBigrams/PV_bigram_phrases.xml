@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.477960567435853" totalTokens="683" titles="division, industry, industrial, pv, engineering, development, policy, successors, telecommunications, research">
+	<word weight="0.06442166910688141" count="44">division</word>
+	<word weight="0.04538799414348463" count="31">industry</word>
+	<word weight="0.027818448023426062" count="19">industrial</word>
+	<word weight="0.027818448023426062" count="19">pv</word>
+	<word weight="0.01903367496339678" count="13">engineering</word>
+	<word weight="0.017569546120058566" count="12">development</word>
+	<word weight="0.016105417276720352" count="11">policy</word>
+	<word weight="0.016105417276720352" count="11">successors</word>
+	<word weight="0.016105417276720352" count="11">telecommunications</word>
+	<word weight="0.014641288433382138" count="10">research</word>
+	<word weight="0.014641288433382138" count="10">posts</word>
+	<word weight="0.013177159590043924" count="9">regional</word>
+	<word weight="0.01171303074670571" count="8">technology</word>
+	<word weight="0.01171303074670571" count="8">committee</word>
+	<word weight="0.010248901903367497" count="7">assistance</word>
+	<word weight="0.010248901903367497" count="7">electrical</word>
+	<word weight="0.008784773060029283" count="6">grants</word>
+	<word weight="0.008784773060029283" count="6">mechanical</word>
+	<word weight="0.008784773060029283" count="6">process</word>
+	<word weight="0.008784773060029283" count="6">minutes</word>
+	<phrase weight="0.038461538461538464" count="5">telecommunications division</phrase>
+	<phrase weight="0.023076923076923078" count="3">electrical engineering</phrase>
+	<phrase weight="0.015384615384615385" count="2">review committee</phrase>
+	<phrase weight="0.015384615384615385" count="2">metals division</phrase>
+	<phrase weight="0.015384615384615385" count="2">computer aided design centre</phrase>
+	<phrase weight="0.015384615384615385" count="2">industrial technologies division</phrase>
+	<phrase weight="0.015384615384615385" count="2">grants division</phrase>
+	<phrase weight="0.015384615384615385" count="2">regional policy</phrase>
+	<phrase weight="0.015384615384615385" count="2">postal services</phrase>
+	<phrase weight="0.015384615384615385" count="2">electrical engineering division</phrase>
+	<phrase weight="0.015384615384615385" count="2">industry act</phrase>
+	<phrase weight="0.015384615384615385" count="2">electronic division</phrase>
+	<phrase weight="0.015384615384615385" count="2">steel division</phrase>
+	<phrase weight="0.007692307692307693" count="1">industrial technologies</phrase>
+	<phrase weight="0.007692307692307693" count="1">established british aerospace</phrase>
+	<phrase weight="0.007692307692307693" count="1">technology requirements division</phrase>
+	<phrase weight="0.007692307692307693" count="1">jane tin mine</phrase>
+	<phrase weight="0.007692307692307693" count="1">technology practice</phrase>
+	<phrase weight="0.007692307692307693" count="1">management group</phrase>
+	<phrase weight="0.007692307692307693" count="1">private sector</phrase>
+  </topic>
+</topics>

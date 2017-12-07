@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0819450617170825" totalTokens="99" titles="maps, plans, duchy, place, drawings, lancaster, london, area, places, commissions">
+	<word weight="0.0707070707070707" count="7">maps</word>
+	<word weight="0.06060606060606061" count="6">plans</word>
+	<word weight="0.04040404040404041" count="4">duchy</word>
+	<word weight="0.030303030303030304" count="3">place</word>
+	<word weight="0.030303030303030304" count="3">drawings</word>
+	<word weight="0.030303030303030304" count="3">lancaster</word>
+	<word weight="0.020202020202020204" count="2">london</word>
+	<word weight="0.020202020202020204" count="2">map</word>
+	<word weight="0.020202020202020204" count="2">area</word>
+	<word weight="0.020202020202020204" count="2">places</word>
+	<word weight="0.020202020202020204" count="2">commissions</word>
+	<word weight="0.020202020202020204" count="2">special</word>
+	<word weight="0.020202020202020204" count="2">public</word>
+	<word weight="0.010101010101010102" count="1">plan</word>
+	<word weight="0.010101010101010102" count="1">borough</word>
+	<word weight="0.010101010101010102" count="1">county</word>
+	<word weight="0.010101010101010102" count="1">city</word>
+	<word weight="0.010101010101010102" count="1">location</word>
+	<word weight="0.010101010101010102" count="1">inverted</word>
+	<word weight="0.010101010101010102" count="1">drawing</word>
+  </topic>
+</topics>

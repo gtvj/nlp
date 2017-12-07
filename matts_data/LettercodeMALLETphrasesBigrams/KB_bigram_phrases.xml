@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.209298792895221" totalTokens="5346" titles="plea side, crown side, bench division, court, king, kb, rolls, writs, cases, courts">
+	<word weight="0.046763935652824544" count="250">court</word>
+	<word weight="0.04171343060231949" count="223">king</word>
+	<word weight="0.040029928918817806" count="214">bench</word>
+	<word weight="0.03984287317620651" count="213">side</word>
+	<word weight="0.02955480733258511" count="158">kb</word>
+	<word weight="0.027123082678638236" count="145">plea</word>
+	<word weight="0.021698466142910586" count="116">crown</word>
+	<word weight="0.013655069210624766" count="73">rolls</word>
+	<word weight="0.013093901982790871" count="70">writs</word>
+	<word weight="0.010849233071455293" count="58">cases</word>
+	<word weight="0.006921062476618032" count="37">courts</word>
+	<word weight="0.006734006734006734" count="36">term</word>
+	<word weight="0.0065469509913954355" count="35">books</word>
+	<word weight="0.005611672278338945" count="30">division</word>
+	<word weight="0.005424616535727646" count="29">affidavits</word>
+	<word weight="0.005237560793116348" count="28">justice</word>
+	<word weight="0.005050505050505051" count="27">indictments</word>
+	<word weight="0.004676393565282455" count="25">roll</word>
+	<word weight="0.004676393565282455" count="25">attorney</word>
+	<word weight="0.004676393565282455" count="25">articles</word>
+	<phrase weight="0.07047387606318348" count="58">plea side</phrase>
+	<phrase weight="0.04374240583232078" count="36">crown side</phrase>
+	<phrase weight="0.031591737545565005" count="26">bench division</phrase>
+	<phrase weight="0.023086269744835967" count="19">high court</phrase>
+	<phrase weight="0.013365735115431349" count="11">inferior courts</phrase>
+	<phrase weight="0.010935601458080195" count="9">due execution</phrase>
+	<phrase weight="0.007290400972053463" count="6">brevia billarum</phrase>
+	<phrase weight="0.007290400972053463" count="6">supreme court</phrase>
+	<phrase weight="0.007290400972053463" count="6">quarter sessions</phrase>
+	<phrase weight="0.007290400972053463" count="6">common pleas</phrase>
+	<phrase weight="0.007290400972053463" count="6">judicial writs</phrase>
+	<phrase weight="0.006075334143377886" count="5">confess judgment</phrase>
+	<phrase weight="0.004860267314702308" count="4">crown cases reserved</phrase>
+	<phrase weight="0.004860267314702308" count="4">special bails</phrase>
+	<phrase weight="0.004860267314702308" count="4">special cases</phrase>
+	<phrase weight="0.004860267314702308" count="4">jury panels</phrase>
+	<phrase weight="0.0036452004860267314" count="3">chronological order</phrase>
+	<phrase weight="0.0036452004860267314" count="3">cases initiated</phrase>
+	<phrase weight="0.0036452004860267314" count="3">docket rolls</phrase>
+	<phrase weight="0.0036452004860267314" count="3">rule books</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.4718379133905175" totalTokens="38" titles="hospital, middlesex, bernard's, public, hospitals, service, health, national, minutes, correspondence">
+	<word weight="0.10526315789473684" count="4">hospital</word>
+	<word weight="0.05263157894736842" count="2">middlesex</word>
+	<word weight="0.05263157894736842" count="2">bernard's</word>
+	<word weight="0.05263157894736842" count="2">public</word>
+	<word weight="0.05263157894736842" count="2">hospitals</word>
+	<word weight="0.05263157894736842" count="2">service</word>
+	<word weight="0.05263157894736842" count="2">health</word>
+	<word weight="0.05263157894736842" count="2">national</word>
+	<word weight="0.05263157894736842" count="2">minutes</word>
+	<word weight="0.05263157894736842" count="2">correspondence</word>
+	<word weight="0.05263157894736842" count="2">anderson</word>
+	<word weight="0.05263157894736842" count="2">garret</word>
+	<word weight="0.05263157894736842" count="2">elizabeth</word>
+	<word weight="0.02631578947368421" count="1">detailed</word>
+	<word weight="0.02631578947368421" count="1">act</word>
+	<word weight="0.02631578947368421" count="1">metropolitan</word>
+	<word weight="0.02631578947368421" count="1">london</word>
+	<word weight="0.02631578947368421" count="1">blocks</word>
+	<word weight="0.02631578947368421" count="1">printing</word>
+	<word weight="0.02631578947368421" count="1">presscuttings</word>
+  </topic>
+</topics>

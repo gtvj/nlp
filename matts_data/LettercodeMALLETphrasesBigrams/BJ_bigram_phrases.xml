@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.030261446791784" totalTokens="471" titles="meteorological, bj, correspondence, registers, observatory, uk, kew, government, predecessor, centre">
+	<word weight="0.08917197452229299" count="42">meteorological</word>
+	<word weight="0.055201698513800426" count="26">bj</word>
+	<word weight="0.03184713375796178" count="15">correspondence</word>
+	<word weight="0.027600849256900213" count="13">met</word>
+	<word weight="0.025477707006369428" count="12">registers</word>
+	<word weight="0.01910828025477707" count="9">observatory</word>
+	<word weight="0.01910828025477707" count="9">uk</word>
+	<word weight="0.014861995753715499" count="7">kew</word>
+	<word weight="0.014861995753715499" count="7">government</word>
+	<word weight="0.014861995753715499" count="7">predecessor</word>
+	<word weight="0.012738853503184714" count="6">centre</word>
+	<word weight="0.012738853503184714" count="6">fitzroy</word>
+	<word weight="0.010615711252653927" count="5">reports</word>
+	<word weight="0.010615711252653927" count="5">charts</word>
+	<word weight="0.010615711252653927" count="5">national</word>
+	<word weight="0.010615711252653927" count="5">letters</word>
+	<word weight="0.010615711252653927" count="5">trade</word>
+	<word weight="0.010615711252653927" count="5">board</word>
+	<word weight="0.008492569002123142" count="4">ross</word>
+	<word weight="0.008492569002123142" count="4">minutes</word>
+	<phrase weight="0.041666666666666664" count="3">meteorological committee</phrase>
+	<phrase weight="0.041666666666666664" count="3">kew observatory</phrase>
+	<phrase weight="0.041666666666666664" count="3">uk government</phrase>
+	<phrase weight="0.027777777777777776" count="2">official correspondence</phrase>
+	<phrase weight="0.027777777777777776" count="2">hadley centre</phrase>
+	<phrase weight="0.027777777777777776" count="2">national centre</phrase>
+	<phrase weight="0.027777777777777776" count="2">icelandic volcano eruption</phrase>
+	<phrase weight="0.027777777777777776" count="2">flood forecasting centre</phrase>
+	<phrase weight="0.027777777777777776" count="2">edward sabine</phrase>
+	<phrase weight="0.013888888888888888" count="1">meteorological intelligence</phrase>
+	<phrase weight="0.013888888888888888" count="1">john welsh whipple</phrase>
+	<phrase weight="0.013888888888888888" count="1">research reports</phrase>
+	<phrase weight="0.013888888888888888" count="1">registers generally</phrase>
+	<phrase weight="0.013888888888888888" count="1">john welsh</phrase>
+	<phrase weight="0.013888888888888888" count="1">monthly reports</phrase>
+	<phrase weight="0.013888888888888888" count="1">collected scientific observations</phrase>
+	<phrase weight="0.013888888888888888" count="1">peter gassiot</phrase>
+	<phrase weight="0.013888888888888888" count="1">purposes registers recording</phrase>
+	<phrase weight="0.013888888888888888" count="1">wide range</phrase>
+	<phrase weight="0.013888888888888888" count="1">piece number</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,44 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="25.797502593110245" totalTokens="165" titles="tithe, merger, apportionment, agreement, tithes, rentcharge, award, commutation, awards, commission">
+	<word weight="0.12121212121212122" count="20">tithe</word>
+	<word weight="0.03636363636363636" count="6">merger</word>
+	<word weight="0.03636363636363636" count="6">apportionment</word>
+	<word weight="0.03636363636363636" count="6">agreement</word>
+	<word weight="0.03636363636363636" count="6">tithes</word>
+	<word weight="0.030303030303030304" count="5">rentcharge</word>
+	<word weight="0.030303030303030304" count="5">award</word>
+	<word weight="0.030303030303030304" count="5">commutation</word>
+	<word weight="0.030303030303030304" count="5">awards</word>
+	<word weight="0.030303030303030304" count="5">commission</word>
+	<word weight="0.01818181818181818" count="3">interest</word>
+	<word weight="0.01818181818181818" count="3">parties</word>
+	<word weight="0.01818181818181818" count="3">owners</word>
+	<word weight="0.012121212121212121" count="2">effected</word>
+	<word weight="0.012121212121212121" count="2">provided</word>
+	<word weight="0.012121212121212121" count="2">cases</word>
+	<word weight="0.012121212121212121" count="2">act</word>
+	<word weight="0.012121212121212121" count="2">declarations</word>
+	<word weight="0.012121212121212121" count="2">boundary</word>
+	<word weight="0.012121212121212121" count="2">successor</word>
+	<phrase weight="0.18518518518518517" count="5">tithe commission</phrase>
+	<phrase weight="0.14814814814814814" count="4">tithe rentcharge</phrase>
+	<phrase weight="0.07407407407407407" count="2">tithe commissioners</phrase>
+	<phrase weight="0.037037037037037035" count="1">preceeding agreement</phrase>
+	<phrase weight="0.037037037037037035" count="1">afford lies</phrase>
+	<phrase weight="0.037037037037037035" count="1">commutation proceedings</phrase>
+	<phrase weight="0.037037037037037035" count="1">sealed originals</phrase>
+	<phrase weight="0.037037037037037035" count="1">tithe apportionment</phrase>
+	<phrase weight="0.037037037037037035" count="1">tithe act</phrase>
+	<phrase weight="0.037037037037037035" count="1">family historian</phrase>
+	<phrase weight="0.037037037037037035" count="1">acts provided</phrase>
+	<phrase weight="0.037037037037037035" count="1">boundary awards</phrase>
+	<phrase weight="0.037037037037037035" count="1">gross tithe rentcharge</phrase>
+	<phrase weight="0.037037037037037035" count="1">tithe commutation act</phrase>
+	<phrase weight="0.037037037037037035" count="1">tithe rentcharges</phrase>
+	<phrase weight="0.037037037037037035" count="1">greater interest</phrase>
+	<phrase weight="0.037037037037037035" count="1">establish liability</phrase>
+	<phrase weight="0.037037037037037035" count="1">parties acted</phrase>
+	<phrase weight="0.037037037037037035" count="1">awards depict boundaries</phrase>
+  </topic>
+</topics>

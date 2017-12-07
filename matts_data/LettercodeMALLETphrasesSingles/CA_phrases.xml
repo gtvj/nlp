@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.882869721266985" totalTokens="525" titles="countryside, project, local, communities, rural, land, projects, scheme, commission, lhi">
+	<word weight="0.03619047619047619" count="19">countryside</word>
+	<word weight="0.03238095238095238" count="17">project</word>
+	<word weight="0.02666666666666667" count="14">local</word>
+	<word weight="0.024761904761904763" count="13">communities</word>
+	<word weight="0.022857142857142857" count="12">rural</word>
+	<word weight="0.01904761904761905" count="10">land</word>
+	<word weight="0.01904761904761905" count="10">projects</word>
+	<word weight="0.017142857142857144" count="9">scheme</word>
+	<word weight="0.017142857142857144" count="9">commission</word>
+	<word weight="0.017142857142857144" count="9">lhi</word>
+	<word weight="0.015238095238095238" count="8">heritage</word>
+	<word weight="0.013333333333333334" count="7">common</word>
+	<word weight="0.013333333333333334" count="7">maps</word>
+	<word weight="0.013333333333333334" count="7">grant</word>
+	<word weight="0.011428571428571429" count="6">initiative</word>
+	<word weight="0.011428571428571429" count="6">government</word>
+	<word weight="0.011428571428571429" count="6">health</word>
+	<word weight="0.009523809523809525" count="5">country</word>
+	<word weight="0.009523809523809525" count="5">programme</word>
+	<word weight="0.009523809523809525" count="5">database</word>
+  </topic>
+</topics>

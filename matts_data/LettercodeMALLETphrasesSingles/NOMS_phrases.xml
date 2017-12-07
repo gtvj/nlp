@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.027040097778401" totalTokens="545" titles="probation, service, trust, management, offender, national, noms, government, prison, yorkshire">
+	<word weight="0.13211009174311927" count="72">probation</word>
+	<word weight="0.10458715596330276" count="57">service</word>
+	<word weight="0.09908256880733946" count="54">trust</word>
+	<word weight="0.08990825688073395" count="49">management</word>
+	<word weight="0.08990825688073395" count="49">offender</word>
+	<word weight="0.08990825688073395" count="49">national</word>
+	<word weight="0.07889908256880734" count="43">noms</word>
+	<word weight="0.07522935779816514" count="41">government</word>
+	<word weight="0.01834862385321101" count="10">prison</word>
+	<word weight="0.011009174311926606" count="6">yorkshire</word>
+	<word weight="0.007339449541284404" count="4">valley</word>
+	<word weight="0.007339449541284404" count="4">west</word>
+	<word weight="0.007339449541284404" count="4">north</word>
+	<word weight="0.005504587155963303" count="3">justice</word>
+	<word weight="0.003669724770642202" count="2">somerset</word>
+	<word weight="0.003669724770642202" count="2">avon</word>
+	<word weight="0.003669724770642202" count="2">lincolnshire</word>
+	<word weight="0.003669724770642202" count="2">hertfordshire</word>
+	<word weight="0.003669724770642202" count="2">wiltshire</word>
+	<word weight="0.003669724770642202" count="2">cumbria</word>
+  </topic>
+</topics>

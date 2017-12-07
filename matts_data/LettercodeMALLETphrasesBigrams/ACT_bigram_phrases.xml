@@ -1,0 +1,41 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="22.615380722924378" totalTokens="142" titles="government, actuary, reports, committee, national, approved, actuarys, annual, correspondence, calculations">
+	<word weight="0.09859154929577464" count="14">government</word>
+	<word weight="0.07746478873239436" count="11">actuary</word>
+	<word weight="0.06338028169014084" count="9">reports</word>
+	<word weight="0.056338028169014086" count="8">act</word>
+	<word weight="0.035211267605633804" count="5">committee</word>
+	<word weight="0.028169014084507043" count="4">national</word>
+	<word weight="0.028169014084507043" count="4">approved</word>
+	<word weight="0.02112676056338028" count="3">actuarys</word>
+	<word weight="0.02112676056338028" count="3">annual</word>
+	<word weight="0.02112676056338028" count="3">correspondence</word>
+	<word weight="0.02112676056338028" count="3">calculations</word>
+	<word weight="0.02112676056338028" count="3">insurance</word>
+	<word weight="0.02112676056338028" count="3">valuation</word>
+	<word weight="0.02112676056338028" count="3">valuations</word>
+	<word weight="0.02112676056338028" count="3">societies</word>
+	<word weight="0.014084507042253521" count="2">war</word>
+	<word weight="0.014084507042253521" count="2">advisory</word>
+	<word weight="0.014084507042253521" count="2">actuarial</word>
+	<word weight="0.014084507042253521" count="2">governments</word>
+	<word weight="0.014084507042253521" count="2">joint</word>
+	<phrase weight="0.28" count="7">government actuary</phrase>
+	<phrase weight="0.08" count="2">actuarial advisory committee</phrase>
+	<phrase weight="0.08" count="2">government actuarys</phrase>
+	<phrase weight="0.08" count="2">approved societies</phrase>
+	<phrase weight="0.04" count="1">civil service pensions</phrase>
+	<phrase weight="0.04" count="1">reports annual reports</phrase>
+	<phrase weight="0.04" count="1">public boards</phrase>
+	<phrase weight="0.04" count="1">consulting actuary</phrase>
+	<phrase weight="0.04" count="1">authority superannuation</phrase>
+	<phrase weight="0.04" count="1">health insurance joint committee</phrase>
+	<phrase weight="0.04" count="1">approved society finance</phrase>
+	<phrase weight="0.04" count="1">national insurance</phrase>
+	<phrase weight="0.04" count="1">risks compensation</phrase>
+	<phrase weight="0.04" count="1">national health insurance joint committee</phrase>
+	<phrase weight="0.04" count="1">uk government</phrase>
+	<phrase weight="0.04" count="1">approved societies valuations</phrase>
+  </topic>
+</topics>

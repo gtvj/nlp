@@ -1,0 +1,19 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="2.58509205323341" totalTokens="26" titles="board, national, charities, lottery, fund, community, reports, annual, nc, charity">
+	<word weight="0.15384615384615385" count="4">board</word>
+	<word weight="0.15384615384615385" count="4">national</word>
+	<word weight="0.11538461538461539" count="3">charities</word>
+	<word weight="0.11538461538461539" count="3">lottery</word>
+	<word weight="0.07692307692307693" count="2">fund</word>
+	<word weight="0.07692307692307693" count="2">community</word>
+	<word weight="0.07692307692307693" count="2">reports</word>
+	<word weight="0.07692307692307693" count="2">annual</word>
+	<word weight="0.07692307692307693" count="2">nc</word>
+	<word weight="0.038461538461538464" count="1">charity</word>
+	<word weight="0.038461538461538464" count="1">lotteries</word>
+	<phrase weight="0.5" count="2">national lottery charities board</phrase>
+	<phrase weight="0.25" count="1">annual reports</phrase>
+	<phrase weight="0.25" count="1">national lotteries charity board</phrase>
+  </topic>
+</topics>

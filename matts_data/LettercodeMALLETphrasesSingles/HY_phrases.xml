@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="10.251418648905362" totalTokens="232" titles="board, intervention, agricultural, produce, policy, division, central, market, finance, financial">
+	<word weight="0.08189655172413793" count="19">board</word>
+	<word weight="0.08189655172413793" count="19">intervention</word>
+	<word weight="0.05603448275862069" count="13">agricultural</word>
+	<word weight="0.04741379310344827" count="11">produce</word>
+	<word weight="0.04310344827586207" count="10">policy</word>
+	<word weight="0.03879310344827586" count="9">division</word>
+	<word weight="0.03017241379310345" count="7">central</word>
+	<word weight="0.02586206896551724" count="6">market</word>
+	<word weight="0.021551724137931036" count="5">finance</word>
+	<word weight="0.017241379310344827" count="4">financial</word>
+	<word weight="0.017241379310344827" count="4">case</word>
+	<word weight="0.017241379310344827" count="4">representative</word>
+	<word weight="0.017241379310344827" count="4">schemes</word>
+	<word weight="0.01293103448275862" count="3">audit</word>
+	<word weight="0.01293103448275862" count="3">internal</word>
+	<word weight="0.01293103448275862" count="3">european</word>
+	<word weight="0.01293103448275862" count="3">support</word>
+	<word weight="0.01293103448275862" count="3">reports</word>
+	<word weight="0.008620689655172414" count="2">meat</word>
+	<word weight="0.008620689655172414" count="2">commodity</word>
+  </topic>
+</topics>

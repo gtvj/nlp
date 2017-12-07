@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.1664887915029847" totalTokens="56" titles="purse, privy, jubilee, victoria, queen, addresses, royal, societies, windsor, public">
+	<word weight="0.08928571428571429" count="5">purse</word>
+	<word weight="0.08928571428571429" count="5">privy</word>
+	<word weight="0.07142857142857142" count="4">jubilee</word>
+	<word weight="0.05357142857142857" count="3">victoria</word>
+	<word weight="0.05357142857142857" count="3">queen</word>
+	<word weight="0.05357142857142857" count="3">addresses</word>
+	<word weight="0.05357142857142857" count="3">royal</word>
+	<word weight="0.03571428571428571" count="2">societies</word>
+	<word weight="0.017857142857142856" count="1">windsor</word>
+	<word weight="0.017857142857142856" count="1">public</word>
+	<word weight="0.017857142857142856" count="1">preserved</word>
+	<word weight="0.017857142857142856" count="1">keeper</word>
+	<word weight="0.017857142857142856" count="1">companies</word>
+	<word weight="0.017857142857142856" count="1">manufacturing</word>
+	<word weight="0.017857142857142856" count="1">associations</word>
+	<word weight="0.017857142857142856" count="1">trades</word>
+	<word weight="0.017857142857142856" count="1">establishments</word>
+	<word weight="0.017857142857142856" count="1">medical</word>
+	<word weight="0.017857142857142856" count="1">military</word>
+	<word weight="0.017857142857142856" count="1">religious</word>
+  </topic>
+</topics>

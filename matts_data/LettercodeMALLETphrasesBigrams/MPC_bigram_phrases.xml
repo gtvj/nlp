@@ -1,0 +1,38 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0817017179980917" totalTokens="101" titles="maps, plans, duchy, place, drawings, lancaster, london, area, places, commissions">
+	<word weight="0.06930693069306931" count="7">maps</word>
+	<word weight="0.0594059405940594" count="6">plans</word>
+	<word weight="0.039603960396039604" count="4">duchy</word>
+	<word weight="0.0297029702970297" count="3">place</word>
+	<word weight="0.0297029702970297" count="3">drawings</word>
+	<word weight="0.0297029702970297" count="3">lancaster</word>
+	<word weight="0.019801980198019802" count="2">london</word>
+	<word weight="0.019801980198019802" count="2">map</word>
+	<word weight="0.019801980198019802" count="2">area</word>
+	<word weight="0.019801980198019802" count="2">places</word>
+	<word weight="0.019801980198019802" count="2">commissions</word>
+	<word weight="0.019801980198019802" count="2">special</word>
+	<word weight="0.019801980198019802" count="2">dl</word>
+	<word weight="0.019801980198019802" count="2">public</word>
+	<word weight="0.009900990099009901" count="1">plan</word>
+	<word weight="0.009900990099009901" count="1">borough</word>
+	<word weight="0.009900990099009901" count="1">county</word>
+	<word weight="0.009900990099009901" count="1">city</word>
+	<word weight="0.009900990099009901" count="1">location</word>
+	<word weight="0.009900990099009901" count="1">inverted</word>
+	<phrase weight="0.14285714285714285" count="2">special commissions</phrase>
+	<phrase weight="0.07142857142857142" count="1">suits pending</phrase>
+	<phrase weight="0.07142857142857142" count="1">plans relate</phrase>
+	<phrase weight="0.07142857142857142" count="1">preservation measure</phrase>
+	<phrase weight="0.07142857142857142" count="1">counties principally represented</phrase>
+	<phrase weight="0.07142857142857142" count="1">architectural drawings</phrase>
+	<phrase weight="0.07142857142857142" count="1">geographical area</phrase>
+	<phrase weight="0.07142857142857142" count="1">showing enfield chase</phrase>
+	<phrase weight="0.07142857142857142" count="1">common subject matter</phrase>
+	<phrase weight="0.07142857142857142" count="1">london area</phrase>
+	<phrase weight="0.07142857142857142" count="1">twentieth century</phrase>
+	<phrase weight="0.07142857142857142" count="1">artificial accumulations</phrase>
+	<phrase weight="0.07142857142857142" count="1">significant change</phrase>
+  </topic>
+</topics>

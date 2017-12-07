@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.432173840007171" totalTokens="5059" titles="great sessions, county court, chester, rolls, exchequer, palatinate, courts, flint, orders, entries">
+	<word weight="0.04724253805099822" count="239">chester</word>
+	<word weight="0.03478948408776438" count="176">court</word>
+	<word weight="0.01897608222968966" count="96">rolls</word>
+	<word weight="0.01541806681162285" count="78">sessions</word>
+	<word weight="0.01541806681162285" count="78">exchequer</word>
+	<word weight="0.013243724056137577" count="67">county</word>
+	<word weight="0.013243724056137577" count="67">palatinate</word>
+	<word weight="0.012255386440007907" count="62">great</word>
+	<word weight="0.011464716347104172" count="58">courts</word>
+	<word weight="0.011267048823878236" count="57">flint</word>
+	<word weight="0.008302035975489227" count="42">orders</word>
+	<word weight="0.00691836331290769" count="35">entries</word>
+	<word weight="0.006720695789681755" count="34">books</word>
+	<word weight="0.0061276932200039535" count="31">proceedings</word>
+	<word weight="0.005732358173552086" count="29">roll</word>
+	<word weight="0.0055346906503261515" count="28">plea</word>
+	<word weight="0.0055346906503261515" count="28">session</word>
+	<word weight="0.005337023127100217" count="27">recorded</word>
+	<word weight="0.005337023127100217" count="27">defendant</word>
+	<word weight="0.00494168808064835" count="25">reign</word>
+	<phrase weight="0.06826801517067003" count="54">great sessions</phrase>
+	<phrase weight="0.035398230088495575" count="28">county court</phrase>
+	<phrase weight="0.018963337547408345" count="15">plea rolls</phrase>
+	<phrase weight="0.018963337547408345" count="15">chester county court</phrase>
+	<phrase weight="0.008849557522123894" count="7">equity proceedings</phrase>
+	<phrase weight="0.006321112515802781" count="5">court orders</phrase>
+	<phrase weight="0.006321112515802781" count="5">final concords</phrase>
+	<phrase weight="0.006321112515802781" count="5">chester exchequer</phrase>
+	<phrase weight="0.0050568900126422255" count="4">henry viii</phrase>
+	<phrase weight="0.0050568900126422255" count="4">seventeenth century</phrase>
+	<phrase weight="0.0050568900126422255" count="4">exchequer court</phrase>
+	<phrase weight="0.0050568900126422255" count="4">court directives</phrase>
+	<phrase weight="0.0037926675094816687" count="3">flint justice</phrase>
+	<phrase weight="0.0037926675094816687" count="3">oath rolls</phrase>
+	<phrase weight="0.0037926675094816687" count="3">edward iii</phrase>
+	<phrase weight="0.0037926675094816687" count="3">rule books</phrase>
+	<phrase weight="0.0037926675094816687" count="3">royal chancery</phrase>
+	<phrase weight="0.0037926675094816687" count="3">wide variety</phrase>
+	<phrase weight="0.0037926675094816687" count="3">crown pleas</phrase>
+	<phrase weight="0.0037926675094816687" count="3">great majority</phrase>
+  </topic>
+</topics>

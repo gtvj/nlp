@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="23.659336573912455" totalTokens="128" titles="health, visitors, training, council, education, courses, institutional, minutes, correspondence, visiting">
+	<word weight="0.125" count="16">health</word>
+	<word weight="0.1015625" count="13">visitors</word>
+	<word weight="0.1015625" count="13">training</word>
+	<word weight="0.1015625" count="13">council</word>
+	<word weight="0.0625" count="8">education</word>
+	<word weight="0.0234375" count="3">courses</word>
+	<word weight="0.0234375" count="3">institutional</word>
+	<word weight="0.0234375" count="3">minutes</word>
+	<word weight="0.0234375" count="3">correspondence</word>
+	<word weight="0.015625" count="2">visiting</word>
+	<word weight="0.015625" count="2">approval</word>
+	<word weight="0.015625" count="2">assessment</word>
+	<word weight="0.015625" count="2">publications</word>
+	<word weight="0.015625" count="2">reports</word>
+	<word weight="0.015625" count="2">committees</word>
+	<word weight="0.015625" count="2">councils</word>
+	<word weight="0.0078125" count="1">southampton</word>
+	<word weight="0.0078125" count="1">university</word>
+	<word weight="0.0078125" count="1">technology</word>
+	<word weight="0.0078125" count="1">college</word>
+  </topic>
+</topics>

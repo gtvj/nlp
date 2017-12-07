@@ -1,0 +1,17 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="87.77351980142022" totalTokens="17" titles="decommissioning, nuclear, authority, nda, legacy, civil, uk, clean, deliver, responsibility">
+	<word weight="0.17647058823529413" count="3">decommissioning</word>
+	<word weight="0.17647058823529413" count="3">nuclear</word>
+	<word weight="0.11764705882352941" count="2">authority</word>
+	<word weight="0.11764705882352941" count="2">nda</word>
+	<word weight="0.058823529411764705" count="1">legacy</word>
+	<word weight="0.058823529411764705" count="1">civil</word>
+	<word weight="0.058823529411764705" count="1">uk</word>
+	<word weight="0.058823529411764705" count="1">clean</word>
+	<word weight="0.058823529411764705" count="1">deliver</word>
+	<word weight="0.058823529411764705" count="1">responsibility</word>
+	<word weight="0.058823529411764705" count="1">predecessors</word>
+	<phrase weight="1.0" count="2">nuclear decommissioning authority</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,39 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0" totalTokens="116" titles="london, maps, borough, drawings, plans, county, current, place, places, enrolments">
+	<word weight="0.06896551724137931" count="8">london</word>
+	<word weight="0.05172413793103448" count="6">maps</word>
+	<word weight="0.034482758620689655" count="4">borough</word>
+	<word weight="0.034482758620689655" count="4">drawings</word>
+	<word weight="0.034482758620689655" count="4">plans</word>
+	<word weight="0.02586206896551724" count="3">county</word>
+	<word weight="0.02586206896551724" count="3">current</word>
+	<word weight="0.02586206896551724" count="3">place</word>
+	<word weight="0.02586206896551724" count="3">places</word>
+	<word weight="0.02586206896551724" count="3">map</word>
+	<word weight="0.02586206896551724" count="3">enrolments</word>
+	<word weight="0.02586206896551724" count="3">revenue</word>
+	<word weight="0.02586206896551724" count="3">land</word>
+	<word weight="0.017241379310344827" count="2">council</word>
+	<word weight="0.017241379310344827" count="2">area</word>
+	<word weight="0.017241379310344827" count="2">century</word>
+	<word weight="0.017241379310344827" count="2">twentieth</word>
+	<word weight="0.017241379310344827" count="2">public</word>
+	<word weight="0.008620689655172414" count="1">size</word>
+	<word weight="0.008620689655172414" count="1">measure</word>
+	<phrase weight="0.17647058823529413" count="3">land revenue</phrase>
+	<phrase weight="0.11764705882352941" count="2">twentieth century</phrase>
+	<phrase weight="0.058823529411764705" count="1">london council</phrase>
+	<phrase weight="0.058823529411764705" count="1">architectural drawings</phrase>
+	<phrase weight="0.058823529411764705" count="1">successive civil list acts</phrase>
+	<phrase weight="0.058823529411764705" count="1">geographical area</phrase>
+	<phrase weight="0.058823529411764705" count="1">london borough</phrase>
+	<phrase weight="0.058823529411764705" count="1">london county council</phrase>
+	<phrase weight="0.058823529411764705" count="1">subject matter</phrase>
+	<phrase weight="0.058823529411764705" count="1">crown lands</phrase>
+	<phrase weight="0.058823529411764705" count="1">london area</phrase>
+	<phrase weight="0.058823529411764705" count="1">preservation measure</phrase>
+	<phrase weight="0.058823529411764705" count="1">artificial accumulations</phrase>
+	<phrase weight="0.058823529411764705" count="1">significant change</phrase>
+  </topic>
+</topics>

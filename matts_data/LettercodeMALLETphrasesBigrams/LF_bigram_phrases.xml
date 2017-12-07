@@ -1,0 +1,29 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.9264605270806023" totalTokens="34" titles="telecommunications, reports, oftel, annual, lf, unavailable, covering, act, section, pursuant">
+	<word weight="0.17647058823529413" count="6">telecommunications</word>
+	<word weight="0.11764705882352941" count="4">reports</word>
+	<word weight="0.11764705882352941" count="4">oftel</word>
+	<word weight="0.08823529411764706" count="3">annual</word>
+	<word weight="0.08823529411764706" count="3">lf</word>
+	<word weight="0.029411764705882353" count="1">unavailable</word>
+	<word weight="0.029411764705882353" count="1">covering</word>
+	<word weight="0.029411764705882353" count="1">act</word>
+	<word weight="0.029411764705882353" count="1">section</word>
+	<word weight="0.029411764705882353" count="1">pursuant</word>
+	<word weight="0.029411764705882353" count="1">parliament</word>
+	<word weight="0.029411764705882353" count="1">general</word>
+	<word weight="0.029411764705882353" count="1">director</word>
+	<word weight="0.029411764705882353" count="1">uk</word>
+	<word weight="0.029411764705882353" count="1">licences</word>
+	<word weight="0.029411764705882353" count="1">enforcing</word>
+	<word weight="0.029411764705882353" count="1">monitoring</word>
+	<word weight="0.029411764705882353" count="1">regulating</word>
+	<word weight="0.029411764705882353" count="1">responsibilities</word>
+	<phrase weight="0.2" count="1">annual reports annual reports</phrase>
+	<phrase weight="0.2" count="1">telecommunications act</phrase>
+	<phrase weight="0.2" count="1">enforcing telecommunications licences</phrase>
+	<phrase weight="0.2" count="1">annual reports</phrase>
+	<phrase weight="0.2" count="1">parliament pursuant</phrase>
+  </topic>
+</topics>

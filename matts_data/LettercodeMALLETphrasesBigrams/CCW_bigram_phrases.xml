@@ -1,0 +1,21 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.9347970445512315" totalTokens="39" titles="water, council, consumer, uk, ccwater, org, www, https, field, general">
+	<word weight="0.1794871794871795" count="7">water</word>
+	<word weight="0.1794871794871795" count="7">council</word>
+	<word weight="0.1794871794871795" count="7">consumer</word>
+	<word weight="0.07692307692307693" count="3">uk</word>
+	<word weight="0.07692307692307693" count="3">ccwater</word>
+	<word weight="0.05128205128205128" count="2">org</word>
+	<word weight="0.05128205128205128" count="2">www</word>
+	<word weight="0.05128205128205128" count="2">ccw</word>
+	<word weight="0.02564102564102564" count="1">https</word>
+	<word weight="0.02564102564102564" count="1">http</word>
+	<word weight="0.02564102564102564" count="1">field</word>
+	<word weight="0.02564102564102564" count="1">general</word>
+	<word weight="0.02564102564102564" count="1">government</word>
+	<word weight="0.02564102564102564" count="1">division</word>
+	<phrase weight="0.875" count="7">consumer council</phrase>
+	<phrase weight="0.125" count="1">uk government</phrase>
+  </topic>
+</topics>

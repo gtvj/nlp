@@ -1,0 +1,9 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.663712731923468" totalTokens="14" titles="regulation, electricity, reports, annual, ">
+	<word weight="0.2857142857142857" count="4">regulation</word>
+	<word weight="0.2857142857142857" count="4">electricity</word>
+	<word weight="0.21428571428571427" count="3">reports</word>
+	<word weight="0.21428571428571427" count="3">annual</word>
+  </topic>
+</topics>

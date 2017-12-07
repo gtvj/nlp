@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.1220293456128445" totalTokens="789" titles="supply, research, reports, successors, ordnance, experimental, aircraft, general, council, establishments">
+	<word weight="0.06717363751584284" count="53">supply</word>
+	<word weight="0.04055766793409379" count="32">research</word>
+	<word weight="0.03802281368821293" count="30">reports</word>
+	<word weight="0.022813688212927757" count="18">successors</word>
+	<word weight="0.021546261089987327" count="17">ordnance</word>
+	<word weight="0.020278833967046894" count="16">experimental</word>
+	<word weight="0.019011406844106463" count="15">aircraft</word>
+	<word weight="0.019011406844106463" count="15">general</word>
+	<word weight="0.01394169835234474" count="11">council</word>
+	<word weight="0.01394169835234474" count="11">establishments</word>
+	<word weight="0.012674271229404309" count="10">minutes</word>
+	<word weight="0.011406844106463879" count="9">board</word>
+	<word weight="0.010139416983523447" count="8">development</word>
+	<word weight="0.010139416983523447" count="8">committees</word>
+	<word weight="0.010139416983523447" count="8">factories</word>
+	<word weight="0.008871989860583017" count="7">director</word>
+	<word weight="0.008871989860583017" count="7">scientific</word>
+	<word weight="0.008871989860583017" count="7">private</word>
+	<word weight="0.008871989860583017" count="7">war</word>
+	<word weight="0.0076045627376425855" count="6">correspondence</word>
+	<phrase weight="0.031496062992125984" count="4">civil aircraft research</phrase>
+	<phrase weight="0.031496062992125984" count="4">mechanical equipment</phrase>
+	<phrase weight="0.023622047244094488" count="3">royal ordnance factories</phrase>
+	<phrase weight="0.023622047244094488" count="3">joint industrial council</phrase>
+	<phrase weight="0.023622047244094488" count="3">scientific advisory council</phrase>
+	<phrase weight="0.023622047244094488" count="3">ordnance board</phrase>
+	<phrase weight="0.015748031496062992" count="2">weapons research</phrase>
+	<phrase weight="0.015748031496062992" count="2">aircraft data</phrase>
+	<phrase weight="0.015748031496062992" count="2">limited circulation</phrase>
+	<phrase weight="0.015748031496062992" count="2">waltham abbey</phrase>
+	<phrase weight="0.015748031496062992" count="2">military engineering experimental</phrase>
+	<phrase weight="0.015748031496062992" count="2">official war histories</phrase>
+	<phrase weight="0.015748031496062992" count="2">aircraft production</phrase>
+	<phrase weight="0.015748031496062992" count="2">petroleum warfare</phrase>
+	<phrase weight="0.015748031496062992" count="2">experimental work</phrase>
+	<phrase weight="0.015748031496062992" count="2">technical notes</phrase>
+	<phrase weight="0.015748031496062992" count="2">director general</phrase>
+	<phrase weight="0.007874015748031496" count="1">processes employed</phrase>
+	<phrase weight="0.007874015748031496" count="1">contracts division</phrase>
+	<phrase weight="0.007874015748031496" count="1">service metallurgical research council</phrase>
+  </topic>
+</topics>

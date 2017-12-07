@@ -1,0 +1,19 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="57.88404109120446" totalTokens="72" titles="commission, electoral, government, resources, participation, vote, site, politics, blog, division">
+	<word weight="0.2916666666666667" count="21">commission</word>
+	<word weight="0.2916666666666667" count="21">electoral</word>
+	<word weight="0.09722222222222222" count="7">government</word>
+	<word weight="0.05555555555555555" count="4">resources</word>
+	<word weight="0.05555555555555555" count="4">participation</word>
+	<word weight="0.05555555555555555" count="4">vote</word>
+	<word weight="0.027777777777777776" count="2">site</word>
+	<word weight="0.027777777777777776" count="2">politics</word>
+	<word weight="0.027777777777777776" count="2">blog</word>
+	<word weight="0.013888888888888888" count="1">division</word>
+	<word weight="0.013888888888888888" count="1">authorities</word>
+	<word weight="0.013888888888888888" count="1">local</word>
+	<word weight="0.013888888888888888" count="1">field</word>
+	<word weight="0.013888888888888888" count="1">general</word>
+  </topic>
+</topics>

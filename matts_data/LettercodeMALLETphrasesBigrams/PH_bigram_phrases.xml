@@ -1,0 +1,37 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="45.84028276805248" totalTokens="105" titles="work, social, council, training, education, ph, central, ccetsw, reports, publications">
+	<word weight="0.0761904761904762" count="8">work</word>
+	<word weight="0.0761904761904762" count="8">social</word>
+	<word weight="0.0761904761904762" count="8">council</word>
+	<word weight="0.06666666666666667" count="7">training</word>
+	<word weight="0.06666666666666667" count="7">education</word>
+	<word weight="0.06666666666666667" count="7">ph</word>
+	<word weight="0.05714285714285714" count="6">central</word>
+	<word weight="0.047619047619047616" count="5">ccetsw</word>
+	<word weight="0.0380952380952381" count="4">reports</word>
+	<word weight="0.02857142857142857" count="3">publications</word>
+	<word weight="0.02857142857142857" count="3">aids</word>
+	<word weight="0.02857142857142857" count="3">minutes</word>
+	<word weight="0.01904761904761905" count="2">working</word>
+	<word weight="0.01904761904761905" count="2">internal</word>
+	<word weight="0.01904761904761905" count="2">meetings</word>
+	<word weight="0.009523809523809525" count="1">disks</word>
+	<word weight="0.009523809523809525" count="1">computer</word>
+	<word weight="0.009523809523809525" count="1">videos</word>
+	<word weight="0.009523809523809525" count="1">media</word>
+	<word weight="0.009523809523809525" count="1">mixed</word>
+	<phrase weight="0.3181818181818182" count="7">social work</phrase>
+	<phrase weight="0.18181818181818182" count="4">central council</phrase>
+	<phrase weight="0.09090909090909091" count="2">working aids</phrase>
+	<phrase weight="0.045454545454545456" count="1">teaching aids</phrase>
+	<phrase weight="0.045454545454545456" count="1">committee meetings</phrase>
+	<phrase weight="0.045454545454545456" count="1">mixed media</phrase>
+	<phrase weight="0.045454545454545456" count="1">internal management reports</phrase>
+	<phrase weight="0.045454545454545456" count="1">promoting education</phrase>
+	<phrase weight="0.045454545454545456" count="1">religious awareness</phrase>
+	<phrase weight="0.045454545454545456" count="1">sexual abuse</phrase>
+	<phrase weight="0.045454545454545456" count="1">improvement studies</phrase>
+	<phrase weight="0.045454545454545456" count="1">ccetsw annual reports</phrase>
+  </topic>
+</topics>

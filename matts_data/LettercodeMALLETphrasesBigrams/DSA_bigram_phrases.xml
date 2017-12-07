@@ -1,0 +1,20 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.195176982242531" totalTokens="40" titles="standards, driving, dsa, government, uk, tests, theory, pass, alive, arrive">
+	<word weight="0.2" count="8">standards</word>
+	<word weight="0.2" count="8">driving</word>
+	<word weight="0.125" count="5">dsa</word>
+	<word weight="0.1" count="4">government</word>
+	<word weight="0.1" count="4">uk</word>
+	<word weight="0.05" count="2">tests</word>
+	<word weight="0.05" count="2">theory</word>
+	<word weight="0.05" count="2">pass</word>
+	<word weight="0.05" count="2">alive</word>
+	<word weight="0.05" count="2">arrive</word>
+	<word weight="0.025" count="1">division</word>
+	<phrase weight="0.5" count="4">uk government</phrase>
+	<phrase weight="0.25" count="2">driving standards</phrase>
+	<phrase weight="0.125" count="1">theory tests</phrase>
+	<phrase weight="0.125" count="1">arrive alive</phrase>
+  </topic>
+</topics>

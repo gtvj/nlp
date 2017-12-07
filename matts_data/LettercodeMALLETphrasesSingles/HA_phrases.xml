@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.097216691889632" totalTokens="546" titles="research, environment, council, natural, government, centre, british, nerc, survey, data">
+	<word weight="0.10622710622710622" count="58">research</word>
+	<word weight="0.0989010989010989" count="54">environment</word>
+	<word weight="0.09523809523809523" count="52">council</word>
+	<word weight="0.09523809523809523" count="52">natural</word>
+	<word weight="0.06593406593406594" count="36">government</word>
+	<word weight="0.029304029304029304" count="16">centre</word>
+	<word weight="0.02564102564102564" count="14">british</word>
+	<word weight="0.023809523809523808" count="13">nerc</word>
+	<word weight="0.02197802197802198" count="12">survey</word>
+	<word weight="0.018315018315018316" count="10">data</word>
+	<word weight="0.01282051282051282" count="7">hydrology</word>
+	<word weight="0.01282051282051282" count="7">ecology</word>
+	<word weight="0.01098901098901099" count="6">antarctic</word>
+	<word weight="0.01098901098901099" count="6">environmental</word>
+	<word weight="0.01098901098901099" count="6">ceh</word>
+	<word weight="0.009157509157509158" count="5">oceanography</word>
+	<word weight="0.009157509157509158" count="5">national</word>
+	<word weight="0.007326007326007326" count="4">services</word>
+	<word weight="0.007326007326007326" count="4">network</word>
+	<word weight="0.007326007326007326" count="4">scheme</word>
+  </topic>
+</topics>

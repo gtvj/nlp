@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.74869450181835" totalTokens="1061" titles="audit, auditors, imprest, successors, accounts, ao, commissioners, exchequer, national, general">
+	<word weight="0.09142318567389256" count="97">audit</word>
+	<word weight="0.04429783223374175" count="47">auditors</word>
+	<word weight="0.043355325164938736" count="46">imprest</word>
+	<word weight="0.043355325164938736" count="46">successors</word>
+	<word weight="0.04052780395852969" count="43">accounts</word>
+	<word weight="0.03958529688972667" count="42">ao</word>
+	<word weight="0.03864278982092366" count="41">commissioners</word>
+	<word weight="0.036757775683317624" count="39">exchequer</word>
+	<word weight="0.016022620169651274" count="17">national</word>
+	<word weight="0.016022620169651274" count="17">general</word>
+	<word weight="0.016022620169651274" count="17">reports</word>
+	<word weight="0.01413760603204524" count="15">books</word>
+	<word weight="0.012252591894439209" count="13">claims</word>
+	<word weight="0.010367577756833177" count="11">letters</word>
+	<word weight="0.00942507068803016" count="10">comptroller</word>
+	<word weight="0.008482563619227144" count="9">policy</word>
+	<word weight="0.008482563619227144" count="9">declared</word>
+	<word weight="0.006597549481621112" count="7">public</word>
+	<word weight="0.006597549481621112" count="7">minutes</word>
+	<word weight="0.005655042412818096" count="6">treasury</word>
+	<phrase weight="0.09701492537313433" count="13">national audit</phrase>
+	<phrase weight="0.029850746268656716" count="4">comptroller general</phrase>
+	<phrase weight="0.029850746268656716" count="4">declared accounts</phrase>
+	<phrase weight="0.022388059701492536" count="3">passed accounts</phrase>
+	<phrase weight="0.014925373134328358" count="2">irish accounts</phrase>
+	<phrase weight="0.014925373134328358" count="2">management group</phrase>
+	<phrase weight="0.014925373134328358" count="2">american loyalists claims</phrase>
+	<phrase weight="0.014925373134328358" count="2">auditor general</phrase>
+	<phrase weight="0.014925373134328358" count="2">senior management group</phrase>
+	<phrase weight="0.007462686567164179" count="1">letters entry books</phrase>
+	<phrase weight="0.007462686567164179" count="1">irish treasury authorities</phrase>
+	<phrase weight="0.007462686567164179" count="1">enrolment books enrolments</phrase>
+	<phrase weight="0.007462686567164179" count="1">british officers</phrase>
+	<phrase weight="0.007462686567164179" count="1">bearing plain</phrase>
+	<phrase weight="0.007462686567164179" count="1">treasury letters authorising expenditure</phrase>
+	<phrase weight="0.007462686567164179" count="1">book form</phrase>
+	<phrase weight="0.007462686567164179" count="1">american independence</phrase>
+	<phrase weight="0.007462686567164179" count="1">accounts received registers</phrase>
+	<phrase weight="0.007462686567164179" count="1">important audit decisions</phrase>
+	<phrase weight="0.007462686567164179" count="1">letters received</phrase>
+  </topic>
+</topics>

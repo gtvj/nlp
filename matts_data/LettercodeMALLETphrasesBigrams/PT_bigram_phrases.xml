@@ -1,0 +1,31 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0630815961966202" totalTokens="64" titles="public, trustee, pt, committee, minutes, advisory, investment, organisation, correspondence, general">
+	<word weight="0.09375" count="6">public</word>
+	<word weight="0.078125" count="5">trustee</word>
+	<word weight="0.078125" count="5">pt</word>
+	<word weight="0.0625" count="4">committee</word>
+	<word weight="0.046875" count="3">minutes</word>
+	<word weight="0.046875" count="3">advisory</word>
+	<word weight="0.046875" count="3">investment</word>
+	<word weight="0.03125" count="2">organisation</word>
+	<word weight="0.03125" count="2">correspondence</word>
+	<word weight="0.03125" count="2">general</word>
+	<word weight="0.03125" count="2">property</word>
+	<word weight="0.03125" count="2">enemy</word>
+	<word weight="0.03125" count="2">custodian</word>
+	<word weight="0.03125" count="2">wartime</word>
+	<word weight="0.03125" count="2">administration</word>
+	<word weight="0.015625" count="1">securities</word>
+	<word weight="0.015625" count="1">stocks</word>
+	<word weight="0.015625" count="1">investments</word>
+	<word weight="0.015625" count="1">sales</word>
+	<word weight="0.015625" count="1">listing</word>
+	<phrase weight="0.4" count="4">public trustee</phrase>
+	<phrase weight="0.2" count="2">investment advisory committee</phrase>
+	<phrase weight="0.1" count="1">listing sales</phrase>
+	<phrase weight="0.1" count="1">trust funds</phrase>
+	<phrase weight="0.1" count="1">enemy property</phrase>
+	<phrase weight="0.1" count="1">wartime responsibilities</phrase>
+  </topic>
+</topics>

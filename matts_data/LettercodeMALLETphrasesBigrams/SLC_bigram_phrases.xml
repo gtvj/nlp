@@ -1,0 +1,32 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="25.248519344237998" totalTokens="96" titles="student, company, loans, finance, slc, england, government, uk, practitioners, login">
+	<word weight="0.25" count="24">student</word>
+	<word weight="0.125" count="12">company</word>
+	<word weight="0.125" count="12">loans</word>
+	<word weight="0.10416666666666667" count="10">finance</word>
+	<word weight="0.07291666666666667" count="7">slc</word>
+	<word weight="0.0625" count="6">england</word>
+	<word weight="0.0625" count="6">government</word>
+	<word weight="0.0625" count="6">uk</word>
+	<word weight="0.020833333333333332" count="2">practitioners</word>
+	<word weight="0.020833333333333332" count="2">login</word>
+	<word weight="0.020833333333333332" count="2">direct</word>
+	<word weight="0.020833333333333332" count="2">repayment</word>
+	<word weight="0.020833333333333332" count="2">loan</word>
+	<word weight="0.010416666666666666" count="1">division</word>
+	<word weight="0.010416666666666666" count="1">field</word>
+	<word weight="0.010416666666666666" count="1">general</word>
+	<phrase weight="0.2222222222222222" count="4">student finance england</phrase>
+	<phrase weight="0.1111111111111111" count="2">student finance</phrase>
+	<phrase weight="0.1111111111111111" count="2">finance england</phrase>
+	<phrase weight="0.1111111111111111" count="2">loans company</phrase>
+	<phrase weight="0.1111111111111111" count="2">student loans company</phrase>
+	<phrase weight="0.05555555555555555" count="1">student loan repayment</phrase>
+	<phrase weight="0.05555555555555555" count="1">finance direct</phrase>
+	<phrase weight="0.05555555555555555" count="1">loan repayment</phrase>
+	<phrase weight="0.05555555555555555" count="1">uk government</phrase>
+	<phrase weight="0.05555555555555555" count="1">student loans company student loans company</phrase>
+	<phrase weight="0.05555555555555555" count="1">student finance direct</phrase>
+  </topic>
+</topics>

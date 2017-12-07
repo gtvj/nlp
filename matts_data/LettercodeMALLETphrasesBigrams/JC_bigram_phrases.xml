@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.299838980785683" totalTokens="282" titles="water, services, jc, reports, annual, regulation, ofwat, publications, authority, general">
+	<word weight="0.16312056737588654" count="46">water</word>
+	<word weight="0.13120567375886524" count="37">services</word>
+	<word weight="0.09574468085106383" count="27">jc</word>
+	<word weight="0.03900709219858156" count="11">reports</word>
+	<word weight="0.028368794326241134" count="8">annual</word>
+	<word weight="0.028368794326241134" count="8">regulation</word>
+	<word weight="0.028368794326241134" count="8">ofwat</word>
+	<word weight="0.01773049645390071" count="5">publications</word>
+	<word weight="0.01773049645390071" count="5">authority</word>
+	<word weight="0.014184397163120567" count="4">general</word>
+	<word weight="0.014184397163120567" count="4">director</word>
+	<word weight="0.014184397163120567" count="4">digital</word>
+	<word weight="0.014184397163120567" count="4">reviews</word>
+	<word weight="0.014184397163120567" count="4">periodic</word>
+	<word weight="0.014184397163120567" count="4">research</word>
+	<word weight="0.014184397163120567" count="4">consultation</word>
+	<word weight="0.014184397163120567" count="4">national</word>
+	<word weight="0.014184397163120567" count="4">service</word>
+	<word weight="0.014184397163120567" count="4">customer</word>
+	<word weight="0.010638297872340425" count="3">supplies</word>
+	<phrase weight="0.3157894736842105" count="18">water services</phrase>
+	<phrase weight="0.07017543859649122" count="4">annual reports</phrase>
+	<phrase weight="0.05263157894736842" count="3">director general</phrase>
+	<phrase weight="0.03508771929824561" count="2">regional customer service committees</phrase>
+	<phrase weight="0.03508771929824561" count="2">board minutes</phrase>
+	<phrase weight="0.03508771929824561" count="2">water supplies</phrase>
+	<phrase weight="0.03508771929824561" count="2">early procedures</phrase>
+	<phrase weight="0.03508771929824561" count="2">occasional publications</phrase>
+	<phrase weight="0.03508771929824561" count="2">water services regulation authority</phrase>
+	<phrase weight="0.03508771929824561" count="2">periodic reviews</phrase>
+	<phrase weight="0.017543859649122806" count="1">water services national customer council</phrase>
+	<phrase weight="0.017543859649122806" count="1">ad hoc</phrase>
+	<phrase weight="0.017543859649122806" count="1">water services concentrating</phrase>
+	<phrase weight="0.017543859649122806" count="1">international comparisons</phrase>
+	<phrase weight="0.017543859649122806" count="1">central board</phrase>
+	<phrase weight="0.017543859649122806" count="1">regulated water</phrase>
+	<phrase weight="0.017543859649122806" count="1">uk government</phrase>
+	<phrase weight="0.017543859649122806" count="1">drinking water</phrase>
+	<phrase weight="0.017543859649122806" count="1">water companies annual reports</phrase>
+	<phrase weight="0.017543859649122806" count="1">water services regulation authority regading</phrase>
+  </topic>
+</topics>

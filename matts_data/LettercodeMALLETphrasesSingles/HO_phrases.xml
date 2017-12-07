@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.0497546311286765" totalTokens="16053" titles="home, general, books, entry, correspondence, registers, war, police, warrant, world">
+	<word weight="0.052825017130754374" count="848">home</word>
+	<word weight="0.025540397433501526" count="410">general</word>
+	<word weight="0.018999563944434063" count="305">books</word>
+	<word weight="0.016756992462468076" count="269">entry</word>
+	<word weight="0.01625864324425341" count="261">correspondence</word>
+	<word weight="0.013891484457733756" count="223">registers</word>
+	<word weight="0.012832492369027596" count="206">war</word>
+	<word weight="0.011835793932598268" count="190">police</word>
+	<word weight="0.011524325671214104" count="185">warrant</word>
+	<word weight="0.010839095496168941" count="174">world</word>
+	<word weight="0.010589920887061609" count="170">wartime</word>
+	<word weight="0.008783404971033451" count="141">commissions</word>
+	<word weight="0.008596524014202953" count="138">government</word>
+	<word weight="0.00791129383915779" count="127">security</word>
+	<word weight="0.007786706534604124" count="125">criminal</word>
+	<word weight="0.007724412882327291" count="124">symbol</word>
+	<word weight="0.007662119230050458" count="123">committee</word>
+	<word weight="0.007350650968666293" count="118">reports</word>
+	<word weight="0.0071014763595589605" count="114">royal</word>
+	<word weight="0.006104777923129633" count="98">civil</word>
+  </topic>
+</topics>

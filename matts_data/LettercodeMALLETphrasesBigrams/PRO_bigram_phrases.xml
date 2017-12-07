@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.123217266109635" totalTokens="7428" titles="lord chancellor, public, pro, deposit, gifts, acquired, correspondence, transcripts, administration, internal">
+	<word weight="0.04079159935379645" count="303">public</word>
+	<word weight="0.03446418955304254" count="256">pro</word>
+	<word weight="0.0170974690360797" count="127">deposit</word>
+	<word weight="0.014539579967689823" count="108">gifts</word>
+	<word weight="0.014135702746365105" count="105">acquired</word>
+	<word weight="0.00996230479267636" count="74">transcripts</word>
+	<word weight="0.00996230479267636" count="74">correspondence</word>
+	<word weight="0.008750673128702207" count="65">administration</word>
+	<word weight="0.007539041464728056" count="56">lord</word>
+	<word weight="0.007269789983844911" count="54">notes</word>
+	<word weight="0.007269789983844911" count="54">internal</word>
+	<word weight="0.006327409800753904" count="47">general</word>
+	<word weight="0.006192784060312331" count="46">collection</word>
+	<word weight="0.0059235325794291865" count="44">letters</word>
+	<word weight="0.0059235325794291865" count="44">government</word>
+	<word weight="0.0057889068389876145" count="43">books</word>
+	<word weight="0.0057889068389876145" count="43">work</word>
+	<word weight="0.005250403877221325" count="39">reports</word>
+	<word weight="0.005250403877221325" count="39">earl</word>
+	<word weight="0.0044426494345718905" count="33">miscellaneous</word>
+	<phrase weight="0.018949181739879414" count="22">lord chancellor</phrase>
+	<phrase weight="0.007751937984496124" count="9">royal commission</phrase>
+	<phrase weight="0.006029285099052541" count="7">letter books</phrase>
+	<phrase weight="0.006029285099052541" count="7">permanent preservation</phrase>
+	<phrase weight="0.004306632213608958" count="5">chancery lane</phrase>
+	<phrase weight="0.004306632213608958" count="5">entry books</phrase>
+	<phrase weight="0.004306632213608958" count="5">inspecting officers</phrase>
+	<phrase weight="0.0034453057708871662" count="4">deposit appointed</phrase>
+	<phrase weight="0.0034453057708871662" count="4">individual datasets</phrase>
+	<phrase weight="0.0034453057708871662" count="4">environmental studies</phrase>
+	<phrase weight="0.0034453057708871662" count="4">individual government</phrase>
+	<phrase weight="0.0034453057708871662" count="4">deputy keeper</phrase>
+	<phrase weight="0.0034453057708871662" count="4">photographic section</phrase>
+	<phrase weight="0.0034453057708871662" count="4">official correspondence</phrase>
+	<phrase weight="0.0034453057708871662" count="4">william pitt</phrase>
+	<phrase weight="0.0034453057708871662" count="4">letters written</phrase>
+	<phrase weight="0.002583979328165375" count="3">administration division</phrase>
+	<phrase weight="0.002583979328165375" count="3">english affairs</phrase>
+	<phrase weight="0.002583979328165375" count="3">private correspondence</phrase>
+	<phrase weight="0.002583979328165375" count="3">charles purton cooper</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.383896885743917" totalTokens="361" titles="correspondence, commission, hmc, manuscripts, royal, local, minutes, committee, manorial, register">
+	<word weight="0.06925207756232687" count="25">correspondence</word>
+	<word weight="0.06371191135734072" count="23">commission</word>
+	<word weight="0.06371191135734072" count="23">hmc</word>
+	<word weight="0.04709141274238227" count="17">manuscripts</word>
+	<word weight="0.0443213296398892" count="16">royal</word>
+	<word weight="0.030470914127423823" count="11">local</word>
+	<word weight="0.024930747922437674" count="9">minutes</word>
+	<word weight="0.024930747922437674" count="9">committee</word>
+	<word weight="0.0221606648199446" count="8">manorial</word>
+	<word weight="0.019390581717451522" count="7">register</word>
+	<word weight="0.019390581717451522" count="7">national</word>
+	<word weight="0.01662049861495845" count="6">meetings</word>
+	<word weight="0.01662049861495845" count="6">chairman</word>
+	<word weight="0.01662049861495845" count="6">committees</word>
+	<word weight="0.013850415512465374" count="5">publications</word>
+	<word weight="0.013850415512465374" count="5">commissioners</word>
+	<word weight="0.0110803324099723" count="4">agenda</word>
+	<word weight="0.0110803324099723" count="4">nra</word>
+	<word weight="0.008310249307479225" count="3">repositories</word>
+	<word weight="0.008310249307479225" count="3">quirk</word>
+	<phrase weight="0.20967741935483872" count="13">royal commission</phrase>
+	<phrase weight="0.0967741935483871" count="6">national register</phrase>
+	<phrase weight="0.04838709677419355" count="3">local committees</phrase>
+	<phrase weight="0.03225806451612903" count="2">joint committee</phrase>
+	<phrase weight="0.03225806451612903" count="2">royal society</phrase>
+	<phrase weight="0.03225806451612903" count="2">baron evershed</phrase>
+	<phrase weight="0.016129032258064516" count="1">london docks</phrase>
+	<phrase weight="0.016129032258064516" count="1">correspondence covers</phrase>
+	<phrase weight="0.016129032258064516" count="1">manuscript sources</phrase>
+	<phrase weight="0.016129032258064516" count="1">correspondence agenda</phrase>
+	<phrase weight="0.016129032258064516" count="1">northern ireland</phrase>
+	<phrase weight="0.016129032258064516" count="1">central price regulation committee</phrase>
+	<phrase weight="0.016129032258064516" count="1">internal organisation</phrase>
+	<phrase weight="0.016129032258064516" count="1">private owners</phrase>
+	<phrase weight="0.016129032258064516" count="1">francis raymond</phrase>
+	<phrase weight="0.016129032258064516" count="1">local archivist</phrase>
+	<phrase weight="0.016129032258064516" count="1">local authorities</phrase>
+	<phrase weight="0.016129032258064516" count="1">policy decisions</phrase>
+	<phrase weight="0.016129032258064516" count="1">private individuals</phrase>
+	<phrase weight="0.016129032258064516" count="1">correspondence refer</phrase>
+  </topic>
+</topics>

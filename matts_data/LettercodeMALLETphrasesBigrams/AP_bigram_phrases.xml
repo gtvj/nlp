@@ -1,0 +1,40 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="10.131728981426953" totalTokens="228" titles="trust, soldiers, sailors, irish, land, ap, correspondence, london, ireland, headquarters">
+	<word weight="0.09649122807017543" count="22">trust</word>
+	<word weight="0.07456140350877193" count="17">soldiers</word>
+	<word weight="0.07456140350877193" count="17">sailors</word>
+	<word weight="0.07456140350877193" count="17">irish</word>
+	<word weight="0.07017543859649122" count="16">land</word>
+	<word weight="0.07017543859649122" count="16">ap</word>
+	<word weight="0.043859649122807015" count="10">correspondence</word>
+	<word weight="0.039473684210526314" count="9">london</word>
+	<word weight="0.03508771929824561" count="8">ireland</word>
+	<word weight="0.03070175438596491" count="7">headquarters</word>
+	<word weight="0.02631578947368421" count="6">properties</word>
+	<word weight="0.017543859649122806" count="4">dublin</word>
+	<word weight="0.017543859649122806" count="4">miscellaneous</word>
+	<word weight="0.017543859649122806" count="4">northern</word>
+	<word weight="0.013157894736842105" count="3">southern</word>
+	<word weight="0.013157894736842105" count="3">policy</word>
+	<word weight="0.013157894736842105" count="3">tenancy</word>
+	<word weight="0.013157894736842105" count="3">registers</word>
+	<word weight="0.013157894736842105" count="3">ledgers</word>
+	<word weight="0.013157894736842105" count="3">accounts</word>
+	<phrase weight="0.3409090909090909" count="15">irish sailors</phrase>
+	<phrase weight="0.2727272727272727" count="12">land trust</phrase>
+	<phrase weight="0.06818181818181818" count="3">northern ireland</phrase>
+	<phrase weight="0.06818181818181818" count="3">southern ireland</phrase>
+	<phrase weight="0.022727272727272728" count="1">land trust headquarters</phrase>
+	<phrase weight="0.022727272727272728" count="1">soldiers trust</phrase>
+	<phrase weight="0.022727272727272728" count="1">accounts ledgers</phrase>
+	<phrase weight="0.022727272727272728" count="1">accounts ledgers ledgers</phrase>
+	<phrase weight="0.022727272727272728" count="1">tenancy affairs</phrase>
+	<phrase weight="0.022727272727272728" count="1">properties owned</phrase>
+	<phrase weight="0.022727272727272728" count="1">land acquisitions</phrase>
+	<phrase weight="0.022727272727272728" count="1">land trust set</phrase>
+	<phrase weight="0.022727272727272728" count="1">building schemes</phrase>
+	<phrase weight="0.022727272727272728" count="1">ordnance survey maps showing</phrase>
+	<phrase weight="0.022727272727272728" count="1">miscellaneous correspondence</phrase>
+  </topic>
+</topics>

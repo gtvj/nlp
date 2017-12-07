@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.59669586657108" totalTokens="491" titles="boundary, local, government, humberside, england, commission, county, reviews, maps, yorkshire">
+	<word weight="0.06924643584521385" count="34">boundary</word>
+	<word weight="0.06517311608961303" count="32">local</word>
+	<word weight="0.06313645621181263" count="31">government</word>
+	<word weight="0.05091649694501019" count="25">humberside</word>
+	<word weight="0.05091649694501019" count="25">england</word>
+	<word weight="0.048879837067209775" count="24">commission</word>
+	<word weight="0.04480651731160896" count="22">county</word>
+	<word weight="0.026476578411405296" count="13">reviews</word>
+	<word weight="0.018329938900203666" count="9">maps</word>
+	<word weight="0.016293279022403257" count="8">yorkshire</word>
+	<word weight="0.016293279022403257" count="8">north</word>
+	<word weight="0.016293279022403257" count="8">selby</word>
+	<word weight="0.016293279022403257" count="8">survey</word>
+	<word weight="0.012219959266802444" count="6">review</word>
+	<word weight="0.012219959266802444" count="6">boundaries</word>
+	<word weight="0.010183299389002037" count="5">option</word>
+	<word weight="0.010183299389002037" count="5">district</word>
+	<word weight="0.010183299389002037" count="5">residents</word>
+	<word weight="0.010183299389002037" count="5">change</word>
+	<word weight="0.010183299389002037" count="5">parish</word>
+  </topic>
+</topics>

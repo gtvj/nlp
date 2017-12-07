@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.372852593268909" totalTokens="56" titles="maps, plans, place, drawings, foreign, public, location, inverted, identify, current">
+	<word weight="0.08928571428571429" count="5">maps</word>
+	<word weight="0.07142857142857142" count="4">plans</word>
+	<word weight="0.05357142857142857" count="3">place</word>
+	<word weight="0.05357142857142857" count="3">drawings</word>
+	<word weight="0.05357142857142857" count="3">foreign</word>
+	<word weight="0.03571428571428571" count="2">public</word>
+	<word weight="0.017857142857142856" count="1">location</word>
+	<word weight="0.017857142857142856" count="1">inverted</word>
+	<word weight="0.017857142857142856" count="1">drawing</word>
+	<word weight="0.017857142857142856" count="1">map</word>
+	<word weight="0.017857142857142856" count="1">identify</word>
+	<word weight="0.017857142857142856" count="1">current</word>
+	<word weight="0.017857142857142856" count="1">area</word>
+	<word weight="0.017857142857142856" count="1">geographical</word>
+	<word weight="0.017857142857142856" count="1">political</word>
+	<word weight="0.017857142857142856" count="1">change</word>
+	<word weight="0.017857142857142856" count="1">significant</word>
+	<word weight="0.017857142857142856" count="1">standardised</word>
+	<word weight="0.017857142857142856" count="1">modernised</word>
+	<word weight="0.017857142857142856" count="1">contemporary</word>
+  </topic>
+</topics>

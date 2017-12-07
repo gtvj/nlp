@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.9422831031212082" totalTokens="35" titles="commission, system, voting, independent, members, reform, electoral, consideration, minutes, internal">
+	<word weight="0.17142857142857143" count="6">commission</word>
+	<word weight="0.11428571428571428" count="4">system</word>
+	<word weight="0.11428571428571428" count="4">voting</word>
+	<word weight="0.11428571428571428" count="4">independent</word>
+	<word weight="0.05714285714285714" count="2">members</word>
+	<word weight="0.02857142857142857" count="1">reform</word>
+	<word weight="0.02857142857142857" count="1">electoral</word>
+	<word weight="0.02857142857142857" count="1">consideration</word>
+	<word weight="0.02857142857142857" count="1">minutes</word>
+	<word weight="0.02857142857142857" count="1">internal</word>
+	<word weight="0.02857142857142857" count="1">report</word>
+	<word weight="0.02857142857142857" count="1">miscellaneous</word>
+	<word weight="0.02857142857142857" count="1">pressure</word>
+	<word weight="0.02857142857142857" count="1">academics</word>
+	<word weight="0.02857142857142857" count="1">parliament</word>
+	<word weight="0.02857142857142857" count="1">parties</word>
+	<word weight="0.02857142857142857" count="1">political</word>
+	<word weight="0.02857142857142857" count="1">public</word>
+	<word weight="0.02857142857142857" count="1">submitted</word>
+	<word weight="0.02857142857142857" count="1">evidence</word>
+  </topic>
+</topics>

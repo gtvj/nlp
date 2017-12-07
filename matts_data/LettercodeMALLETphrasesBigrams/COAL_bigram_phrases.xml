@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.284269694827566" totalTokens="2597" titles="national coal board, coal corporation, administrative, central, reports, british, regional, correspondence, minutes, research">
+	<word weight="0.15864458991143626" count="412">coal</word>
+	<word weight="0.0712360415864459" count="185">board</word>
+	<word weight="0.07085098190219484" count="184">national</word>
+	<word weight="0.027724297266076243" count="72">administrative</word>
+	<word weight="0.02040816326530612" count="53">central</word>
+	<word weight="0.01732768579129765" count="45">reports</word>
+	<word weight="0.016172506738544475" count="42">british</word>
+	<word weight="0.013477088948787063" count="35">regional</word>
+	<word weight="0.012706969580284944" count="33">correspondence</word>
+	<word weight="0.011166730843280709" count="29">corporation</word>
+	<word weight="0.01078167115902965" count="28">minutes</word>
+	<word weight="0.010396611474778591" count="27">research</word>
+	<word weight="0.009626492106276472" count="25">industry</word>
+	<word weight="0.008856372737774355" count="23">area</word>
+	<word weight="0.007701193685021178" count="20">commission</word>
+	<word weight="0.007316134000770119" count="19">mining</word>
+	<word weight="0.006546014632268001" count="17">collieries</word>
+	<word weight="0.006546014632268001" count="17">prior</word>
+	<word weight="0.005775895263765884" count="15">maps</word>
+	<word weight="0.005775895263765884" count="15">assets</word>
+	<phrase weight="0.2314410480349345" count="106">national coal board</phrase>
+	<phrase weight="0.0611353711790393" count="28">coal corporation</phrase>
+	<phrase weight="0.039301310043668124" count="18">central administrative</phrase>
+	<phrase weight="0.017467248908296942" count="8">coal commission</phrase>
+	<phrase weight="0.015283842794759825" count="7">coal board</phrase>
+	<phrase weight="0.015283842794759825" count="7">coal industry</phrase>
+	<phrase weight="0.013100436681222707" count="6">asset valuations</phrase>
+	<phrase weight="0.010917030567685589" count="5">regional valuation boards</phrase>
+	<phrase weight="0.008733624454148471" count="4">industrial relations</phrase>
+	<phrase weight="0.008733624454148471" count="4">annual reports</phrase>
+	<phrase weight="0.006550218340611353" count="3">mining association</phrase>
+	<phrase weight="0.006550218340611353" count="3">nottinghamshire area</phrase>
+	<phrase weight="0.006550218340611353" count="3">national coal board committees</phrase>
+	<phrase weight="0.006550218340611353" count="3">research executive</phrase>
+	<phrase weight="0.006550218340611353" count="3">coal mining</phrase>
+	<phrase weight="0.006550218340611353" count="3">accessioned speedily</phrase>
+	<phrase weight="0.004366812227074236" count="2">general administrative</phrase>
+	<phrase weight="0.004366812227074236" count="2">mines reorganisation commission</phrase>
+	<phrase weight="0.004366812227074236" count="2">scientific control</phrase>
+	<phrase weight="0.004366812227074236" count="2">mining industry</phrase>
+  </topic>
+</topics>

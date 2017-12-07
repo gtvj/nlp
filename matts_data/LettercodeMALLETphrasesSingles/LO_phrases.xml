@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="9.933435205999047" totalTokens="230" titles="law, officers, attorney, fraud, general's, patents, criminal, government, justice, appeals">
+	<word weight="0.05652173913043478" count="13">law</word>
+	<word weight="0.04782608695652174" count="11">officers</word>
+	<word weight="0.04782608695652174" count="11">attorney</word>
+	<word weight="0.043478260869565216" count="10">fraud</word>
+	<word weight="0.043478260869565216" count="10">general's</word>
+	<word weight="0.0391304347826087" count="9">general</word>
+	<word weight="0.034782608695652174" count="8">patents</word>
+	<word weight="0.02608695652173913" count="6">criminal</word>
+	<word weight="0.021739130434782608" count="5">government</word>
+	<word weight="0.021739130434782608" count="5">justice</word>
+	<word weight="0.017391304347826087" count="4">patent</word>
+	<word weight="0.017391304347826087" count="4">appeals</word>
+	<word weight="0.017391304347826087" count="4">action</word>
+	<word weight="0.017391304347826087" count="4">opinions</word>
+	<word weight="0.017391304347826087" count="4">field</word>
+	<word weight="0.017391304347826087" count="4">inspection</word>
+	<word weight="0.017391304347826087" count="4">joint</word>
+	<word weight="0.013043478260869565" count="3">act</word>
+	<word weight="0.013043478260869565" count="3">inventions</word>
+	<word weight="0.013043478260869565" count="3">legal</word>
+  </topic>
+</topics>

@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.499088565383985" totalTokens="366" titles="welsh, government, assembly, wales, language, uk, board, public, policy, minutes">
+	<word weight="0.1721311475409836" count="63">welsh</word>
+	<word weight="0.09562841530054644" count="35">government</word>
+	<word weight="0.06557377049180328" count="24">assembly</word>
+	<word weight="0.06284153005464481" count="23">wales</word>
+	<word weight="0.05737704918032787" count="21">language</word>
+	<word weight="0.04371584699453552" count="16">wa</word>
+	<word weight="0.040983606557377046" count="15">uk</word>
+	<word weight="0.0273224043715847" count="10">board</word>
+	<word weight="0.0273224043715847" count="10">gov</word>
+	<word weight="0.02185792349726776" count="8">public</word>
+	<word weight="0.02185792349726776" count="8">policy</word>
+	<word weight="0.01639344262295082" count="6">minutes</word>
+	<word weight="0.01366120218579235" count="5">english</word>
+	<word weight="0.01092896174863388" count="4">successors</word>
+	<word weight="0.01092896174863388" count="4">subsumed</word>
+	<word weight="0.01092896174863388" count="4">national</word>
+	<word weight="0.01092896174863388" count="4">education</word>
+	<word weight="0.01092896174863388" count="4">measure</word>
+	<word weight="0.01092896174863388" count="4">development</word>
+	<word weight="0.00819672131147541" count="3">commission</word>
+	<phrase weight="0.14705882352941177" count="10">welsh assembly government</phrase>
+	<phrase weight="0.14705882352941177" count="10">welsh government</phrase>
+	<phrase weight="0.08823529411764706" count="6">uk government</phrase>
+	<phrase weight="0.058823529411764705" count="4">welsh language policy</phrase>
+	<phrase weight="0.04411764705882353" count="3">language board</phrase>
+	<phrase weight="0.04411764705882353" count="3">welsh language act</phrase>
+	<phrase weight="0.04411764705882353" count="3">national assembly</phrase>
+	<phrase weight="0.029411764705882353" count="2">arts council</phrase>
+	<phrase weight="0.029411764705882353" count="2">welsh language measure</phrase>
+	<phrase weight="0.029411764705882353" count="2">board minutes</phrase>
+	<phrase weight="0.014705882352941176" count="1">education functions</phrase>
+	<phrase weight="0.014705882352941176" count="1">public inquiry</phrase>
+	<phrase weight="0.014705882352941176" count="1">electoral arrangements</phrase>
+	<phrase weight="0.014705882352941176" count="1">wales board minutes</phrase>
+	<phrase weight="0.014705882352941176" count="1">public sector</phrase>
+	<phrase weight="0.014705882352941176" count="1">welsh public</phrase>
+	<phrase weight="0.014705882352941176" count="1">richard commission</phrase>
+	<phrase weight="0.014705882352941176" count="1">policy discussions</phrase>
+	<phrase weight="0.014705882352941176" count="1">welsh development</phrase>
+	<phrase weight="0.014705882352941176" count="1">welsh economy</phrase>
+  </topic>
+</topics>

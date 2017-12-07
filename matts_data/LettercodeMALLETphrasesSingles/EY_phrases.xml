@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="21.08520591423032" totalTokens="120" titles="research, council, social, economic, science, minutes, meeting, committees, grant, government">
+	<word weight="0.18333333333333332" count="22">research</word>
+	<word weight="0.15" count="18">council</word>
+	<word weight="0.13333333333333333" count="16">social</word>
+	<word weight="0.075" count="9">economic</word>
+	<word weight="0.05" count="6">science</word>
+	<word weight="0.041666666666666664" count="5">minutes</word>
+	<word weight="0.03333333333333333" count="4">meeting</word>
+	<word weight="0.025" count="3">committees</word>
+	<word weight="0.016666666666666666" count="2">grant</word>
+	<word weight="0.016666666666666666" count="2">government</word>
+	<word weight="0.016666666666666666" count="2">blog</word>
+	<word weight="0.016666666666666666" count="2">esrc</word>
+	<word weight="0.016666666666666666" count="2">grants</word>
+	<word weight="0.016666666666666666" count="2">meetings</word>
+	<word weight="0.008333333333333333" count="1">concerned</word>
+	<word weight="0.008333333333333333" count="1">subjects</word>
+	<word weight="0.008333333333333333" count="1">academic</word>
+	<word weight="0.008333333333333333" count="1">ssrc</word>
+	<word weight="0.008333333333333333" count="1">correspondence</word>
+	<word weight="0.008333333333333333" count="1">awarded</word>
+  </topic>
+</topics>

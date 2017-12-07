@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.038226722289988" totalTokens="774" titles="civil service, ba, group, management, personnel, committee, predecessor, pay, division, government">
+	<word weight="0.08914728682170543" count="69">civil</word>
+	<word weight="0.08397932816537468" count="65">service</word>
+	<word weight="0.04521963824289406" count="35">ba</word>
+	<word weight="0.041343669250646" count="32">group</word>
+	<word weight="0.03875968992248062" count="30">management</word>
+	<word weight="0.027131782945736434" count="21">personnel</word>
+	<word weight="0.02454780361757106" count="19">committee</word>
+	<word weight="0.01808785529715762" count="14">predecessor</word>
+	<word weight="0.016795865633074936" count="13">pay</word>
+	<word weight="0.015503875968992248" count="12">government</word>
+	<word weight="0.015503875968992248" count="12">division</word>
+	<word weight="0.012919896640826873" count="10">central</word>
+	<word weight="0.011627906976744186" count="9">minutes</word>
+	<word weight="0.011627906976744186" count="9">treasury</word>
+	<word weight="0.00904392764857881" count="7">policy</word>
+	<word weight="0.00904392764857881" count="7">services</word>
+	<word weight="0.007751937984496124" count="6">inflation</word>
+	<word weight="0.007751937984496124" count="6">counter</word>
+	<word weight="0.007751937984496124" count="6">machinery</word>
+	<word weight="0.007751937984496124" count="6">report</word>
+	<phrase weight="0.28846153846153844" count="45">civil service</phrase>
+	<phrase weight="0.057692307692307696" count="9">personnel management group</phrase>
+	<phrase weight="0.02564102564102564" count="4">management group</phrase>
+	<phrase weight="0.01282051282051282" count="2">inflation publicity</phrase>
+	<phrase weight="0.01282051282051282" count="2">report minutes</phrase>
+	<phrase weight="0.01282051282051282" count="2">government industrial establishments</phrase>
+	<phrase weight="0.01282051282051282" count="2">political activities</phrase>
+	<phrase weight="0.01282051282051282" count="2">police forces</phrase>
+	<phrase weight="0.01282051282051282" count="2">final reports</phrase>
+	<phrase weight="0.01282051282051282" count="2">government group</phrase>
+	<phrase weight="0.01282051282051282" count="2">civil service management</phrase>
+	<phrase weight="0.01282051282051282" count="2">personnel management</phrase>
+	<phrase weight="0.01282051282051282" count="2">home civil service</phrase>
+	<phrase weight="0.01282051282051282" count="2">accounting services division</phrase>
+	<phrase weight="0.01282051282051282" count="2">inflation policy</phrase>
+	<phrase weight="0.00641025641025641" count="1">intended distinction</phrase>
+	<phrase weight="0.00641025641025641" count="1">civil servants</phrase>
+	<phrase weight="0.00641025641025641" count="1">privy seal</phrase>
+	<phrase weight="0.00641025641025641" count="1">personnel services divisions</phrase>
+	<phrase weight="0.00641025641025641" count="1">advisers panels</phrase>
+  </topic>
+</topics>

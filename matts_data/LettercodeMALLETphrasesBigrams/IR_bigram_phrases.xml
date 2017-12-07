@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.071289334168984" totalTokens="17465" titles="inland revenue, finance act, place names, district valuation, majority dating, ms additions, coloured ms additions showing property boundaries, badly worn, read due, ordnance survey">
+	<word weight="0.03927855711422846" count="686">valuation</word>
+	<word weight="0.0338963641568852" count="592">ir</word>
+	<word weight="0.024735184655024334" count="432">maps</word>
+	<word weight="0.02273117663899227" count="397">board</word>
+	<word weight="0.02158602920125966" count="377">survey</word>
+	<word weight="0.0214715144574864" count="375">ordnance</word>
+	<word weight="0.021356999713713142" count="373">sheet</word>
+	<word weight="0.017635270541082163" count="308">revenue</word>
+	<word weight="0.017463498425422275" count="305">inland</word>
+	<word weight="0.016833667334669337" count="294">act</word>
+	<word weight="0.01603206412825651" count="280">cases</word>
+	<word weight="0.015860292012596623" count="277">district</word>
+	<word weight="0.01568851989693673" count="274">finance</word>
+	<word weight="0.015287718293730318" count="267">worn</word>
+	<word weight="0.015287718293730318" count="267">majority</word>
+	<word weight="0.015230460921843688" count="266">additions</word>
+	<word weight="0.015230460921843688" count="266">ms</word>
+	<word weight="0.013741769252791297" count="240">shown</word>
+	<word weight="0.012367592327512167" count="216">names</word>
+	<word weight="0.012138562839965646" count="212">place</word>
+	<phrase weight="0.08789537712895377" count="289">inland revenue</phrase>
+	<phrase weight="0.08211678832116788" count="270">finance act</phrase>
+	<phrase weight="0.06326034063260341" count="208">place names</phrase>
+	<phrase weight="0.04075425790754258" count="134">district valuation</phrase>
+	<phrase weight="0.040450121654501216" count="133">majority dating</phrase>
+	<phrase weight="0.040450121654501216" count="133">ms additions</phrase>
+	<phrase weight="0.040450121654501216" count="133">coloured ms additions showing property boundaries</phrase>
+	<phrase weight="0.040450121654501216" count="133">badly worn</phrase>
+	<phrase weight="0.040450121654501216" count="133">read due</phrase>
+	<phrase weight="0.040450121654501216" count="133">ordnance survey</phrase>
+	<phrase weight="0.03315085158150852" count="109">district ordnance survey maps</phrase>
+	<phrase weight="0.031630170316301706" count="104">area shown</phrase>
+	<phrase weight="0.031630170316301706" count="104">survey sheet</phrase>
+	<phrase weight="0.02889294403892944" count="95">ordered separately</phrase>
+	<phrase weight="0.028588807785888078" count="94">order ir</phrase>
+	<phrase weight="0.006995133819951338" count="23">income tax</phrase>
+	<phrase weight="0.006690997566909975" count="22">london region</phrase>
+	<phrase weight="0.006082725060827251" count="20">legacy duty</phrase>
+	<phrase weight="0.005778588807785888" count="19">tithe commissioners</phrase>
+	<phrase weight="0.005474452554744526" count="18">property tax</phrase>
+  </topic>
+</topics>

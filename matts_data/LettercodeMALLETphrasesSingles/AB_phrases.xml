@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.239320168169287" totalTokens="3789" titles="energy, atomic, united, kingdom, authority, research, correspondence, harwell, northern, winfrith">
+	<word weight="0.07468989179202956" count="283">energy</word>
+	<word weight="0.07389812615465823" count="280">atomic</word>
+	<word weight="0.05357614146212721" count="203">united</word>
+	<word weight="0.05331221958300343" count="202">kingdom</word>
+	<word weight="0.04117181314330958" count="156">authority</word>
+	<word weight="0.025864344154130376" count="98">research</word>
+	<word weight="0.022169437846397466" count="84">correspondence</word>
+	<word weight="0.01979414093428345" count="75">harwell</word>
+	<word weight="0.014251781472684086" count="54">northern</word>
+	<word weight="0.013987859593560307" count="53">winfrith</word>
+	<word weight="0.013460015835312747" count="51">culham</word>
+	<word weight="0.012668250197941409" count="48">laboratory</word>
+	<word weight="0.012668250197941409" count="48">reports</word>
+	<word weight="0.010029031406703616" count="38">london</word>
+	<word weight="0.008973343890208499" count="34">division</word>
+	<word weight="0.00870942201108472" count="33">development</word>
+	<word weight="0.00844550013196094" count="32">production</word>
+	<word weight="0.007653734494589602" count="29">safety</word>
+	<word weight="0.006861968857218264" count="26">technical</word>
+	<word weight="0.006598046978094484" count="25">health</word>
+  </topic>
+</topics>

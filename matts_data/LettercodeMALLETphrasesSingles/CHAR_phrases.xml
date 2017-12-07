@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.1921842364555735" totalTokens="709" titles="charity, commission, charities, commissioners, board, reports, charitable, act, case, status">
+	<word weight="0.12834978843441466" count="91">charity</word>
+	<word weight="0.1071932299012694" count="76">commission</word>
+	<word weight="0.045133991537376586" count="32">charities</word>
+	<word weight="0.03244005641748942" count="23">commissioners</word>
+	<word weight="0.019746121297602257" count="14">board</word>
+	<word weight="0.01692524682651622" count="12">reports</word>
+	<word weight="0.01692524682651622" count="12">charitable</word>
+	<word weight="0.014104372355430184" count="10">act</word>
+	<word weight="0.012693935119887164" count="9">case</word>
+	<word weight="0.009873060648801129" count="7">status</word>
+	<word weight="0.00846262341325811" count="6">government</word>
+	<word weight="0.00846262341325811" count="6">general</word>
+	<word weight="0.00846262341325811" count="6">minutes</word>
+	<word weight="0.007052186177715092" count="5">enrolments</word>
+	<word weight="0.007052186177715092" count="5">division</word>
+	<word weight="0.007052186177715092" count="5">cases</word>
+	<word weight="0.007052186177715092" count="5">meetings</word>
+	<word weight="0.005641748942172073" count="4">city</word>
+	<word weight="0.005641748942172073" count="4">schemes</word>
+	<word weight="0.005641748942172073" count="4">acts</word>
+  </topic>
+</topics>

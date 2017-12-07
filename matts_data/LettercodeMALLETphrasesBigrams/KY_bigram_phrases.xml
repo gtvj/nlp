@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.453240644553593" totalTokens="445" titles="curriculum authority, qualifications, ky, uk, successors, government, national, development, examinations, council">
+	<word weight="0.13707865168539327" count="61">qualifications</word>
+	<word weight="0.1146067415730337" count="51">curriculum</word>
+	<word weight="0.0696629213483146" count="31">authority</word>
+	<word weight="0.0696629213483146" count="31">ky</word>
+	<word weight="0.06292134831460675" count="28">uk</word>
+	<word weight="0.060674157303370786" count="27">successors</word>
+	<word weight="0.058426966292134834" count="26">government</word>
+	<word weight="0.035955056179775284" count="16">national</word>
+	<word weight="0.024719101123595506" count="11">development</word>
+	<word weight="0.017977528089887642" count="8">examinations</word>
+	<word weight="0.015730337078651686" count="7">council</word>
+	<word weight="0.01348314606741573" count="6">vocational</word>
+	<word weight="0.011235955056179775" count="5">minutes</word>
+	<word weight="0.008988764044943821" count="4">qcda</word>
+	<word weight="0.008988764044943821" count="4">ofqual</word>
+	<word weight="0.008988764044943821" count="4">assessment</word>
+	<word weight="0.008988764044943821" count="4">calculator</word>
+	<word weight="0.008988764044943821" count="4">exams</word>
+	<word weight="0.008988764044943821" count="4">accredited</word>
+	<word weight="0.006741573033707865" count="3">regulator</word>
+	<phrase weight="0.30097087378640774" count="31">curriculum authority</phrase>
+	<phrase weight="0.1941747572815534" count="20">uk government</phrase>
+	<phrase weight="0.0970873786407767" count="10">curriculum development</phrase>
+	<phrase weight="0.04854368932038835" count="5">national council</phrase>
+	<phrase weight="0.02912621359223301" count="3">advice resources</phrase>
+	<phrase weight="0.02912621359223301" count="3">examinations regulator</phrase>
+	<phrase weight="0.02912621359223301" count="3">national curriculum</phrase>
+	<phrase weight="0.019417475728155338" count="2">regulated qualifications</phrase>
+	<phrase weight="0.019417475728155338" count="2">international review</phrase>
+	<phrase weight="0.019417475728155338" count="2">national database</phrase>
+	<phrase weight="0.019417475728155338" count="2">policy committee</phrase>
+	<phrase weight="0.019417475728155338" count="2">national curriculum assessments</phrase>
+	<phrase weight="0.019417475728155338" count="2">key dates calendar</phrase>
+	<phrase weight="0.019417475728155338" count="2">test forms</phrase>
+	<phrase weight="0.019417475728155338" count="2">home page</phrase>
+	<phrase weight="0.019417475728155338" count="2">assessment frameworks</phrase>
+	<phrase weight="0.009708737864077669" count="1">examinations regulation</phrase>
+	<phrase weight="0.009708737864077669" count="1">examinations timetable</phrase>
+	<phrase weight="0.009708737864077669" count="1">national vocational qualifications</phrase>
+	<phrase weight="0.009708737864077669" count="1">accredited qualifications</phrase>
+  </topic>
+</topics>

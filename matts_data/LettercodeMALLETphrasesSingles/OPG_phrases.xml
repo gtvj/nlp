@@ -1,0 +1,14 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.6843801322544703" totalTokens="29" titles="public, guardian, opg, government, guardianship, field, general, division, guadian, ">
+	<word weight="0.3448275862068966" count="10">public</word>
+	<word weight="0.2413793103448276" count="7">guardian</word>
+	<word weight="0.13793103448275862" count="4">opg</word>
+	<word weight="0.06896551724137931" count="2">government</word>
+	<word weight="0.06896551724137931" count="2">guardianship</word>
+	<word weight="0.034482758620689655" count="1">field</word>
+	<word weight="0.034482758620689655" count="1">general</word>
+	<word weight="0.034482758620689655" count="1">division</word>
+	<word weight="0.034482758620689655" count="1">guadian</word>
+  </topic>
+</topics>

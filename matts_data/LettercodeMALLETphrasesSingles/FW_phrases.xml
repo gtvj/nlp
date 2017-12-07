@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="33.02945126533545" totalTokens="93" titles="council, curriculum, national, minutes, agenda, committees, reports, circulars, meetings, annual">
+	<word weight="0.17204301075268819" count="16">council</word>
+	<word weight="0.12903225806451613" count="12">curriculum</word>
+	<word weight="0.12903225806451613" count="12">national</word>
+	<word weight="0.07526881720430108" count="7">minutes</word>
+	<word weight="0.06451612903225806" count="6">agenda</word>
+	<word weight="0.053763440860215055" count="5">committees</word>
+	<word weight="0.043010752688172046" count="4">reports</word>
+	<word weight="0.03225806451612903" count="3">circulars</word>
+	<word weight="0.03225806451612903" count="3">meetings</word>
+	<word weight="0.03225806451612903" count="3">annual</word>
+	<word weight="0.021505376344086023" count="2">distributed</word>
+	<word weight="0.010752688172043012" count="1">working</word>
+	<word weight="0.010752688172043012" count="1">sub-committees</word>
+	<word weight="0.010752688172043012" count="1">institutions</word>
+	<word weight="0.010752688172043012" count="1">interested</word>
+	<word weight="0.010752688172043012" count="1">schools</word>
+	<word weight="0.010752688172043012" count="1">procedural</word>
+	<word weight="0.010752688172043012" count="1">policy</word>
+	<word weight="0.010752688172043012" count="1">conveyed</word>
+	<word weight="0.010752688172043012" count="1">introduction</word>
+  </topic>
+</topics>

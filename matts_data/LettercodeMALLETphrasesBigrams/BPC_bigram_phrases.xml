@@ -1,0 +1,40 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="11.631208486076927" totalTokens="176" titles="potato, council, british, minutes, committee, bpc, agendas, marketing, communications, group">
+	<word weight="0.11931818181818182" count="21">potato</word>
+	<word weight="0.11363636363636363" count="20">council</word>
+	<word weight="0.11363636363636363" count="20">british</word>
+	<word weight="0.08522727272727272" count="15">minutes</word>
+	<word weight="0.07954545454545454" count="14">committee</word>
+	<word weight="0.07954545454545454" count="14">bpc</word>
+	<word weight="0.056818181818181816" count="10">agendas</word>
+	<word weight="0.03977272727272727" count="7">marketing</word>
+	<word weight="0.022727272727272728" count="4">communications</word>
+	<word weight="0.022727272727272728" count="4">group</word>
+	<word weight="0.022727272727272728" count="4">successors</word>
+	<word weight="0.022727272727272728" count="4">monitoring</word>
+	<word weight="0.022727272727272728" count="4">aphid</word>
+	<word weight="0.017045454545454544" count="3">market</word>
+	<word weight="0.017045454545454544" count="3">development</word>
+	<word weight="0.017045454545454544" count="3">research</word>
+	<word weight="0.017045454545454544" count="3">seed</word>
+	<word weight="0.017045454545454544" count="3">government</word>
+	<word weight="0.017045454545454544" count="3">uk</word>
+	<word weight="0.011363636363636364" count="2">sectoral</word>
+	<phrase weight="0.42424242424242425" count="14">british potato council</phrase>
+	<phrase weight="0.09090909090909091" count="3">potato council</phrase>
+	<phrase weight="0.09090909090909091" count="3">communications committee</phrase>
+	<phrase weight="0.06060606060606061" count="2">aphid monitoring</phrase>
+	<phrase weight="0.030303030303030304" count="1">committee minutes</phrase>
+	<phrase weight="0.030303030303030304" count="1">potato crops</phrase>
+	<phrase weight="0.030303030303030304" count="1">sectoral group</phrase>
+	<phrase weight="0.030303030303030304" count="1">development committee minutes</phrase>
+	<phrase weight="0.030303030303030304" count="1">seed sector group minutes</phrase>
+	<phrase weight="0.030303030303030304" count="1">working group</phrase>
+	<phrase weight="0.030303030303030304" count="1">potato variety database</phrase>
+	<phrase weight="0.030303030303030304" count="1">communications committee minutes</phrase>
+	<phrase weight="0.030303030303030304" count="1">uk government</phrase>
+	<phrase weight="0.030303030303030304" count="1">british potato variety database</phrase>
+	<phrase weight="0.030303030303030304" count="1">development committee</phrase>
+  </topic>
+</topics>

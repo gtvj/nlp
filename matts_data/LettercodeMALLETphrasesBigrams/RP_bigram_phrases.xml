@@ -1,0 +1,9 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0" totalTokens="5" titles="authority, radio, rp, ">
+	<word weight="0.4" count="2">authority</word>
+	<word weight="0.4" count="2">radio</word>
+	<word weight="0.2" count="1">rp</word>
+	<phrase weight="1.0" count="1">radio authority</phrase>
+  </topic>
+</topics>

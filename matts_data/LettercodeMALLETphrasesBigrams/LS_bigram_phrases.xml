@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.716085005136841" totalTokens="1093" titles="lord, ls, steward, accounts, household, royal, expenses, bills, board, kitchen">
+	<word weight="0.025617566331198535" count="28">lord</word>
+	<word weight="0.024702653247941447" count="27">ls</word>
+	<word weight="0.021043000914913082" count="23">steward</word>
+	<word weight="0.0192131747483989" count="21">accounts</word>
+	<word weight="0.0192131747483989" count="21">household</word>
+	<word weight="0.01555352241537054" count="17">royal</word>
+	<word weight="0.01463860933211345" count="16">expenses</word>
+	<word weight="0.013723696248856358" count="15">bills</word>
+	<word weight="0.012808783165599268" count="14">board</word>
+	<word weight="0.011893870082342177" count="13">kitchen</word>
+	<word weight="0.010978956999085087" count="12">creditors</word>
+	<word weight="0.010978956999085087" count="12">account</word>
+	<word weight="0.010064043915827997" count="11">salaries</word>
+	<word weight="0.010064043915827997" count="11">allowances</word>
+	<word weight="0.010064043915827997" count="11">books</word>
+	<word weight="0.009149130832570906" count="10">palace</word>
+	<word weight="0.009149130832570906" count="10">cloth</word>
+	<word weight="0.009149130832570906" count="10">green</word>
+	<word weight="0.009149130832570906" count="10">paid</word>
+	<word weight="0.009149130832570906" count="10">amount</word>
+	<phrase weight="0.11695906432748537" count="20">lord steward</phrase>
+	<phrase weight="0.05263157894736842" count="9">green cloth</phrase>
+	<phrase weight="0.023391812865497075" count="4">lord chamberlain</phrase>
+	<phrase weight="0.017543859649122806" count="3">drink allowances</phrase>
+	<phrase weight="0.017543859649122806" count="3">hampton court</phrase>
+	<phrase weight="0.017543859649122806" count="3">chapels royal</phrase>
+	<phrase weight="0.011695906432748537" count="2">entry books</phrase>
+	<phrase weight="0.011695906432748537" count="2">household duties</phrase>
+	<phrase weight="0.011695906432748537" count="2">extra servants</phrase>
+	<phrase weight="0.011695906432748537" count="2">travelling wages</phrase>
+	<phrase weight="0.011695906432748537" count="2">salaries chargeable</phrase>
+	<phrase weight="0.011695906432748537" count="2">travelling expenses</phrase>
+	<phrase weight="0.011695906432748537" count="2">tabular form</phrase>
+	<phrase weight="0.011695906432748537" count="2">dairy produce</phrase>
+	<phrase weight="0.011695906432748537" count="2">monthly summary</phrase>
+	<phrase weight="0.011695906432748537" count="2">royal household</phrase>
+	<phrase weight="0.011695906432748537" count="2">civil list</phrase>
+	<phrase weight="0.011695906432748537" count="2">account number</phrase>
+	<phrase weight="0.011695906432748537" count="2">great deal</phrase>
+	<phrase weight="0.011695906432748537" count="2">royal gardens</phrase>
+  </topic>
+</topics>

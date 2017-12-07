@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="9.152730461365659" totalTokens="285" titles="dpp, prosecutions, public, director, criminal, case, court, registers, cases, trials">
+	<word weight="0.06315789473684211" count="18">dpp</word>
+	<word weight="0.056140350877192984" count="16">prosecutions</word>
+	<word weight="0.04912280701754386" count="14">public</word>
+	<word weight="0.04912280701754386" count="14">director</word>
+	<word weight="0.028070175438596492" count="8">criminal</word>
+	<word weight="0.028070175438596492" count="8">case</word>
+	<word weight="0.021052631578947368" count="6">court</word>
+	<word weight="0.021052631578947368" count="6">registers</word>
+	<word weight="0.017543859649122806" count="5">prosecution</word>
+	<word weight="0.017543859649122806" count="5">cases</word>
+	<word weight="0.014035087719298246" count="4">trials</word>
+	<word weight="0.014035087719298246" count="4">staff</word>
+	<word weight="0.010526315789473684" count="3">action</word>
+	<word weight="0.010526315789473684" count="3">procedure</word>
+	<word weight="0.010526315789473684" count="3">policy</word>
+	<word weight="0.010526315789473684" count="3">transcripts</word>
+	<word weight="0.010526315789473684" count="3">murder</word>
+	<word weight="0.010526315789473684" count="3">police</word>
+	<word weight="0.010526315789473684" count="3">precedent</word>
+	<word weight="0.007017543859649123" count="2">solicitor</word>
+	<phrase weight="0.2857142857142857" count="14">public prosecutions</phrase>
+	<phrase weight="0.04081632653061224" count="2">criminal trials</phrase>
+	<phrase weight="0.04081632653061224" count="2">treasury solicitor</phrase>
+	<phrase weight="0.02040816326530612" count="1">cleveland street scandal</phrase>
+	<phrase weight="0.02040816326530612" count="1">prosecutions considered</phrase>
+	<phrase weight="0.02040816326530612" count="1">criminal appeals</phrase>
+	<phrase weight="0.02040816326530612" count="1">prosecution service</phrase>
+	<phrase weight="0.02040816326530612" count="1">relevant court</phrase>
+	<phrase weight="0.02040816326530612" count="1">criminal court prosecution books registers</phrase>
+	<phrase weight="0.02040816326530612" count="1">communications addressed</phrase>
+	<phrase weight="0.02040816326530612" count="1">chief constables</phrase>
+	<phrase weight="0.02040816326530612" count="1">prevailing attitudes</phrase>
+	<phrase weight="0.02040816326530612" count="1">court sitting</phrase>
+	<phrase weight="0.02040816326530612" count="1">staff instructions</phrase>
+	<phrase weight="0.02040816326530612" count="1">central criminal court</phrase>
+	<phrase weight="0.02040816326530612" count="1">jabez balfour fraud case</phrase>
+	<phrase weight="0.02040816326530612" count="1">dr hawley crippen</phrase>
+	<phrase weight="0.02040816326530612" count="1">staff reporting</phrase>
+	<phrase weight="0.02040816326530612" count="1">police officer</phrase>
+	<phrase weight="0.02040816326530612" count="1">indecent behavour</phrase>
+  </topic>
+</topics>

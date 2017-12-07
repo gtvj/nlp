@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.595794340195797" totalTokens="668" titles="legal, aid, services, board, committee, law, society, commission, administration, research">
+	<word weight="0.12275449101796407" count="82">legal</word>
+	<word weight="0.07335329341317365" count="49">aid</word>
+	<word weight="0.041916167664670656" count="28">services</word>
+	<word weight="0.03592814371257485" count="24">board</word>
+	<word weight="0.0344311377245509" count="23">committee</word>
+	<word weight="0.029940119760479042" count="20">law</word>
+	<word weight="0.02844311377245509" count="19">society</word>
+	<word weight="0.025449101796407185" count="17">commission</word>
+	<word weight="0.023952095808383235" count="16">administration</word>
+	<word weight="0.011976047904191617" count="8">research</word>
+	<word weight="0.011976047904191617" count="8">government</word>
+	<word weight="0.010479041916167664" count="7">reports</word>
+	<word weight="0.010479041916167664" count="7">advice</word>
+	<word weight="0.010479041916167664" count="7">code</word>
+	<word weight="0.010479041916167664" count="7">chief</word>
+	<word weight="0.010479041916167664" count="7">committees</word>
+	<word weight="0.008982035928143712" count="6">training</word>
+	<word weight="0.0074850299401197605" count="5">publications</word>
+	<word weight="0.0074850299401197605" count="5">numeric</word>
+	<word weight="0.005988023952095809" count="4">centre</word>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.640042546223681" totalTokens="1346" titles="council, funding, education, university, higher, committee, grants, reports, universities, england">
+	<word weight="0.06315007429420505" count="85">council</word>
+	<word weight="0.061664190193164936" count="83">funding</word>
+	<word weight="0.0512630014858841" count="69">education</word>
+	<word weight="0.046805349182763745" count="63">university</word>
+	<word weight="0.046805349182763745" count="63">higher</word>
+	<word weight="0.04234769687964339" count="57">committee</word>
+	<word weight="0.036404160475482915" count="49">grants</word>
+	<word weight="0.029717682020802376" count="40">reports</word>
+	<word weight="0.02600297176820208" count="35">universities</word>
+	<word weight="0.023031203566121844" count="31">england</word>
+	<word weight="0.020059435364041606" count="27">colleges</word>
+	<word weight="0.019316493313521546" count="26">minutes</word>
+	<word weight="0.01411589895988113" count="19">polytechnics</word>
+	<word weight="0.01263001485884101" count="17">institutions</word>
+	<word weight="0.01188707280832095" count="16">advisory</word>
+	<word weight="0.010401188707280832" count="14">quality</word>
+	<word weight="0.010401188707280832" count="14">body</word>
+	<word weight="0.009658246656760773" count="13">letters</word>
+	<word weight="0.009658246656760773" count="13">national</word>
+	<word weight="0.009658246656760773" count="13">hefce</word>
+  </topic>
+</topics>

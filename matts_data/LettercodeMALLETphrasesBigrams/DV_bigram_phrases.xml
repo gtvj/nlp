@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.327411774651567" totalTokens="293" titles="midwives, board, dv, central, training, reports, midwifery, cmb, correspondence, roll">
+	<word weight="0.11945392491467577" count="35">midwives</word>
+	<word weight="0.11262798634812286" count="33">board</word>
+	<word weight="0.08532423208191127" count="25">dv</word>
+	<word weight="0.07167235494880546" count="21">central</word>
+	<word weight="0.03754266211604096" count="11">training</word>
+	<word weight="0.023890784982935155" count="7">reports</word>
+	<word weight="0.023890784982935155" count="7">midwifery</word>
+	<word weight="0.017064846416382253" count="5">cmb</word>
+	<word weight="0.017064846416382253" count="5">correspondence</word>
+	<word weight="0.013651877133105802" count="4">roll</word>
+	<word weight="0.013651877133105802" count="4">conduct</word>
+	<word weight="0.013651877133105802" count="4">registration</word>
+	<word weight="0.013651877133105802" count="4">overseas</word>
+	<word weight="0.010238907849829351" count="3">rules</word>
+	<word weight="0.010238907849829351" count="3">annual</word>
+	<word weight="0.010238907849829351" count="3">general</word>
+	<word weight="0.010238907849829351" count="3">minutes</word>
+	<word weight="0.010238907849829351" count="3">work</word>
+	<word weight="0.010238907849829351" count="3">qualifications</word>
+	<word weight="0.010238907849829351" count="3">reciprocal</word>
+	<phrase weight="0.3829787234042553" count="18">central midwives board</phrase>
+	<phrase weight="0.0425531914893617" count="2">annual reports</phrase>
+	<phrase weight="0.0425531914893617" count="2">training qualifications</phrase>
+	<phrase weight="0.0425531914893617" count="2">midwives board</phrase>
+	<phrase weight="0.02127659574468085" count="1">cmb examination</phrase>
+	<phrase weight="0.02127659574468085" count="1">equivalent qualifications</phrase>
+	<phrase weight="0.02127659574468085" count="1">entry books</phrase>
+	<phrase weight="0.02127659574468085" count="1">provided reciprocal terms</phrase>
+	<phrase weight="0.02127659574468085" count="1">midwives roll</phrase>
+	<phrase weight="0.02127659574468085" count="1">successive editions</phrase>
+	<phrase weight="0.02127659574468085" count="1">publications samples</phrase>
+	<phrase weight="0.02127659574468085" count="1">institutions running training courses approved</phrase>
+	<phrase weight="0.02127659574468085" count="1">midwifery training reports</phrase>
+	<phrase weight="0.02127659574468085" count="1">stationery samples</phrase>
+	<phrase weight="0.02127659574468085" count="1">equivalent body</phrase>
+	<phrase weight="0.02127659574468085" count="1">midwives act</phrase>
+	<phrase weight="0.02127659574468085" count="1">individual members</phrase>
+	<phrase weight="0.02127659574468085" count="1">board members</phrase>
+	<phrase weight="0.02127659574468085" count="1">overseas registration</phrase>
+	<phrase weight="0.02127659574468085" count="1">national teaching hospitals</phrase>
+  </topic>
+</topics>

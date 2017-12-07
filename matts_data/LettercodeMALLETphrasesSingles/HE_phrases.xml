@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="11.246443934213827" totalTokens="213" titles="board, nursing, national, health, english, visiting, midwifery, reports, annual, circulars">
+	<word weight="0.09389671361502347" count="20">board</word>
+	<word weight="0.07511737089201878" count="16">nursing</word>
+	<word weight="0.07511737089201878" count="16">national</word>
+	<word weight="0.07042253521126761" count="15">health</word>
+	<word weight="0.07042253521126761" count="15">english</word>
+	<word weight="0.06572769953051644" count="14">visiting</word>
+	<word weight="0.06572769953051644" count="14">midwifery</word>
+	<word weight="0.018779342723004695" count="4">reports</word>
+	<word weight="0.018779342723004695" count="4">annual</word>
+	<word weight="0.018779342723004695" count="4">circulars</word>
+	<word weight="0.014084507042253521" count="3">charts</word>
+	<word weight="0.014084507042253521" count="3">organisational</word>
+	<word weight="0.014084507042253521" count="3">newsletters</word>
+	<word weight="0.014084507042253521" count="3">issued</word>
+	<word weight="0.014084507042253521" count="3">reviews</word>
+	<word weight="0.014084507042253521" count="3">plans</word>
+	<word weight="0.014084507042253521" count="3">strategic</word>
+	<word weight="0.014084507042253521" count="3">operational</word>
+	<word weight="0.014084507042253521" count="3">institutions</word>
+	<word weight="0.014084507042253521" count="3">minutes</word>
+  </topic>
+</topics>

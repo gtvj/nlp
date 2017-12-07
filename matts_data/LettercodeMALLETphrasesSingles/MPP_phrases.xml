@@ -1,0 +1,19 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="58.22267636221094" totalTokens="18" titles="maps, pro, cabinet, subsequently, concerned, allocated, transfer, cater, early, public">
+	<word weight="0.16666666666666666" count="3">maps</word>
+	<word weight="0.1111111111111111" count="2">pro</word>
+	<word weight="0.1111111111111111" count="2">cabinet</word>
+	<word weight="0.05555555555555555" count="1">map</word>
+	<word weight="0.05555555555555555" count="1">subsequently</word>
+	<word weight="0.05555555555555555" count="1">concerned</word>
+	<word weight="0.05555555555555555" count="1">allocated</word>
+	<word weight="0.05555555555555555" count="1">transfer</word>
+	<word weight="0.05555555555555555" count="1">cater</word>
+	<word weight="0.05555555555555555" count="1">early</word>
+	<word weight="0.05555555555555555" count="1">public</word>
+	<word weight="0.05555555555555555" count="1">accumulation</word>
+	<word weight="0.05555555555555555" count="1">artificial</word>
+	<word weight="0.05555555555555555" count="1">classes</word>
+  </topic>
+</topics>

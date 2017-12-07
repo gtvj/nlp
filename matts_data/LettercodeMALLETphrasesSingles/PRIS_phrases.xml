@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.130303537566281" totalTokens="773" titles="prison, books, queen's, prisoners, commitment, bench, king's, fleet, discharge, names">
+	<word weight="0.1034928848641656" count="80">prison</word>
+	<word weight="0.05304010349288486" count="41">books</word>
+	<word weight="0.04657179818887452" count="36">queen's</word>
+	<word weight="0.03234152652005175" count="25">prisoners</word>
+	<word weight="0.029754204398447608" count="23">commitment</word>
+	<word weight="0.0258732212160414" count="20">bench</word>
+	<word weight="0.0258732212160414" count="20">king's</word>
+	<word weight="0.02457956015523933" count="19">fleet</word>
+	<word weight="0.02069857697283312" count="16">discharge</word>
+	<word weight="0.015523932729624839" count="12">names</word>
+	<word weight="0.015523932729624839" count="12">number</word>
+	<word weight="0.01164294954721863" count="9">debtors</word>
+	<word weight="0.01034928848641656" count="8">recording</word>
+	<word weight="0.01034928848641656" count="8">trace</word>
+	<word weight="0.009055627425614488" count="7">marshalsea</word>
+	<word weight="0.009055627425614488" count="7">prisoner's</word>
+	<word weight="0.007761966364812419" count="6">discharges</word>
+	<word weight="0.007761966364812419" count="6">prisoner</word>
+	<word weight="0.00646830530401035" count="5">prisons</word>
+	<word weight="0.00646830530401035" count="5">day</word>
+  </topic>
+</topics>

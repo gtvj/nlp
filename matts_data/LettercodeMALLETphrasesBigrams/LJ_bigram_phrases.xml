@@ -1,0 +1,43 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="13.658976994336406" totalTokens="187" titles="council, research, councils, laboratory, central, lj, minutes, cclrc, committee, board">
+	<word weight="0.0855614973262032" count="16">council</word>
+	<word weight="0.08021390374331551" count="15">research</word>
+	<word weight="0.0748663101604278" count="14">councils</word>
+	<word weight="0.0748663101604278" count="14">laboratory</word>
+	<word weight="0.06951871657754011" count="13">central</word>
+	<word weight="0.053475935828877004" count="10">lj</word>
+	<word weight="0.0374331550802139" count="7">minutes</word>
+	<word weight="0.0213903743315508" count="4">cclrc</word>
+	<word weight="0.0213903743315508" count="4">committee</word>
+	<word weight="0.016042780748663103" count="3">board</word>
+	<word weight="0.016042780748663103" count="3">management</word>
+	<word weight="0.016042780748663103" count="3">business</word>
+	<word weight="0.016042780748663103" count="3">corporate</word>
+	<word weight="0.016042780748663103" count="3">reports</word>
+	<word weight="0.016042780748663103" count="3">annual</word>
+	<word weight="0.016042780748663103" count="3">agenda</word>
+	<word weight="0.016042780748663103" count="3">meetings</word>
+	<word weight="0.016042780748663103" count="3">representative</word>
+	<word weight="0.016042780748663103" count="3">audit</word>
+	<word weight="0.0106951871657754" count="2">executive</word>
+	<phrase weight="0.3333333333333333" count="11">central laboratory</phrase>
+	<phrase weight="0.06060606060606061" count="2">research councils</phrase>
+	<phrase weight="0.06060606060606061" count="2">business plans</phrase>
+	<phrase weight="0.06060606060606061" count="2">executive management board</phrase>
+	<phrase weight="0.06060606060606061" count="2">annual reports</phrase>
+	<phrase weight="0.06060606060606061" count="2">audit committee</phrase>
+	<phrase weight="0.030303030303030304" count="1">business plan</phrase>
+	<phrase weight="0.030303030303030304" count="1">cost effective</phrase>
+	<phrase weight="0.030303030303030304" count="1">internal audit unit</phrase>
+	<phrase weight="0.030303030303030304" count="1">rutherford appleton</phrase>
+	<phrase weight="0.030303030303030304" count="1">chief finance officer</phrase>
+	<phrase weight="0.030303030303030304" count="1">laboratory management board</phrase>
+	<phrase weight="0.030303030303030304" count="1">uk public sector</phrase>
+	<phrase weight="0.030303030303030304" count="1">technology act</phrase>
+	<phrase weight="0.030303030303030304" count="1">ten strategic aims</phrase>
+	<phrase weight="0.030303030303030304" count="1">uk government</phrase>
+	<phrase weight="0.030303030303030304" count="1">parliament pursuant</phrase>
+	<phrase weight="0.030303030303030304" count="1">principal objective</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.4283229033032185" totalTokens="3240" titles="duchy chamber, lancaster, court, dl, council, chancellor, lands, warrants, accounts, commissions">
+	<word weight="0.07067901234567901" count="229">duchy</word>
+	<word weight="0.04135802469135803" count="134">lancaster</word>
+	<word weight="0.020370370370370372" count="66">court</word>
+	<word weight="0.019444444444444445" count="63">dl</word>
+	<word weight="0.015123456790123457" count="49">council</word>
+	<word weight="0.014814814814814815" count="48">chancellor</word>
+	<word weight="0.012037037037037037" count="39">chamber</word>
+	<word weight="0.011728395061728396" count="38">lands</word>
+	<word weight="0.008641975308641974" count="28">warrants</word>
+	<word weight="0.008333333333333333" count="27">commissions</word>
+	<word weight="0.008333333333333333" count="27">accounts</word>
+	<word weight="0.007716049382716049" count="25">letters</word>
+	<word weight="0.006481481481481481" count="21">rolls</word>
+	<word weight="0.006481481481481481" count="21">proceedings</word>
+	<word weight="0.006172839506172839" count="20">books</word>
+	<word weight="0.006172839506172839" count="20">leases</word>
+	<word weight="0.005864197530864198" count="19">draft</word>
+	<word weight="0.005864197530864198" count="19">henry</word>
+	<word weight="0.005246913580246914" count="17">county</word>
+	<word weight="0.005246913580246914" count="17">orders</word>
+	<phrase weight="0.06712962962962964" count="29">duchy chamber</phrase>
+	<phrase weight="0.020833333333333332" count="9">letters patent</phrase>
+	<phrase weight="0.018518518518518517" count="8">county palatine</phrase>
+	<phrase weight="0.016203703703703703" count="7">henry vii</phrase>
+	<phrase weight="0.011574074074074073" count="5">duchy officers</phrase>
+	<phrase weight="0.009259259259259259" count="4">proceedings heard</phrase>
+	<phrase weight="0.009259259259259259" count="4">equity proceedings heard</phrase>
+	<phrase weight="0.009259259259259259" count="4">court rolls</phrase>
+	<phrase weight="0.006944444444444444" count="3">duchy lands</phrase>
+	<phrase weight="0.006944444444444444" count="3">inquisitions post mortem</phrase>
+	<phrase weight="0.006944444444444444" count="3">significant numbers</phrase>
+	<phrase weight="0.006944444444444444" count="3">duchy chancery</phrase>
+	<phrase weight="0.006944444444444444" count="3">chancery administrative</phrase>
+	<phrase weight="0.006944444444444444" count="3">county concerned</phrase>
+	<phrase weight="0.004629629629629629" count="2">sea banks</phrase>
+	<phrase weight="0.004629629629629629" count="2">henry iv</phrase>
+	<phrase weight="0.004629629629629629" count="2">forest south</phrase>
+	<phrase weight="0.004629629629629629" count="2">religious houses</phrase>
+	<phrase weight="0.004629629629629629" count="2">draft presentations</phrase>
+	<phrase weight="0.004629629629629629" count="2">crown lands</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.099044991225875" totalTokens="810" titles="agents, crown, governments, administrations, oversea, general, finance, colonies, representative, public">
+	<word weight="0.0962962962962963" count="78">agents</word>
+	<word weight="0.09135802469135802" count="74">crown</word>
+	<word weight="0.04691358024691358" count="38">governments</word>
+	<word weight="0.040740740740740744" count="33">administrations</word>
+	<word weight="0.03950617283950617" count="32">oversea</word>
+	<word weight="0.028395061728395062" count="23">general</word>
+	<word weight="0.019753086419753086" count="16">finance</word>
+	<word weight="0.013580246913580247" count="11">colonies</word>
+	<word weight="0.011111111111111112" count="9">representative</word>
+	<word weight="0.009876543209876543" count="8">public</word>
+	<word weight="0.009876543209876543" count="8">appointments</word>
+	<word weight="0.009876543209876543" count="8">predecessor</word>
+	<word weight="0.008641975308641974" count="7">colonial</word>
+	<word weight="0.008641975308641974" count="7">principals</word>
+	<word weight="0.007407407407407408" count="6">fund</word>
+	<word weight="0.007407407407407408" count="6">board</word>
+	<word weight="0.007407407407407408" count="6">staff</word>
+	<word weight="0.007407407407407408" count="6">pay</word>
+	<word weight="0.007407407407407408" count="6">shipping</word>
+	<word weight="0.006172839506172839" count="5">private</word>
+  </topic>
+</topics>

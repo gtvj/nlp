@@ -1,0 +1,10 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0" totalTokens="5" titles="wales, schools, inspector, chief, majesty's, ">
+	<word weight="0.2" count="1">wales</word>
+	<word weight="0.2" count="1">schools</word>
+	<word weight="0.2" count="1">inspector</word>
+	<word weight="0.2" count="1">chief</word>
+	<word weight="0.2" count="1">majesty's</word>
+  </topic>
+</topics>

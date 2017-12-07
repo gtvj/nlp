@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.347196484801102" totalTokens="700" titles="division, technology, successors, hf, industry, development, general, mintech, electronics, relate">
+	<word weight="0.06142857142857143" count="43">division</word>
+	<word weight="0.055714285714285716" count="39">technology</word>
+	<word weight="0.03142857142857143" count="22">successors</word>
+	<word weight="0.03142857142857143" count="22">hf</word>
+	<word weight="0.02" count="14">industry</word>
+	<word weight="0.015714285714285715" count="11">development</word>
+	<word weight="0.015714285714285715" count="11">general</word>
+	<word weight="0.014285714285714285" count="10">mintech</word>
+	<word weight="0.014285714285714285" count="10">electronics</word>
+	<word weight="0.012857142857142857" count="9">relate</word>
+	<word weight="0.011428571428571429" count="8">economics</word>
+	<word weight="0.011428571428571429" count="8">minister</word>
+	<word weight="0.011428571428571429" count="8">engineering</word>
+	<word weight="0.01" count="7">working</word>
+	<word weight="0.01" count="7">international</word>
+	<word weight="0.01" count="7">organisation</word>
+	<word weight="0.01" count="7">regional</word>
+	<word weight="0.01" count="7">branch</word>
+	<word weight="0.01" count="7">committee</word>
+	<word weight="0.008571428571428572" count="6">minutes</word>
+	<phrase weight="0.05084745762711865" count="6">economics division</phrase>
+	<phrase weight="0.03389830508474576" count="4">instruments division</phrase>
+	<phrase weight="0.025423728813559324" count="3">general secretariat</phrase>
+	<phrase weight="0.025423728813559324" count="3">regional organisation division</phrase>
+	<phrase weight="0.01694915254237288" count="2">external branch</phrase>
+	<phrase weight="0.01694915254237288" count="2">instrumentation division</phrase>
+	<phrase weight="0.01694915254237288" count="2">successive divisions</phrase>
+	<phrase weight="0.01694915254237288" count="2">electronics industry</phrase>
+	<phrase weight="0.01694915254237288" count="2">computers division</phrase>
+	<phrase weight="0.01694915254237288" count="2">management services division</phrase>
+	<phrase weight="0.01694915254237288" count="2">working party</phrase>
+	<phrase weight="0.01694915254237288" count="2">machine tools division</phrase>
+	<phrase weight="0.01694915254237288" count="2">advisory council</phrase>
+	<phrase weight="0.01694915254237288" count="2">rolls royce</phrase>
+	<phrase weight="0.01694915254237288" count="2">mintech review</phrase>
+	<phrase weight="0.01694915254237288" count="2">general external branch</phrase>
+	<phrase weight="0.01694915254237288" count="2">engineering materials group</phrase>
+	<phrase weight="0.00847457627118644" count="1">senior regional officers committee</phrase>
+	<phrase weight="0.00847457627118644" count="1">boom tests</phrase>
+	<phrase weight="0.00847457627118644" count="1">mechanical engineering products division</phrase>
+  </topic>
+</topics>

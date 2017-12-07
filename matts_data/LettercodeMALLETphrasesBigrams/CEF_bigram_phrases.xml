@@ -1,0 +1,29 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="357.36719595702976" totalTokens="95" titles="cefas, science, aquaculture, fisheries, environment, centre, uk, www, defra, http">
+	<word weight="0.1368421052631579" count="13">cefas</word>
+	<word weight="0.11578947368421053" count="11">science</word>
+	<word weight="0.11578947368421053" count="11">aquaculture</word>
+	<word weight="0.11578947368421053" count="11">fisheries</word>
+	<word weight="0.11578947368421053" count="11">environment</word>
+	<word weight="0.11578947368421053" count="11">centre</word>
+	<word weight="0.05263157894736842" count="5">uk</word>
+	<word weight="0.031578947368421054" count="3">www</word>
+	<word weight="0.021052631578947368" count="2">defra</word>
+	<word weight="0.021052631578947368" count="2">http</word>
+	<word weight="0.021052631578947368" count="2">government</word>
+	<word weight="0.021052631578947368" count="2">data</word>
+	<word weight="0.021052631578947368" count="2">time</word>
+	<word weight="0.021052631578947368" count="2">real</word>
+	<word weight="0.021052631578947368" count="2">wavenet</word>
+	<word weight="0.010526315789473684" count="1">https</word>
+	<word weight="0.010526315789473684" count="1">gov</word>
+	<word weight="0.010526315789473684" count="1">field</word>
+	<word weight="0.010526315789473684" count="1">general</word>
+	<word weight="0.010526315789473684" count="1">division</word>
+	<phrase weight="0.6666666666666666" count="10">aquaculture science</phrase>
+	<phrase weight="0.13333333333333333" count="2">wavenet real</phrase>
+	<phrase weight="0.13333333333333333" count="2">uk government</phrase>
+	<phrase weight="0.06666666666666667" count="1">environment fisheries</phrase>
+  </topic>
+</topics>

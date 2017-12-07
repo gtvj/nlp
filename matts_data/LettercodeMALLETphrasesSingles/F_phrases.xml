@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.576006761472839" totalTokens="1603" titles="forestry, commission, england, woodland, woodlands, reports, maps, forests, research, data">
+	<word weight="0.06799750467872738" count="109">forestry</word>
+	<word weight="0.051777916406737366" count="83">commission</word>
+	<word weight="0.040548970679975045" count="65">forest</word>
+	<word weight="0.021834061135371178" count="35">england</word>
+	<word weight="0.019962570180910792" count="32">woodland</word>
+	<word weight="0.01684341859014348" count="27">woodlands</word>
+	<word weight="0.015595757953836557" count="25">reports</word>
+	<word weight="0.01372426699937617" count="22">maps</word>
+	<word weight="0.013100436681222707" count="21">forests</word>
+	<word weight="0.012476606363069246" count="20">research</word>
+	<word weight="0.011852776044915784" count="19">data</word>
+	<word weight="0.011228945726762321" count="18">committees</word>
+	<word weight="0.010605115408608859" count="17">predecessors</word>
+	<word weight="0.009981285090455396" count="16">correspondence</word>
+	<word weight="0.009357454772301934" count="15">dean</word>
+	<word weight="0.008733624454148471" count="14">trees</word>
+	<word weight="0.008733624454148471" count="14">plans</word>
+	<word weight="0.008109794135995009" count="13">census</word>
+	<word weight="0.008109794135995009" count="13">director</word>
+	<word weight="0.008109794135995009" count="13">wales</word>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="13.454005552634841" totalTokens="152" titles="veterinary, laboratories, health, animal, laboratory, government, tse, encephalopathies, spongiform, transmissible">
+	<word weight="0.1513157894736842" count="23">veterinary</word>
+	<word weight="0.125" count="19">laboratories</word>
+	<word weight="0.05263157894736842" count="8">health</word>
+	<word weight="0.05263157894736842" count="8">animal</word>
+	<word weight="0.046052631578947366" count="7">laboratory</word>
+	<word weight="0.039473684210526314" count="6">government</word>
+	<word weight="0.02631578947368421" count="4">tse</word>
+	<word weight="0.02631578947368421" count="4">encephalopathies</word>
+	<word weight="0.02631578947368421" count="4">spongiform</word>
+	<word weight="0.02631578947368421" count="4">transmissible</word>
+	<word weight="0.019736842105263157" count="3">executive</word>
+	<word weight="0.019736842105263157" count="3">central</word>
+	<word weight="0.019736842105263157" count="3">field</word>
+	<word weight="0.019736842105263157" count="3">general</word>
+	<word weight="0.013157894736842105" count="2">scientific</word>
+	<word weight="0.013157894736842105" count="2">http://www.defra.gov.uk/ahvla-en</word>
+	<word weight="0.013157894736842105" count="2">gateway</word>
+	<word weight="0.013157894736842105" count="2">vet</word>
+	<word weight="0.013157894736842105" count="2">apha</word>
+	<word weight="0.013157894736842105" count="2">plant</word>
+  </topic>
+</topics>

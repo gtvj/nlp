@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.252952984443017" totalTokens="224" titles="skills, improvement, learning, service, lsis, support, government, excellence, programme, gateway">
+	<word weight="0.125" count="28">skills</word>
+	<word weight="0.11160714285714286" count="25">improvement</word>
+	<word weight="0.09821428571428571" count="22">learning</word>
+	<word weight="0.08928571428571429" count="20">service</word>
+	<word weight="0.08928571428571429" count="20">lsis</word>
+	<word weight="0.07142857142857142" count="16">support</word>
+	<word weight="0.07142857142857142" count="16">government</word>
+	<word weight="0.03125" count="7">excellence</word>
+	<word weight="0.026785714285714284" count="6">programme</word>
+	<word weight="0.022321428571428572" count="5">gateway</word>
+	<word weight="0.022321428571428572" count="5">quality</word>
+	<word weight="0.017857142857142856" count="4">governance</word>
+	<word weight="0.017857142857142856" count="4">diploma</word>
+	<word weight="0.013392857142857142" count="3">general</word>
+	<word weight="0.008928571428571428" count="2">life</word>
+	<word weight="0.008928571428571428" count="2">key</word>
+	<word weight="0.008928571428571428" count="2">write</word>
+	<word weight="0.008928571428571428" count="2">read</word>
+	<word weight="0.008928571428571428" count="2">qia</word>
+	<word weight="0.008928571428571428" count="2">workforce</word>
+  </topic>
+</topics>

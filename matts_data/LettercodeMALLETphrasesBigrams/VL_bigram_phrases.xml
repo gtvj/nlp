@@ -1,0 +1,36 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="11.546940769988135" totalTokens="199" titles="veterinary, laboratories, uk, health, animal, vl, laboratory, tse, gov, vla">
+	<word weight="0.11557788944723618" count="23">veterinary</word>
+	<word weight="0.09547738693467336" count="19">laboratories</word>
+	<word weight="0.06030150753768844" count="12">uk</word>
+	<word weight="0.04020100502512563" count="8">health</word>
+	<word weight="0.04020100502512563" count="8">animal</word>
+	<word weight="0.04020100502512563" count="8">vl</word>
+	<word weight="0.035175879396984924" count="7">laboratory</word>
+	<word weight="0.03015075376884422" count="6">tse</word>
+	<word weight="0.03015075376884422" count="6">gov</word>
+	<word weight="0.03015075376884422" count="6">vla</word>
+	<word weight="0.03015075376884422" count="6">government</word>
+	<word weight="0.02512562814070352" count="5">defra</word>
+	<word weight="0.02512562814070352" count="5">www</word>
+	<word weight="0.020100502512562814" count="4">encephalopathies</word>
+	<word weight="0.020100502512562814" count="4">spongiform</word>
+	<word weight="0.020100502512562814" count="4">transmissible</word>
+	<word weight="0.01507537688442211" count="3">http</word>
+	<word weight="0.01507537688442211" count="3">executive</word>
+	<word weight="0.01507537688442211" count="3">central</word>
+	<word weight="0.01507537688442211" count="3">field</word>
+	<phrase weight="0.1875" count="6">animal health</phrase>
+	<phrase weight="0.15625" count="5">veterinary laboratories</phrase>
+	<phrase weight="0.15625" count="5">uk government</phrase>
+	<phrase weight="0.125" count="4">transmissible spongiform encephalopathies</phrase>
+	<phrase weight="0.09375" count="3">central veterinary laboratory</phrase>
+	<phrase weight="0.0625" count="2">asiantaeth lechyd anifeiliaid</phrase>
+	<phrase weight="0.0625" count="2">vet gateway</phrase>
+	<phrase weight="0.0625" count="2">plant health</phrase>
+	<phrase weight="0.03125" count="1">senior management</phrase>
+	<phrase weight="0.03125" count="1">activities establishing</phrase>
+	<phrase weight="0.03125" count="1">chief executive</phrase>
+  </topic>
+</topics>

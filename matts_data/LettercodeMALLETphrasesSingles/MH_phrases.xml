@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.138383284965323" totalTokens="6684" titles="health, board, local, law, poor, government, medical, general, correspondence, services">
+	<word weight="0.07944344703770198" count="531">health</word>
+	<word weight="0.03919808497905446" count="262">board</word>
+	<word weight="0.02573309395571514" count="172">local</word>
+	<word weight="0.023040095751047276" count="154">law</word>
+	<word weight="0.023040095751047276" count="154">poor</word>
+	<word weight="0.019748653500897665" count="132">government</word>
+	<word weight="0.016307600239377617" count="109">medical</word>
+	<word weight="0.01615798922800718" count="108">general</word>
+	<word weight="0.016008378216636743" count="107">correspondence</word>
+	<word weight="0.014512268102932376" count="97">services</word>
+	<word weight="0.013165769000598444" count="88">commission</word>
+	<word weight="0.011968880909634948" count="80">committee</word>
+	<word weight="0.011520047875523638" count="77">divisions</word>
+	<word weight="0.010472770795930581" count="70">national</word>
+	<word weight="0.009126271693596649" count="61">service</word>
+	<word weight="0.008976660682226212" count="60">social</word>
+	<word weight="0.008827049670855775" count="59">hospital</word>
+	<word weight="0.007779772591262717" count="52">council</word>
+	<word weight="0.007779772591262717" count="52">minutes</word>
+	<word weight="0.007480550568521843" count="50">security</word>
+  </topic>
+</topics>

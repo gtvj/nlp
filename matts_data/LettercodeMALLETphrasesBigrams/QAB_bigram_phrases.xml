@@ -1,0 +1,43 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="12747.535996786453" totalTokens="146" titles="tenths, fruits, bounty, anne, governors, queen, bonds, exchequer, bishops, rolls">
+	<word weight="0.0684931506849315" count="10">tenths</word>
+	<word weight="0.0684931506849315" count="10">fruits</word>
+	<word weight="0.03424657534246575" count="5">bounty</word>
+	<word weight="0.03424657534246575" count="5">anne</word>
+	<word weight="0.0273972602739726" count="4">governors</word>
+	<word weight="0.0273972602739726" count="4">queen</word>
+	<word weight="0.02054794520547945" count="3">bonds</word>
+	<word weight="0.02054794520547945" count="3">exchequer</word>
+	<word weight="0.02054794520547945" count="3">bishops</word>
+	<word weight="0.0136986301369863" count="2">rolls</word>
+	<word weight="0.0136986301369863" count="2">composition</word>
+	<word weight="0.0136986301369863" count="2">remembrancer</word>
+	<word weight="0.0136986301369863" count="2">accounts</word>
+	<word weight="0.0136986301369863" count="2">number</word>
+	<word weight="0.0136986301369863" count="2">arrears</word>
+	<word weight="0.0136986301369863" count="2">collection</word>
+	<word weight="0.0136986301369863" count="2">called</word>
+	<word weight="0.0136986301369863" count="2">payment</word>
+	<word weight="0.0136986301369863" count="2">writs</word>
+	<word weight="0.0136986301369863" count="2">returns</word>
+	<phrase weight="0.19047619047619047" count="4">queen anne</phrase>
+	<phrase weight="0.047619047619047616" count="1">court rolls</phrase>
+	<phrase weight="0.047619047619047616" count="1">paid tenths</phrase>
+	<phrase weight="0.047619047619047616" count="1">exchequer writs</phrase>
+	<phrase weight="0.047619047619047616" count="1">collect long</phrase>
+	<phrase weight="0.047619047619047616" count="1">extremely diverse</phrase>
+	<phrase weight="0.047619047619047616" count="1">ecclesiastical dignitaries</phrase>
+	<phrase weight="0.047619047619047616" count="1">complex procedures</phrase>
+	<phrase weight="0.047619047619047616" count="1">duplicate declared accounts</phrase>
+	<phrase weight="0.047619047619047616" count="1">short run</phrase>
+	<phrase weight="0.047619047619047616" count="1">diocesan bishops</phrase>
+	<phrase weight="0.047619047619047616" count="1">certiorari issued</phrase>
+	<phrase weight="0.047619047619047616" count="1">substantial blocks</phrase>
+	<phrase weight="0.047619047619047616" count="1">lady waldegrave</phrase>
+	<phrase weight="0.047619047619047616" count="1">chas ii</phrase>
+	<phrase weight="0.047619047619047616" count="1">sixteenth century</phrase>
+	<phrase weight="0.047619047619047616" count="1">constat book</phrase>
+	<phrase weight="0.047619047619047616" count="1">annuity payable</phrase>
+  </topic>
+</topics>

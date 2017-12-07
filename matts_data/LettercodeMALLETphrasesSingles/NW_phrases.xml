@@ -1,0 +1,9 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0" totalTokens="4" titles="commissioner, act, communications, interception, ">
+	<word weight="0.25" count="1">commissioner</word>
+	<word weight="0.25" count="1">act</word>
+	<word weight="0.25" count="1">communications</word>
+	<word weight="0.25" count="1">interception</word>
+  </topic>
+</topics>

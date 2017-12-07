@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.629362865949815" totalTokens="354" titles="tribunal, lands, registers, case, appeals, valuation, damage, cases, war, property">
+	<word weight="0.07062146892655367" count="25">tribunal</word>
+	<word weight="0.05367231638418079" count="19">lands</word>
+	<word weight="0.04519774011299435" count="16">registers</word>
+	<word weight="0.04519774011299435" count="16">land</word>
+	<word weight="0.03954802259887006" count="14">case</word>
+	<word weight="0.031073446327683617" count="11">appeals</word>
+	<word weight="0.02824858757062147" count="10">valuation</word>
+	<word weight="0.022598870056497175" count="8">damage</word>
+	<word weight="0.022598870056497175" count="8">cases</word>
+	<word weight="0.01977401129943503" count="7">war</word>
+	<word weight="0.01977401129943503" count="7">property</word>
+	<word weight="0.01977401129943503" count="7">compensation</word>
+	<word weight="0.01694915254237288" count="6">claims</word>
+	<word weight="0.01694915254237288" count="6">general</word>
+	<word weight="0.01694915254237288" count="6">act</word>
+	<word weight="0.014124293785310734" count="5">panel</word>
+	<word weight="0.014124293785310734" count="5">decisions</word>
+	<word weight="0.014124293785310734" count="5">rating</word>
+	<word weight="0.011299435028248588" count="4">number</word>
+	<word weight="0.011299435028248588" count="4">values</word>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.417100649709721" totalTokens="646" titles="division, technology, successors, industry, development, general, electronics, relate, economics, engineering">
+	<word weight="0.06656346749226007" count="43">division</word>
+	<word weight="0.06037151702786378" count="39">technology</word>
+	<word weight="0.034055727554179564" count="22">successors</word>
+	<word weight="0.021671826625386997" count="14">industry</word>
+	<word weight="0.017027863777089782" count="11">development</word>
+	<word weight="0.017027863777089782" count="11">general</word>
+	<word weight="0.015479876160990712" count="10">electronics</word>
+	<word weight="0.01393188854489164" count="9">relate</word>
+	<word weight="0.01238390092879257" count="8">economics</word>
+	<word weight="0.01238390092879257" count="8">engineering</word>
+	<word weight="0.01238390092879257" count="8">mintech</word>
+	<word weight="0.010835913312693499" count="7">working</word>
+	<word weight="0.010835913312693499" count="7">international</word>
+	<word weight="0.010835913312693499" count="7">organisation</word>
+	<word weight="0.010835913312693499" count="7">regional</word>
+	<word weight="0.010835913312693499" count="7">branch</word>
+	<word weight="0.010835913312693499" count="7">committee</word>
+	<word weight="0.009287925696594427" count="6">minutes</word>
+	<word weight="0.009287925696594427" count="6">research</word>
+	<word weight="0.009287925696594427" count="6">group</word>
+  </topic>
+</topics>

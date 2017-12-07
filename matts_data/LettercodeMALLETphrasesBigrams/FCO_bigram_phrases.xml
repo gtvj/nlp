@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.163686564540958" totalTokens="4840" titles="uk government, commonwealth, foreign, fco, relations, british, economic, political, october, policy">
+	<word weight="0.06983471074380165" count="338">commonwealth</word>
+	<word weight="0.0615702479338843" count="298">foreign</word>
+	<word weight="0.042355371900826444" count="205">fco</word>
+	<word weight="0.03037190082644628" count="147">uk</word>
+	<word weight="0.019421487603305785" count="94">relations</word>
+	<word weight="0.015495867768595042" count="75">government</word>
+	<word weight="0.013223140495867768" count="64">british</word>
+	<word weight="0.012396694214876033" count="60">economic</word>
+	<word weight="0.010743801652892562" count="52">political</word>
+	<word weight="0.009710743801652892" count="47">october</word>
+	<word weight="0.008677685950413223" count="42">geographical</word>
+	<word weight="0.008677685950413223" count="42">policy</word>
+	<word weight="0.008471074380165288" count="41">united</word>
+	<word weight="0.007851239669421488" count="38">general</word>
+	<word weight="0.0070247933884297524" count="34">overseas</word>
+	<word weight="0.0070247933884297524" count="34">international</word>
+	<word weight="0.00640495867768595" count="31">east</word>
+	<word weight="0.006198347107438017" count="30">africa</word>
+	<word weight="0.006198347107438017" count="30">west</word>
+	<word weight="0.005785123966942148" count="28">south</word>
+	<phrase weight="0.0494148244473342" count="38">uk government</phrase>
+	<phrase weight="0.02080624187256177" count="16">uk relations</phrase>
+	<phrase weight="0.016905071521456438" count="13">commonwealth relations</phrase>
+	<phrase weight="0.016905071521456438" count="13">british embassy</phrase>
+	<phrase weight="0.014304291287386216" count="11">high commissions</phrase>
+	<phrase weight="0.013003901170351105" count="10">united nations</phrase>
+	<phrase weight="0.009102730819245773" count="7">diplomatic service administration</phrase>
+	<phrase weight="0.007802340702210663" count="6">hong kong</phrase>
+	<phrase weight="0.007802340702210663" count="6">west indian</phrase>
+	<phrase weight="0.006501950585175552" count="5">british antarctic territory</phrase>
+	<phrase weight="0.006501950585175552" count="5">central policy</phrase>
+	<phrase weight="0.006501950585175552" count="5">dependent territories</phrase>
+	<phrase weight="0.006501950585175552" count="5">united kingdom</phrase>
+	<phrase weight="0.005201560468140442" count="4">indian ocean</phrase>
+	<phrase weight="0.005201560468140442" count="4">diplomatic relations</phrase>
+	<phrase weight="0.005201560468140442" count="4">british indian ocean territory</phrase>
+	<phrase weight="0.005201560468140442" count="4">uk presidency</phrase>
+	<phrase weight="0.005201560468140442" count="4">uk embassies overseas</phrase>
+	<phrase weight="0.005201560468140442" count="4">central african</phrase>
+	<phrase weight="0.005201560468140442" count="4">african unity</phrase>
+  </topic>
+</topics>

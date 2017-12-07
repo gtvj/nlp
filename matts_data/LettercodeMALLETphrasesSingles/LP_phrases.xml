@@ -1,0 +1,13 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="3.189151552885797" totalTokens="15" titles="coastguard, maritime, plans, business, framework, regions, transport, environment, ">
+	<word weight="0.2" count="3">coastguard</word>
+	<word weight="0.2" count="3">maritime</word>
+	<word weight="0.13333333333333333" count="2">plans</word>
+	<word weight="0.13333333333333333" count="2">business</word>
+	<word weight="0.13333333333333333" count="2">framework</word>
+	<word weight="0.06666666666666667" count="1">regions</word>
+	<word weight="0.06666666666666667" count="1">transport</word>
+	<word weight="0.06666666666666667" count="1">environment</word>
+  </topic>
+</topics>

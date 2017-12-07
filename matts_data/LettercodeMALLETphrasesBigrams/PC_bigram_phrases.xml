@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.317091636413991" totalTokens="748" titles="privy council, pc, books, correspondence, colonial, registers, minutes, orders, committees, numerical">
+	<word weight="0.12032085561497326" count="90">council</word>
+	<word weight="0.10962566844919786" count="82">privy</word>
+	<word weight="0.034759358288770054" count="26">pc</word>
+	<word weight="0.017379679144385027" count="13">books</word>
+	<word weight="0.016042780748663103" count="12">correspondence</word>
+	<word weight="0.014705882352941176" count="11">colonial</word>
+	<word weight="0.013368983957219251" count="10">registers</word>
+	<word weight="0.012032085561497326" count="9">minutes</word>
+	<word weight="0.0106951871657754" count="8">committees</word>
+	<word weight="0.0106951871657754" count="8">orders</word>
+	<word weight="0.009358288770053475" count="7">uk</word>
+	<word weight="0.009358288770053475" count="7">numerical</word>
+	<word weight="0.008021390374331552" count="6">queen</word>
+	<word weight="0.008021390374331552" count="6">general</word>
+	<word weight="0.008021390374331552" count="6">lists</word>
+	<word weight="0.0066844919786096255" count="5">entry</word>
+	<word weight="0.0066844919786096255" count="5">http</word>
+	<word weight="0.0066844919786096255" count="5">letters</word>
+	<word weight="0.0066844919786096255" count="5">commissions</word>
+	<word weight="0.0066844919786096255" count="5">charters</word>
+	<phrase weight="0.3543307086614173" count="45">privy council</phrase>
+	<phrase weight="0.031496062992125984" count="4">entry books</phrase>
+	<phrase weight="0.015748031496062992" count="2">correspondence registers</phrase>
+	<phrase weight="0.007874015748031496" count="1">privy counsellors</phrase>
+	<phrase weight="0.007874015748031496" count="1">colonial legislation</phrase>
+	<phrase weight="0.007874015748031496" count="1">privy council executive coronation committees</phrase>
+	<phrase weight="0.007874015748031496" count="1">general business</phrase>
+	<phrase weight="0.007874015748031496" count="1">persons nominated annually</phrase>
+	<phrase weight="0.007874015748031496" count="1">colonial affairs</phrase>
+	<phrase weight="0.007874015748031496" count="1">welsh counties</phrase>
+	<phrase weight="0.007874015748031496" count="1">revolutionary france</phrase>
+	<phrase weight="0.007874015748031496" count="1">privy councillors</phrase>
+	<phrase weight="0.007874015748031496" count="1">royal sign manual</phrase>
+	<phrase weight="0.007874015748031496" count="1">great seal</phrase>
+	<phrase weight="0.007874015748031496" count="1">privy council proceedings</phrase>
+	<phrase weight="0.007874015748031496" count="1">confidential nature</phrase>
+	<phrase weight="0.007874015748031496" count="1">neutral property</phrase>
+	<phrase weight="0.007874015748031496" count="1">colonial councillors</phrase>
+	<phrase weight="0.007874015748031496" count="1">plantation registers</phrase>
+	<phrase weight="0.007874015748031496" count="1">statutory instruments</phrase>
+  </topic>
+</topics>

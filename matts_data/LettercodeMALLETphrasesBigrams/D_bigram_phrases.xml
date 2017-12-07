@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.601081579739161" totalTokens="1076" titles="development commission, rural, areas, services, availability, industries, reports, numbers, data, survey">
+	<word weight="0.07156133828996282" count="77">development</word>
+	<word weight="0.06784386617100371" count="73">commission</word>
+	<word weight="0.06133828996282528" count="66">rural</word>
+	<word weight="0.027881040892193308" count="30">areas</word>
+	<word weight="0.016728624535315983" count="18">services</word>
+	<word weight="0.013011152416356878" count="14">availability</word>
+	<word weight="0.012081784386617101" count="13">reports</word>
+	<word weight="0.012081784386617101" count="13">industries</word>
+	<word weight="0.011152416356877323" count="12">numbers</word>
+	<word weight="0.010223048327137546" count="11">facilities</word>
+	<word weight="0.010223048327137546" count="11">data</word>
+	<word weight="0.010223048327137546" count="11">survey</word>
+	<word weight="0.010223048327137546" count="11">settlement</word>
+	<word weight="0.010223048327137546" count="11">level</word>
+	<word weight="0.010223048327137546" count="11">council</word>
+	<word weight="0.00929368029739777" count="10">small</word>
+	<word weight="0.008364312267657992" count="9">parish</word>
+	<word weight="0.007434944237918215" count="8">questions</word>
+	<word weight="0.007434944237918215" count="8">surgeries</word>
+	<word weight="0.007434944237918215" count="8">asked</word>
+	<phrase weight="0.16355140186915887" count="35">development commission</phrase>
+	<phrase weight="0.04205607476635514" count="9">small industries</phrase>
+	<phrase weight="0.037383177570093455" count="8">rural development commission</phrase>
+	<phrase weight="0.014018691588785047" count="3">rural areas</phrase>
+	<phrase weight="0.014018691588785047" count="3">geographical availability</phrase>
+	<phrase weight="0.014018691588785047" count="3">development fund</phrase>
+	<phrase weight="0.014018691588785047" count="3">annual reports</phrase>
+	<phrase weight="0.009345794392523364" count="2">questions asked</phrase>
+	<phrase weight="0.009345794392523364" count="2">branch surgeries</phrase>
+	<phrase weight="0.009345794392523364" count="2">services surveys datasets</phrase>
+	<phrase weight="0.009345794392523364" count="2">parish level</phrase>
+	<phrase weight="0.009345794392523364" count="2">subject matter</phrase>
+	<phrase weight="0.009345794392523364" count="2">closure areas</phrase>
+	<phrase weight="0.009345794392523364" count="2">development commission meetings</phrase>
+	<phrase weight="0.009345794392523364" count="2">social service</phrase>
+	<phrase weight="0.009345794392523364" count="2">rural development areas</phrase>
+	<phrase weight="0.009345794392523364" count="2">corporate management</phrase>
+	<phrase weight="0.009345794392523364" count="2">banking facilities</phrase>
+	<phrase weight="0.009345794392523364" count="2">employment programme</phrase>
+	<phrase weight="0.009345794392523364" count="2">ward level tables</phrase>
+  </topic>
+</topics>

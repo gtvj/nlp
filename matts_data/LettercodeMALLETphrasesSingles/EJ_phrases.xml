@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.228187225154227" totalTokens="431" titles="curriculum, council, examinations, schools, committee, development, minutes, agenda, secondary, board">
+	<word weight="0.09744779582366589" count="42">curriculum</word>
+	<word weight="0.09280742459396751" count="40">council</word>
+	<word weight="0.08120649651972157" count="35">examinations</word>
+	<word weight="0.060324825986078884" count="26">schools</word>
+	<word weight="0.04640371229698376" count="20">committee</word>
+	<word weight="0.04176334106728538" count="18">development</word>
+	<word weight="0.04176334106728538" count="18">minutes</word>
+	<word weight="0.037122969837587005" count="16">school</word>
+	<word weight="0.030162412993039442" count="13">agenda</word>
+	<word weight="0.030162412993039442" count="13">secondary</word>
+	<word weight="0.016241299303944315" count="7">board</word>
+	<word weight="0.013921113689095127" count="6">management</word>
+	<word weight="0.013921113689095127" count="6">committees</word>
+	<word weight="0.01160092807424594" count="5">assessment</word>
+	<word weight="0.009280742459396751" count="4">education</word>
+	<word weight="0.009280742459396751" count="4">council's</word>
+	<word weight="0.009280742459396751" count="4">reports</word>
+	<word weight="0.009280742459396751" count="4">authority</word>
+	<word weight="0.009280742459396751" count="4">science</word>
+	<word weight="0.0069605568445475635" count="3">welsh</word>
+  </topic>
+</topics>

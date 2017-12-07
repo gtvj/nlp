@@ -1,0 +1,22 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.6305261926502599" totalTokens="44" titles="committee, evidence, terrorism, suspected, persons, interrogation, procedures, authorised, appointed, counsellors">
+	<word weight="0.09090909090909091" count="4">committee</word>
+	<word weight="0.06818181818181818" count="3">evidence</word>
+	<word weight="0.06818181818181818" count="3">terrorism</word>
+	<word weight="0.06818181818181818" count="3">suspected</word>
+	<word weight="0.06818181818181818" count="3">persons</word>
+	<word weight="0.06818181818181818" count="3">interrogation</word>
+	<word weight="0.06818181818181818" count="3">procedures</word>
+	<word weight="0.06818181818181818" count="3">authorised</word>
+	<word weight="0.06818181818181818" count="3">appointed</word>
+	<word weight="0.06818181818181818" count="3">counsellors</word>
+	<word weight="0.06818181818181818" count="3">privy</word>
+	<word weight="0.045454545454545456" count="2">minutes</word>
+	<word weight="0.045454545454545456" count="2">inquiry</word>
+	<word weight="0.045454545454545456" count="2">parker</word>
+	<word weight="0.045454545454545456" count="2">report</word>
+	<word weight="0.022727272727272728" count="1">submitted</word>
+	<word weight="0.022727272727272728" count="1">meetings</word>
+  </topic>
+</topics>

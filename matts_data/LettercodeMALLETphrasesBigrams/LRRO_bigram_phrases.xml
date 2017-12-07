@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.683528537963201" totalTokens="1970" titles="land revenue, land revenues, enrolments, woods, crown, forests, destroyed, number, accounts, lands">
+	<word weight="0.048730964467005075" count="96">land</word>
+	<word weight="0.047715736040609136" count="94">enrolments</word>
+	<word weight="0.029949238578680204" count="59">revenue</word>
+	<word weight="0.02131979695431472" count="42">woods</word>
+	<word weight="0.02081218274111675" count="41">crown</word>
+	<word weight="0.01979695431472081" count="39">forests</word>
+	<word weight="0.019289340101522844" count="38">destroyed</word>
+	<word weight="0.018781725888324875" count="37">revenues</word>
+	<word weight="0.017258883248730966" count="34">number</word>
+	<word weight="0.016751269035532996" count="33">accounts</word>
+	<word weight="0.013197969543147208" count="26">lands</word>
+	<word weight="0.012182741116751269" count="24">rents</word>
+	<word weight="0.01015228426395939" count="20">works</word>
+	<word weight="0.009644670050761422" count="19">deeds</word>
+	<word weight="0.009137055837563452" count="18">rentals</word>
+	<word weight="0.008629441624365483" count="17">commissioners</word>
+	<word weight="0.008121827411167513" count="16">london</word>
+	<word weight="0.008121827411167513" count="16">books</word>
+	<word weight="0.007106598984771574" count="14">deposits</word>
+	<word weight="0.006091370558375634" count="12">estates</word>
+	<phrase weight="0.14285714285714285" count="43">land revenue</phrase>
+	<phrase weight="0.11295681063122924" count="34">land revenues</phrase>
+	<phrase weight="0.046511627906976744" count="14">crown lands</phrase>
+	<phrase weight="0.019933554817275746" count="6">surplus teinds</phrase>
+	<phrase weight="0.013289036544850499" count="4">farm rents</phrase>
+	<phrase weight="0.009966777408637873" count="3">st andrews</phrase>
+	<phrase weight="0.009966777408637873" count="3">estate commissioners</phrase>
+	<phrase weight="0.009966777408637873" count="3">statutory requirement</phrase>
+	<phrase weight="0.009966777408637873" count="3">deeds enrolled</phrase>
+	<phrase weight="0.009966777408637873" count="3">fee farm rents</phrase>
+	<phrase weight="0.006644518272425249" count="2">trade enrolments</phrase>
+	<phrase weight="0.006644518272425249" count="2">cash abstract books</phrase>
+	<phrase weight="0.006644518272425249" count="2">petty feus</phrase>
+	<phrase weight="0.006644518272425249" count="2">principal agricultural estates</phrase>
+	<phrase weight="0.006644518272425249" count="2">feu duties</phrase>
+	<phrase weight="0.006644518272425249" count="2">enclosure awards</phrase>
+	<phrase weight="0.006644518272425249" count="2">crown manors</phrase>
+	<phrase weight="0.006644518272425249" count="2">war transport</phrase>
+	<phrase weight="0.006644518272425249" count="2">works enrolments</phrase>
+	<phrase weight="0.006644518272425249" count="2">cash accounts</phrase>
+  </topic>
+</topics>

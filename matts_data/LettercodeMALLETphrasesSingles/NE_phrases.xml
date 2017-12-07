@@ -1,0 +1,11 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.2408048866255974" totalTokens="12" titles="work, social, training, education, council, central, ">
+	<word weight="0.16666666666666666" count="2">work</word>
+	<word weight="0.16666666666666666" count="2">social</word>
+	<word weight="0.16666666666666666" count="2">training</word>
+	<word weight="0.16666666666666666" count="2">education</word>
+	<word weight="0.16666666666666666" count="2">council</word>
+	<word weight="0.16666666666666666" count="2">central</word>
+  </topic>
+</topics>

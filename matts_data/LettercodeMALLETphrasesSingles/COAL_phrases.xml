@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.284258548137573" totalTokens="2594" titles="coal, national, board, administrative, central, reports, british, regional, correspondence, minutes">
+	<word weight="0.15882806476484193" count="412">coal</word>
+	<word weight="0.07093292212798766" count="184">national</word>
+	<word weight="0.06900539707016191" count="179">board</word>
+	<word weight="0.027756360832690823" count="72">administrative</word>
+	<word weight="0.020431765612952967" count="53">central</word>
+	<word weight="0.017347725520431765" count="45">reports</word>
+	<word weight="0.015805705474171164" count="41">british</word>
+	<word weight="0.013492675404780262" count="35">regional</word>
+	<word weight="0.012721665381649962" count="33">correspondence</word>
+	<word weight="0.01079414032382421" count="28">minutes</word>
+	<word weight="0.01079414032382421" count="28">corporation</word>
+	<word weight="0.01040863531225906" count="27">research</word>
+	<word weight="0.00963762528912876" count="25">industry</word>
+	<word weight="0.008866615265998457" count="23">area</word>
+	<word weight="0.007324595219737857" count="19">mining</word>
+	<word weight="0.007324595219737857" count="19">commission</word>
+	<word weight="0.0065535851966075555" count="17">collieries</word>
+	<word weight="0.0065535851966075555" count="17">prior</word>
+	<word weight="0.005782575173477255" count="15">maps</word>
+	<word weight="0.005782575173477255" count="15">assets</word>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="10.524043429350414" totalTokens="161" titles="training, teaching, teacher, development, government, minutes, tda, board, education, level">
+	<word weight="0.11801242236024845" count="19">training</word>
+	<word weight="0.08695652173913043" count="14">teaching</word>
+	<word weight="0.07453416149068323" count="12">teacher</word>
+	<word weight="0.06832298136645963" count="11">development</word>
+	<word weight="0.055900621118012424" count="9">government</word>
+	<word weight="0.043478260869565216" count="7">minutes</word>
+	<word weight="0.037267080745341616" count="6">tda</word>
+	<word weight="0.037267080745341616" count="6">board</word>
+	<word weight="0.024844720496894408" count="4">education</word>
+	<word weight="0.024844720496894408" count="4">level</word>
+	<word weight="0.024844720496894408" count="4">management</word>
+	<word weight="0.018633540372670808" count="3">plans</word>
+	<word weight="0.018633540372670808" count="3">corporate</word>
+	<word weight="0.018633540372670808" count="3">annual</word>
+	<word weight="0.018633540372670808" count="3">schools</word>
+	<word weight="0.018633540372670808" count="3">electronic</word>
+	<word weight="0.012422360248447204" count="2">starting</word>
+	<word weight="0.012422360248447204" count="2">hub</word>
+	<word weight="0.012422360248447204" count="2">assistants</word>
+	<word weight="0.012422360248447204" count="2">high</word>
+  </topic>
+</topics>

@@ -1,0 +1,39 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="12.557664116482163" totalTokens="130" titles="scottish, scotland, administration, government, uk, service, insolvency, accountant, bankruptcy, general">
+	<word weight="0.16153846153846155" count="21">scottish</word>
+	<word weight="0.1076923076923077" count="14">scotland</word>
+	<word weight="0.1" count="13">administration</word>
+	<word weight="0.08461538461538462" count="11">government</word>
+	<word weight="0.08461538461538462" count="11">uk</word>
+	<word weight="0.03076923076923077" count="4">service</word>
+	<word weight="0.03076923076923077" count="4">insolvency</word>
+	<word weight="0.03076923076923077" count="4">accountant</word>
+	<word weight="0.023076923076923078" count="3">bankruptcy</word>
+	<word weight="0.023076923076923078" count="3">general</word>
+	<word weight="0.015384615384615385" count="2">audit</word>
+	<word weight="0.015384615384615385" count="2">printer</word>
+	<word weight="0.015384615384615385" count="2">queen</word>
+	<word weight="0.015384615384615385" count="2">inspection</word>
+	<word weight="0.015384615384615385" count="2">work</word>
+	<word weight="0.015384615384615385" count="2">social</word>
+	<word weight="0.015384615384615385" count="2">commission</word>
+	<word weight="0.015384615384615385" count="2">boundary</word>
+	<word weight="0.015384615384615385" count="2">council</word>
+	<word weight="0.015384615384615385" count="2">consumer</word>
+	<phrase weight="0.25925925925925924" count="7">uk government</phrase>
+	<phrase weight="0.14814814814814814" count="4">insolvency service</phrase>
+	<phrase weight="0.07407407407407407" count="2">boundary commission</phrase>
+	<phrase weight="0.07407407407407407" count="2">scottish businesses</phrase>
+	<phrase weight="0.07407407407407407" count="2">advocate general</phrase>
+	<phrase weight="0.07407407407407407" count="2">scottish independence</phrase>
+	<phrase weight="0.037037037037037035" count="1">work inspection</phrase>
+	<phrase weight="0.037037037037037035" count="1">consumer council</phrase>
+	<phrase weight="0.037037037037037035" count="1">audit scotland</phrase>
+	<phrase weight="0.037037037037037035" count="1">scottish consumer council</phrase>
+	<phrase weight="0.037037037037037035" count="1">social work inspection</phrase>
+	<phrase weight="0.037037037037037035" count="1">scottish administration</phrase>
+	<phrase weight="0.037037037037037035" count="1">business gateway</phrase>
+	<phrase weight="0.037037037037037035" count="1">scottish parliament</phrase>
+  </topic>
+</topics>

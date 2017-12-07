@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.347930448746" totalTokens="1461" titles="government, uk, local, planning, service, www, east, england, advisory, national">
+	<word weight="0.11088295687885011" count="162">government</word>
+	<word weight="0.10951403148528405" count="160">uk</word>
+	<word weight="0.030116358658453114" count="44">local</word>
+	<word weight="0.01642710472279261" count="24">planning</word>
+	<word weight="0.015058179329226557" count="22">service</word>
+	<word weight="0.014373716632443531" count="21">www</word>
+	<word weight="0.013689253935660506" count="20">gov</word>
+	<word weight="0.013689253935660506" count="20">east</word>
+	<word weight="0.013004791238877482" count="19">england</word>
+	<word weight="0.010951403148528405" count="16">advisory</word>
+	<word weight="0.010951403148528405" count="16">national</word>
+	<word weight="0.009582477754962354" count="14">west</word>
+	<word weight="0.009582477754962354" count="14">communities</word>
+	<word weight="0.009582477754962354" count="14">community</word>
+	<word weight="0.009582477754962354" count="14">assembly</word>
+	<word weight="0.009582477754962354" count="14">regional</word>
+	<word weight="0.00889801505817933" count="13">buy</word>
+	<word weight="0.00889801505817933" count="13">housing</word>
+	<word weight="0.00889801505817933" count="13">http</word>
+	<word weight="0.00889801505817933" count="13">field</word>
+	<phrase weight="0.03137254901960784" count="8">leasehold advisory service</phrase>
+	<phrase weight="0.03137254901960784" count="8">uk government</phrase>
+	<phrase weight="0.023529411764705882" count="6">local government</phrase>
+	<phrase weight="0.0196078431372549" count="5">planning portal</phrase>
+	<phrase weight="0.01568627450980392" count="4">deputy prime minister</phrase>
+	<phrase weight="0.01568627450980392" count="4">affordable housing capital funding guide</phrase>
+	<phrase weight="0.01568627450980392" count="4">standards board</phrase>
+	<phrase weight="0.01568627450980392" count="4">planning inspectorate</phrase>
+	<phrase weight="0.01568627450980392" count="4">national land</phrase>
+	<phrase weight="0.011764705882352941" count="3">national infrastructure planning</phrase>
+	<phrase weight="0.011764705882352941" count="3">advisory panel</phrase>
+	<phrase weight="0.011764705882352941" count="3">local government boundary commission</phrase>
+	<phrase weight="0.011764705882352941" count="3">urban design compendium</phrase>
+	<phrase weight="0.011764705882352941" count="3">valuation tribunal</phrase>
+	<phrase weight="0.00784313725490196" count="2">east midlands green infrastructure network</phrase>
+	<phrase weight="0.00784313725490196" count="2">black minority ethnic</phrase>
+	<phrase weight="0.00784313725490196" count="2">local authorities coordinators</phrase>
+	<phrase weight="0.00784313725490196" count="2">south west</phrase>
+	<phrase weight="0.00784313725490196" count="2">rescue service</phrase>
+	<phrase weight="0.00784313725490196" count="2">west northamptonshire development corporation</phrase>
+  </topic>
+</topics>

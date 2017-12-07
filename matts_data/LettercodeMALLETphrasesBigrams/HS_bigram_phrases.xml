@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.03020836507694" totalTokens="1407" titles="special operations executive, index, soe, cards, hs, subject, nominal, war, personnel, agents">
+	<word weight="0.04051172707889126" count="57">index</word>
+	<word weight="0.03624733475479744" count="51">soe</word>
+	<word weight="0.033404406538734895" count="47">cards</word>
+	<word weight="0.031982942430703626" count="45">operations</word>
+	<word weight="0.02914001421464108" count="41">hs</word>
+	<word weight="0.022743425728500355" count="32">executive</word>
+	<word weight="0.02203269367448472" count="31">special</word>
+	<word weight="0.016346837242359632" count="23">subject</word>
+	<word weight="0.015636105188343994" count="22">nominal</word>
+	<word weight="0.01279317697228145" count="18">war</word>
+	<word weight="0.012082444918265814" count="17">personnel</word>
+	<word weight="0.011371712864250177" count="16">card</word>
+	<word weight="0.009950248756218905" count="14">agents</word>
+	<word weight="0.00923951670220327" count="13">subjects</word>
+	<word weight="0.008528784648187633" count="12">activities</word>
+	<word weight="0.008528784648187633" count="12">section</word>
+	<word weight="0.007818052594171997" count="11">sections</word>
+	<word weight="0.007818052594171997" count="11">contacts</word>
+	<word weight="0.007107320540156361" count="10">number</word>
+	<word weight="0.007107320540156361" count="10">field</word>
+	<phrase weight="0.11814345991561181" count="28">special operations executive</phrase>
+	<phrase weight="0.029535864978902954" count="7">world war</phrase>
+	<phrase weight="0.016877637130801686" count="4">soe personnel</phrase>
+	<phrase weight="0.016877637130801686" count="4">manuscript additions</phrase>
+	<phrase weight="0.012658227848101266" count="3">section index</phrase>
+	<phrase weight="0.012658227848101266" count="3">war diaries</phrase>
+	<phrase weight="0.012658227848101266" count="3">white cards</phrase>
+	<phrase weight="0.008438818565400843" count="2">card index</phrase>
+	<phrase weight="0.008438818565400843" count="2">middle east</phrase>
+	<phrase weight="0.008438818565400843" count="2">local resistance</phrase>
+	<phrase weight="0.008438818565400843" count="2">card vary</phrase>
+	<phrase weight="0.008438818565400843" count="2">playfair code</phrase>
+	<phrase weight="0.008438818565400843" count="2">german officers based</phrase>
+	<phrase weight="0.008438818565400843" count="2">german personnel</phrase>
+	<phrase weight="0.008438818565400843" count="2">list pseudonyms</phrase>
+	<phrase weight="0.008438818565400843" count="2">operations executive</phrase>
+	<phrase weight="0.008438818565400843" count="2">operations participated</phrase>
+	<phrase weight="0.008438818565400843" count="2">style photographs</phrase>
+	<phrase weight="0.008438818565400843" count="2">lord selborne</phrase>
+	<phrase weight="0.008438818565400843" count="2">channel islands</phrase>
+  </topic>
+</topics>

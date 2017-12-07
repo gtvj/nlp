@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.893426147888115" totalTokens="992" titles="central, films, government, general, predecessor, coi, ministries, television, photographs, divisions">
+	<word weight="0.06955645161290322" count="69">central</word>
+	<word weight="0.04334677419354839" count="43">films</word>
+	<word weight="0.04032258064516129" count="40">government</word>
+	<word weight="0.02620967741935484" count="26">general</word>
+	<word weight="0.019153225806451613" count="19">predecessor</word>
+	<word weight="0.018145161290322582" count="18">coi</word>
+	<word weight="0.018145161290322582" count="18">ministries</word>
+	<word weight="0.015120967741935484" count="15">film</word>
+	<word weight="0.014112903225806451" count="14">television</word>
+	<word weight="0.012096774193548387" count="12">photographs</word>
+	<word weight="0.012096774193548387" count="12">divisions</word>
+	<word weight="0.011088709677419355" count="11">services</word>
+	<word weight="0.011088709677419355" count="11">war</word>
+	<word weight="0.010080645161290322" count="10">online</word>
+	<word weight="0.010080645161290322" count="10">unit</word>
+	<word weight="0.010080645161290322" count="10">public</word>
+	<word weight="0.010080645161290322" count="10">british</word>
+	<word weight="0.010080645161290322" count="10">uk</word>
+	<word weight="0.009072580645161291" count="9">units</word>
+	<word weight="0.008064516129032258" count="8">division</word>
+	<phrase weight="0.10404624277456648" count="18">predecessor government</phrase>
+	<phrase weight="0.046242774566473986" count="8">television units</phrase>
+	<phrase weight="0.023121387283236993" count="4">online moving image</phrase>
+	<phrase weight="0.017341040462427744" count="3">film unit</phrase>
+	<phrase weight="0.011560693641618497" count="2">crown film unit</phrase>
+	<phrase weight="0.011560693641618497" count="2">bfi media player</phrase>
+	<phrase weight="0.011560693641618497" count="2">common good research</phrase>
+	<phrase weight="0.011560693641618497" count="2">british empire</phrase>
+	<phrase weight="0.011560693641618497" count="2">press services</phrase>
+	<phrase weight="0.011560693641618497" count="2">british film institute</phrase>
+	<phrase weight="0.011560693641618497" count="2">coi common good research</phrase>
+	<phrase weight="0.011560693641618497" count="2">world war</phrase>
+	<phrase weight="0.011560693641618497" count="2">general post</phrase>
+	<phrase weight="0.011560693641618497" count="2">radio fillers</phrase>
+	<phrase weight="0.011560693641618497" count="2">whitley council</phrase>
+	<phrase weight="0.011560693641618497" count="2">television division</phrase>
+	<phrase weight="0.011560693641618497" count="2">crime prevention</phrase>
+	<phrase weight="0.011560693641618497" count="2">uk government</phrase>
+	<phrase weight="0.005780346820809248" count="1">art work</phrase>
+	<phrase weight="0.005780346820809248" count="1">monthly division reports monthly reports</phrase>
+  </topic>
+</topics>

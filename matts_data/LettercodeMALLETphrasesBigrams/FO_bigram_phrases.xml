@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.026481599564253" totalTokens="25588" titles="general correspondence, british consulate, letter books, ottoman empire, british embassy, british legation, united states, control commission, british element, british consulates">
+	<word weight="0.05490855088322651" count="1405">correspondence</word>
+	<word weight="0.04931999374706894" count="1262">foreign</word>
+	<word weight="0.04486478036579647" count="1148">fo</word>
+	<word weight="0.03568078786931374" count="913">consulate</word>
+	<word weight="0.03415663592308895" count="874">consulates</word>
+	<word weight="0.03411755510395498" count="873">british</word>
+	<word weight="0.03146005940284508" count="805">general</word>
+	<word weight="0.025754259809285602" count="659">legations</word>
+	<word weight="0.025637017351883694" count="656">embassies</word>
+	<word weight="0.02090823823667344" count="535">registers</word>
+	<word weight="0.011372518367984993" count="291">print</word>
+	<word weight="0.011372518367984993" count="291">confidential</word>
+	<word weight="0.011138033453181179" count="285">legation</word>
+	<word weight="0.010356417070501799" count="265">embassy</word>
+	<word weight="0.00945755823042051" count="242">political</word>
+	<word weight="0.009301234953884633" count="238">books</word>
+	<word weight="0.008089729560731593" count="207">letter</word>
+	<word weight="0.00777708300765984" count="199">germany</word>
+	<word weight="0.007425355635454119" count="190">war</word>
+	<word weight="0.007347193997186181" count="188">empire</word>
+	<phrase weight="0.14632843791722297" count="548">general correspondence</phrase>
+	<phrase weight="0.08411214953271028" count="315">british consulate</phrase>
+	<phrase weight="0.029906542056074768" count="112">letter books</phrase>
+	<phrase weight="0.02643524699599466" count="99">ottoman empire</phrase>
+	<phrase weight="0.02349799732977303" count="88">british embassy</phrase>
+	<phrase weight="0.020293724966622163" count="76">british legation</phrase>
+	<phrase weight="0.017089452603471295" count="64">united states</phrase>
+	<phrase weight="0.01628838451268358" count="61">control commission</phrase>
+	<phrase weight="0.0157543391188251" count="59">british element</phrase>
+	<phrase weight="0.011214953271028037" count="42">british consulates</phrase>
+	<phrase weight="0.010947930574098798" count="41">allied administration</phrase>
+	<phrase weight="0.009612817089452604" count="36">confidential print</phrase>
+	<phrase weight="0.009078771695594125" count="34">russian empire</phrase>
+	<phrase weight="0.009078771695594125" count="34">british subjects</phrase>
+	<phrase weight="0.007743658210947931" count="29">occupied territories</phrase>
+	<phrase weight="0.005874499332443258" count="22">soviet socialist republics</phrase>
+	<phrase weight="0.005607476635514018" count="21">entry books</phrase>
+	<phrase weight="0.0045393858477970625" count="17">hungarian empire</phrase>
+	<phrase weight="0.004272363150867824" count="16">german section</phrase>
+	<phrase weight="0.004005340453938585" count="15">central america</phrase>
+  </topic>
+</topics>

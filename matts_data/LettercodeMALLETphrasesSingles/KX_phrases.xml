@@ -1,0 +1,19 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="92.71219463576433" totalTokens="70" titles="palaces, royal, historic, government, london, plans, corporate, reports, annual, blog">
+	<word weight="0.21428571428571427" count="15">palaces</word>
+	<word weight="0.21428571428571427" count="15">royal</word>
+	<word weight="0.2" count="14">historic</word>
+	<word weight="0.05714285714285714" count="4">government</word>
+	<word weight="0.04285714285714286" count="3">london</word>
+	<word weight="0.04285714285714286" count="3">plans</word>
+	<word weight="0.04285714285714286" count="3">corporate</word>
+	<word weight="0.04285714285714286" count="3">reports</word>
+	<word weight="0.04285714285714286" count="3">annual</word>
+	<word weight="0.02857142857142857" count="2">blog</word>
+	<word weight="0.02857142857142857" count="2">tower</word>
+	<word weight="0.014285714285714285" count="1">division</word>
+	<word weight="0.014285714285714285" count="1">maintaining</word>
+	<word weight="0.014285714285714285" count="1">responsible</word>
+  </topic>
+</topics>

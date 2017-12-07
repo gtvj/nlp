@@ -1,0 +1,29 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.8767114354166055" totalTokens="38" titles="plans, maps, commission, transport, british, drawings, public, size, measure, preservation">
+	<word weight="0.10526315789473684" count="4">plans</word>
+	<word weight="0.10526315789473684" count="4">maps</word>
+	<word weight="0.07894736842105263" count="3">commission</word>
+	<word weight="0.07894736842105263" count="3">transport</word>
+	<word weight="0.07894736842105263" count="3">british</word>
+	<word weight="0.05263157894736842" count="2">drawings</word>
+	<word weight="0.05263157894736842" count="2">public</word>
+	<word weight="0.02631578947368421" count="1">size</word>
+	<word weight="0.02631578947368421" count="1">measure</word>
+	<word weight="0.02631578947368421" count="1">preservation</word>
+	<word weight="0.02631578947368421" count="1">primarily</word>
+	<word weight="0.02631578947368421" count="1">transfer</word>
+	<word weight="0.02631578947368421" count="1">cater</word>
+	<word weight="0.02631578947368421" count="1">century</word>
+	<word weight="0.02631578947368421" count="1">twentieth</word>
+	<word weight="0.02631578947368421" count="1">accumulations</word>
+	<word weight="0.02631578947368421" count="1">artificial</word>
+	<word weight="0.02631578947368421" count="1">rail</word>
+	<word weight="0.02631578947368421" count="1">accumulated</word>
+	<word weight="0.02631578947368421" count="1">nationalisation</word>
+	<phrase weight="0.5" count="3">british transport commission</phrase>
+	<phrase weight="0.16666666666666666" count="1">architectural drawings</phrase>
+	<phrase weight="0.16666666666666666" count="1">preservation measure</phrase>
+	<phrase weight="0.16666666666666666" count="1">twentieth century</phrase>
+  </topic>
+</topics>

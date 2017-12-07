@@ -1,0 +1,28 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="41.783263434724205" totalTokens="83" titles="palaces, royal, historic, kx, government, uk, london, plans, corporate, reports">
+	<word weight="0.18072289156626506" count="15">palaces</word>
+	<word weight="0.18072289156626506" count="15">royal</word>
+	<word weight="0.1686746987951807" count="14">historic</word>
+	<word weight="0.08433734939759036" count="7">kx</word>
+	<word weight="0.04819277108433735" count="4">government</word>
+	<word weight="0.04819277108433735" count="4">uk</word>
+	<word weight="0.03614457831325301" count="3">london</word>
+	<word weight="0.03614457831325301" count="3">plans</word>
+	<word weight="0.03614457831325301" count="3">corporate</word>
+	<word weight="0.03614457831325301" count="3">reports</word>
+	<word weight="0.03614457831325301" count="3">annual</word>
+	<word weight="0.024096385542168676" count="2">blog</word>
+	<word weight="0.024096385542168676" count="2">tower</word>
+	<word weight="0.024096385542168676" count="2">hm</word>
+	<word weight="0.012048192771084338" count="1">division</word>
+	<word weight="0.012048192771084338" count="1">maintaining</word>
+	<word weight="0.012048192771084338" count="1">responsible</word>
+	<phrase weight="0.35294117647058826" count="6">historic royal palaces</phrase>
+	<phrase weight="0.23529411764705882" count="4">royal palaces</phrase>
+	<phrase weight="0.11764705882352941" count="2">corporate plans</phrase>
+	<phrase weight="0.11764705882352941" count="2">uk government</phrase>
+	<phrase weight="0.11764705882352941" count="2">hm tower</phrase>
+	<phrase weight="0.058823529411764705" count="1">annual reports</phrase>
+  </topic>
+</topics>

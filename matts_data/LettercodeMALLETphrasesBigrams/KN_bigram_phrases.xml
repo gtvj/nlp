@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="12.047127108365396" totalTokens="400" titles="council, health, committee, nursing, central, kn, nurse, midwifery, kingdom, united">
+	<word weight="0.0475" count="19">council</word>
+	<word weight="0.045" count="18">health</word>
+	<word weight="0.04" count="16">committee</word>
+	<word weight="0.04" count="16">nursing</word>
+	<word weight="0.0375" count="15">central</word>
+	<word weight="0.0275" count="11">kn</word>
+	<word weight="0.025" count="10">nurse</word>
+	<word weight="0.025" count="10">midwifery</word>
+	<word weight="0.025" count="10">kingdom</word>
+	<word weight="0.025" count="10">united</word>
+	<word weight="0.0225" count="9">visiting</word>
+	<word weight="0.02" count="8">training</word>
+	<word weight="0.0175" count="7">register</word>
+	<word weight="0.0175" count="7">professional</word>
+	<word weight="0.015" count="6">mental</word>
+	<word weight="0.015" count="6">registration</word>
+	<word weight="0.015" count="6">uk</word>
+	<word weight="0.0125" count="5">parts</word>
+	<word weight="0.0125" count="5">nurses</word>
+	<word weight="0.0125" count="5">index</word>
+	<phrase weight="0.1038961038961039" count="8">health visiting</phrase>
+	<phrase weight="0.07792207792207792" count="6">united kingdom central council</phrase>
+	<phrase weight="0.05194805194805195" count="4">kingdom central council</phrase>
+	<phrase weight="0.03896103896103896" count="3">health visitors</phrase>
+	<phrase weight="0.03896103896103896" count="3">central council</phrase>
+	<phrase weight="0.025974025974025976" count="2">mental health</phrase>
+	<phrase weight="0.025974025974025976" count="2">annual reports</phrase>
+	<phrase weight="0.025974025974025976" count="2">health visitor</phrase>
+	<phrase weight="0.025974025974025976" count="2">single professional register</phrase>
+	<phrase weight="0.025974025974025976" count="2">uk central council</phrase>
+	<phrase weight="0.012987012987012988" count="1">general nurse</phrase>
+	<phrase weight="0.012987012987012988" count="1">learning disability</phrase>
+	<phrase weight="0.012987012987012988" count="1">education committee</phrase>
+	<phrase weight="0.012987012987012988" count="1">qualified students</phrase>
+	<phrase weight="0.012987012987012988" count="1">shadow nursing</phrase>
+	<phrase weight="0.012987012987012988" count="1">complicated structure</phrase>
+	<phrase weight="0.012987012987012988" count="1">ethics committee</phrase>
+	<phrase weight="0.012987012987012988" count="1">professional conduct committee</phrase>
+	<phrase weight="0.012987012987012988" count="1">relevant examinations</phrase>
+	<phrase weight="0.012987012987012988" count="1">finance committee</phrase>
+  </topic>
+</topics>

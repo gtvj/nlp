@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="9.829451718528796" totalTokens="325" titles="privy seal, warrants, signet, books, docquet, great, authority, clerks, keeper, exchequer">
+	<word weight="0.12923076923076923" count="42">seal</word>
+	<word weight="0.1076923076923077" count="35">privy</word>
+	<word weight="0.052307692307692305" count="17">warrants</word>
+	<word weight="0.027692307692307693" count="9">books</word>
+	<word weight="0.027692307692307693" count="9">signet</word>
+	<word weight="0.024615384615384615" count="8">docquet</word>
+	<word weight="0.021538461538461538" count="7">great</word>
+	<word weight="0.015384615384615385" count="5">keeper</word>
+	<word weight="0.015384615384615385" count="5">authority</word>
+	<word weight="0.015384615384615385" count="5">clerks</word>
+	<word weight="0.012307692307692308" count="4">grants</word>
+	<word weight="0.012307692307692308" count="4">exchequer</word>
+	<word weight="0.012307692307692308" count="4">issue</word>
+	<word weight="0.009230769230769232" count="3">indexes</word>
+	<word weight="0.009230769230769232" count="3">royal</word>
+	<word weight="0.009230769230769232" count="3">incomplete</word>
+	<word weight="0.009230769230769232" count="3">making</word>
+	<word weight="0.009230769230769232" count="3">forwarded</word>
+	<word weight="0.009230769230769232" count="3">aids</word>
+	<word weight="0.009230769230769232" count="3">finding</word>
+	<phrase weight="0.4426229508196721" count="27">privy seal</phrase>
+	<phrase weight="0.08196721311475409" count="5">great seal</phrase>
+	<phrase weight="0.04918032786885246" count="3">docquet books</phrase>
+	<phrase weight="0.03278688524590164" count="2">finding aids</phrase>
+	<phrase weight="0.01639344262295082" count="1">giving abstracts</phrase>
+	<phrase weight="0.01639344262295082" count="1">important warrants</phrase>
+	<phrase weight="0.01639344262295082" count="1">fees due</phrase>
+	<phrase weight="0.01639344262295082" count="1">fees remained payable</phrase>
+	<phrase weight="0.01639344262295082" count="1">generally retained</phrase>
+	<phrase weight="0.01639344262295082" count="1">lengthy gap</phrase>
+	<phrase weight="0.01639344262295082" count="1">relevant royal officials</phrase>
+	<phrase weight="0.01639344262295082" count="1">leave england</phrase>
+	<phrase weight="0.01639344262295082" count="1">charles ii</phrase>
+	<phrase weight="0.01639344262295082" count="1">deputed great seals</phrase>
+	<phrase weight="0.01639344262295082" count="1">fee books</phrase>
+	<phrase weight="0.01639344262295082" count="1">index covering</phrase>
+	<phrase weight="0.01639344262295082" count="1">privy seal warrant acted</phrase>
+	<phrase weight="0.01639344262295082" count="1">minor importance</phrase>
+	<phrase weight="0.01639344262295082" count="1">validating instruments issued</phrase>
+	<phrase weight="0.01639344262295082" count="1">privy seal warrant</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.244417318377165" totalTokens="3631" titles="successors, industry, division, trade, divisions, technology, predecessors, industrial, policy, research">
+	<word weight="0.05150096392178463" count="187">successors</word>
+	<word weight="0.0484714954557973" count="176">industry</word>
+	<word weight="0.0418617460754613" count="152">division</word>
+	<word weight="0.03167171578077665" count="115">trade</word>
+	<word weight="0.025612778848801983" count="93">divisions</word>
+	<word weight="0.02203249793445332" count="80">technology</word>
+	<word weight="0.02093087303773065" count="76">predecessors</word>
+	<word weight="0.020104654365188653" count="73">industrial</word>
+	<word weight="0.01707518589920132" count="62">policy</word>
+	<word weight="0.01101624896722666" count="40">research</word>
+	<word weight="0.009914624070503994" count="36">engineering</word>
+	<word weight="0.00936381162214266" count="34">board</word>
+	<word weight="0.007986780501239328" count="29">development</word>
+	<word weight="0.007711374277058662" count="28">services</word>
+	<word weight="0.006885155604516662" count="25">british</word>
+	<word weight="0.006885155604516662" count="25">statistics</word>
+	<word weight="0.006609749380335995" count="24">automation</word>
+	<word weight="0.006609749380335995" count="24">commercial</word>
+	<word weight="0.006609749380335995" count="24">committee</word>
+	<word weight="0.006334343156155329" count="23">relate</word>
+  </topic>
+</topics>

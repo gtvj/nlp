@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.4330086336882095" totalTokens="5020" titles="chester, court, rolls, sessions, exchequer, county, palatinate, great, courts, flint">
+	<word weight="0.046812749003984064" count="235">chester</word>
+	<word weight="0.03446215139442231" count="173">court</word>
+	<word weight="0.019123505976095617" count="96">rolls</word>
+	<word weight="0.015537848605577689" count="78">sessions</word>
+	<word weight="0.015537848605577689" count="78">exchequer</word>
+	<word weight="0.013346613545816732" count="67">county</word>
+	<word weight="0.013346613545816732" count="67">palatinate</word>
+	<word weight="0.012350597609561753" count="62">great</word>
+	<word weight="0.011553784860557768" count="58">courts</word>
+	<word weight="0.011354581673306772" count="57">flint</word>
+	<word weight="0.008366533864541833" count="42">orders</word>
+	<word weight="0.0069721115537848604" count="35">entries</word>
+	<word weight="0.006573705179282869" count="33">books</word>
+	<word weight="0.0061752988047808766" count="31">proceedings</word>
+	<word weight="0.005776892430278884" count="29">roll</word>
+	<word weight="0.005577689243027889" count="28">plea</word>
+	<word weight="0.005577689243027889" count="28">session</word>
+	<word weight="0.0049800796812749" count="25">recorded</word>
+	<word weight="0.0049800796812749" count="25">reign</word>
+	<word weight="0.0049800796812749" count="25">writs</word>
+  </topic>
+</topics>

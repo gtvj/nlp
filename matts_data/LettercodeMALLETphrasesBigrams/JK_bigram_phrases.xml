@@ -1,0 +1,12 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.922657866858573" totalTokens="6" titles="wales, schools, inspector, chief, majesty, jk, ">
+	<word weight="0.16666666666666666" count="1">wales</word>
+	<word weight="0.16666666666666666" count="1">schools</word>
+	<word weight="0.16666666666666666" count="1">inspector</word>
+	<word weight="0.16666666666666666" count="1">chief</word>
+	<word weight="0.16666666666666666" count="1">majesty</word>
+	<word weight="0.16666666666666666" count="1">jk</word>
+	<phrase weight="1.0" count="1">chief inspector</phrase>
+  </topic>
+</topics>

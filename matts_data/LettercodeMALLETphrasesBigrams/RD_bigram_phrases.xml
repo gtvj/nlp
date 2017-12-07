@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.403702039740743" totalTokens="520" titles="environment, uk, government, waste, flood, data, minutes, bathing, field, general">
+	<word weight="0.14807692307692308" count="77">environment</word>
+	<word weight="0.06346153846153846" count="33">uk</word>
+	<word weight="0.04807692307692308" count="25">government</word>
+	<word weight="0.026923076923076925" count="14">waste</word>
+	<word weight="0.021153846153846155" count="11">flood</word>
+	<word weight="0.021153846153846155" count="11">data</word>
+	<word weight="0.01730769230769231" count="9">minutes</word>
+	<word weight="0.013461538461538462" count="7">bathing</word>
+	<word weight="0.013461538461538462" count="7">gov</word>
+	<word weight="0.013461538461538462" count="7">field</word>
+	<word weight="0.013461538461538462" count="7">general</word>
+	<word weight="0.013461538461538462" count="7">national</word>
+	<word weight="0.011538461538461539" count="6">board</word>
+	<word weight="0.011538461538461539" count="6">warnings</word>
+	<word weight="0.011538461538461539" count="6">netregs</word>
+	<word weight="0.011538461538461539" count="6">http</word>
+	<word weight="0.011538461538461539" count="6">authority</word>
+	<word weight="0.011538461538461539" count="6">directory</word>
+	<word weight="0.009615384615384616" count="5">water</word>
+	<word weight="0.009615384615384616" count="5">rivers</word>
+	<phrase weight="0.15053763440860216" count="14">uk government</phrase>
+	<phrase weight="0.043010752688172046" count="4">online consultation portal</phrase>
+	<phrase weight="0.043010752688172046" count="4">data innovation area</phrase>
+	<phrase weight="0.03225806451612903" count="3">advisory committee minutes</phrase>
+	<phrase weight="0.03225806451612903" count="3">national rivers authority</phrase>
+	<phrase weight="0.03225806451612903" count="3">flood warnings</phrase>
+	<phrase weight="0.03225806451612903" count="3">brand bank</phrase>
+	<phrase weight="0.021505376344086023" count="2">bathing water directive database</phrase>
+	<phrase weight="0.021505376344086023" count="2">energy efficiency scheme</phrase>
+	<phrase weight="0.021505376344086023" count="2">chemical standards</phrase>
+	<phrase weight="0.021505376344086023" count="2">waste recycling</phrase>
+	<phrase weight="0.021505376344086023" count="2">environmental guidance</phrase>
+	<phrase weight="0.021505376344086023" count="2">northern ireland</phrase>
+	<phrase weight="0.021505376344086023" count="2">river thames conditions</phrase>
+	<phrase weight="0.021505376344086023" count="2">environmental change</phrase>
+	<phrase weight="0.021505376344086023" count="2">public registers</phrase>
+	<phrase weight="0.021505376344086023" count="2">board minutes</phrase>
+	<phrase weight="0.021505376344086023" count="2">floodline warnings direct</phrase>
+	<phrase weight="0.021505376344086023" count="2">coastal erosion risk management research</phrase>
+	<phrase weight="0.021505376344086023" count="2">drink management waste</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.947150988862581" totalTokens="545" titles="civil service commission, csc, examination, commissioners, annual, rules, tables, candidates, regulations, results">
+	<word weight="0.09357798165137615" count="51">service</word>
+	<word weight="0.09174311926605505" count="50">civil</word>
+	<word weight="0.06422018348623854" count="35">csc</word>
+	<word weight="0.05688073394495413" count="31">commission</word>
+	<word weight="0.01834862385321101" count="10">examination</word>
+	<word weight="0.01651376146788991" count="9">commissioners</word>
+	<word weight="0.014678899082568808" count="8">annual</word>
+	<word weight="0.012844036697247707" count="7">tables</word>
+	<word weight="0.012844036697247707" count="7">rules</word>
+	<word weight="0.011009174311926606" count="6">results</word>
+	<word weight="0.011009174311926606" count="6">candidates</word>
+	<word weight="0.011009174311926606" count="6">regulations</word>
+	<word weight="0.009174311926605505" count="5">reports</word>
+	<word weight="0.009174311926605505" count="5">report</word>
+	<word weight="0.009174311926605505" count="5">commissioner</word>
+	<word weight="0.009174311926605505" count="5">marks</word>
+	<word weight="0.009174311926605505" count="5">examinations</word>
+	<word weight="0.009174311926605505" count="5">application</word>
+	<word weight="0.009174311926605505" count="5">staff</word>
+	<word weight="0.009174311926605505" count="5">competitions</word>
+	<phrase weight="0.21428571428571427" count="21">civil service commission</phrase>
+	<phrase weight="0.05102040816326531" count="5">civil service commissioner</phrase>
+	<phrase weight="0.04081632653061224" count="4">service commission</phrase>
+	<phrase weight="0.04081632653061224" count="4">civil service</phrase>
+	<phrase weight="0.02040816326530612" count="2">service commissioners</phrase>
+	<phrase weight="0.02040816326530612" count="2">competitive appointments</phrase>
+	<phrase weight="0.02040816326530612" count="2">service posts</phrase>
+	<phrase weight="0.02040816326530612" count="2">world war</phrase>
+	<phrase weight="0.01020408163265306" count="1">results tables</phrase>
+	<phrase weight="0.01020408163265306" count="1">nature removed</phrase>
+	<phrase weight="0.01020408163265306" count="1">regulations governing</phrase>
+	<phrase weight="0.01020408163265306" count="1">ethical conditions</phrase>
+	<phrase weight="0.01020408163265306" count="1">minute books signed minutes</phrase>
+	<phrase weight="0.01020408163265306" count="1">limited competitions</phrase>
+	<phrase weight="0.01020408163265306" count="1">age withdrawn</phrase>
+	<phrase weight="0.01020408163265306" count="1">fulton committee</phrase>
+	<phrase weight="0.01020408163265306" count="1">civil service entrance examination</phrase>
+	<phrase weight="0.01020408163265306" count="1">limited competition</phrase>
+	<phrase weight="0.01020408163265306" count="1">tables list</phrase>
+	<phrase weight="0.01020408163265306" count="1">annual reports</phrase>
+  </topic>
+</topics>

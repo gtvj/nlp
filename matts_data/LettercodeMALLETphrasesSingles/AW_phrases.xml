@@ -1,0 +1,13 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="87.77351980142022" totalTokens="17" titles="airways, british, corporation, overseas, european, national, bea, boac, ">
+	<word weight="0.23529411764705882" count="4">airways</word>
+	<word weight="0.23529411764705882" count="4">british</word>
+	<word weight="0.11764705882352941" count="2">corporation</word>
+	<word weight="0.11764705882352941" count="2">overseas</word>
+	<word weight="0.11764705882352941" count="2">european</word>
+	<word weight="0.058823529411764705" count="1">national</word>
+	<word weight="0.058823529411764705" count="1">bea</word>
+	<word weight="0.058823529411764705" count="1">boac</word>
+  </topic>
+</topics>

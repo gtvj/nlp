@@ -1,0 +1,40 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="9.97239473708287" totalTokens="210" titles="commission, opportunities, equal, sh, legal, committee, minutes, site, wide, world">
+	<word weight="0.11904761904761904" count="25">commission</word>
+	<word weight="0.1" count="21">opportunities</word>
+	<word weight="0.1" count="21">equal</word>
+	<word weight="0.1" count="21">sh</word>
+	<word weight="0.06666666666666667" count="14">legal</word>
+	<word weight="0.04285714285714286" count="9">committee</word>
+	<word weight="0.03333333333333333" count="7">minutes</word>
+	<word weight="0.03333333333333333" count="7">site</word>
+	<word weight="0.03333333333333333" count="7">wide</word>
+	<word weight="0.03333333333333333" count="7">world</word>
+	<word weight="0.02857142857142857" count="6">advisers</word>
+	<word weight="0.01904761904761905" count="4">form</word>
+	<word weight="0.01904761904761905" count="4">electronic</word>
+	<word weight="0.014285714285714285" count="3">scotland</word>
+	<word weight="0.014285714285714285" count="3">committees</word>
+	<word weight="0.014285714285714285" count="3">cases</word>
+	<word weight="0.014285714285714285" count="3">major</word>
+	<word weight="0.014285714285714285" count="3">abolition</word>
+	<word weight="0.014285714285714285" count="3">prior</word>
+	<word weight="0.014285714285714285" count="3">shortly</word>
+	<phrase weight="0.2926829268292683" count="12">equal opportunities commission</phrase>
+	<phrase weight="0.0975609756097561" count="4">legal committee</phrase>
+	<phrase weight="0.0975609756097561" count="4">legal advisers</phrase>
+	<phrase weight="0.07317073170731707" count="3">opportunities commission</phrase>
+	<phrase weight="0.07317073170731707" count="3">world wide</phrase>
+	<phrase weight="0.07317073170731707" count="3">visual snapshot</phrase>
+	<phrase weight="0.04878048780487805" count="2">working parties</phrase>
+	<phrase weight="0.04878048780487805" count="2">electronic form</phrase>
+	<phrase weight="0.04878048780487805" count="2">major cases</phrase>
+	<phrase weight="0.024390243902439025" count="1">largely concerned</phrase>
+	<phrase weight="0.024390243902439025" count="1">site shortly prior</phrase>
+	<phrase weight="0.024390243902439025" count="1">sex discrimination act</phrase>
+	<phrase weight="0.024390243902439025" count="1">scotland shortly prior</phrase>
+	<phrase weight="0.024390243902439025" count="1">wales shortly prior</phrase>
+	<phrase weight="0.024390243902439025" count="1">monitoring committee</phrase>
+  </topic>
+</topics>

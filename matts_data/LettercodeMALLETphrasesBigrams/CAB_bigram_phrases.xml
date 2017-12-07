@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.083157266181266" totalTokens="8573" titles="uk government, war cabinet, imperial defence, defence committee, minutes, committees, memoranda, intelligence, service, joint">
+	<word weight="0.07220342937128194" count="619">cabinet</word>
+	<word weight="0.04572495042575528" count="392">committee</word>
+	<word weight="0.028928029861192115" count="248">government</word>
+	<word weight="0.02857809401609705" count="245">defence</word>
+	<word weight="0.02799486760760527" count="240">minutes</word>
+	<word weight="0.027178350635716785" count="233">uk</word>
+	<word weight="0.026478478945526653" count="227">war</word>
+	<word weight="0.0253120261285431" count="217">committees</word>
+	<word weight="0.014813950775691124" count="127">imperial</word>
+	<word weight="0.014464014930596058" count="124">memoranda</word>
+	<word weight="0.011081301761343754" count="95">intelligence</word>
+	<word weight="0.010848011197947044" count="93">service</word>
+	<word weight="0.008515105563979938" count="73">joint</word>
+	<word weight="0.008398460282281582" count="72">civil</word>
+	<word weight="0.005948909366616121" count="51">correspondence</word>
+	<word weight="0.005365682958124344" count="46">gov</word>
+	<word weight="0.005365682958124344" count="46">central</word>
+	<word weight="0.004899101831330923" count="42">colonial</word>
+	<word weight="0.004899101831330923" count="42">section</word>
+	<word weight="0.004782456549632568" count="41">commission</word>
+	<phrase weight="0.059738643434972" count="96">uk government</phrase>
+	<phrase weight="0.05724953329184816" count="92">war cabinet</phrase>
+	<phrase weight="0.04044803982576229" count="65">imperial defence</phrase>
+	<phrase weight="0.019290603609209707" count="31">defence committee</phrase>
+	<phrase weight="0.010578718108276292" count="17">intelligence committee</phrase>
+	<phrase weight="0.008711885500933417" count="14">cabinet committees</phrase>
+	<phrase weight="0.008711885500933417" count="14">world war</phrase>
+	<phrase weight="0.0074673304293715" count="12">civil service</phrase>
+	<phrase weight="0.006845052893590542" count="11">central intelligence machinery</phrase>
+	<phrase weight="0.006845052893590542" count="11">colonial defence committee</phrase>
+	<phrase weight="0.006222775357809583" count="10">staff committee</phrase>
+	<phrase weight="0.006222775357809583" count="10">joint intelligence committee</phrase>
+	<phrase weight="0.006222775357809583" count="10">digital microfilm project</phrase>
+	<phrase weight="0.004978220286247666" count="8">temporary commissions</phrase>
+	<phrase weight="0.004978220286247666" count="8">lord president</phrase>
+	<phrase weight="0.004978220286247666" count="8">current intelligence</phrase>
+	<phrase weight="0.0043559427504667085" count="7">crown commercial service</phrase>
+	<phrase weight="0.0043559427504667085" count="7">international conferences</phrase>
+	<phrase weight="0.00373366521468575" count="6">download free</phrase>
+	<phrase weight="0.00373366521468575" count="6">war council</phrase>
+  </topic>
+</topics>

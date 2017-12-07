@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.827445941177507" totalTokens="950" titles="mint, royal, coins, medals, coinage, administrative, dies, accounts, master, general">
+	<word weight="0.13052631578947368" count="124">mint</word>
+	<word weight="0.07894736842105263" count="75">royal</word>
+	<word weight="0.03684210526315789" count="35">coins</word>
+	<word weight="0.030526315789473683" count="29">medals</word>
+	<word weight="0.024210526315789474" count="23">coinage</word>
+	<word weight="0.021052631578947368" count="20">administrative</word>
+	<word weight="0.016842105263157894" count="16">dies</word>
+	<word weight="0.016842105263157894" count="16">accounts</word>
+	<word weight="0.01368421052631579" count="13">master</word>
+	<word weight="0.01263157894736842" count="12">general</word>
+	<word weight="0.009473684210526316" count="9">imperial</word>
+	<word weight="0.009473684210526316" count="9">books</word>
+	<word weight="0.008421052631578947" count="8">digitised</word>
+	<word weight="0.008421052631578947" count="8">quinquennial</word>
+	<word weight="0.008421052631578947" count="8">silver</word>
+	<word weight="0.008421052631578947" count="8">correspondence</word>
+	<word weight="0.008421052631578947" count="8">mint's</word>
+	<word weight="0.007368421052631579" count="7">coin</word>
+	<word weight="0.007368421052631579" count="7">reports</word>
+	<word weight="0.007368421052631579" count="7">mints</word>
+  </topic>
+</topics>

@@ -1,0 +1,15 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.2285632832610476" totalTokens="14" titles="work, social, training, education, council, central, ph, ne, ">
+	<word weight="0.14285714285714285" count="2">work</word>
+	<word weight="0.14285714285714285" count="2">social</word>
+	<word weight="0.14285714285714285" count="2">training</word>
+	<word weight="0.14285714285714285" count="2">education</word>
+	<word weight="0.14285714285714285" count="2">council</word>
+	<word weight="0.14285714285714285" count="2">central</word>
+	<word weight="0.07142857142857142" count="1">ph</word>
+	<word weight="0.07142857142857142" count="1">ne</word>
+	<phrase weight="0.6666666666666666" count="2">social work</phrase>
+	<phrase weight="0.3333333333333333" count="1">central council</phrase>
+  </topic>
+</topics>

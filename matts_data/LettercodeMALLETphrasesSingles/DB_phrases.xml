@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="20.05011283565316" totalTokens="127" titles="council, national, awards, academic, minutes, reports, boards, committee, panels, council's">
+	<word weight="0.12598425196850394" count="16">council</word>
+	<word weight="0.11811023622047244" count="15">national</word>
+	<word weight="0.11023622047244094" count="14">awards</word>
+	<word weight="0.07086614173228346" count="9">academic</word>
+	<word weight="0.05511811023622047" count="7">minutes</word>
+	<word weight="0.05511811023622047" count="7">reports</word>
+	<word weight="0.031496062992125984" count="4">boards</word>
+	<word weight="0.031496062992125984" count="4">committee</word>
+	<word weight="0.023622047244094488" count="3">panels</word>
+	<word weight="0.023622047244094488" count="3">council's</word>
+	<word weight="0.023622047244094488" count="3">charter</word>
+	<word weight="0.023622047244094488" count="3">royal</word>
+	<word weight="0.023622047244094488" count="3">design</word>
+	<word weight="0.023622047244094488" count="3">art</word>
+	<word weight="0.023622047244094488" count="3">diplomas</word>
+	<word weight="0.023622047244094488" count="3">technological</word>
+	<word weight="0.023622047244094488" count="3">meetings</word>
+	<word weight="0.023622047244094488" count="3">annual</word>
+	<word weight="0.015748031496062992" count="2">studies</word>
+	<word weight="0.015748031496062992" count="2">committees</word>
+  </topic>
+</topics>

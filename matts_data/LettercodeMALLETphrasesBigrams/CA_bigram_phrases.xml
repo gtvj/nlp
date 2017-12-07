@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.472544596320605" totalTokens="557" titles="countryside, project, local, communities, rural, land, projects, scheme, commission, lhi">
+	<word weight="0.03411131059245961" count="19">countryside</word>
+	<word weight="0.03052064631956912" count="17">project</word>
+	<word weight="0.025134649910233394" count="14">local</word>
+	<word weight="0.025134649910233394" count="14">ca</word>
+	<word weight="0.02333931777378815" count="13">communities</word>
+	<word weight="0.02154398563734291" count="12">rural</word>
+	<word weight="0.017953321364452424" count="10">land</word>
+	<word weight="0.017953321364452424" count="10">projects</word>
+	<word weight="0.01615798922800718" count="9">scheme</word>
+	<word weight="0.01615798922800718" count="9">commission</word>
+	<word weight="0.01615798922800718" count="9">lhi</word>
+	<word weight="0.01436265709156194" count="8">heritage</word>
+	<word weight="0.01436265709156194" count="8">uk</word>
+	<word weight="0.012567324955116697" count="7">common</word>
+	<word weight="0.012567324955116697" count="7">maps</word>
+	<word weight="0.012567324955116697" count="7">grant</word>
+	<word weight="0.010771992818671455" count="6">initiative</word>
+	<word weight="0.010771992818671455" count="6">government</word>
+	<word weight="0.010771992818671455" count="6">health</word>
+	<word weight="0.008976660682226212" count="5">community</word>
+	<phrase weight="0.08247422680412371" count="8">rural communities</phrase>
+	<phrase weight="0.05154639175257732" count="5">common land</phrase>
+	<phrase weight="0.041237113402061855" count="4">uk government</phrase>
+	<phrase weight="0.020618556701030927" count="2">heritage initiative</phrase>
+	<phrase weight="0.020618556701030927" count="2">project directory</phrase>
+	<phrase weight="0.020618556701030927" count="2">oral histories</phrase>
+	<phrase weight="0.010309278350515464" count="1">local transport</phrase>
+	<phrase weight="0.010309278350515464" count="1">searchable online database holding</phrase>
+	<phrase weight="0.010309278350515464" count="1">implement local solutions</phrase>
+	<phrase weight="0.010309278350515464" count="1">project board</phrase>
+	<phrase weight="0.010309278350515464" count="1">major schemes</phrase>
+	<phrase weight="0.010309278350515464" count="1">local service provisions</phrase>
+	<phrase weight="0.010309278350515464" count="1">term social</phrase>
+	<phrase weight="0.010309278350515464" count="1">online database</phrase>
+	<phrase weight="0.010309278350515464" count="1">land managers</phrase>
+	<phrase weight="0.010309278350515464" count="1">lhi programme</phrase>
+	<phrase weight="0.010309278350515464" count="1">conclusive maps</phrase>
+	<phrase weight="0.010309278350515464" count="1">local heritage initiative</phrase>
+	<phrase weight="0.010309278350515464" count="1">promote social inclusion</phrase>
+	<phrase weight="0.010309278350515464" count="1">funded projects</phrase>
+  </topic>
+</topics>

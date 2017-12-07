@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.32078216287416" totalTokens="3827" titles="crown, estate, predecessors, books, land, woods, forests, revenues, letters, commissioners">
+	<word weight="0.05043114711262085" count="193">crown</word>
+	<word weight="0.035536974131173245" count="136">estate</word>
+	<word weight="0.025607525476874837" count="98">predecessors</word>
+	<word weight="0.02377841651424092" count="91">books</word>
+	<word weight="0.021165403710478183" count="81">land</word>
+	<word weight="0.01985889730859681" count="76">woods</word>
+	<word weight="0.01959759602822054" count="75">forests</word>
+	<word weight="0.01620067938332898" count="62">revenues</word>
+	<word weight="0.01489417298144761" count="57">letters</word>
+	<word weight="0.013848967859942513" count="53">commissioners</word>
+	<word weight="0.013326365299189966" count="51">treasury</word>
+	<word weight="0.012803762738437419" count="49">lands</word>
+	<word weight="0.012019858897308597" count="46">administrative</word>
+	<word weight="0.010974653775803502" count="42">estates</word>
+	<word weight="0.010452051215050953" count="40">reports</word>
+	<word weight="0.009929448654298406" count="38">report</word>
+	<word weight="0.009406846093545859" count="36">entry</word>
+	<word weight="0.008884243532793311" count="34">general</word>
+	<word weight="0.00679383328978312" count="26">windsor</word>
+	<word weight="0.006009929448654298" count="23">selection</word>
+  </topic>
+</topics>

@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="26.780035955897233" totalTokens="159" titles="inquiry, lawrence, stephen, nt, chairman, death, arising, witnesses, transcripts, submissions">
+	<word weight="0.14465408805031446" count="23">inquiry</word>
+	<word weight="0.050314465408805034" count="8">lawrence</word>
+	<word weight="0.050314465408805034" count="8">stephen</word>
+	<word weight="0.0440251572327044" count="7">nt</word>
+	<word weight="0.031446540880503145" count="5">chairman</word>
+	<word weight="0.031446540880503145" count="5">death</word>
+	<word weight="0.031446540880503145" count="5">arising</word>
+	<word weight="0.018867924528301886" count="3">witnesses</word>
+	<word weight="0.018867924528301886" count="3">transcripts</word>
+	<word weight="0.018867924528301886" count="3">submissions</word>
+	<word weight="0.012578616352201259" count="2">required</word>
+	<word weight="0.012578616352201259" count="2">agreed</word>
+	<word weight="0.012578616352201259" count="2">march</word>
+	<word weight="0.012578616352201259" count="2">public</word>
+	<word weight="0.012578616352201259" count="2">individuals</word>
+	<word weight="0.012578616352201259" count="2">number</word>
+	<word weight="0.012578616352201259" count="2">terms</word>
+	<word weight="0.012578616352201259" count="2">administrative</word>
+	<word weight="0.006289308176100629" count="1">rulings</word>
+	<word weight="0.006289308176100629" count="1">hear</word>
+	<phrase weight="0.2" count="5">stephen lawrence</phrase>
+	<phrase weight="0.08" count="2">lawrence inquiry</phrase>
+	<phrase weight="0.04" count="1">relevant cross examination</phrase>
+	<phrase weight="0.04" count="1">answer questions</phrase>
+	<phrase weight="0.04" count="1">make recommendations</phrase>
+	<phrase weight="0.04" count="1">invited back</phrase>
+	<phrase weight="0.04" count="1">adjournments agreed</phrase>
+	<phrase weight="0.04" count="1">inquiry sought</phrase>
+	<phrase weight="0.04" count="1">public hearing</phrase>
+	<phrase weight="0.04" count="1">avoid prejudice</phrase>
+	<phrase weight="0.04" count="1">stephen lawrence inquiry</phrase>
+	<phrase weight="0.04" count="1">inquiry reopened</phrase>
+	<phrase weight="0.04" count="1">inquiry transcripts</phrase>
+	<phrase weight="0.04" count="1">chairman agreed</phrase>
+	<phrase weight="0.04" count="1">press releases</phrase>
+	<phrase weight="0.04" count="1">inquiry examined</phrase>
+	<phrase weight="0.04" count="1">racially motivated crimes</phrase>
+	<phrase weight="0.04" count="1">local government act</phrase>
+	<phrase weight="0.04" count="1">nt inquiry</phrase>
+	<phrase weight="0.04" count="1">inquiry submissions</phrase>
+  </topic>
+</topics>

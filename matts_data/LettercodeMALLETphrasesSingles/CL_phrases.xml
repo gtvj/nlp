@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="14.634234269563837" totalTokens="197" titles="trade, employers, associations, unions, certification, annual, act, relations, engagements, labour">
+	<word weight="0.09644670050761421" count="19">trade</word>
+	<word weight="0.07106598984771574" count="14">employers</word>
+	<word weight="0.06598984771573604" count="13">associations</word>
+	<word weight="0.06598984771573604" count="13">unions</word>
+	<word weight="0.06598984771573604" count="13">certification</word>
+	<word weight="0.03553299492385787" count="7">union</word>
+	<word weight="0.03553299492385787" count="7">annual</word>
+	<word weight="0.025380710659898477" count="5">act</word>
+	<word weight="0.025380710659898477" count="5">relations</word>
+	<word weight="0.025380710659898477" count="5">engagements</word>
+	<word weight="0.02030456852791878" count="4">labour</word>
+	<word weight="0.02030456852791878" count="4">returns</word>
+	<word weight="0.02030456852791878" count="4">reports</word>
+	<word weight="0.015228426395939087" count="3">members</word>
+	<word weight="0.015228426395939087" count="3">applications</word>
+	<word weight="0.015228426395939087" count="3">books</word>
+	<word weight="0.015228426395939087" count="3">rule</word>
+	<word weight="0.015228426395939087" count="3">amalgamations</word>
+	<word weight="0.015228426395939087" count="3">transfers</word>
+	<word weight="0.015228426395939087" count="3">publications</word>
+  </topic>
+</topics>

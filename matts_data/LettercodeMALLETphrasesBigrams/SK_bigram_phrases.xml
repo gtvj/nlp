@@ -1,0 +1,30 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1161.8262114088895" totalTokens="70" titles="council, services, postal, consumer, postwatch, sk, meetings, minutes, snapshot, wide">
+	<word weight="0.15714285714285714" count="11">council</word>
+	<word weight="0.11428571428571428" count="8">services</word>
+	<word weight="0.11428571428571428" count="8">postal</word>
+	<word weight="0.11428571428571428" count="8">consumer</word>
+	<word weight="0.1" count="7">postwatch</word>
+	<word weight="0.08571428571428572" count="6">sk</word>
+	<word weight="0.05714285714285714" count="4">meetings</word>
+	<word weight="0.04285714285714286" count="3">minutes</word>
+	<word weight="0.02857142857142857" count="2">snapshot</word>
+	<word weight="0.02857142857142857" count="2">wide</word>
+	<word weight="0.02857142857142857" count="2">world</word>
+	<word weight="0.014285714285714285" count="1">june</word>
+	<word weight="0.014285714285714285" count="1">captured</word>
+	<word weight="0.014285714285714285" count="1">division</word>
+	<word weight="0.014285714285714285" count="1">committee</word>
+	<word weight="0.014285714285714285" count="1">london</word>
+	<word weight="0.014285714285714285" count="1">greater</word>
+	<word weight="0.014285714285714285" count="1">resulting</word>
+	<word weight="0.014285714285714285" count="1">government</word>
+	<word weight="0.014285714285714285" count="1">uk</word>
+	<phrase weight="0.5714285714285714" count="8">consumer council</phrase>
+	<phrase weight="0.14285714285714285" count="2">council meetings</phrase>
+	<phrase weight="0.14285714285714285" count="2">world wide</phrase>
+	<phrase weight="0.07142857142857142" count="1">postwatch council meetings</phrase>
+	<phrase weight="0.07142857142857142" count="1">uk government</phrase>
+  </topic>
+</topics>

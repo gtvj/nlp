@@ -1,0 +1,35 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="52.09125421769967" totalTokens="95" titles="house, debates, commons, library, reports, parliamentary, official, index, sessional, publications">
+	<word weight="0.10526315789473684" count="10">house</word>
+	<word weight="0.07368421052631578" count="7">debates</word>
+	<word weight="0.07368421052631578" count="7">commons</word>
+	<word weight="0.06315789473684211" count="6">library</word>
+	<word weight="0.05263157894736842" count="5">reports</word>
+	<word weight="0.05263157894736842" count="5">parliamentary</word>
+	<word weight="0.05263157894736842" count="5">official</word>
+	<word weight="0.042105263157894736" count="4">index</word>
+	<word weight="0.031578947368421054" count="3">sessional</word>
+	<word weight="0.031578947368421054" count="3">publications</word>
+	<word weight="0.031578947368421054" count="3">onwards</word>
+	<word weight="0.031578947368421054" count="3">lords</word>
+	<word weight="0.021052631578947368" count="2">report</word>
+	<word weight="0.021052631578947368" count="2">public</word>
+	<word weight="0.021052631578947368" count="2">previously</word>
+	<word weight="0.021052631578947368" count="2">hansard</word>
+	<word weight="0.010526315789473684" count="1">referenced</word>
+	<word weight="0.010526315789473684" count="1">microfiche</word>
+	<word weight="0.010526315789473684" count="1">rom</word>
+	<word weight="0.010526315789473684" count="1">cd</word>
+	<phrase weight="0.25" count="3">parliamentary debates</phrase>
+	<phrase weight="0.08333333333333333" count="1">public bills</phrase>
+	<phrase weight="0.08333333333333333" count="1">lords publications</phrase>
+	<phrase weight="0.08333333333333333" count="1">commons sessional</phrase>
+	<phrase weight="0.08333333333333333" count="1">microfilm reading room</phrase>
+	<phrase weight="0.08333333333333333" count="1">internal index</phrase>
+	<phrase weight="0.08333333333333333" count="1">uk government</phrase>
+	<phrase weight="0.08333333333333333" count="1">commons debates</phrase>
+	<phrase weight="0.08333333333333333" count="1">legislative business</phrase>
+	<phrase weight="0.08333333333333333" count="1">official report</phrase>
+  </topic>
+</topics>

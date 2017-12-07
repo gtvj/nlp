@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.035191829813955" totalTokens="22176" titles="food, fisheries, agriculture, agricultural, land, government, division, policy, committee, divisions">
+	<word weight="0.05627705627705628" count="1248">food</word>
+	<word weight="0.05176767676767677" count="1148">fisheries</word>
+	<word weight="0.051271645021645024" count="1137">agriculture</word>
+	<word weight="0.016774891774891776" count="372">agricultural</word>
+	<word weight="0.015196608946608946" count="337">land</word>
+	<word weight="0.0119498556998557" count="265">government</word>
+	<word weight="0.009695165945165946" count="215">division</word>
+	<word weight="0.007620851370851371" count="169">policy</word>
+	<word weight="0.007395382395382395" count="164">committee</word>
+	<word weight="0.006718975468975469" count="149">divisions</word>
+	<word weight="0.006403318903318903" count="142">national</word>
+	<word weight="0.005817099567099567" count="129">advisory</word>
+	<word weight="0.005817099567099567" count="129">improvement</word>
+	<word weight="0.005726911976911977" count="127">animal</word>
+	<word weight="0.005411255411255411" count="120">control</word>
+	<word weight="0.005185786435786436" count="115">general</word>
+	<word weight="0.005050505050505051" count="112">act</word>
+	<word weight="0.00496031746031746" count="110">livestock</word>
+	<word weight="0.004644660894660895" count="103">services</word>
+	<word weight="0.0045995670995671" count="102">divisional</word>
+  </topic>
+</topics>

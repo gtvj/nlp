@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="85.40852550007413" totalTokens="82" titles="curriculum, wales, council, reports, welsh, minutes, annual, panel, subject, steering">
+	<word weight="0.14634146341463414" count="12">curriculum</word>
+	<word weight="0.12195121951219512" count="10">wales</word>
+	<word weight="0.0975609756097561" count="8">council</word>
+	<word weight="0.04878048780487805" count="4">reports</word>
+	<word weight="0.04878048780487805" count="4">welsh</word>
+	<word weight="0.04878048780487805" count="4">minutes</word>
+	<word weight="0.036585365853658534" count="3">annual</word>
+	<word weight="0.036585365853658534" count="3">panel</word>
+	<word weight="0.036585365853658534" count="3">subject</word>
+	<word weight="0.024390243902439025" count="2">steering</word>
+	<word weight="0.024390243902439025" count="2">council's</word>
+	<word weight="0.012195121951219513" count="1">national</word>
+	<word weight="0.012195121951219513" count="1">administration</word>
+	<word weight="0.012195121951219513" count="1">authority</word>
+	<word weight="0.012195121951219513" count="1">assessment</word>
+	<word weight="0.012195121951219513" count="1">march</word>
+	<word weight="0.012195121951219513" count="1">april</word>
+	<word weight="0.012195121951219513" count="1">subsequent</word>
+	<word weight="0.012195121951219513" count="1">existence</word>
+	<word weight="0.012195121951219513" count="1">months</word>
+  </topic>
+</topics>

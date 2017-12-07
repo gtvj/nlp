@@ -1,0 +1,31 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0539803866564956" totalTokens="55" titles="insurance, reports, audit, national, societies, annual, approved, auditor, committees, accounts">
+	<word weight="0.14545454545454545" count="8">insurance</word>
+	<word weight="0.12727272727272726" count="7">reports</word>
+	<word weight="0.12727272727272726" count="7">audit</word>
+	<word weight="0.10909090909090909" count="6">national</word>
+	<word weight="0.07272727272727272" count="4">societies</word>
+	<word weight="0.05454545454545454" count="3">annual</word>
+	<word weight="0.05454545454545454" count="3">approved</word>
+	<word weight="0.05454545454545454" count="3">auditor</word>
+	<word weight="0.03636363636363636" count="2">committees</word>
+	<word weight="0.03636363636363636" count="2">accounts</word>
+	<word weight="0.01818181818181818" count="1">appendices</word>
+	<word weight="0.01818181818181818" count="1">volume</word>
+	<word weight="0.01818181818181818" count="1">auditors</word>
+	<word weight="0.01818181818181818" count="1">friendly</word>
+	<word weight="0.01818181818181818" count="1">pro</word>
+	<word weight="0.01818181818181818" count="1">selection</word>
+	<word weight="0.01818181818181818" count="1">branches</word>
+	<word weight="0.01818181818181818" count="1">certified</word>
+	<word weight="0.01818181818181818" count="1">destroyed</word>
+	<word weight="0.01818181818181818" count="1">specimens</word>
+	<phrase weight="0.3333333333333333" count="3">national insurance audit</phrase>
+	<phrase weight="0.2222222222222222" count="2">approved societies</phrase>
+	<phrase weight="0.1111111111111111" count="1">annual reports annual reports</phrase>
+	<phrase weight="0.1111111111111111" count="1">insurance committees</phrase>
+	<phrase weight="0.1111111111111111" count="1">insurance audit</phrase>
+	<phrase weight="0.1111111111111111" count="1">certified accounts</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.501333550208651" totalTokens="2097" titles="nature, conservancy, council, english, headquarters, woodland, regional, conservation, site, reports">
+	<word weight="0.14258464473056748" count="299">nature</word>
+	<word weight="0.09632808774439676" count="202">conservancy</word>
+	<word weight="0.04911778731521221" count="103">council</word>
+	<word weight="0.03528850739151168" count="74">english</word>
+	<word weight="0.022889842632331903" count="48">headquarters</word>
+	<word weight="0.014783023366714354" count="31">woodland</word>
+	<word weight="0.01430615164520744" count="30">regional</word>
+	<word weight="0.01335240820219361" count="28">conservation</word>
+	<word weight="0.012875536480686695" count="27">site</word>
+	<word weight="0.01239866475917978" count="26">reports</word>
+	<word weight="0.010491177873152123" count="22">ancient</word>
+	<word weight="0.009537434430138292" count="20">sites</word>
+	<word weight="0.009060562708631379" count="19">england</word>
+	<word weight="0.007629947544110634" count="16">committee</word>
+	<word weight="0.007629947544110634" count="16">reserves</word>
+	<word weight="0.007629947544110634" count="16">minutes</word>
+	<word weight="0.00715307582260372" count="15">area</word>
+	<word weight="0.00715307582260372" count="15">scientific</word>
+	<word weight="0.006676204101096805" count="14">data</word>
+	<word weight="0.006676204101096805" count="14">maps</word>
+  </topic>
+</topics>

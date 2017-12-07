@@ -1,0 +1,18 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="2.60589558798025" totalTokens="28" titles="training, nurse, district, assessors, panel, dx, bn, minutes, health, minister">
+	<word weight="0.14285714285714285" count="4">training</word>
+	<word weight="0.14285714285714285" count="4">nurse</word>
+	<word weight="0.14285714285714285" count="4">district</word>
+	<word weight="0.10714285714285714" count="3">assessors</word>
+	<word weight="0.10714285714285714" count="3">panel</word>
+	<word weight="0.10714285714285714" count="3">dx</word>
+	<word weight="0.07142857142857142" count="2">bn</word>
+	<word weight="0.03571428571428571" count="1">minutes</word>
+	<word weight="0.03571428571428571" count="1">health</word>
+	<word weight="0.03571428571428571" count="1">minister</word>
+	<word weight="0.03571428571428571" count="1">advising</word>
+	<word weight="0.03571428571428571" count="1">responsibility</word>
+	<phrase weight="1.0" count="4">district nurse training</phrase>
+  </topic>
+</topics>

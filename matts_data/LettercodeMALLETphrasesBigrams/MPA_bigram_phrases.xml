@@ -1,0 +1,35 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.3572320492366592" totalTokens="68" titles="drawings, maps, plans, place, chancery, common, public, location, inverted, identify">
+	<word weight="0.08823529411764706" count="6">drawings</word>
+	<word weight="0.08823529411764706" count="6">maps</word>
+	<word weight="0.058823529411764705" count="4">plans</word>
+	<word weight="0.04411764705882353" count="3">place</word>
+	<word weight="0.04411764705882353" count="3">chancery</word>
+	<word weight="0.029411764705882353" count="2">common</word>
+	<word weight="0.029411764705882353" count="2">public</word>
+	<word weight="0.014705882352941176" count="1">location</word>
+	<word weight="0.014705882352941176" count="1">inverted</word>
+	<word weight="0.014705882352941176" count="1">drawing</word>
+	<word weight="0.014705882352941176" count="1">map</word>
+	<word weight="0.014705882352941176" count="1">identify</word>
+	<word weight="0.014705882352941176" count="1">current</word>
+	<word weight="0.014705882352941176" count="1">area</word>
+	<word weight="0.014705882352941176" count="1">geographical</word>
+	<word weight="0.014705882352941176" count="1">political</word>
+	<word weight="0.014705882352941176" count="1">change</word>
+	<word weight="0.014705882352941176" count="1">significant</word>
+	<word weight="0.014705882352941176" count="1">standardised</word>
+	<word weight="0.014705882352941176" count="1">modernised</word>
+	<phrase weight="0.1" count="1">places depicted</phrase>
+	<phrase weight="0.1" count="1">common subject matter</phrase>
+	<phrase weight="0.1" count="1">architectural drawings</phrase>
+	<phrase weight="0.1" count="1">preservation measure</phrase>
+	<phrase weight="0.1" count="1">accompanying specifications</phrase>
+	<phrase weight="0.1" count="1">twentieth century</phrase>
+	<phrase weight="0.1" count="1">significant change</phrase>
+	<phrase weight="0.1" count="1">artificial accumulations</phrase>
+	<phrase weight="0.1" count="1">geographical area</phrase>
+	<phrase weight="0.1" count="1">common law</phrase>
+  </topic>
+</topics>

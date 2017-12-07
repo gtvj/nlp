@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.577923360233953" totalTokens="1432" titles="research, reports, laboratory, institute, products, station, scientific, successors, industrial, tropical">
+	<word weight="0.12290502793296089" count="176">research</word>
+	<word weight="0.04259776536312849" count="61">reports</word>
+	<word weight="0.03840782122905028" count="55">laboratory</word>
+	<word weight="0.029329608938547486" count="42">institute</word>
+	<word weight="0.029329608938547486" count="42">products</word>
+	<word weight="0.024441340782122904" count="35">station</word>
+	<word weight="0.023743016759776536" count="34">scientific</word>
+	<word weight="0.0223463687150838" count="32">successors</word>
+	<word weight="0.02164804469273743" count="31">industrial</word>
+	<word weight="0.02164804469273743" count="31">tropical</word>
+	<word weight="0.017458100558659217" count="25">road</word>
+	<word weight="0.017458100558659217" count="25">transport</word>
+	<word weight="0.013268156424581005" count="19">councils</word>
+	<word weight="0.011871508379888268" count="17">national</word>
+	<word weight="0.01047486033519553" count="15">torry</word>
+	<word weight="0.009776536312849162" count="14">committee</word>
+	<word weight="0.009078212290502794" count="13">colonial</word>
+	<word weight="0.009078212290502794" count="13">development</word>
+	<word weight="0.008379888268156424" count="12">centre</word>
+	<word weight="0.007681564245810056" count="11">board</word>
+  </topic>
+</topics>

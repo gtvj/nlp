@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.1488999246952805" totalTokens="513" titles="becta, technology, educational, communications, british, government, national, council, learning, ict">
+	<word weight="0.1539961013645224" count="79">becta</word>
+	<word weight="0.10721247563352826" count="55">technology</word>
+	<word weight="0.09941520467836257" count="51">educational</word>
+	<word weight="0.07407407407407407" count="38">communications</word>
+	<word weight="0.07407407407407407" count="38">british</word>
+	<word weight="0.07017543859649122" count="36">government</word>
+	<word weight="0.02729044834307992" count="14">national</word>
+	<word weight="0.023391812865497075" count="12">council</word>
+	<word weight="0.01949317738791423" count="10">learning</word>
+	<word weight="0.011695906432748537" count="6">ict</word>
+	<word weight="0.007797270955165692" count="4">resource</word>
+	<word weight="0.007797270955165692" count="4">reports</word>
+	<word weight="0.007797270955165692" count="4">minutes</word>
+	<word weight="0.007797270955165692" count="4">home</word>
+	<word weight="0.007797270955165692" count="4">grid</word>
+	<word weight="0.007797270955165692" count="4">evaluation</word>
+	<word weight="0.005847953216374269" count="3">plans</word>
+	<word weight="0.005847953216374269" count="3">term</word>
+	<word weight="0.005847953216374269" count="3">medium</word>
+	<word weight="0.003898635477582846" count="2">predecessors</word>
+  </topic>
+</topics>

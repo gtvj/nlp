@@ -1,0 +1,12 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.6730662228591031" totalTokens="34" titles="committee, consultative, central, users, rail, transport, predecessors, ">
+	<word weight="0.20588235294117646" count="7">committee</word>
+	<word weight="0.20588235294117646" count="7">consultative</word>
+	<word weight="0.20588235294117646" count="7">central</word>
+	<word weight="0.11764705882352941" count="4">users</word>
+	<word weight="0.11764705882352941" count="4">rail</word>
+	<word weight="0.08823529411764706" count="3">transport</word>
+	<word weight="0.058823529411764705" count="2">predecessors</word>
+  </topic>
+</topics>

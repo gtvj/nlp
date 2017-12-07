@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.315616035702302" totalTokens="4171" titles="survey, ordnance, maps, boundaries, boundary, field, mapping, branch, public, levelling">
+	<word weight="0.06089666746583553" count="254">survey</word>
+	<word weight="0.04795013186286262" count="200">ordnance</word>
+	<word weight="0.02996883241428914" count="125">maps</word>
+	<word weight="0.024214816590745626" count="101">boundaries</word>
+	<word weight="0.017981299448573483" count="75">boundary</word>
+	<word weight="0.013186286262287222" count="55">field</word>
+	<word weight="0.012467034284344283" count="52">mapping</word>
+	<word weight="0.01150803164708703" count="48">branch</word>
+	<word weight="0.010788779669144091" count="45">public</word>
+	<word weight="0.01006952769120115" count="42">map</word>
+	<word weight="0.009829777031886838" count="41">levelling</word>
+	<word weight="0.009350275713258211" count="39">directorate</word>
+	<word weight="0.008870774394629586" count="37">local</word>
+	<word weight="0.008631023735315272" count="36">books</word>
+	<word weight="0.008391273076000958" count="35">rights</word>
+	<word weight="0.007911771757372333" count="33">definitive</word>
+	<word weight="0.007911771757372333" count="33">county</word>
+	<word weight="0.007432270438743707" count="31">orders</word>
+	<word weight="0.007432270438743707" count="31">scale</word>
+	<word weight="0.006713018460800768" count="28">government</word>
+  </topic>
+</topics>

@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="16.38112466190497" totalTokens="181" titles="prices, consumer, policy, food, division, successors, jf, protection, act, safety">
+	<word weight="0.09392265193370165" count="17">prices</word>
+	<word weight="0.06629834254143646" count="12">consumer</word>
+	<word weight="0.049723756906077346" count="9">price</word>
+	<word weight="0.049723756906077346" count="9">policy</word>
+	<word weight="0.049723756906077346" count="9">food</word>
+	<word weight="0.049723756906077346" count="9">division</word>
+	<word weight="0.049723756906077346" count="9">successors</word>
+	<word weight="0.049723756906077346" count="9">jf</word>
+	<word weight="0.04419889502762431" count="8">protection</word>
+	<word weight="0.022099447513812154" count="4">act</word>
+	<word weight="0.022099447513812154" count="4">safety</word>
+	<word weight="0.016574585635359115" count="3">annual</word>
+	<word weight="0.016574585635359115" count="3">bill</word>
+	<word weight="0.016574585635359115" count="3">legislation</word>
+	<word weight="0.016574585635359115" count="3">subsidies</word>
+	<word weight="0.016574585635359115" count="3">unit</word>
+	<word weight="0.011049723756906077" count="2">outlets</word>
+	<word weight="0.011049723756906077" count="2">retail</word>
+	<word weight="0.011049723756906077" count="2">marking</word>
+	<word weight="0.011049723756906077" count="2">surveys</word>
+	<phrase weight="0.1794871794871795" count="7">consumer protection</phrase>
+	<phrase weight="0.10256410256410256" count="4">policy division</phrase>
+	<phrase weight="0.07692307692307693" count="3">prices act</phrase>
+	<phrase weight="0.05128205128205128" count="2">restraint proposals</phrase>
+	<phrase weight="0.05128205128205128" count="2">consumer safety unit</phrase>
+	<phrase weight="0.05128205128205128" count="2">prices policy division</phrase>
+	<phrase weight="0.05128205128205128" count="2">food subsidy schemes</phrase>
+	<phrase weight="0.05128205128205128" count="2">commission bill</phrase>
+	<phrase weight="0.02564102564102564" count="1">consumer interests</phrase>
+	<phrase weight="0.02564102564102564" count="1">food policy division</phrase>
+	<phrase weight="0.02564102564102564" count="1">consumer protection act</phrase>
+	<phrase weight="0.02564102564102564" count="1">food industry</phrase>
+	<phrase weight="0.02564102564102564" count="1">baby harnesses</phrase>
+	<phrase weight="0.02564102564102564" count="1">fp annual</phrase>
+	<phrase weight="0.02564102564102564" count="1">prices policy</phrase>
+	<phrase weight="0.02564102564102564" count="1">safety unit</phrase>
+	<phrase weight="0.02564102564102564" count="1">fair trading division</phrase>
+	<phrase weight="0.02564102564102564" count="1">price controls</phrase>
+	<phrase weight="0.02564102564102564" count="1">retail food outlets</phrase>
+	<phrase weight="0.02564102564102564" count="1">prefixes hsy</phrase>
+  </topic>
+</topics>

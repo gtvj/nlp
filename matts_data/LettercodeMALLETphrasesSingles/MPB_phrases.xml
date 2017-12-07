@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="2.4542766666223845" totalTokens="30" titles="plans, maps, exchequer, drawings, public, size, measure, preservation, primarily, transfer">
+	<word weight="0.13333333333333333" count="4">plans</word>
+	<word weight="0.13333333333333333" count="4">maps</word>
+	<word weight="0.1" count="3">exchequer</word>
+	<word weight="0.06666666666666667" count="2">drawings</word>
+	<word weight="0.06666666666666667" count="2">public</word>
+	<word weight="0.03333333333333333" count="1">size</word>
+	<word weight="0.03333333333333333" count="1">measure</word>
+	<word weight="0.03333333333333333" count="1">preservation</word>
+	<word weight="0.03333333333333333" count="1">primarily</word>
+	<word weight="0.03333333333333333" count="1">transfer</word>
+	<word weight="0.03333333333333333" count="1">cater</word>
+	<word weight="0.03333333333333333" count="1">century</word>
+	<word weight="0.03333333333333333" count="1">twentieth</word>
+	<word weight="0.03333333333333333" count="1">accumulations</word>
+	<word weight="0.03333333333333333" count="1">artificial</word>
+	<word weight="0.03333333333333333" count="1">matter</word>
+	<word weight="0.03333333333333333" count="1">subject</word>
+	<word weight="0.03333333333333333" count="1">common</word>
+	<word weight="0.03333333333333333" count="1">accumulated</word>
+	<word weight="0.03333333333333333" count="1">architectural</word>
+  </topic>
+</topics>

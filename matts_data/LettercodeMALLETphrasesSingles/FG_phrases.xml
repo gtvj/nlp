@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="15.264130948696886" totalTokens="167" titles="economic, development, national, council, work, nedo, publications, minutes, error, assigned">
+	<word weight="0.1497005988023952" count="25">economic</word>
+	<word weight="0.1377245508982036" count="23">development</word>
+	<word weight="0.1377245508982036" count="23">national</word>
+	<word weight="0.04790419161676647" count="8">council</word>
+	<word weight="0.017964071856287425" count="3">work</word>
+	<word weight="0.017964071856287425" count="3">nedo</word>
+	<word weight="0.017964071856287425" count="3">publications</word>
+	<word weight="0.011976047904191617" count="2">minutes</word>
+	<word weight="0.011976047904191617" count="2">error</word>
+	<word weight="0.011976047904191617" count="2">assigned</word>
+	<word weight="0.011976047904191617" count="2">administration</word>
+	<word weight="0.011976047904191617" count="2">membership</word>
+	<word weight="0.011976047904191617" count="2">undertaken</word>
+	<word weight="0.011976047904191617" count="2">performance</word>
+	<word weight="0.011976047904191617" count="2">committees</word>
+	<word weight="0.011976047904191617" count="2">case</word>
+	<word weight="0.005988023952095809" count="1">supporting</word>
+	<word weight="0.005988023952095809" count="1">meetings</word>
+	<word weight="0.005988023952095809" count="1">memoranda</word>
+	<word weight="0.005988023952095809" count="1">notices</word>
+  </topic>
+</topics>

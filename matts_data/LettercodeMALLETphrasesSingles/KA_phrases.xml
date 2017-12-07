@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.1776920368611894" totalTokens="54" titles="rail, passenger, franchising, industry, overviews, reports, annual, director, transport, state">
+	<word weight="0.18518518518518517" count="10">rail</word>
+	<word weight="0.18518518518518517" count="10">passenger</word>
+	<word weight="0.14814814814814814" count="8">franchising</word>
+	<word weight="0.05555555555555555" count="3">industry</word>
+	<word weight="0.05555555555555555" count="3">overviews</word>
+	<word weight="0.05555555555555555" count="3">reports</word>
+	<word weight="0.05555555555555555" count="3">annual</word>
+	<word weight="0.037037037037037035" count="2">director</word>
+	<word weight="0.018518518518518517" count="1">transport</word>
+	<word weight="0.018518518518518517" count="1">state</word>
+	<word weight="0.018518518518518517" count="1">secretary</word>
+	<word weight="0.018518518518518517" count="1">introduction</word>
+	<word weight="0.018518518518518517" count="1">serve</word>
+	<word weight="0.018518518518518517" count="1">opraf</word>
+	<word weight="0.018518518518518517" count="1">issued</word>
+	<word weight="0.018518518518518517" count="1">privatisation</word>
+	<word weight="0.018518518518518517" count="1">franchise</word>
+	<word weight="0.018518518518518517" count="1">services</word>
+	<word weight="0.018518518518518517" count="1">secure</word>
+	<word weight="0.018518518518518517" count="1">established</word>
+  </topic>
+</topics>

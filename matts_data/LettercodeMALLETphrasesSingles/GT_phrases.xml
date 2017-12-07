@@ -1,0 +1,15 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.2828482792063245" totalTokens="42" titles="council, teaching, general, england, minutes, gtce, division, governing, england's, government">
+	<word weight="0.2619047619047619" count="11">council</word>
+	<word weight="0.19047619047619047" count="8">teaching</word>
+	<word weight="0.19047619047619047" count="8">general</word>
+	<word weight="0.14285714285714285" count="6">england</word>
+	<word weight="0.07142857142857142" count="3">minutes</word>
+	<word weight="0.047619047619047616" count="2">gtce</word>
+	<word weight="0.023809523809523808" count="1">division</word>
+	<word weight="0.023809523809523808" count="1">governing</word>
+	<word weight="0.023809523809523808" count="1">england's</word>
+	<word weight="0.023809523809523808" count="1">government</word>
+  </topic>
+</topics>

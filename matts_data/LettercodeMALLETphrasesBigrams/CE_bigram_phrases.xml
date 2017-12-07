@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.653441725523415" totalTokens="935" titles="british museum, general meetings, trustees, ce, staff, board, miscellaneous, committees, administration, minutes">
+	<word weight="0.11550802139037433" count="108">trustees</word>
+	<word weight="0.10588235294117647" count="99">museum</word>
+	<word weight="0.10588235294117647" count="99">british</word>
+	<word weight="0.08128342245989305" count="76">meetings</word>
+	<word weight="0.06631016042780749" count="62">general</word>
+	<word weight="0.057754010695187166" count="54">ce</word>
+	<word weight="0.04919786096256684" count="46">staff</word>
+	<word weight="0.038502673796791446" count="36">board</word>
+	<word weight="0.03636363636363636" count="34">miscellaneous</word>
+	<word weight="0.03529411764705882" count="33">committees</word>
+	<word weight="0.027807486631016044" count="26">administration</word>
+	<word weight="0.023529411764705882" count="22">minutes</word>
+	<word weight="0.017112299465240642" count="16">director</word>
+	<word weight="0.017112299465240642" count="16">books</word>
+	<word weight="0.013903743315508022" count="13">committee</word>
+	<word weight="0.012834224598930482" count="12">reports</word>
+	<word weight="0.012834224598930482" count="12">principal</word>
+	<word weight="0.0106951871657754" count="10">officers</word>
+	<word weight="0.0106951871657754" count="10">letters</word>
+	<word weight="0.006417112299465241" count="6">routine</word>
+	<phrase weight="0.4421768707482993" count="65">british museum</phrase>
+	<phrase weight="0.16326530612244897" count="24">general meetings</phrase>
+	<phrase weight="0.027210884353741496" count="4">letter books</phrase>
+	<phrase weight="0.027210884353741496" count="4">british museum board</phrase>
+	<phrase weight="0.013605442176870748" count="2">british museum buildings</phrase>
+	<phrase weight="0.013605442176870748" count="2">ordinary business</phrase>
+	<phrase weight="0.013605442176870748" count="2">attendance books</phrase>
+	<phrase weight="0.013605442176870748" count="2">british museum trustees</phrase>
+	<phrase weight="0.013605442176870748" count="2">assistant keepers</phrase>
+	<phrase weight="0.013605442176870748" count="2">british museum principal trustees</phrase>
+	<phrase weight="0.013605442176870748" count="2">electing trustees</phrase>
+	<phrase weight="0.013605442176870748" count="2">british museum principal trustees letter books</phrase>
+	<phrase weight="0.013605442176870748" count="2">excavations reports</phrase>
+	<phrase weight="0.013605442176870748" count="2">temporary admission</phrase>
+	<phrase weight="0.006802721088435374" count="1">museum trustees visitation books</phrase>
+	<phrase weight="0.006802721088435374" count="1">listing temporary admissions</phrase>
+	<phrase weight="0.006802721088435374" count="1">temporary admissions</phrase>
+	<phrase weight="0.006802721088435374" count="1">british museum trustees visitation</phrase>
+	<phrase weight="0.006802721088435374" count="1">british museum statutes</phrase>
+	<phrase weight="0.006802721088435374" count="1">british museum staff appointment</phrase>
+  </topic>
+</topics>

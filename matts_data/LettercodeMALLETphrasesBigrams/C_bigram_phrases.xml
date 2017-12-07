@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.08192090703204" totalTokens="14776" titles="equity side, petty bag, lord chancellor, rolls chapel, letters patent, great seal, inquisitions post mortem, chancery, court, writs">
+	<word weight="0.03742555495397942" count="553">chancery</word>
+	<word weight="0.014753654574986464" count="218">rolls</word>
+	<word weight="0.01312939902544667" count="194">court</word>
+	<word weight="0.011099079588521927" count="164">writs</word>
+	<word weight="0.01062533838657282" count="157">crown</word>
+	<word weight="0.007579859231185706" count="112">equity</word>
+	<word weight="0.006903086085544126" count="102">bag</word>
+	<word weight="0.006903086085544126" count="102">petty</word>
+	<word weight="0.006293990254466703" count="93">side</word>
+	<word weight="0.006226312939902545" count="92">patent</word>
+	<word weight="0.005955603681645912" count="88">letters</word>
+	<word weight="0.005887926367081754" count="87">clerks</word>
+	<word weight="0.005346507850568489" count="79">clerk</word>
+	<word weight="0.005143475906876015" count="76">books</word>
+	<word weight="0.004466702761234434" count="66">trade</word>
+	<word weight="0.004331348132106118" count="64">lord</word>
+	<word weight="0.004331348132106118" count="64">inquisitions</word>
+	<word weight="0.004331348132106118" count="64">masters</word>
+	<word weight="0.00426367081754196" count="63">cases</word>
+	<word weight="0.004128316188413644" count="61">commissions</word>
+	<phrase weight="0.0255863539445629" count="60">equity side</phrase>
+	<phrase weight="0.020895522388059702" count="49">petty bag</phrase>
+	<phrase weight="0.0162046908315565" count="38">lord chancellor</phrase>
+	<phrase weight="0.013646055437100213" count="32">rolls chapel</phrase>
+	<phrase weight="0.01279317697228145" count="30">letters patent</phrase>
+	<phrase weight="0.009808102345415778" count="23">great seal</phrase>
+	<phrase weight="0.009808102345415778" count="23">inquisitions post mortem</phrase>
+	<phrase weight="0.007249466950959489" count="17">accountant general</phrase>
+	<phrase weight="0.006823027718550106" count="16">legal registry</phrase>
+	<phrase weight="0.006396588486140725" count="15">close rolls</phrase>
+	<phrase weight="0.005970149253731343" count="14">widow acting</phrase>
+	<phrase weight="0.005543710021321962" count="13">naval officers</phrase>
+	<phrase weight="0.005543710021321962" count="13">west indies</phrase>
+	<phrase weight="0.00511727078891258" count="12">coal trade</phrase>
+	<phrase weight="0.00511727078891258" count="12">equity cases initiated</phrase>
+	<phrase weight="0.00511727078891258" count="12">individual artists</phrase>
+	<phrase weight="0.00511727078891258" count="12">important holdings</phrase>
+	<phrase weight="0.00511727078891258" count="12">intimate correspondence</phrase>
+	<phrase weight="0.00511727078891258" count="12">newspaper trades</phrase>
+	<phrase weight="0.00511727078891258" count="12">east india company</phrase>
+  </topic>
+</topics>

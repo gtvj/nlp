@@ -1,0 +1,23 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="10.082119430794888" totalTokens="22" titles="maps, pro, rail, extract, subsequently, concerned, transfer, commission, transport, british">
+	<word weight="0.13636363636363635" count="3">maps</word>
+	<word weight="0.09090909090909091" count="2">pro</word>
+	<word weight="0.09090909090909091" count="2">rail</word>
+	<word weight="0.045454545454545456" count="1">extract</word>
+	<word weight="0.045454545454545456" count="1">map</word>
+	<word weight="0.045454545454545456" count="1">subsequently</word>
+	<word weight="0.045454545454545456" count="1">concerned</word>
+	<word weight="0.045454545454545456" count="1">transfer</word>
+	<word weight="0.045454545454545456" count="1">commission</word>
+	<word weight="0.045454545454545456" count="1">transport</word>
+	<word weight="0.045454545454545456" count="1">british</word>
+	<word weight="0.045454545454545456" count="1">drawings</word>
+	<word weight="0.045454545454545456" count="1">plans</word>
+	<word weight="0.045454545454545456" count="1">cater</word>
+	<word weight="0.045454545454545456" count="1">public</word>
+	<word weight="0.045454545454545456" count="1">accumulation</word>
+	<word weight="0.045454545454545456" count="1">artificial</word>
+	<word weight="0.045454545454545456" count="1">classes</word>
+  </topic>
+</topics>

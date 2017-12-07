@@ -1,0 +1,19 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.2759495731694932" totalTokens="45" titles="council, electricity, gas, consumer, energywatch, snapshot, site, wide, world, division">
+	<word weight="0.15555555555555556" count="7">council</word>
+	<word weight="0.15555555555555556" count="7">electricity</word>
+	<word weight="0.15555555555555556" count="7">gas</word>
+	<word weight="0.13333333333333333" count="6">consumer</word>
+	<word weight="0.1111111111111111" count="5">energywatch</word>
+	<word weight="0.044444444444444446" count="2">snapshot</word>
+	<word weight="0.044444444444444446" count="2">site</word>
+	<word weight="0.044444444444444446" count="2">wide</word>
+	<word weight="0.044444444444444446" count="2">world</word>
+	<word weight="0.022222222222222223" count="1">division</word>
+	<word weight="0.022222222222222223" count="1">aug</word>
+	<word weight="0.022222222222222223" count="1">captured</word>
+	<word weight="0.022222222222222223" count="1">consumers</word>
+	<word weight="0.022222222222222223" count="1">government</word>
+  </topic>
+</topics>

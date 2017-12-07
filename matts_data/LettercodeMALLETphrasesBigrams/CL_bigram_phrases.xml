@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="13.898326771262255" totalTokens="209" titles="trade, employers, associations, unions, certification, cl, annual, act, relations, engagements">
+	<word weight="0.09090909090909091" count="19">trade</word>
+	<word weight="0.06698564593301436" count="14">employers</word>
+	<word weight="0.06220095693779904" count="13">associations</word>
+	<word weight="0.06220095693779904" count="13">unions</word>
+	<word weight="0.06220095693779904" count="13">certification</word>
+	<word weight="0.04784688995215311" count="10">cl</word>
+	<word weight="0.03349282296650718" count="7">union</word>
+	<word weight="0.03349282296650718" count="7">annual</word>
+	<word weight="0.023923444976076555" count="5">act</word>
+	<word weight="0.023923444976076555" count="5">relations</word>
+	<word weight="0.023923444976076555" count="5">engagements</word>
+	<word weight="0.019138755980861243" count="4">labour</word>
+	<word weight="0.019138755980861243" count="4">amalgamations</word>
+	<word weight="0.019138755980861243" count="4">transfers</word>
+	<word weight="0.019138755980861243" count="4">returns</word>
+	<word weight="0.019138755980861243" count="4">reports</word>
+	<word weight="0.014354066985645933" count="3">members</word>
+	<word weight="0.014354066985645933" count="3">applications</word>
+	<word weight="0.014354066985645933" count="3">books</word>
+	<word weight="0.014354066985645933" count="3">rule</word>
+	<phrase weight="0.3235294117647059" count="11">trade unions</phrase>
+	<phrase weight="0.08823529411764706" count="3">rule books</phrase>
+	<phrase weight="0.058823529411764705" count="2">trade union</phrase>
+	<phrase weight="0.058823529411764705" count="2">labour relations</phrase>
+	<phrase weight="0.029411764705882353" count="1">annual returns</phrase>
+	<phrase weight="0.029411764705882353" count="1">employers associations</phrase>
+	<phrase weight="0.029411764705882353" count="1">annual return</phrase>
+	<phrase weight="0.029411764705882353" count="1">publications publications</phrase>
+	<phrase weight="0.029411764705882353" count="1">statutory declarations</phrase>
+	<phrase weight="0.029411764705882353" count="1">listing certificates</phrase>
+	<phrase weight="0.029411764705882353" count="1">employment relations act</phrase>
+	<phrase weight="0.029411764705882353" count="1">trades unions</phrase>
+	<phrase weight="0.029411764705882353" count="1">certification officer</phrase>
+	<phrase weight="0.029411764705882353" count="1">relations act</phrase>
+	<phrase weight="0.029411764705882353" count="1">trade union labour relations act</phrase>
+	<phrase weight="0.029411764705882353" count="1">annual reports</phrase>
+	<phrase weight="0.029411764705882353" count="1">annual reports annual reports</phrase>
+	<phrase weight="0.029411764705882353" count="1">annual returns provide detailed</phrase>
+	<phrase weight="0.029411764705882353" count="1">uk government</phrase>
+	<phrase weight="0.029411764705882353" count="1">trade union ballots</phrase>
+  </topic>
+</topics>

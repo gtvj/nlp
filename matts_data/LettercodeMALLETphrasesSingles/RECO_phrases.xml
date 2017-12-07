@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.3748480374863232" totalTokens="51" titles="reconstruction, committees, war, appointed, cabinet, employees, employers, relations, report, whitley">
+	<word weight="0.17647058823529413" count="9">reconstruction</word>
+	<word weight="0.09803921568627451" count="5">committees</word>
+	<word weight="0.0392156862745098" count="2">war</word>
+	<word weight="0.0392156862745098" count="2">appointed</word>
+	<word weight="0.0392156862745098" count="2">cabinet</word>
+	<word weight="0.0196078431372549" count="1">employees</word>
+	<word weight="0.0196078431372549" count="1">employers</word>
+	<word weight="0.0196078431372549" count="1">relations</word>
+	<word weight="0.0196078431372549" count="1">report</word>
+	<word weight="0.0196078431372549" count="1">whitley</word>
+	<word weight="0.0196078431372549" count="1">employment</word>
+	<word weight="0.0196078431372549" count="1">wages</word>
+	<word weight="0.0196078431372549" count="1">committee</word>
+	<word weight="0.0196078431372549" count="1">end</word>
+	<word weight="0.0196078431372549" count="1">conditions</word>
+	<word weight="0.0196078431372549" count="1">social</word>
+	<word weight="0.0196078431372549" count="1">trading</word>
+	<word weight="0.0196078431372549" count="1">industrial</word>
+	<word weight="0.0196078431372549" count="1">normal</word>
+	<word weight="0.0196078431372549" count="1">improvement</word>
+  </topic>
+</topics>

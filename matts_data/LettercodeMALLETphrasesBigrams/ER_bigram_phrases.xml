@@ -1,0 +1,22 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="3.2915573467497548" totalTokens="23" titles="courts, civilian, case, er, general, advocate, judge, services, armed, working">
+	<word weight="0.17391304347826086" count="4">courts</word>
+	<word weight="0.17391304347826086" count="4">civilian</word>
+	<word weight="0.13043478260869565" count="3">case</word>
+	<word weight="0.13043478260869565" count="3">er</word>
+	<word weight="0.043478260869565216" count="1">general</word>
+	<word weight="0.043478260869565216" count="1">advocate</word>
+	<word weight="0.043478260869565216" count="1">judge</word>
+	<word weight="0.043478260869565216" count="1">services</word>
+	<word weight="0.043478260869565216" count="1">armed</word>
+	<word weight="0.043478260869565216" count="1">working</word>
+	<word weight="0.043478260869565216" count="1">civilians</word>
+	<word weight="0.043478260869565216" count="1">overseas</word>
+	<word weight="0.043478260869565216" count="1">trial</word>
+	<phrase weight="0.25" count="1">trial overseas</phrase>
+	<phrase weight="0.25" count="1">armed services</phrase>
+	<phrase weight="0.25" count="1">civilian courts</phrase>
+	<phrase weight="0.25" count="1">judge advocate general</phrase>
+  </topic>
+</topics>

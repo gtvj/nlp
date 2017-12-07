@@ -1,0 +1,10 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0" totalTokens="4" titles="pro, gallery, portrait, national, ">
+	<word weight="0.25" count="1">pro</word>
+	<word weight="0.25" count="1">gallery</word>
+	<word weight="0.25" count="1">portrait</word>
+	<word weight="0.25" count="1">national</word>
+	<phrase weight="1.0" count="1">national portrait gallery</phrase>
+  </topic>
+</topics>

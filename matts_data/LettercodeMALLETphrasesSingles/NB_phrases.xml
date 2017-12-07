@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="12.75951739207858" totalTokens="273" titles="benefits, claim, management, payment, medical, etu, weekly, employment, income, i.e">
+	<word weight="0.06593406593406594" count="18">benefits</word>
+	<word weight="0.029304029304029304" count="8">claim</word>
+	<word weight="0.02564102564102564" count="7">management</word>
+	<word weight="0.02564102564102564" count="7">payment</word>
+	<word weight="0.02197802197802198" count="6">benefit</word>
+	<word weight="0.018315018315018316" count="5">medical</word>
+	<word weight="0.018315018315018316" count="5">etu</word>
+	<word weight="0.014652014652014652" count="4">weekly</word>
+	<word weight="0.014652014652014652" count="4">employment</word>
+	<word weight="0.014652014652014652" count="4">income</word>
+	<word weight="0.014652014652014652" count="4">i.e</word>
+	<word weight="0.014652014652014652" count="4">applicant</word>
+	<word weight="0.014652014652014652" count="4">executive</word>
+	<word weight="0.014652014652014652" count="4">planning</word>
+	<word weight="0.014652014652014652" count="4">services</word>
+	<word weight="0.014652014652014652" count="4">bamt</word>
+	<word weight="0.014652014652014652" count="4">team</word>
+	<word weight="0.014652014652014652" count="4">chief</word>
+	<word weight="0.01098901098901099" count="3">award</word>
+	<word weight="0.01098901098901099" count="3">number</word>
+  </topic>
+</topics>

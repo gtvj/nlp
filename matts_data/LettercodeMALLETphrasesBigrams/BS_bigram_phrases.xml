@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.921709128716172" totalTokens="987" titles="committee, inquiry, commission, bs, evidence, minutes, committees, report, royal, cmnd">
+	<word weight="0.04964539007092199" count="49">committee</word>
+	<word weight="0.034447821681864235" count="34">inquiry</word>
+	<word weight="0.03242147922998987" count="32">commission</word>
+	<word weight="0.031408308004052685" count="31">bs</word>
+	<word weight="0.030395136778115502" count="30">evidence</word>
+	<word weight="0.02735562310030395" count="27">minutes</word>
+	<word weight="0.025329280648429583" count="25">committees</word>
+	<word weight="0.022289766970618033" count="22">report</word>
+	<word weight="0.020263424518743668" count="20">royal</word>
+	<word weight="0.014184397163120567" count="14">cmnd</word>
+	<word weight="0.014184397163120567" count="14">advisory</word>
+	<word weight="0.014184397163120567" count="14">correspondence</word>
+	<word weight="0.014184397163120567" count="14">reports</word>
+	<word weight="0.011144883485309016" count="11">boards</word>
+	<word weight="0.011144883485309016" count="11">councils</word>
+	<word weight="0.00911854103343465" count="9">final</word>
+	<word weight="0.008105369807497468" count="8">hmso</word>
+	<word weight="0.008105369807497468" count="8">circulated</word>
+	<word weight="0.008105369807497468" count="8">commissions</word>
+	<word weight="0.008105369807497468" count="8">viceregal</word>
+	<phrase weight="0.06329113924050633" count="10">royal commission</phrase>
+	<phrase weight="0.0189873417721519" count="3">john profumo</phrase>
+	<phrase weight="0.0189873417721519" count="3">final report</phrase>
+	<phrase weight="0.0189873417721519" count="3">air travel reserve fund</phrase>
+	<phrase weight="0.012658227848101266" count="2">lord denning</phrase>
+	<phrase weight="0.012658227848101266" count="2">circumstances surrounding</phrase>
+	<phrase weight="0.012658227848101266" count="2">peterson committee</phrase>
+	<phrase weight="0.012658227848101266" count="2">rothschild commission</phrase>
+	<phrase weight="0.012658227848101266" count="2">philips commission</phrase>
+	<phrase weight="0.012658227848101266" count="2">kinkel committee</phrase>
+	<phrase weight="0.012658227848101266" count="2">higher incomes</phrase>
+	<phrase weight="0.012658227848101266" count="2">davies committee</phrase>
+	<phrase weight="0.012658227848101266" count="2">personal social services council</phrase>
+	<phrase weight="0.012658227848101266" count="2">mcgregor commission</phrase>
+	<phrase weight="0.012658227848101266" count="2">police interrogation procedures</phrase>
+	<phrase weight="0.012658227848101266" count="2">oral evidence submitted</phrase>
+	<phrase weight="0.012658227848101266" count="2">financial institutions</phrase>
+	<phrase weight="0.012658227848101266" count="2">foster committee</phrase>
+	<phrase weight="0.012658227848101266" count="2">national water council</phrase>
+	<phrase weight="0.012658227848101266" count="2">space amenity commission</phrase>
+  </topic>
+</topics>

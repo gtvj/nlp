@@ -1,0 +1,31 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.6272323161425744" totalTokens="49" titles="gas, supply, reports, annual, fa, ofgas, industry, regulation, pipelines, interests">
+	<word weight="0.1836734693877551" count="9">gas</word>
+	<word weight="0.12244897959183673" count="6">supply</word>
+	<word weight="0.061224489795918366" count="3">reports</word>
+	<word weight="0.061224489795918366" count="3">annual</word>
+	<word weight="0.061224489795918366" count="3">fa</word>
+	<word weight="0.04081632653061224" count="2">ofgas</word>
+	<word weight="0.04081632653061224" count="2">report</word>
+	<word weight="0.02040816326530612" count="1">industry</word>
+	<word weight="0.02040816326530612" count="1">regulation</word>
+	<word weight="0.02040816326530612" count="1">pipelines</word>
+	<word weight="0.02040816326530612" count="1">interests</word>
+	<word weight="0.02040816326530612" count="1">consumers</word>
+	<word weight="0.02040816326530612" count="1">protection</word>
+	<word weight="0.02040816326530612" count="1">subjects</word>
+	<word weight="0.02040816326530612" count="1">end</word>
+	<word weight="0.02040816326530612" count="1">energy</word>
+	<word weight="0.02040816326530612" count="1">state</word>
+	<word weight="0.02040816326530612" count="1">secretary</word>
+	<word weight="0.02040816326530612" count="1">publish</word>
+	<word weight="0.02040816326530612" count="1">commission</word>
+	<phrase weight="0.4444444444444444" count="4">gas supply</phrase>
+	<phrase weight="0.1111111111111111" count="1">gas consumers</phrase>
+	<phrase weight="0.1111111111111111" count="1">gas act</phrase>
+	<phrase weight="0.1111111111111111" count="1">gas supply industry</phrase>
+	<phrase weight="0.1111111111111111" count="1">annual reports</phrase>
+	<phrase weight="0.1111111111111111" count="1">mergers commission</phrase>
+  </topic>
+</topics>

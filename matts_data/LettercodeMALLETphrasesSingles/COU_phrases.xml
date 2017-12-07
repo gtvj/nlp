@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.58313884129386" totalTokens="427" titles="commission, countryside, parks, national, minutes, areas, correspondence, beauty, outstanding, recreation">
+	<word weight="0.08430913348946135" count="36">commission</word>
+	<word weight="0.07494145199063232" count="32">countryside</word>
+	<word weight="0.06323185011709602" count="27">cou</word>
+	<word weight="0.0468384074941452" count="20">parks</word>
+	<word weight="0.04215456674473068" count="18">national</word>
+	<word weight="0.0234192037470726" count="10">minutes</word>
+	<word weight="0.0234192037470726" count="10">areas</word>
+	<word weight="0.01639344262295082" count="7">correspondence</word>
+	<word weight="0.01639344262295082" count="7">beauty</word>
+	<word weight="0.01639344262295082" count="7">outstanding</word>
+	<word weight="0.01405152224824356" count="6">recreation</word>
+	<word weight="0.01405152224824356" count="6">natural</word>
+	<word weight="0.01405152224824356" count="6">maps</word>
+	<word weight="0.0117096018735363" count="5">management</word>
+	<word weight="0.0117096018735363" count="5">policy</word>
+	<word weight="0.00936768149882904" count="4">local</word>
+	<word weight="0.00936768149882904" count="4">group</word>
+	<word weight="0.00936768149882904" count="4">reports</word>
+	<word weight="0.00936768149882904" count="4">development</word>
+	<word weight="0.00702576112412178" count="3">country</word>
+  </topic>
+</topics>

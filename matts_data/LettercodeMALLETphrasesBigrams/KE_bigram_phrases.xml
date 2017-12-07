@@ -1,0 +1,33 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0625661674240932" totalTokens="68" titles="museum, reports, annual, force, air, royal, ke, books, trustees, dating">
+	<word weight="0.11764705882352941" count="8">museum</word>
+	<word weight="0.08823529411764706" count="6">reports</word>
+	<word weight="0.08823529411764706" count="6">annual</word>
+	<word weight="0.07352941176470588" count="5">force</word>
+	<word weight="0.07352941176470588" count="5">air</word>
+	<word weight="0.07352941176470588" count="5">royal</word>
+	<word weight="0.07352941176470588" count="5">ke</word>
+	<word weight="0.04411764705882353" count="3">books</word>
+	<word weight="0.04411764705882353" count="3">trustees</word>
+	<word weight="0.029411764705882353" count="2">report</word>
+	<word weight="0.029411764705882353" count="2">dating</word>
+	<word weight="0.029411764705882353" count="2">minute</word>
+	<word weight="0.014705882352941176" count="1">audit</word>
+	<word weight="0.014705882352941176" count="1">national</word>
+	<word weight="0.014705882352941176" count="1">auditors</word>
+	<word weight="0.014705882352941176" count="1">statement</word>
+	<word weight="0.014705882352941176" count="1">financial</word>
+	<word weight="0.014705882352941176" count="1">supplemented</word>
+	<word weight="0.014705882352941176" count="1">accounts</word>
+	<word weight="0.014705882352941176" count="1">summary</word>
+	<phrase weight="0.25" count="3">royal air force museum</phrase>
+	<phrase weight="0.16666666666666666" count="2">air force museum</phrase>
+	<phrase weight="0.16666666666666666" count="2">annual reports</phrase>
+	<phrase weight="0.08333333333333333" count="1">minute books dating</phrase>
+	<phrase weight="0.08333333333333333" count="1">museum issued</phrase>
+	<phrase weight="0.08333333333333333" count="1">annual report</phrase>
+	<phrase weight="0.08333333333333333" count="1">reports dating</phrase>
+	<phrase weight="0.08333333333333333" count="1">minute books</phrase>
+  </topic>
+</topics>

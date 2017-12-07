@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.52187368912813" totalTokens="33" titles="national, link, predecessors, girobank, group, leicester, alliance, years, actual, opening">
+	<word weight="0.15151515151515152" count="5">national</word>
+	<word weight="0.06060606060606061" count="2">link</word>
+	<word weight="0.06060606060606061" count="2">predecessors</word>
+	<word weight="0.06060606060606061" count="2">girobank</word>
+	<word weight="0.030303030303030304" count="1">group</word>
+	<word weight="0.030303030303030304" count="1">leicester</word>
+	<word weight="0.030303030303030304" count="1">alliance</word>
+	<word weight="0.030303030303030304" count="1">years</word>
+	<word weight="0.030303030303030304" count="1">actual</word>
+	<word weight="0.030303030303030304" count="1">opening</word>
+	<word weight="0.030303030303030304" count="1">ranging</word>
+	<word weight="0.030303030303030304" count="1">dates</word>
+	<word weight="0.030303030303030304" count="1">creation</word>
+	<word weight="0.030303030303030304" count="1">setting</word>
+	<word weight="0.030303030303030304" count="1">deals</word>
+	<word weight="0.030303030303030304" count="1">detailed</word>
+	<word weight="0.030303030303030304" count="1">kingdom</word>
+	<word weight="0.030303030303030304" count="1">united</word>
+	<word weight="0.030303030303030304" count="1">sectors</word>
+	<word weight="0.030303030303030304" count="1">business</word>
+  </topic>
+</topics>

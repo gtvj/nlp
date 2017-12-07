@@ -1,0 +1,36 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="11.090354077313071" totalTokens="163" titles="items, kew, public, lane, chancery, extracts, january, classes, rolled, moved">
+	<word weight="0.1656441717791411" count="27">items</word>
+	<word weight="0.0736196319018405" count="12">kew</word>
+	<word weight="0.05521472392638037" count="9">public</word>
+	<word weight="0.04294478527607362" count="7">lane</word>
+	<word weight="0.04294478527607362" count="7">chancery</word>
+	<word weight="0.03680981595092025" count="6">extracts</word>
+	<word weight="0.03680981595092025" count="6">january</word>
+	<word weight="0.03680981595092025" count="6">classes</word>
+	<word weight="0.03680981595092025" count="6">rolled</word>
+	<word weight="0.03067484662576687" count="5">moved</word>
+	<word weight="0.024539877300613498" count="4">boxed</word>
+	<word weight="0.024539877300613498" count="4">additions</word>
+	<word weight="0.018404907975460124" count="3">belong</word>
+	<word weight="0.018404907975460124" count="3">rest</word>
+	<word weight="0.018404907975460124" count="3">bulkier</word>
+	<word weight="0.018404907975460124" count="3">larger</word>
+	<word weight="0.018404907975460124" count="3">complete</word>
+	<word weight="0.018404907975460124" count="3">receive</word>
+	<word weight="0.012269938650306749" count="2">formats</word>
+	<word weight="0.012269938650306749" count="2">sp</word>
+	<phrase weight="0.35" count="7">chancery lane</phrase>
+	<phrase weight="0.1" count="2">boxed items</phrase>
+	<phrase weight="0.1" count="2">rolled items</phrase>
+	<phrase weight="0.1" count="2">receive items</phrase>
+	<phrase weight="0.05" count="1">receive safe room extracts</phrase>
+	<phrase weight="0.05" count="1">twentieth century</phrase>
+	<phrase weight="0.05" count="1">physical format</phrase>
+	<phrase weight="0.05" count="1">eighty items</phrase>
+	<phrase weight="0.05" count="1">artificial accumulation</phrase>
+	<phrase weight="0.05" count="1">entitled safe room extracts</phrase>
+	<phrase weight="0.05" count="1">preservation measure</phrase>
+  </topic>
+</topics>

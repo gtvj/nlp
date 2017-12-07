@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.257094871152328" totalTokens="4124" titles="court, pleas, common, rolls, property, fines, concords, land, title, final">
+	<word weight="0.0548011639185257" count="226">court</word>
+	<word weight="0.04413191076624636" count="182">pleas</word>
+	<word weight="0.04049466537342386" count="167">common</word>
+	<word weight="0.02061105722599418" count="85">rolls</word>
+	<word weight="0.015033947623666343" count="62">property</word>
+	<word weight="0.013579049466537343" count="56">fines</word>
+	<word weight="0.013094083414161009" count="54">concords</word>
+	<word weight="0.011881668283220174" count="49">land</word>
+	<word weight="0.010911736178467508" count="45">title</word>
+	<word weight="0.010911736178467508" count="45">final</word>
+	<word weight="0.01066925315227934" count="44">writs</word>
+	<word weight="0.010184287099903006" count="42">conveyancing</word>
+	<word weight="0.010184287099903006" count="42">filed</word>
+	<word weight="0.008729388942774006" count="36">books</word>
+	<word weight="0.008244422890397672" count="34">notes</word>
+	<word weight="0.008001939864209506" count="33">concord</word>
+	<word weight="0.007759456838021339" count="32">century</word>
+	<word weight="0.007516973811833172" count="31">plea</word>
+	<word weight="0.006789524733268671" count="28">foot</word>
+	<word weight="0.006789524733268671" count="28">agreement</word>
+  </topic>
+</topics>

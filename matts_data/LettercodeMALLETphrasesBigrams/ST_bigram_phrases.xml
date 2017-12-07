@@ -1,0 +1,43 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.656180108984673" totalTokens="281" titles="uk, skills, universities, innovation, st, government, council, board, technology, dius">
+	<word weight="0.09608540925266904" count="27">uk</word>
+	<word weight="0.07473309608540925" count="21">skills</word>
+	<word weight="0.07473309608540925" count="21">universities</word>
+	<word weight="0.07473309608540925" count="21">innovation</word>
+	<word weight="0.0711743772241993" count="20">st</word>
+	<word weight="0.060498220640569395" count="17">government</word>
+	<word weight="0.021352313167259787" count="6">council</word>
+	<word weight="0.021352313167259787" count="6">board</word>
+	<word weight="0.021352313167259787" count="6">technology</word>
+	<word weight="0.017793594306049824" count="5">dius</word>
+	<word weight="0.017793594306049824" count="5">www</word>
+	<word weight="0.014234875444839857" count="4">facilities</word>
+	<word weight="0.014234875444839857" count="4">science</word>
+	<word weight="0.014234875444839857" count="4">training</word>
+	<word weight="0.014234875444839857" count="4">industry</word>
+	<word weight="0.014234875444839857" count="4">construction</word>
+	<word weight="0.014234875444839857" count="4">engineering</word>
+	<word weight="0.014234875444839857" count="4">fair</word>
+	<word weight="0.010676156583629894" count="3">offa</word>
+	<word weight="0.010676156583629894" count="3">http</word>
+	<phrase weight="0.25" count="10">uk government</phrase>
+	<phrase weight="0.1" count="4">technology facilities council</phrase>
+	<phrase weight="0.075" count="3">engineering construction industry training board</phrase>
+	<phrase weight="0.05" count="2">awarding body</phrase>
+	<phrase weight="0.05" count="2">technology strategy board</phrase>
+	<phrase weight="0.05" count="2">humanities research council</phrase>
+	<phrase weight="0.05" count="2">higher education</phrase>
+	<phrase weight="0.05" count="2">people interactive</phrase>
+	<phrase weight="0.05" count="2">knowledge transfer networks</phrase>
+	<phrase weight="0.05" count="2">uk register</phrase>
+	<phrase weight="0.05" count="2">adult advancement</phrase>
+	<phrase weight="0.025" count="1">intellectual property</phrase>
+	<phrase weight="0.025" count="1">names tribunal</phrase>
+	<phrase weight="0.025" count="1">construction industry training board</phrase>
+	<phrase weight="0.025" count="1">uk intellectual property</phrase>
+	<phrase weight="0.025" count="1">client contractor national safety group</phrase>
+	<phrase weight="0.025" count="1">company names tribunal</phrase>
+	<phrase weight="0.025" count="1">contractor national safety group</phrase>
+  </topic>
+</topics>

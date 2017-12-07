@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.027334584684697" totalTokens="24142" titles="correspondence, foreign, consulate, consulates, british, general, legations, embassies, registers, print">
+	<word weight="0.05819733244967277" count="1405">correspondence</word>
+	<word weight="0.05227404523237512" count="1262">foreign</word>
+	<word weight="0.03707232209427554" count="895">consulate</word>
+	<word weight="0.0360782039599039" count="871">consulates</word>
+	<word weight="0.0360782039599039" count="871">british</word>
+	<word weight="0.03305442796785685" count="798">general</word>
+	<word weight="0.027296827106287797" count="659">legations</word>
+	<word weight="0.027172562339491342" count="656">embassies</word>
+	<word weight="0.02216055007870102" count="535">registers</word>
+	<word weight="0.012053682379256069" count="291">print</word>
+	<word weight="0.012053682379256069" count="291">confidential</word>
+	<word weight="0.011763731256731007" count="284">legation</word>
+	<word weight="0.01097672106702013" count="265">embassy</word>
+	<word weight="0.010024024521580648" count="242">political</word>
+	<word weight="0.009858338165852042" count="238">books</word>
+	<word weight="0.008284317786430288" count="200">letter</word>
+	<word weight="0.008201474608565984" count="198">germany</word>
+	<word weight="0.00778725871924447" count="188">empire</word>
+	<word weight="0.0077458371303123184" count="187">war</word>
+	<word weight="0.007083091707397896" count="171">commission</word>
+  </topic>
+</topics>

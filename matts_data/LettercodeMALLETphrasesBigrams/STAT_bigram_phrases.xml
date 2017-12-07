@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.466220453531416" totalTokens="499" titles="stationery, books, letters, printing, tender, official, hmso, branch, copyright, minutes">
+	<word weight="0.09819639278557114" count="49">stationery</word>
+	<word weight="0.03406813627254509" count="17">books</word>
+	<word weight="0.03406813627254509" count="17">letters</word>
+	<word weight="0.02404809619238477" count="12">printing</word>
+	<word weight="0.018036072144288578" count="9">tender</word>
+	<word weight="0.018036072144288578" count="9">official</word>
+	<word weight="0.018036072144288578" count="9">hmso</word>
+	<word weight="0.01603206412825651" count="8">branch</word>
+	<word weight="0.01603206412825651" count="8">copyright</word>
+	<word weight="0.014028056112224449" count="7">minutes</word>
+	<word weight="0.012024048096192385" count="6">circulars</word>
+	<word weight="0.012024048096192385" count="6">government</word>
+	<word weight="0.012024048096192385" count="6">meetings</word>
+	<word weight="0.012024048096192385" count="6">controller</word>
+	<word weight="0.012024048096192385" count="6">area</word>
+	<word weight="0.012024048096192385" count="6">northern</word>
+	<word weight="0.012024048096192385" count="6">registers</word>
+	<word weight="0.01002004008016032" count="5">tenders</word>
+	<word weight="0.01002004008016032" count="5">correspondence</word>
+	<word weight="0.01002004008016032" count="5">deputy</word>
+	<phrase weight="0.05555555555555555" count="4">northern area branch</phrase>
+	<phrase weight="0.041666666666666664" count="3">deputy chief executive</phrase>
+	<phrase weight="0.041666666666666664" count="3">advisory committee</phrase>
+	<phrase weight="0.041666666666666664" count="3">uk government</phrase>
+	<phrase weight="0.041666666666666664" count="3">printing machinery</phrase>
+	<phrase weight="0.027777777777777776" count="2">letters registers</phrase>
+	<phrase weight="0.027777777777777776" count="2">whitley council</phrase>
+	<phrase weight="0.027777777777777776" count="2">area branch</phrase>
+	<phrase weight="0.013888888888888888" count="1">purchase books</phrase>
+	<phrase weight="0.013888888888888888" count="1">accepted tenders embracing waste</phrase>
+	<phrase weight="0.013888888888888888" count="1">graphic design</phrase>
+	<phrase weight="0.013888888888888888" count="1">signed minutes</phrase>
+	<phrase weight="0.013888888888888888" count="1">miscellaneous supplies tender books</phrase>
+	<phrase weight="0.013888888888888888" count="1">corporate planning</phrase>
+	<phrase weight="0.013888888888888888" count="1">letters letters</phrase>
+	<phrase weight="0.013888888888888888" count="1">larger number</phrase>
+	<phrase weight="0.013888888888888888" count="1">whitley councils</phrase>
+	<phrase weight="0.013888888888888888" count="1">chief executive</phrase>
+	<phrase weight="0.013888888888888888" count="1">miscellaneous supplies tender books supplies tender books</phrase>
+	<phrase weight="0.013888888888888888" count="1">private letter books entry books</phrase>
+  </topic>
+</topics>

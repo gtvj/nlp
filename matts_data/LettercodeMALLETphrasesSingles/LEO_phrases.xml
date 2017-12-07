@@ -1,0 +1,22 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="29.1405404617683" totalTokens="21" titles="government, local, inquiry, lyons, funding, function, role, recommendations, make, exchequer">
+	<word weight="0.09523809523809523" count="2">government</word>
+	<word weight="0.09523809523809523" count="2">local</word>
+	<word weight="0.09523809523809523" count="2">inquiry</word>
+	<word weight="0.09523809523809523" count="2">lyons</word>
+	<word weight="0.047619047619047616" count="1">funding</word>
+	<word weight="0.047619047619047616" count="1">function</word>
+	<word weight="0.047619047619047616" count="1">role</word>
+	<word weight="0.047619047619047616" count="1">recommendations</word>
+	<word weight="0.047619047619047616" count="1">make</word>
+	<word weight="0.047619047619047616" count="1">exchequer</word>
+	<word weight="0.047619047619047616" count="1">chancellor</word>
+	<word weight="0.047619047619047616" count="1">minister</word>
+	<word weight="0.047619047619047616" count="1">prime</word>
+	<word weight="0.047619047619047616" count="1">deputy</word>
+	<word weight="0.047619047619047616" count="1">commissioned</word>
+	<word weight="0.047619047619047616" count="1">michael</word>
+	<word weight="0.047619047619047616" count="1">chairmanship</word>
+  </topic>
+</topics>

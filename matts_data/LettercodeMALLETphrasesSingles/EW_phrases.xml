@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.951004311905294" totalTokens="977" titles="economic, regional, affairs, planning, successors, policy, east, committee, south, division">
+	<word weight="0.0736949846468782" count="72">economic</word>
+	<word weight="0.04503582395087001" count="44">regional</word>
+	<word weight="0.03582395087001024" count="35">affairs</word>
+	<word weight="0.03480040941658137" count="34">planning</word>
+	<word weight="0.032753326509723645" count="32">successors</word>
+	<word weight="0.028659160696008188" count="28">policy</word>
+	<word weight="0.02354145342886387" count="23">east</word>
+	<word weight="0.017400204708290685" count="17">committee</word>
+	<word weight="0.017400204708290685" count="17">south</word>
+	<word weight="0.016376663254861822" count="16">division</word>
+	<word weight="0.014329580348004094" count="14">industrial</word>
+	<word weight="0.014329580348004094" count="14">development</word>
+	<word weight="0.012282497441146366" count="12">minutes</word>
+	<word weight="0.012282497441146366" count="12">council</word>
+	<word weight="0.012282497441146366" count="12">subjects</word>
+	<word weight="0.011258955987717503" count="11">group</word>
+	<word weight="0.011258955987717503" count="11">national</word>
+	<word weight="0.009211873080859774" count="9">west</word>
+	<word weight="0.009211873080859774" count="9">board</word>
+	<word weight="0.009211873080859774" count="9">plan</word>
+  </topic>
+</topics>

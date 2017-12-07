@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="71.58508132352459" totalTokens="86" titles="marshall, commission, commemoration, aid, reports, annual, books, minute, scholarship, division">
+	<word weight="0.16279069767441862" count="14">marshall</word>
+	<word weight="0.13953488372093023" count="12">commission</word>
+	<word weight="0.13953488372093023" count="12">commemoration</word>
+	<word weight="0.13953488372093023" count="12">aid</word>
+	<word weight="0.03488372093023256" count="3">reports</word>
+	<word weight="0.03488372093023256" count="3">annual</word>
+	<word weight="0.023255813953488372" count="2">books</word>
+	<word weight="0.023255813953488372" count="2">minute</word>
+	<word weight="0.023255813953488372" count="2">scholarship</word>
+	<word weight="0.011627906976744186" count="1">scholar</word>
+	<word weight="0.011627906976744186" count="1">division</word>
+	<word weight="0.011627906976744186" count="1">personal</word>
+	<word weight="0.011627906976744186" count="1">scholars</word>
+	<word weight="0.011627906976744186" count="1">sample</word>
+	<word weight="0.011627906976744186" count="1">scientific</word>
+	<word weight="0.011627906976744186" count="1">selection</word>
+	<word weight="0.011627906976744186" count="1">representative</word>
+	<word weight="0.011627906976744186" count="1">meetings</word>
+	<word weight="0.011627906976744186" count="1">commission's</word>
+	<word weight="0.011627906976744186" count="1">citizens</word>
+  </topic>
+</topics>

@@ -1,0 +1,22 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0" totalTokens="80" titles="science, aquaculture, fisheries, environment, centre, cefas, government, data, real-time, wavenet">
+	<word weight="0.1375" count="11">science</word>
+	<word weight="0.1375" count="11">aquaculture</word>
+	<word weight="0.1375" count="11">fisheries</word>
+	<word weight="0.1375" count="11">environment</word>
+	<word weight="0.1375" count="11">centre</word>
+	<word weight="0.125" count="10">cefas</word>
+	<word weight="0.025" count="2">government</word>
+	<word weight="0.025" count="2">data</word>
+	<word weight="0.025" count="2">real-time</word>
+	<word weight="0.025" count="2">wavenet</word>
+	<word weight="0.0125" count="1">https://www.cefas.co.uk</word>
+	<word weight="0.0125" count="1">http://www.cefas.defra.gov.uk</word>
+	<word weight="0.0125" count="1">defra</word>
+	<word weight="0.0125" count="1">http://www.cefas.co.uk</word>
+	<word weight="0.0125" count="1">field</word>
+	<word weight="0.0125" count="1">general</word>
+	<word weight="0.0125" count="1">division</word>
+  </topic>
+</topics>

@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.924055778555822" totalTokens="621" titles="books, lc, chamberlain, lord, accounts, household, royal, correspondence, warrants, entry">
+	<word weight="0.04508856682769726" count="28">books</word>
+	<word weight="0.04508856682769726" count="28">lc</word>
+	<word weight="0.040257648953301126" count="25">chamberlain</word>
+	<word weight="0.040257648953301126" count="25">lord</word>
+	<word weight="0.027375201288244767" count="17">accounts</word>
+	<word weight="0.01288244766505636" count="8">household</word>
+	<word weight="0.01288244766505636" count="8">royal</word>
+	<word weight="0.01288244766505636" count="8">correspondence</word>
+	<word weight="0.01288244766505636" count="8">warrants</word>
+	<word weight="0.011272141706924315" count="7">entry</word>
+	<word weight="0.011272141706924315" count="7">theatres</word>
+	<word weight="0.00966183574879227" count="6">lists</word>
+	<word weight="0.00966183574879227" count="6">robes</word>
+	<word weight="0.008051529790660225" count="5">warrant</word>
+	<word weight="0.008051529790660225" count="5">recognizances</word>
+	<word weight="0.008051529790660225" count="5">events</word>
+	<word weight="0.008051529790660225" count="5">appointments</word>
+	<word weight="0.008051529790660225" count="5">wardrobe</word>
+	<word weight="0.008051529790660225" count="5">great</word>
+	<word weight="0.00644122383252818" count="4">rolls</word>
+	<phrase weight="0.20202020202020202" count="20">lord chamberlain</phrase>
+	<phrase weight="0.050505050505050504" count="5">entry books</phrase>
+	<phrase weight="0.04040404040404041" count="4">great wardrobe</phrase>
+	<phrase weight="0.04040404040404041" count="4">royal household</phrase>
+	<phrase weight="0.030303030303030304" count="3">warrant books</phrase>
+	<phrase weight="0.030303030303030304" count="3">drawing rooms</phrase>
+	<phrase weight="0.020202020202020204" count="2">queen victoria</phrase>
+	<phrase weight="0.020202020202020204" count="2">chamber warrant books</phrase>
+	<phrase weight="0.010101010101010102" count="1">delegates wishing</phrase>
+	<phrase weight="0.010101010101010102" count="1">presentation lists</phrase>
+	<phrase weight="0.010101010101010102" count="1">extraordinary bills</phrase>
+	<phrase weight="0.010101010101010102" count="1">bill books</phrase>
+	<phrase weight="0.010101010101010102" count="1">relevant regulations</phrase>
+	<phrase weight="0.010101010101010102" count="1">stage plays</phrase>
+	<phrase weight="0.010101010101010102" count="1">royal warrants</phrase>
+	<phrase weight="0.010101010101010102" count="1">bonnet makers</phrase>
+	<phrase weight="0.010101010101010102" count="1">specimen tickets</phrase>
+	<phrase weight="0.010101010101010102" count="1">social events</phrase>
+	<phrase weight="0.010101010101010102" count="1">titled personages</phrase>
+	<phrase weight="0.010101010101010102" count="1">lace makers</phrase>
+  </topic>
+</topics>

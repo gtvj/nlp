@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="9.119640775356858" totalTokens="525" titles="site, conservation, nature, sites, joint, committee, ramsar, publications, data, wetlands">
+	<word weight="0.047619047619047616" count="25">site</word>
+	<word weight="0.047619047619047616" count="25">conservation</word>
+	<word weight="0.04" count="21">nature</word>
+	<word weight="0.02857142857142857" count="15">sites</word>
+	<word weight="0.02857142857142857" count="15">joint</word>
+	<word weight="0.02666666666666667" count="14">committee</word>
+	<word weight="0.024761904761904763" count="13">ramsar</word>
+	<word weight="0.022857142857142857" count="12">publications</word>
+	<word weight="0.02095238095238095" count="11">data</word>
+	<word weight="0.013333333333333334" count="7">wetlands</word>
+	<word weight="0.013333333333333334" count="7">directive</word>
+	<word weight="0.011428571428571429" count="6">ris</word>
+	<word weight="0.011428571428571429" count="6">species</word>
+	<word weight="0.011428571428571429" count="6">ecological</word>
+	<word weight="0.011428571428571429" count="6">datasets</word>
+	<word weight="0.011428571428571429" count="6">natura</word>
+	<word weight="0.011428571428571429" count="6">areas</word>
+	<word weight="0.009523809523809525" count="5">sourced</word>
+	<word weight="0.009523809523809525" count="5">reports</word>
+	<word weight="0.009523809523809525" count="5">character</word>
+  </topic>
+</topics>

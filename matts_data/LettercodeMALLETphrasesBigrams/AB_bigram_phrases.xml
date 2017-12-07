@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.234576795933319" totalTokens="3939" titles="united kingdom atomic energy authority, atomic energy research, ab, correspondence, harwell, northern, winfrith, culham, laboratory, reports">
+	<word weight="0.07184564610307184" count="283">energy</word>
+	<word weight="0.07108403148007109" count="280">atomic</word>
+	<word weight="0.051535922823051535" count="203">united</word>
+	<word weight="0.05128205128205128" count="202">kingdom</word>
+	<word weight="0.04061944656004062" count="160">authority</word>
+	<word weight="0.027925869510027925" count="110">ab</word>
+	<word weight="0.02487941101802488" count="98">research</word>
+	<word weight="0.021325209444021324" count="84">correspondence</word>
+	<word weight="0.019294237116019294" count="76">harwell</word>
+	<word weight="0.013709063214013708" count="54">northern</word>
+	<word weight="0.013455191673013456" count="53">winfrith</word>
+	<word weight="0.012947448591012947" count="51">culham</word>
+	<word weight="0.01243970550901244" count="49">laboratory</word>
+	<word weight="0.012185833968012186" count="48">reports</word>
+	<word weight="0.009647118558009647" count="38">london</word>
+	<word weight="0.008885503935008886" count="35">division</word>
+	<word weight="0.008377760853008377" count="33">development</word>
+	<word weight="0.008123889312008125" count="32">production</word>
+	<word weight="0.007362274689007363" count="29">safety</word>
+	<word weight="0.006600660066006601" count="26">technical</word>
+	<phrase weight="0.14265335235378032" count="100">united kingdom atomic energy authority</phrase>
+	<phrase weight="0.037089871611982884" count="26">kingdom atomic energy authority</phrase>
+	<phrase weight="0.03138373751783167" count="22">atomic energy research</phrase>
+	<phrase weight="0.03138373751783167" count="22">united kingdom atomic energy</phrase>
+	<phrase weight="0.021398002853067047" count="15">united kingdom atomic energy research</phrase>
+	<phrase weight="0.019971469329529243" count="14">atomic energy</phrase>
+	<phrase weight="0.018544935805991442" count="13">energy research</phrase>
+	<phrase weight="0.015691868758915834" count="11">technical administration</phrase>
+	<phrase weight="0.014265335235378032" count="10">senior management</phrase>
+	<phrase weight="0.012838801711840228" count="9">kingdom atomic energy</phrase>
+	<phrase weight="0.011412268188302425" count="8">culham laboratory</phrase>
+	<phrase weight="0.011412268188302425" count="8">diversification projects</phrase>
+	<phrase weight="0.011412268188302425" count="8">general administration</phrase>
+	<phrase weight="0.008559201141226819" count="6">kingdom atomic energy research</phrase>
+	<phrase weight="0.007132667617689016" count="5">tube alloys</phrase>
+	<phrase weight="0.007132667617689016" count="5">united kingdom atomic energy authority london</phrase>
+	<phrase weight="0.005706134094151213" count="4">engineering drawings</phrase>
+	<phrase weight="0.005706134094151213" count="4">kingdom atomic energy authority establishments</phrase>
+	<phrase weight="0.005706134094151213" count="4">industrial research</phrase>
+	<phrase weight="0.005706134094151213" count="4">uk government</phrase>
+  </topic>
+</topics>

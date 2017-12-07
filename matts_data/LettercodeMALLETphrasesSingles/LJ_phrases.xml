@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="14.453384939231373" totalTokens="175" titles="research, councils, laboratory, central, minutes, cclrc, committee, board, management, business">
+	<word weight="0.08571428571428572" count="15">research</word>
+	<word weight="0.08" count="14">councils</word>
+	<word weight="0.08" count="14">laboratory</word>
+	<word weight="0.07428571428571429" count="13">central</word>
+	<word weight="0.07428571428571429" count="13">council</word>
+	<word weight="0.04" count="7">minutes</word>
+	<word weight="0.022857142857142857" count="4">cclrc</word>
+	<word weight="0.022857142857142857" count="4">committee</word>
+	<word weight="0.017142857142857144" count="3">board</word>
+	<word weight="0.017142857142857144" count="3">management</word>
+	<word weight="0.017142857142857144" count="3">business</word>
+	<word weight="0.017142857142857144" count="3">corporate</word>
+	<word weight="0.017142857142857144" count="3">reports</word>
+	<word weight="0.017142857142857144" count="3">annual</word>
+	<word weight="0.017142857142857144" count="3">agenda</word>
+	<word weight="0.017142857142857144" count="3">meetings</word>
+	<word weight="0.017142857142857144" count="3">council's</word>
+	<word weight="0.017142857142857144" count="3">representative</word>
+	<word weight="0.017142857142857144" count="3">audit</word>
+	<word weight="0.011428571428571429" count="2">executive</word>
+  </topic>
+</topics>

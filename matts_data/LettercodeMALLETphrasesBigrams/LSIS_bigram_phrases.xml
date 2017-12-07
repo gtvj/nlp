@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.991195897802" totalTokens="252" titles="skills, improvement, learning, service, lsis, uk, support, government, excellence, programme">
+	<word weight="0.1111111111111111" count="28">skills</word>
+	<word weight="0.0992063492063492" count="25">improvement</word>
+	<word weight="0.0873015873015873" count="22">learning</word>
+	<word weight="0.07936507936507936" count="20">service</word>
+	<word weight="0.07936507936507936" count="20">lsis</word>
+	<word weight="0.07539682539682539" count="19">uk</word>
+	<word weight="0.06349206349206349" count="16">support</word>
+	<word weight="0.06349206349206349" count="16">government</word>
+	<word weight="0.031746031746031744" count="8">excellence</word>
+	<word weight="0.023809523809523808" count="6">programme</word>
+	<word weight="0.01984126984126984" count="5">gateway</word>
+	<word weight="0.01984126984126984" count="5">quality</word>
+	<word weight="0.015873015873015872" count="4">governance</word>
+	<word weight="0.015873015873015872" count="4">diploma</word>
+	<word weight="0.011904761904761904" count="3">org</word>
+	<word weight="0.011904761904761904" count="3">http</word>
+	<word weight="0.011904761904761904" count="3">qia</word>
+	<word weight="0.011904761904761904" count="3">general</word>
+	<word weight="0.007936507936507936" count="2">life</word>
+	<word weight="0.007936507936507936" count="2">excellencegateway</word>
+	<phrase weight="0.2558139534883721" count="11">uk government</phrase>
+	<phrase weight="0.09302325581395349" count="4">skills improvement service</phrase>
+	<phrase weight="0.06976744186046512" count="3">diploma support</phrase>
+	<phrase weight="0.046511627906976744" count="2">quality improvement</phrase>
+	<phrase weight="0.046511627906976744" count="2">lsn learning</phrase>
+	<phrase weight="0.046511627906976744" count="2">life improvement programme</phrase>
+	<phrase weight="0.046511627906976744" count="2">leadership skills</phrase>
+	<phrase weight="0.046511627906976744" count="2">bespoke support</phrase>
+	<phrase weight="0.046511627906976744" count="2">excellence gateway</phrase>
+	<phrase weight="0.023255813953488372" count="1">key skills support</phrase>
+	<phrase weight="0.023255813953488372" count="1">functional skills support programme</phrase>
+	<phrase weight="0.023255813953488372" count="1">excellence gateway treasury</phrase>
+	<phrase weight="0.023255813953488372" count="1">qia excellence gateway</phrase>
+	<phrase weight="0.023255813953488372" count="1">general qualifications support programme</phrase>
+	<phrase weight="0.023255813953488372" count="1">quality champions</phrase>
+	<phrase weight="0.023255813953488372" count="1">workforce support</phrase>
+	<phrase weight="0.023255813953488372" count="1">governance good practice</phrase>
+	<phrase weight="0.023255813953488372" count="1">read write</phrase>
+	<phrase weight="0.023255813953488372" count="1">good practice</phrase>
+	<phrase weight="0.023255813953488372" count="1">qualifications support programme</phrase>
+  </topic>
+</topics>

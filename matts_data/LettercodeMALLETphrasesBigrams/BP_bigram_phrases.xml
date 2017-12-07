@@ -1,0 +1,43 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="23.013853488269813" totalTokens="134" titles="commission, royal, fine, art, bp, reports, warrants, minutes, correspondence, meetings">
+	<word weight="0.09701492537313433" count="13">commission</word>
+	<word weight="0.08955223880597014" count="12">royal</word>
+	<word weight="0.07462686567164178" count="10">fine</word>
+	<word weight="0.06716417910447761" count="9">art</word>
+	<word weight="0.05970149253731343" count="8">bp</word>
+	<word weight="0.029850746268656716" count="4">reports</word>
+	<word weight="0.022388059701492536" count="3">report</word>
+	<word weight="0.022388059701492536" count="3">warrants</word>
+	<word weight="0.022388059701492536" count="3">minutes</word>
+	<word weight="0.022388059701492536" count="3">correspondence</word>
+	<word weight="0.014925373134328358" count="2">warrant</word>
+	<word weight="0.014925373134328358" count="2">meetings</word>
+	<word weight="0.014925373134328358" count="2">cases</word>
+	<word weight="0.014925373134328358" count="2">london</word>
+	<word weight="0.014925373134328358" count="2">building</word>
+	<word weight="0.014925373134328358" count="2">design</word>
+	<word weight="0.007462686567164179" count="1">longer</word>
+	<word weight="0.007462686567164179" count="1">work</word>
+	<word weight="0.007462686567164179" count="1">replaced</word>
+	<word weight="0.007462686567164179" count="1">previous</word>
+	<phrase weight="0.25" count="6">royal fine art commission</phrase>
+	<phrase weight="0.08333333333333333" count="2">fine art commission</phrase>
+	<phrase weight="0.041666666666666664" count="1">reports changed</phrase>
+	<phrase weight="0.041666666666666664" count="1">heavily weeded</phrase>
+	<phrase weight="0.041666666666666664" count="1">building developments</phrase>
+	<phrase weight="0.041666666666666664" count="1">royal warrants</phrase>
+	<phrase weight="0.041666666666666664" count="1">street furniture</phrase>
+	<phrase weight="0.041666666666666664" count="1">detailed summary</phrase>
+	<phrase weight="0.041666666666666664" count="1">road building</phrase>
+	<phrase weight="0.041666666666666664" count="1">fine arts commission</phrase>
+	<phrase weight="0.041666666666666664" count="1">report deals</phrase>
+	<phrase weight="0.041666666666666664" count="1">warrants appointing members</phrase>
+	<phrase weight="0.041666666666666664" count="1">st pauls</phrase>
+	<phrase weight="0.041666666666666664" count="1">previous report</phrase>
+	<phrase weight="0.041666666666666664" count="1">annual reports</phrase>
+	<phrase weight="0.041666666666666664" count="1">war reconstruction</phrase>
+	<phrase weight="0.041666666666666664" count="1">london area</phrase>
+	<phrase weight="0.041666666666666664" count="1">meetings minutes</phrase>
+  </topic>
+</topics>

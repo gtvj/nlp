@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="55.755421522459585" totalTokens="94" titles="house, debates, commons, library, reports, parliamentary, official, index, sessional, publications">
+	<word weight="0.10638297872340426" count="10">house</word>
+	<word weight="0.07446808510638298" count="7">debates</word>
+	<word weight="0.07446808510638298" count="7">commons</word>
+	<word weight="0.06382978723404255" count="6">library</word>
+	<word weight="0.05319148936170213" count="5">reports</word>
+	<word weight="0.05319148936170213" count="5">parliamentary</word>
+	<word weight="0.05319148936170213" count="5">official</word>
+	<word weight="0.0425531914893617" count="4">index</word>
+	<word weight="0.031914893617021274" count="3">sessional</word>
+	<word weight="0.031914893617021274" count="3">publications</word>
+	<word weight="0.031914893617021274" count="3">onwards</word>
+	<word weight="0.031914893617021274" count="3">lords</word>
+	<word weight="0.02127659574468085" count="2">report</word>
+	<word weight="0.02127659574468085" count="2">public</word>
+	<word weight="0.02127659574468085" count="2">previously</word>
+	<word weight="0.02127659574468085" count="2">hansard</word>
+	<word weight="0.010638297872340425" count="1">referenced</word>
+	<word weight="0.010638297872340425" count="1">microfiche</word>
+	<word weight="0.010638297872340425" count="1">cd-rom</word>
+	<word weight="0.010638297872340425" count="1">form</word>
+  </topic>
+</topics>

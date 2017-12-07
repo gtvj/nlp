@@ -1,0 +1,36 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="25.127815517101826" totalTokens="101" titles="child, support, ly, reports, examiner, case, independent, csa, meetings, annual">
+	<word weight="0.1485148514851485" count="15">child</word>
+	<word weight="0.13861386138613863" count="14">support</word>
+	<word weight="0.10891089108910891" count="11">ly</word>
+	<word weight="0.0594059405940594" count="6">reports</word>
+	<word weight="0.04950495049504951" count="5">examiner</word>
+	<word weight="0.04950495049504951" count="5">case</word>
+	<word weight="0.04950495049504951" count="5">independent</word>
+	<word weight="0.039603960396039604" count="4">csa</word>
+	<word weight="0.039603960396039604" count="4">meetings</word>
+	<word weight="0.0297029702970297" count="3">annual</word>
+	<word weight="0.0297029702970297" count="3">board</word>
+	<word weight="0.0297029702970297" count="3">minutes</word>
+	<word weight="0.0297029702970297" count="3">registry</word>
+	<word weight="0.019801980198019802" count="2">notes</word>
+	<word weight="0.019801980198019802" count="2">summary</word>
+	<word weight="0.019801980198019802" count="2">maintenance</word>
+	<word weight="0.019801980198019802" count="2">government</word>
+	<word weight="0.019801980198019802" count="2">uk</word>
+	<word weight="0.009900990099009901" count="1">benefit</word>
+	<word weight="0.009900990099009901" count="1">team</word>
+	<phrase weight="0.391304347826087" count="9">child support</phrase>
+	<phrase weight="0.13043478260869565" count="3">independent case examiner</phrase>
+	<phrase weight="0.08695652173913043" count="2">case examiner</phrase>
+	<phrase weight="0.08695652173913043" count="2">summary notes</phrase>
+	<phrase weight="0.043478260869565216" count="1">child maintenance</phrase>
+	<phrase weight="0.043478260869565216" count="1">absent parents</phrase>
+	<phrase weight="0.043478260869565216" count="1">annual reports</phrase>
+	<phrase weight="0.043478260869565216" count="1">uk government</phrase>
+	<phrase weight="0.043478260869565216" count="1">reports annual reports</phrase>
+	<phrase weight="0.043478260869565216" count="1">board meetings</phrase>
+	<phrase weight="0.043478260869565216" count="1">child benefit support</phrase>
+  </topic>
+</topics>

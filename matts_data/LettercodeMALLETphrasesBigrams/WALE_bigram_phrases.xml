@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.466437965779776" totalTokens="609" titles="wales, july, library, national, rolls, principality, deeds, chester, plea, palatinate">
+	<word weight="0.08866995073891626" count="54">wales</word>
+	<word weight="0.041050903119868636" count="25">july</word>
+	<word weight="0.041050903119868636" count="25">library</word>
+	<word weight="0.041050903119868636" count="25">national</word>
+	<word weight="0.027914614121510674" count="17">rolls</word>
+	<word weight="0.027914614121510674" count="17">principality</word>
+	<word weight="0.022988505747126436" count="14">deeds</word>
+	<word weight="0.021346469622331693" count="13">chester</word>
+	<word weight="0.021346469622331693" count="13">plea</word>
+	<word weight="0.0180623973727422" count="11">palatinate</word>
+	<word weight="0.013136288998357963" count="8">exchequer</word>
+	<word weight="0.011494252873563218" count="7">sessions</word>
+	<word weight="0.011494252873563218" count="7">caernarfon</word>
+	<word weight="0.011494252873563218" count="7">justice</word>
+	<word weight="0.011494252873563218" count="7">courts</word>
+	<word weight="0.011494252873563218" count="7">proceedings</word>
+	<word weight="0.011494252873563218" count="7">lordship</word>
+	<word weight="0.009852216748768473" count="6">legal</word>
+	<word weight="0.009852216748768473" count="6">court</word>
+	<word weight="0.008210180623973728" count="5">north</word>
+	<phrase weight="0.14285714285714285" count="12">national library</phrase>
+	<phrase weight="0.05952380952380952" count="5">north wales</phrase>
+	<phrase weight="0.03571428571428571" count="3">gaol delivery sections</phrase>
+	<phrase weight="0.03571428571428571" count="3">legal proceedings</phrase>
+	<phrase weight="0.023809523809523808" count="2">administrative institutions</phrase>
+	<phrase weight="0.023809523809523808" count="2">private deeds</phrase>
+	<phrase weight="0.023809523809523808" count="2">eighteenth centuries</phrase>
+	<phrase weight="0.023809523809523808" count="2">modern deeds</phrase>
+	<phrase weight="0.023809523809523808" count="2">merioneth plea rolls</phrase>
+	<phrase weight="0.023809523809523808" count="2">plea roll</phrase>
+	<phrase weight="0.023809523809523808" count="2">ancient deeds</phrase>
+	<phrase weight="0.011904761904761904" count="1">edward ap hugh</phrase>
+	<phrase weight="0.011904761904761904" count="1">brecon plea rolls</phrase>
+	<phrase weight="0.011904761904761904" count="1">denbigh plea rolls</phrase>
+	<phrase weight="0.011904761904761904" count="1">recording proceedings</phrase>
+	<phrase weight="0.011904761904761904" count="1">montgomery plea rolls</phrase>
+	<phrase weight="0.011904761904761904" count="1">courts baron</phrase>
+	<phrase weight="0.011904761904761904" count="1">remembrance rolls</phrase>
+	<phrase weight="0.011904761904761904" count="1">glamorgan plea rolls</phrase>
+	<phrase weight="0.011904761904761904" count="1">earlier proceedings</phrase>
+  </topic>
+</topics>

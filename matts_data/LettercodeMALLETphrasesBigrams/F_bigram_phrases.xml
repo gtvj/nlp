@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.568349928219118" totalTokens="1629" titles="forestry commission, england, woodland, woodlands, reports, maps, forests, data, research, committees">
+	<word weight="0.06875383670963782" count="112">forestry</word>
+	<word weight="0.05279312461632903" count="86">commission</word>
+	<word weight="0.03990178023327195" count="65">forest</word>
+	<word weight="0.021485573971761818" count="35">england</word>
+	<word weight="0.019643953345610803" count="32">woodland</word>
+	<word weight="0.016574585635359115" count="27">woodlands</word>
+	<word weight="0.015346838551258441" count="25">reports</word>
+	<word weight="0.013505217925107428" count="22">maps</word>
+	<word weight="0.01289134438305709" count="21">data</word>
+	<word weight="0.01289134438305709" count="21">forests</word>
+	<word weight="0.012277470841006752" count="20">research</word>
+	<word weight="0.011663597298956415" count="19">committees</word>
+	<word weight="0.010435850214855739" count="17">predecessors</word>
+	<word weight="0.009821976672805401" count="16">correspondence</word>
+	<word weight="0.009208103130755065" count="15">dean</word>
+	<word weight="0.008594229588704727" count="14">trees</word>
+	<word weight="0.008594229588704727" count="14">plans</word>
+	<word weight="0.008594229588704727" count="14">wales</word>
+	<word weight="0.00798035604665439" count="13">census</word>
+	<word weight="0.00798035604665439" count="13">director</word>
+	<phrase weight="0.16339869281045752" count="50">forestry commission</phrase>
+	<phrase weight="0.029411764705882353" count="9">uk government</phrase>
+	<phrase weight="0.0196078431372549" count="6">woodlands advisory committees</phrase>
+	<phrase weight="0.013071895424836602" count="4">small woodland</phrase>
+	<phrase weight="0.013071895424836602" count="4">woodlands advisory committee</phrase>
+	<phrase weight="0.013071895424836602" count="4">great britain</phrase>
+	<phrase weight="0.013071895424836602" count="4">land revenues</phrase>
+	<phrase weight="0.013071895424836602" count="4">digital maps</phrase>
+	<phrase weight="0.00980392156862745" count="3">dean forest</phrase>
+	<phrase weight="0.006535947712418301" count="2">alice holt forest</phrase>
+	<phrase weight="0.006535947712418301" count="2">forest type</phrase>
+	<phrase weight="0.006535947712418301" count="2">salcey forest</phrase>
+	<phrase weight="0.006535947712418301" count="2">divisional officers</phrase>
+	<phrase weight="0.006535947712418301" count="2">annual reports</phrase>
+	<phrase weight="0.006535947712418301" count="2">delamere forest</phrase>
+	<phrase weight="0.006535947712418301" count="2">free miners</phrase>
+	<phrase weight="0.006535947712418301" count="2">chopwell forest</phrase>
+	<phrase weight="0.006535947712418301" count="2">woodland survey</phrase>
+	<phrase weight="0.006535947712418301" count="2">working plans</phrase>
+	<phrase weight="0.006535947712418301" count="2">woolmer forest</phrase>
+  </topic>
+</topics>

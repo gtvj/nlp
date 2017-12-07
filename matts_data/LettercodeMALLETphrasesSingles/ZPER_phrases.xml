@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.255640622669871" totalTokens="2222" titles="periodicals, railway, transport, british, library, magazine, news, journal, general, london">
+	<word weight="0.11071107110711072" count="246">periodicals</word>
+	<word weight="0.09315931593159316" count="207">railway</word>
+	<word weight="0.08820882088208822" count="196">transport</word>
+	<word weight="0.07605760576057606" count="169">british</word>
+	<word weight="0.0594059405940594" count="132">library</word>
+	<word weight="0.04815481548154815" count="107">periodical</word>
+	<word weight="0.029252925292529253" count="65">magazine</word>
+	<word weight="0.021602160216021602" count="48">news</word>
+	<word weight="0.020702070207020702" count="46">journal</word>
+	<word weight="0.02025202520252025" count="45">general</word>
+	<word weight="0.01395139513951395" count="31">london</word>
+	<word weight="0.011251125112511251" count="25">gazette</word>
+	<word weight="0.011251125112511251" count="25">railways</word>
+	<word weight="0.010801080108010801" count="24">society</word>
+	<word weight="0.010351035103510351" count="23">region</word>
+	<word weight="0.010351035103510351" count="23">western</word>
+	<word weight="0.009450945094509451" count="21">eastern</word>
+	<word weight="0.008100810081008101" count="18">rail</word>
+	<word weight="0.00765076507650765" count="17">staff</word>
+	<word weight="0.00765076507650765" count="17">great</word>
+  </topic>
+</topics>

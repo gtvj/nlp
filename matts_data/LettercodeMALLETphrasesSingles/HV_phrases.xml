@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="47.52348275138537" totalTokens="105" titles="books, commission, paving, estate, crown, park, regent's, levied, rate, minute">
+	<word weight="0.09523809523809523" count="10">books</word>
+	<word weight="0.09523809523809523" count="10">commission</word>
+	<word weight="0.08571428571428572" count="9">paving</word>
+	<word weight="0.05714285714285714" count="6">estate</word>
+	<word weight="0.05714285714285714" count="6">crown</word>
+	<word weight="0.047619047619047616" count="5">park</word>
+	<word weight="0.0380952380952381" count="4">regent's</word>
+	<word weight="0.02857142857142857" count="3">levied</word>
+	<word weight="0.02857142857142857" count="3">rate</word>
+	<word weight="0.02857142857142857" count="3">minute</word>
+	<word weight="0.02857142857142857" count="3">properties</word>
+	<word weight="0.02857142857142857" count="3">rates</word>
+	<word weight="0.02857142857142857" count="3">sewer</word>
+	<word weight="0.01904761904761905" count="2">payments</word>
+	<word weight="0.01904761904761905" count="2">payees</word>
+	<word weight="0.01904761904761905" count="2">act</word>
+	<word weight="0.01904761904761905" count="2">recording</word>
+	<word weight="0.01904761904761905" count="2">london</word>
+	<word weight="0.01904761904761905" count="2">adjacent</word>
+	<word weight="0.01904761904761905" count="2">commissioners</word>
+  </topic>
+</topics>

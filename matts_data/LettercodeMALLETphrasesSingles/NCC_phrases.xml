@@ -1,0 +1,19 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.9630978001711439" totalTokens="33" titles="council, consumer, national, meetings, minutes, ncc, interests, affecting, programmes, legislative">
+	<word weight="0.18181818181818182" count="6">council</word>
+	<word weight="0.18181818181818182" count="6">consumer</word>
+	<word weight="0.12121212121212122" count="4">national</word>
+	<word weight="0.09090909090909091" count="3">meetings</word>
+	<word weight="0.09090909090909091" count="3">minutes</word>
+	<word weight="0.09090909090909091" count="3">ncc</word>
+	<word weight="0.030303030303030304" count="1">interests</word>
+	<word weight="0.030303030303030304" count="1">affecting</word>
+	<word weight="0.030303030303030304" count="1">programmes</word>
+	<word weight="0.030303030303030304" count="1">legislative</word>
+	<word weight="0.030303030303030304" count="1">privatisation</word>
+	<word weight="0.030303030303030304" count="1">representation</word>
+	<word weight="0.030303030303030304" count="1">discussions</word>
+	<word weight="0.030303030303030304" count="1">resulting</word>
+  </topic>
+</topics>

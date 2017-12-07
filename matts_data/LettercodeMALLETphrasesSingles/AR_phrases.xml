@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="167.8001931642765" totalTokens="80" titles="collection, wallace, museum, general, correspondence, hertford, online, government, division, exhibits">
+	<word weight="0.2125" count="17">collection</word>
+	<word weight="0.1625" count="13">wallace</word>
+	<word weight="0.0375" count="3">museum</word>
+	<word weight="0.025" count="2">general</word>
+	<word weight="0.025" count="2">correspondence</word>
+	<word weight="0.025" count="2">hertford</word>
+	<word weight="0.025" count="2">online</word>
+	<word weight="0.025" count="2">government</word>
+	<word weight="0.0125" count="1">division</word>
+	<word weight="0.0125" count="1">exhibits</word>
+	<word weight="0.0125" count="1">holds</word>
+	<word weight="0.0125" count="1">items</word>
+	<word weight="0.0125" count="1">miscellaneous</word>
+	<word weight="0.0125" count="1">register</word>
+	<word weight="0.0125" count="1">administrative</word>
+	<word weight="0.0125" count="1">directors</word>
+	<word weight="0.0125" count="1">trustees</word>
+	<word weight="0.0125" count="1">post</word>
+	<word weight="0.0125" count="1">history</word>
+	<word weight="0.0125" count="1">contemporaries</word>
+  </topic>
+</topics>

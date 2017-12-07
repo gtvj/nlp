@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.130303537566281" totalTokens="773" titles="prison, books, queen, prisoners, commitment, bench, king, fleet, discharge, names">
+	<word weight="0.1034928848641656" count="80">prison</word>
+	<word weight="0.05304010349288486" count="41">books</word>
+	<word weight="0.04657179818887452" count="36">queen</word>
+	<word weight="0.03234152652005175" count="25">prisoners</word>
+	<word weight="0.029754204398447608" count="23">commitment</word>
+	<word weight="0.0258732212160414" count="20">bench</word>
+	<word weight="0.0258732212160414" count="20">king</word>
+	<word weight="0.02457956015523933" count="19">fleet</word>
+	<word weight="0.02069857697283312" count="16">discharge</word>
+	<word weight="0.016817593790426907" count="13">prisoner</word>
+	<word weight="0.015523932729624839" count="12">names</word>
+	<word weight="0.015523932729624839" count="12">number</word>
+	<word weight="0.01164294954721863" count="9">debtors</word>
+	<word weight="0.01034928848641656" count="8">recording</word>
+	<word weight="0.01034928848641656" count="8">trace</word>
+	<word weight="0.009055627425614488" count="7">marshalsea</word>
+	<word weight="0.007761966364812419" count="6">discharges</word>
+	<word weight="0.00646830530401035" count="5">prisons</word>
+	<word weight="0.00646830530401035" count="5">day</word>
+	<word weight="0.00646830530401035" count="5">debtor</word>
+	<phrase weight="0.1111111111111111" count="14">bench prison</phrase>
+	<phrase weight="0.06349206349206349" count="8">commitment number</phrase>
+	<phrase weight="0.05555555555555555" count="7">fleet prison</phrase>
+	<phrase weight="0.023809523809523808" count="3">strong room</phrase>
+	<phrase weight="0.015873015873015872" count="2">prison inspections</phrase>
+	<phrase weight="0.015873015873015872" count="2">rioters act</phrase>
+	<phrase weight="0.007936507936507936" count="1">rough lists</phrase>
+	<phrase weight="0.007936507936507936" count="1">charles dickens</phrase>
+	<phrase weight="0.007936507936507936" count="1">reporting officer</phrase>
+	<phrase weight="0.007936507936507936" count="1">miscellaneous books books</phrase>
+	<phrase weight="0.007936507936507936" count="1">misplaced letters</phrase>
+	<phrase weight="0.007936507936507936" count="1">freed debtors</phrase>
+	<phrase weight="0.007936507936507936" count="1">occasionally supporting evidence</phrase>
+	<phrase weight="0.007936507936507936" count="1">execution books</phrase>
+	<phrase weight="0.007936507936507936" count="1">commitment numbers</phrase>
+	<phrase weight="0.007936507936507936" count="1">donation books</phrase>
+	<phrase weight="0.007936507936507936" count="1">riots prisoners</phrase>
+	<phrase weight="0.007936507936507936" count="1">recording transcripts</phrase>
+	<phrase weight="0.007936507936507936" count="1">poor inmates</phrase>
+	<phrase weight="0.007936507936507936" count="1">marshalsea prison</phrase>
+  </topic>
+</topics>

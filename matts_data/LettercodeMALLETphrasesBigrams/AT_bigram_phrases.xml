@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.1757101334555005" totalTokens="5150" titles="local government, environment, planning, housing, divisions, policy, directorate, transport, water, data">
+	<word weight="0.028932038834951455" count="149">environment</word>
+	<word weight="0.02233009708737864" count="115">planning</word>
+	<word weight="0.02174757281553398" count="112">housing</word>
+	<word weight="0.020970873786407766" count="108">local</word>
+	<word weight="0.02" count="103">government</word>
+	<word weight="0.016116504854368933" count="83">divisions</word>
+	<word weight="0.013592233009708738" count="70">policy</word>
+	<word weight="0.013398058252427184" count="69">directorate</word>
+	<word weight="0.012427184466019418" count="64">division</word>
+	<word weight="0.009320388349514564" count="48">transport</word>
+	<word weight="0.007961165048543689" count="41">water</word>
+	<word weight="0.007766990291262136" count="40">finance</word>
+	<word weight="0.007766990291262136" count="40">data</word>
+	<word weight="0.007184466019417476" count="37">countryside</word>
+	<word weight="0.006990291262135922" count="36">committee</word>
+	<word weight="0.006990291262135922" count="36">uk</word>
+	<word weight="0.006796116504854369" count="35">land</word>
+	<word weight="0.006796116504854369" count="35">development</word>
+	<word weight="0.006213592233009709" count="32">successors</word>
+	<word weight="0.006019417475728156" count="31">london</word>
+	<phrase weight="0.039045553145336226" count="36">local government</phrase>
+	<phrase weight="0.009761388286334056" count="9">uk government</phrase>
+	<phrase weight="0.007592190889370932" count="7">clean air</phrase>
+	<phrase weight="0.006507592190889371" count="6">annual reports</phrase>
+	<phrase weight="0.006507592190889371" count="6">ancient monuments</phrase>
+	<phrase weight="0.006507592190889371" count="6">local authorities</phrase>
+	<phrase weight="0.005422993492407809" count="5">local government finance</phrase>
+	<phrase weight="0.005422993492407809" count="5">deputy prime minister</phrase>
+	<phrase weight="0.005422993492407809" count="5">recreation directorate</phrase>
+	<phrase weight="0.005422993492407809" count="5">housing data</phrase>
+	<phrase weight="0.005422993492407809" count="5">building research</phrase>
+	<phrase weight="0.005422993492407809" count="5">planning inspectorate</phrase>
+	<phrase weight="0.005422993492407809" count="5">water resources board</phrase>
+	<phrase weight="0.005422993492407809" count="5">planning policy</phrase>
+	<phrase weight="0.005422993492407809" count="5">audit commission</phrase>
+	<phrase weight="0.004338394793926247" count="4">resources action programme</phrase>
+	<phrase weight="0.004338394793926247" count="4">general division</phrase>
+	<phrase weight="0.004338394793926247" count="4">national parks</phrase>
+	<phrase weight="0.004338394793926247" count="4">queen elizabeth ii conference centre</phrase>
+	<phrase weight="0.004338394793926247" count="4">ancient monuments laboratory</phrase>
+  </topic>
+</topics>

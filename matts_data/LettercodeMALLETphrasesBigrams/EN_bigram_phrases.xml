@@ -1,0 +1,28 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="49.91252119981846" totalTokens="80" titles="war, museum, imperial, en, central, ii, world, section, force, air">
+	<word weight="0.175" count="14">war</word>
+	<word weight="0.1375" count="11">museum</word>
+	<word weight="0.1375" count="11">imperial</word>
+	<word weight="0.1125" count="9">en</word>
+	<word weight="0.075" count="6">central</word>
+	<word weight="0.0375" count="3">ii</word>
+	<word weight="0.0375" count="3">world</word>
+	<word weight="0.0375" count="3">section</word>
+	<word weight="0.0375" count="3">force</word>
+	<word weight="0.0375" count="3">air</word>
+	<word weight="0.0375" count="3">royal</word>
+	<word weight="0.0375" count="3">wwi</word>
+	<word weight="0.025" count="2">government</word>
+	<word weight="0.025" count="2">uk</word>
+	<word weight="0.025" count="2">blogs</word>
+	<word weight="0.0125" count="1">relates</word>
+	<word weight="0.0125" count="1">division</word>
+	<phrase weight="0.5" count="7">imperial war museum</phrase>
+	<phrase weight="0.14285714285714285" count="2">world war ii</phrase>
+	<phrase weight="0.14285714285714285" count="2">war museum</phrase>
+	<phrase weight="0.07142857142857142" count="1">royal air force section</phrase>
+	<phrase weight="0.07142857142857142" count="1">uk government</phrase>
+	<phrase weight="0.07142857142857142" count="1">air force section</phrase>
+  </topic>
+</topics>

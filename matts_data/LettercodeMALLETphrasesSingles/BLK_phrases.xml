@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="10.603171587753703" totalTokens="154" titles="business, link, government, businesslink, finder, contracts, jobmatch, universal, queen's, june">
+	<word weight="0.19480519480519481" count="30">business</word>
+	<word weight="0.16883116883116883" count="26">link</word>
+	<word weight="0.08441558441558442" count="13">government</word>
+	<word weight="0.03896103896103896" count="6">businesslink</word>
+	<word weight="0.032467532467532464" count="5">finder</word>
+	<word weight="0.032467532467532464" count="5">contracts</word>
+	<word weight="0.025974025974025976" count="4">jobmatch</word>
+	<word weight="0.025974025974025976" count="4">universal</word>
+	<word weight="0.01948051948051948" count="3">queen's</word>
+	<word weight="0.012987012987012988" count="2">june</word>
+	<word weight="0.012987012987012988" count="2">affect</word>
+	<word weight="0.012987012987012988" count="2">budget</word>
+	<word weight="0.012987012987012988" count="2">field</word>
+	<word weight="0.012987012987012988" count="2">general</word>
+	<word weight="0.012987012987012988" count="2">awards</word>
+	<word weight="0.012987012987012988" count="2">payments</word>
+	<word weight="0.012987012987012988" count="2">electronic</word>
+	<word weight="0.012987012987012988" count="2">service</word>
+	<word weight="0.012987012987012988" count="2">improvement</word>
+	<word weight="0.012987012987012988" count="2">growth</word>
+  </topic>
+</topics>

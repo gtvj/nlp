@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.198951513181722" totalTokens="687" titles="manpower services commission, division, employment, training, planning, minutes, central, policy, special, work">
+	<word weight="0.1222707423580786" count="84">services</word>
+	<word weight="0.08879184861717612" count="61">manpower</word>
+	<word weight="0.07860262008733625" count="54">commission</word>
+	<word weight="0.06695778748180495" count="46">division</word>
+	<word weight="0.05822416302765648" count="40">employment</word>
+	<word weight="0.02911208151382824" count="20">training</word>
+	<word weight="0.021834061135371178" count="15">service</word>
+	<word weight="0.020378457059679767" count="14">planning</word>
+	<word weight="0.017467248908296942" count="12">minutes</word>
+	<word weight="0.01601164483260553" count="11">central</word>
+	<word weight="0.013100436681222707" count="9">special</word>
+	<word weight="0.013100436681222707" count="9">policy</word>
+	<word weight="0.011644832605531296" count="8">intelligence</word>
+	<word weight="0.011644832605531296" count="8">work</word>
+	<word weight="0.008733624454148471" count="6">assigned</word>
+	<word weight="0.00727802037845706" count="5">committee</word>
+	<word weight="0.00727802037845706" count="5">executive</word>
+	<word weight="0.00727802037845706" count="5">disabled</word>
+	<word weight="0.005822416302765648" count="4">unemployed</word>
+	<word weight="0.005822416302765648" count="4">policies</word>
+	<phrase weight="0.25316455696202533" count="40">manpower services commission</phrase>
+	<phrase weight="0.06329113924050633" count="10">employment services</phrase>
+	<phrase weight="0.05063291139240506" count="8">services commission</phrase>
+	<phrase weight="0.0379746835443038" count="6">services division</phrase>
+	<phrase weight="0.03164556962025317" count="5">planning division</phrase>
+	<phrase weight="0.02531645569620253" count="4">service division</phrase>
+	<phrase weight="0.02531645569620253" count="4">training services</phrase>
+	<phrase weight="0.0189873417721519" count="3">programmes division</phrase>
+	<phrase weight="0.0189873417721519" count="3">employment service</phrase>
+	<phrase weight="0.0189873417721519" count="3">planning branch</phrase>
+	<phrase weight="0.0189873417721519" count="3">ethnic minorities</phrase>
+	<phrase weight="0.012658227848101266" count="2">special employment</phrase>
+	<phrase weight="0.012658227848101266" count="2">term unemployed</phrase>
+	<phrase weight="0.012658227848101266" count="2">disabled persons</phrase>
+	<phrase weight="0.012658227848101266" count="2">advisory committees</phrase>
+	<phrase weight="0.012658227848101266" count="2">skill shortages</phrase>
+	<phrase weight="0.012658227848101266" count="2">manpower strategy</phrase>
+	<phrase weight="0.012658227848101266" count="2">sheltered conditions</phrase>
+	<phrase weight="0.006329113924050633" count="1">industrial rehabilitation units</phrase>
+	<phrase weight="0.006329113924050633" count="1">manpower services commissioners</phrase>
+  </topic>
+</topics>

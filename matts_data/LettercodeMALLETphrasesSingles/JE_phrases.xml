@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="11.390889434840371" totalTokens="187" titles="lottery, national, big, commission, fund, government, blog, licences, reports, annual">
+	<word weight="0.19786096256684493" count="37">lottery</word>
+	<word weight="0.12299465240641712" count="23">national</word>
+	<word weight="0.0748663101604278" count="14">big</word>
+	<word weight="0.06951871657754011" count="13">commission</word>
+	<word weight="0.0481283422459893" count="9">fund</word>
+	<word weight="0.03208556149732621" count="6">government</word>
+	<word weight="0.026737967914438502" count="5">blog</word>
+	<word weight="0.0213903743315508" count="4">licences</word>
+	<word weight="0.016042780748663103" count="3">reports</word>
+	<word weight="0.016042780748663103" count="3">annual</word>
+	<word weight="0.016042780748663103" count="3">run</word>
+	<word weight="0.016042780748663103" count="3">licence</word>
+	<word weight="0.016042780748663103" count="3">general</word>
+	<word weight="0.0106951871657754" count="2">successors</word>
+	<word weight="0.0106951871657754" count="2">administration</word>
+	<word weight="0.0106951871657754" count="2">activities</word>
+	<word weight="0.0106951871657754" count="2">games</word>
+	<word weight="0.0106951871657754" count="2">act</word>
+	<word weight="0.0106951871657754" count="2">section</word>
+	<word weight="0.0106951871657754" count="2">signed</word>
+  </topic>
+</topics>

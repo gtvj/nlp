@@ -1,0 +1,32 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="26.732292385161426" totalTokens="104" titles="council, curriculum, national, fw, minutes, committees, agenda, reports, circulars, meetings">
+	<word weight="0.16346153846153846" count="17">council</word>
+	<word weight="0.11538461538461539" count="12">curriculum</word>
+	<word weight="0.11538461538461539" count="12">national</word>
+	<word weight="0.10576923076923077" count="11">fw</word>
+	<word weight="0.0673076923076923" count="7">minutes</word>
+	<word weight="0.057692307692307696" count="6">committees</word>
+	<word weight="0.057692307692307696" count="6">agenda</word>
+	<word weight="0.038461538461538464" count="4">reports</word>
+	<word weight="0.028846153846153848" count="3">circulars</word>
+	<word weight="0.028846153846153848" count="3">meetings</word>
+	<word weight="0.028846153846153848" count="3">annual</word>
+	<word weight="0.019230769230769232" count="2">distributed</word>
+	<word weight="0.009615384615384616" count="1">working</word>
+	<word weight="0.009615384615384616" count="1">institutions</word>
+	<word weight="0.009615384615384616" count="1">interested</word>
+	<word weight="0.009615384615384616" count="1">schools</word>
+	<word weight="0.009615384615384616" count="1">procedural</word>
+	<word weight="0.009615384615384616" count="1">policy</word>
+	<word weight="0.009615384615384616" count="1">conveyed</word>
+	<word weight="0.009615384615384616" count="1">introduction</word>
+	<phrase weight="0.4117647058823529" count="7">national curriculum council</phrase>
+	<phrase weight="0.17647058823529413" count="3">curriculum council</phrase>
+	<phrase weight="0.11764705882352941" count="2">annual reports</phrase>
+	<phrase weight="0.11764705882352941" count="2">national curriculum</phrase>
+	<phrase weight="0.058823529411764705" count="1">committees set</phrase>
+	<phrase weight="0.058823529411764705" count="1">council meetings</phrase>
+	<phrase weight="0.058823529411764705" count="1">circulars distributed</phrase>
+  </topic>
+</topics>

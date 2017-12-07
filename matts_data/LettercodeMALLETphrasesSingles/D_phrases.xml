@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.601492270184621" totalTokens="1072" titles="development, commission, rural, areas, services, availability, reports, industries, numbers, facilities">
+	<word weight="0.07182835820895522" count="77">development</word>
+	<word weight="0.06436567164179105" count="69">commission</word>
+	<word weight="0.061567164179104475" count="66">rural</word>
+	<word weight="0.027985074626865673" count="30">areas</word>
+	<word weight="0.016791044776119403" count="18">services</word>
+	<word weight="0.013059701492537313" count="14">availability</word>
+	<word weight="0.012126865671641791" count="13">reports</word>
+	<word weight="0.012126865671641791" count="13">industries</word>
+	<word weight="0.011194029850746268" count="12">numbers</word>
+	<word weight="0.010261194029850746" count="11">facilities</word>
+	<word weight="0.010261194029850746" count="11">data</word>
+	<word weight="0.010261194029850746" count="11">survey</word>
+	<word weight="0.010261194029850746" count="11">settlement</word>
+	<word weight="0.009328358208955223" count="10">level</word>
+	<word weight="0.009328358208955223" count="10">small</word>
+	<word weight="0.009328358208955223" count="10">council</word>
+	<word weight="0.008395522388059701" count="9">parish</word>
+	<word weight="0.007462686567164179" count="8">questions</word>
+	<word weight="0.007462686567164179" count="8">surgeries</word>
+	<word weight="0.007462686567164179" count="8">asked</word>
+  </topic>
+</topics>

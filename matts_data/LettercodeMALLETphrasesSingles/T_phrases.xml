@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.0405324169999215" totalTokens="19886" titles="treasury, sector, public, policy, division, finance, economic, services, books, government">
+	<word weight="0.05315297194005833" count="1057">treasury</word>
+	<word weight="0.01664487579201448" count="331">sector</word>
+	<word weight="0.01659458915820175" count="330">public</word>
+	<word weight="0.015689429749572565" count="312">policy</word>
+	<word weight="0.01408025746756512" count="280">division</word>
+	<word weight="0.012823091622246806" count="255">finance</word>
+	<word weight="0.011817358945992154" count="235">economic</word>
+	<word weight="0.010861912903550236" count="216">services</word>
+	<word weight="0.010711053002112038" count="213">books</word>
+	<word weight="0.010107613396359247" count="201">government</word>
+	<word weight="0.010057326762546516" count="200">minutes</word>
+	<word weight="0.009303027255355527" count="185">correspondence</word>
+	<word weight="0.008951020818666399" count="178">committee</word>
+	<word weight="0.008951020818666399" count="178">financial</word>
+	<word weight="0.008850447551040933" count="176">group</word>
+	<word weight="0.008297294579100875" count="165">general</word>
+	<word weight="0.007542995071909886" count="150">expenditure</word>
+	<word weight="0.007090415367595293" count="141">accounts</word>
+	<word weight="0.00704012873378256" count="140">commission</word>
+	<word weight="0.006688122297093433" count="133">overseas</word>
+  </topic>
+</topics>

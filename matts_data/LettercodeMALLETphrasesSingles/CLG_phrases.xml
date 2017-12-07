@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.38676606672094" totalTokens="1209" titles="government, local, planning, service, east, england, advisory, national, west, community">
+	<word weight="0.13399503722084366" count="162">government</word>
+	<word weight="0.036393713813068655" count="44">local</word>
+	<word weight="0.019851116625310174" count="24">planning</word>
+	<word weight="0.018196856906534328" count="22">service</word>
+	<word weight="0.016542597187758478" count="20">east</word>
+	<word weight="0.015715467328370553" count="19">england</word>
+	<word weight="0.013234077750206782" count="16">advisory</word>
+	<word weight="0.013234077750206782" count="16">national</word>
+	<word weight="0.011579818031430935" count="14">west</word>
+	<word weight="0.011579818031430935" count="14">community</word>
+	<word weight="0.011579818031430935" count="14">assembly</word>
+	<word weight="0.011579818031430935" count="14">regional</word>
+	<word weight="0.010752688172043012" count="13">buy</word>
+	<word weight="0.010752688172043012" count="13">housing</word>
+	<word weight="0.010752688172043012" count="13">field</word>
+	<word weight="0.010752688172043012" count="13">general</word>
+	<word weight="0.009925558312655087" count="12">midlands</word>
+	<word weight="0.009925558312655087" count="12">portal</word>
+	<word weight="0.009925558312655087" count="12">communities</word>
+	<word weight="0.009925558312655087" count="12">development</word>
+  </topic>
+</topics>

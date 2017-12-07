@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.058423900195706" totalTokens="10195" titles="uk government, national health service, health protection, nhs, ja, care, research, public, committee, general">
+	<word weight="0.09897008337420304" count="1009">health</word>
+	<word weight="0.07876410004904365" count="803">nhs</word>
+	<word weight="0.06768023540951447" count="690">ja</word>
+	<word weight="0.05777341834232467" count="589">uk</word>
+	<word weight="0.04688572829818539" count="478">government</word>
+	<word weight="0.018538499264345268" count="189">national</word>
+	<word weight="0.011181951937224129" count="114">care</word>
+	<word weight="0.010102991662579696" count="103">service</word>
+	<word weight="0.009024031387935262" count="92">research</word>
+	<word weight="0.007356547327121138" count="75">public</word>
+	<word weight="0.007356547327121138" count="75">committee</word>
+	<word weight="0.007062285434036292" count="72">general</word>
+	<word weight="0.006866110838646395" count="70">www</word>
+	<word weight="0.005394801373222168" count="55">social</word>
+	<word weight="0.00519862677783227" count="53">england</word>
+	<word weight="0.0051005394801373225" count="52">programme</word>
+	<word weight="0.004806277587052476" count="49">field</word>
+	<word weight="0.0047081902893575285" count="48">http</word>
+	<word weight="0.0047081902893575285" count="48">advisory</word>
+	<word weight="0.00461010299166258" count="47">centre</word>
+	<phrase weight="0.1632064590542099" count="283">uk government</phrase>
+	<phrase weight="0.016147635524798153" count="28">national health service</phrase>
+	<phrase weight="0.012110726643598616" count="21">health protection</phrase>
+	<phrase weight="0.00980392156862745" count="17">national institute</phrase>
+	<phrase weight="0.00865051903114187" count="15">nhs national institute</phrase>
+	<phrase weight="0.006920415224913495" count="12">social care</phrase>
+	<phrase weight="0.006920415224913495" count="12">advisory committee</phrase>
+	<phrase weight="0.005190311418685121" count="9">public health england</phrase>
+	<phrase weight="0.005190311418685121" count="9">research design service</phrase>
+	<phrase weight="0.00461361014994233" count="8">social security</phrase>
+	<phrase weight="0.00461361014994233" count="8">health service</phrase>
+	<phrase weight="0.00461361014994233" count="8">consumer products</phrase>
+	<phrase weight="0.004036908881199538" count="7">midwifery council</phrase>
+	<phrase weight="0.004036908881199538" count="7">medical aspects</phrase>
+	<phrase weight="0.0034602076124567475" count="6">care quality commission</phrase>
+	<phrase weight="0.0034602076124567475" count="6">clinical excellence</phrase>
+	<phrase weight="0.0034602076124567475" count="6">review body</phrase>
+	<phrase weight="0.0034602076124567475" count="6">electronic staff</phrase>
+	<phrase weight="0.0034602076124567475" count="6">general medical practitioners</phrase>
+	<phrase weight="0.0028835063437139563" count="5">national end</phrase>
+  </topic>
+</topics>

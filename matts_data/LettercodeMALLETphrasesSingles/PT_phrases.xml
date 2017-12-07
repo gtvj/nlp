@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.064227248237602" totalTokens="60" titles="public, trustee, committee, minutes, advisory, investment, organisation, correspondence, general, property">
+	<word weight="0.1" count="6">public</word>
+	<word weight="0.08333333333333333" count="5">trustee</word>
+	<word weight="0.06666666666666667" count="4">committee</word>
+	<word weight="0.05" count="3">minutes</word>
+	<word weight="0.05" count="3">advisory</word>
+	<word weight="0.05" count="3">investment</word>
+	<word weight="0.03333333333333333" count="2">organisation</word>
+	<word weight="0.03333333333333333" count="2">correspondence</word>
+	<word weight="0.03333333333333333" count="2">general</word>
+	<word weight="0.03333333333333333" count="2">property</word>
+	<word weight="0.03333333333333333" count="2">enemy</word>
+	<word weight="0.03333333333333333" count="2">custodian</word>
+	<word weight="0.03333333333333333" count="2">wartime</word>
+	<word weight="0.03333333333333333" count="2">administration</word>
+	<word weight="0.016666666666666666" count="1">securities</word>
+	<word weight="0.016666666666666666" count="1">stocks</word>
+	<word weight="0.016666666666666666" count="1">investments</word>
+	<word weight="0.016666666666666666" count="1">sales</word>
+	<word weight="0.016666666666666666" count="1">listing</word>
+	<word weight="0.016666666666666666" count="1">meetings</word>
+  </topic>
+</topics>

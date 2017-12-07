@@ -1,0 +1,37 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0833710926173934" totalTokens="95" titles="london, maps, borough, plans, county, current, place, places, drawings, public">
+	<word weight="0.08421052631578947" count="8">london</word>
+	<word weight="0.05263157894736842" count="5">maps</word>
+	<word weight="0.042105263157894736" count="4">borough</word>
+	<word weight="0.042105263157894736" count="4">plans</word>
+	<word weight="0.031578947368421054" count="3">county</word>
+	<word weight="0.031578947368421054" count="3">current</word>
+	<word weight="0.031578947368421054" count="3">place</word>
+	<word weight="0.031578947368421054" count="3">places</word>
+	<word weight="0.031578947368421054" count="3">drawings</word>
+	<word weight="0.031578947368421054" count="3">public</word>
+	<word weight="0.021052631578947368" count="2">council</word>
+	<word weight="0.021052631578947368" count="2">map</word>
+	<word weight="0.021052631578947368" count="2">area</word>
+	<word weight="0.021052631578947368" count="2">pro</word>
+	<word weight="0.010526315789473684" count="1">size</word>
+	<word weight="0.010526315789473684" count="1">measure</word>
+	<word weight="0.010526315789473684" count="1">preservation</word>
+	<word weight="0.010526315789473684" count="1">primarily</word>
+	<word weight="0.010526315789473684" count="1">transfer</word>
+	<word weight="0.010526315789473684" count="1">cater</word>
+	<phrase weight="0.08333333333333333" count="1">preservation measure</phrase>
+	<phrase weight="0.08333333333333333" count="1">london council</phrase>
+	<phrase weight="0.08333333333333333" count="1">common subject matter</phrase>
+	<phrase weight="0.08333333333333333" count="1">crown estate commissioners</phrase>
+	<phrase weight="0.08333333333333333" count="1">architectural drawings</phrase>
+	<phrase weight="0.08333333333333333" count="1">geographical area</phrase>
+	<phrase weight="0.08333333333333333" count="1">london borough</phrase>
+	<phrase weight="0.08333333333333333" count="1">london county council</phrase>
+	<phrase weight="0.08333333333333333" count="1">london area</phrase>
+	<phrase weight="0.08333333333333333" count="1">twentieth century</phrase>
+	<phrase weight="0.08333333333333333" count="1">artificial accumulations</phrase>
+	<phrase weight="0.08333333333333333" count="1">significant change</phrase>
+  </topic>
+</topics>

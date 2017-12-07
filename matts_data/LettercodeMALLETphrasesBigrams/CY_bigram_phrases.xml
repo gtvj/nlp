@@ -1,0 +1,33 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="16.19976487019896" totalTokens="142" titles="commission, pollution, royal, environmental, cy, rcp, reports, minutes, members, photographs">
+	<word weight="0.1619718309859155" count="23">commission</word>
+	<word weight="0.11267605633802817" count="16">pollution</word>
+	<word weight="0.1056338028169014" count="15">royal</word>
+	<word weight="0.09859154929577464" count="14">environmental</word>
+	<word weight="0.08450704225352113" count="12">cy</word>
+	<word weight="0.04929577464788732" count="7">rcp</word>
+	<word weight="0.028169014084507043" count="4">reports</word>
+	<word weight="0.028169014084507043" count="4">minutes</word>
+	<word weight="0.02112676056338028" count="3">members</word>
+	<word weight="0.02112676056338028" count="3">photographs</word>
+	<word weight="0.02112676056338028" count="3">committees</word>
+	<word weight="0.014084507042253521" count="2">visits</word>
+	<word weight="0.014084507042253521" count="2">circulated</word>
+	<word weight="0.014084507042253521" count="2">rci</word>
+	<word weight="0.014084507042253521" count="2">meetings</word>
+	<word weight="0.007042253521126761" count="1">releases</word>
+	<word weight="0.007042253521126761" count="1">press</word>
+	<word weight="0.007042253521126761" count="1">combat</word>
+	<word weight="0.007042253521126761" count="1">undertaken</word>
+	<word weight="0.007042253521126761" count="1">initiatives</word>
+	<phrase weight="0.6666666666666666" count="14">royal commission</phrase>
+	<phrase weight="0.047619047619047616" count="1">local initiatives</phrase>
+	<phrase weight="0.047619047619047616" count="1">combat pollution</phrase>
+	<phrase weight="0.047619047619047616" count="1">commission members</phrase>
+	<phrase weight="0.047619047619047616" count="1">uk government</phrase>
+	<phrase weight="0.047619047619047616" count="1">draft reports</phrase>
+	<phrase weight="0.047619047619047616" count="1">occasional reports</phrase>
+	<phrase weight="0.047619047619047616" count="1">commission meetings</phrase>
+  </topic>
+</topics>

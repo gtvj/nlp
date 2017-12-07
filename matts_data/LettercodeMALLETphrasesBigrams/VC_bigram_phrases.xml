@@ -1,0 +1,33 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="60.58881331528968" totalTokens="100" titles="inquiry, vc, climbie, victoria, digital, march, national, migration, programme, final">
+	<word weight="0.11" count="11">inquiry</word>
+	<word weight="0.1" count="10">vc</word>
+	<word weight="0.09" count="9">climbie</word>
+	<word weight="0.09" count="9">victoria</word>
+	<word weight="0.05" count="5">digital</word>
+	<word weight="0.03" count="3">march</word>
+	<word weight="0.03" count="3">national</word>
+	<word weight="0.03" count="3">migration</word>
+	<word weight="0.03" count="3">programme</word>
+	<word weight="0.03" count="3">final</word>
+	<word weight="0.02" count="2">online</word>
+	<word weight="0.02" count="2">electronic</word>
+	<word weight="0.02" count="2">state</word>
+	<word weight="0.02" count="2">secretary</word>
+	<word weight="0.01" count="1">background</word>
+	<word weight="0.01" count="1">key</word>
+	<word weight="0.01" count="1">statements</word>
+	<word weight="0.01" count="1">witness</word>
+	<word weight="0.01" count="1">proceedings</word>
+	<word weight="0.01" count="1">transcripts</word>
+	<phrase weight="0.46153846153846156" count="6">victoria climbie inquiry</phrase>
+	<phrase weight="0.07692307692307693" count="1">victoria adjo climbie</phrase>
+	<phrase weight="0.07692307692307693" count="1">final report</phrase>
+	<phrase weight="0.07692307692307693" count="1">reach conclusions</phrase>
+	<phrase weight="0.07692307692307693" count="1">witness statements</phrase>
+	<phrase weight="0.07692307692307693" count="1">online pilot service</phrase>
+	<phrase weight="0.07692307692307693" count="1">climbie inquiry</phrase>
+	<phrase weight="0.07692307692307693" count="1">make recommendations</phrase>
+  </topic>
+</topics>

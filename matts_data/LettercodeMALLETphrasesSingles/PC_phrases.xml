@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.380416946775907" totalTokens="692" titles="council, privy, books, correspondence, registers, colonial, minutes, committees, orders, numerical">
+	<word weight="0.12861271676300579" count="89">council</word>
+	<word weight="0.11705202312138728" count="81">privy</word>
+	<word weight="0.01878612716763006" count="13">books</word>
+	<word weight="0.017341040462427744" count="12">correspondence</word>
+	<word weight="0.014450867052023121" count="10">registers</word>
+	<word weight="0.01300578034682081" count="9">colonial</word>
+	<word weight="0.01300578034682081" count="9">minutes</word>
+	<word weight="0.011560693641618497" count="8">committees</word>
+	<word weight="0.011560693641618497" count="8">orders</word>
+	<word weight="0.010115606936416185" count="7">numerical</word>
+	<word weight="0.008670520231213872" count="6">general</word>
+	<word weight="0.008670520231213872" count="6">lists</word>
+	<word weight="0.0072254335260115606" count="5">queen</word>
+	<word weight="0.0072254335260115606" count="5">entry</word>
+	<word weight="0.0072254335260115606" count="5">commissions</word>
+	<word weight="0.0072254335260115606" count="5">charters</word>
+	<word weight="0.0072254335260115606" count="5">indexed</word>
+	<word weight="0.005780346820809248" count="4">business</word>
+	<word weight="0.005780346820809248" count="4">royal</word>
+	<word weight="0.005780346820809248" count="4">sheriffs</word>
+  </topic>
+</topics>

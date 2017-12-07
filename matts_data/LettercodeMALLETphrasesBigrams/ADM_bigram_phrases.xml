@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.076383717384162" totalTokens="10191" titles="navy board, royal greenwich hospital, accountant general, royal marines, admiralty, naval, reports, books, service, letters">
+	<word weight="0.05161416936512609" count="526">admiralty</word>
+	<word weight="0.02629771366892356" count="268">royal</word>
+	<word weight="0.02590521047983515" count="264">navy</word>
+	<word weight="0.02256893337258365" count="230">naval</word>
+	<word weight="0.019919536846236877" count="203">board</word>
+	<word weight="0.017073888725345893" count="174">reports</word>
+	<word weight="0.016288882347169072" count="166">books</word>
+	<word weight="0.014130114807182808" count="144">service</word>
+	<word weight="0.012854479442645471" count="131">letters</word>
+	<word weight="0.012167598861740752" count="124">ships</word>
+	<word weight="0.011578844078108134" count="118">officers</word>
+	<word weight="0.010891963497203415" count="111">registers</word>
+	<word weight="0.009812579727210283" count="100">pay</word>
+	<word weight="0.008929447551761359" count="91">greenwich</word>
+	<word weight="0.008831321754489255" count="90">correspondence</word>
+	<word weight="0.008733195957217152" count="89">research</word>
+	<word weight="0.008242566970856638" count="84">hospital</word>
+	<word weight="0.008242566970856638" count="84">war</word>
+	<word weight="0.0066725542145029924" count="68">general</word>
+	<word weight="0.0063781768226866846" count="65">marines</word>
+	<phrase weight="0.05051078320090806" count="89">navy board</phrase>
+	<phrase weight="0.021566401816118047" count="38">royal greenwich hospital</phrase>
+	<phrase weight="0.013053348467650397" count="23">accountant general</phrase>
+	<phrase weight="0.012485811577752554" count="22">royal marines</phrase>
+	<phrase weight="0.011350737797956867" count="20">royal navy</phrase>
+	<phrase weight="0.00851305334846765" count="15">royal marine</phrase>
+	<phrase weight="0.00851305334846765" count="15">greenwich hospital</phrase>
+	<phrase weight="0.00851305334846765" count="15">entry books</phrase>
+	<phrase weight="0.00681044267877412" count="12">world war</phrase>
+	<phrase weight="0.006242905788876277" count="11">naval construction</phrase>
+	<phrase weight="0.0056753688989784334" count="10">naval staff</phrase>
+	<phrase weight="0.00510783200908059" count="9">letter books</phrase>
+	<phrase weight="0.004540295119182747" count="8">royal naval service</phrase>
+	<phrase weight="0.004540295119182747" count="8">pay books</phrase>
+	<phrase weight="0.004540295119182747" count="8">fleet air arm</phrase>
+	<phrase weight="0.004540295119182747" count="8">technical notes</phrase>
+	<phrase weight="0.004540295119182747" count="8">digital microfilm project</phrase>
+	<phrase weight="0.003972758229284903" count="7">underwater weapons</phrase>
+	<phrase weight="0.003972758229284903" count="7">correspondence indexes</phrase>
+	<phrase weight="0.00340522133938706" count="6">naval officers</phrase>
+  </topic>
+</topics>

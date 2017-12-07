@@ -1,0 +1,356 @@
+
+1	16th century,17th century,18th century,Ireland,state papers	State papers Ireland 1509-1782	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/state-papers-ireland-1509-1782
+1	16th century,17th century,18th century,foreign affairs,international relations,state papers	State papers foreign 1509-1782	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/state-papers-foreign-1509-1782
+1	16th century,17th century,civil war (english),political history (general),state papers	Home affairs in the early modern period: state papers domestic 1547-1649	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/state-papers-domestic-1547-1649
+1	16th century,17th century,early modern period,political history (general)	Political history in the 16th and 17th centuries	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/political-history-16th-17th-centuries
+1	17th century,18th century,political history (general),state papers	Home affairs in the early modern period: state papers domestic 1660-1714	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/state-papers-domestic-1660-1714
+1	17th century,civil war (english),commonwealth 1649-1660,political history (general),state papers	Home affairs in the early modern period: state papers domestic 1642-1660	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/state-papers-domestic-1642-1660
+1	18th century,Jacobites,political history (general),state papers	Home affairs in the early modern period: state papers domestic 1714-1782	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/state-papers-domestic-1714-1782
+1	18th century,early modern period,political history (general)	Political history in the 18th century	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/political-history-18th-century
+1	1939 Register,census,population,statistics	1939 Register	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/1939-register
+1	19th century,political history (general)	Political history in the 19th century	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/political-history-19th-century
+1	20th century,cabinet office,political history (general)	Political history in the 20th century	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/political-history-20th-century
+1	Abbeys	Dissolution of the monasteries 1536-1540	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/dissolution-monasteries-1536-1540
+1	Abbeys,church lands,monasteries,religious history	Religious houses and their lands c1000-1530	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/religious-houses-lands-1000-1530
+1	America,American revolution,colonies	American Revolution	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/american-revolution
+	America,Caribbean,colonies,state papers	America and the West Indies in the Calendar of State Papers Colonial 1573-1739	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/america-west-indies-calendar-state-papers-colonial-1573-1739
+2	America,Caribbean,colonies,state papers	American and West Indian colonies before 1782	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/american-and-west-indian-colonies-before-1782
+1	Australia (transportation to),convicts,crime and criminals,prisons and prisoners,transportation (punishment)	Criminal transportation	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/criminal-transportation
+1	British citizenship,emigration,immigration,naturalisation,passport	Passports	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/passports
+1	Catholics,clergy,religious history	Clergy in the Anglican and Roman Catholic churches	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/clergy-in-anglican-roman-catholic-churches
+1	Catholics,lawyers,nonconformists,oath rolls,religious history,sacrament certificates	Oaths of loyalty to the Crown and Church of England	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/oaths-loyalty-crown-church-of-england
+1	Catholics,recusants catholic,religious history	Catholics	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/catholics
+1	Chancery (court of),Courts of law,law and order,legal disputes,supreme court	Appeal cases after 1875	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/appeal-cases-after-1875
+	Chancery (court of),civil litigation,Courts of law,equity courts	Chancery equity suits after 1558	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/chancery-equity-suits-after-1558
+2	Chancery (court of),civil litigation,Courts of law,equity courts	Chancery equity suits before 1558	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/chancery-equity-suits-before-1558
+1	Civilian gallantry,gallantry medals,honours,medals	Civilian gallantry medals and awards	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/civilian-gallantry-medals
+1	Courts of law,Decree nisi and decree absolute,divorce	Divorces	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/divorces
+1	Courts of law,dormant funds,funds in court,legacies (probate),money in Chancery,probate	Funds in court	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/funds-in-court
+1	Courts of law,equity courts,exchequer,legal disputes	Equity proceedings in the Court of Exchequer	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/equity-proceedings-court-exchequer
+1	Courts of law,kings bench (court of),law and order,trials	Court of King's Bench (Crown Side) cases 1675-1875	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/court-kings-bench-crown-side-1675-1875
+1	Courts of law,legal disputes,supreme court	Chancery cases in the Supreme Court after 1875	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/chancery-cases-supreme-court-after-1875
+1	Crimean War,wars	Crimean War records	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/crimean-war-records
+1	Deaths,merchant navy,passengers	Maritime deaths 1781-1968	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/maritime-deaths-1781-1968
+	Deaths,prerogative court of canterbury,probate,wills	Wills 1384-1858	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/wills-1384-1858
+2	Deaths,prerogative court of canterbury,probate,wills	Wills and probate before 1858: further research	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/wills-and-probate-before-1858-further-research
+1	Disability pensions,first world war,pensions,World War One	Disability and dependents' pensions in the First World War	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/disability-dependents-pensions-first-world-war
+1	Domesday book,land ownership,medieval period	Domesday Book	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/domesday-book
+1	Ireland,maps	Irish maps c1558-c1610	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/irish-maps-c1558-c1610
+1	Ireland,police,royal irish constabulary	Royal Irish Constabulary	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-irish-constabulary
+1	Jacobites,Scotland	Jacobite Risings 1715 and 1745	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/jacobite-risings-1715-and-1745
+1	RAF,royal air force,second world war,squadrons (royal air force),World War Two	Royal Air Force operations record books 1939-1945	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/raf-operations-record-books-1939-1945
+1	RAF,royal air force,squadrons (royal air force)	Royal Air Force squadrons	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-air-force-squadron
+1	abolition of slavery,british empire,Caribbean,colonies,Slavery	Slavery or slave owners	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/slavery-or-slave-owners
+1	actors,film,television,theatre	Film, television and performing arts records held by other archives	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/film-television-performing-arts-records-held-by-other-archives
+1	administrations of probate,Deaths,probate,wills	Wills or administrations before 1858	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/wills-or-administrations-before-1858
+1	administrations of probate,death duties (tax),Deaths,duties and taxes,legacies (probate),probate,taxes and duties,wills	Death duties 1796-1903	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/death-duties-1796-1903
+1	administrations of probate,death duties (tax),legacies (probate),probate,wills	Country court death duty registers 1796-1811	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/country-court-death-duty-registers-1796-1811
+1	administrations of probate,death duties (tax),prerogative court of canterbury,probate,wills	Wills or administrations after 1858	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/wills-or-administrations-after-1858
+1	admiralty,charts (maps),maps	Sea charts	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/sea-charts
+1	admiralty,colonies,Courts of law,high court of admiralty,shipping,trials	High Court of Admiralty	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/high-court-admiralty-records
+1	admiralty,convicts,crime and criminals,foreign affairs,home office,navy	Free online records: digital microfilm	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/free-online-records-digital-microfilm
+1	admiralty,first world war,navy,royal navy,World War One	Royal Navy operations in the First World War	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-navy-operations-first-world-war
+1	admiralty,fleet air arm,navy,royal navy	Royal Navy operations and policy after 1945	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-navy-operations-policy-after-1945
+	admiralty,log books (ships),navy,royal navy,shipping	Logs and journals of ships of exploration 1757-1904	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/logs-journals-ships-of-exploration-1757-1904
+2	admiralty,log books (ships),navy,royal navy,shipping	Royal Navy ships' voyages in log books	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-navy-ships-voyages-log-books
+1	admiralty,navy,royal navy	Royal Navy operations and correspondence 1660-1914	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-navy-operations-correspondence-1660-1914
+1	admiralty,navy,royal navy,second world war	Royal Navy operations in the Second World War	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-navy-operations-second-world-war
+1	admiralty,royal navy,shipping	Naval correspondence using the ADM 12 indexes and digests	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/naval-correspondence-adm12-indexes-and-digests
+1	adoptions,births	Adoptions	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/adoptions
+1	african,black,black british,Caribbean,civil rights,race relations,west indian	Black British social and political history in the 20th century	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/black-british-social-and-political-history-in-the-20th-century
+1	agriculture,crime and criminals,datasets,digital,government,health,ndad	Government datasets	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/government-datasets
+1	agriculture,datasets,farms and farming,maps,national farm survey,statistics	National Farm Survey of England and Wales 1941-1943	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/national-farm-survey-england-wales-1941-1943
+1	agriculture,datasets,farms and farming,statistics	Agricultural statistics of England and Wales	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/agricultural-statistics-england-wales
+1	air raids,bomb census,casualties of war,second world war,World War Two	Bomb Census survey records 1940-1945	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/bomb-census-survey-records-1940-1945
+1	air transport,aviation,royal air force	Research and development in the Royal Air Force	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/research-development-royal-air-force
+1	aliens (foreign nationals),British citizenship,certificates of british citizenship,immigration,naturalisation	Naturalisation, registration and British citizenship	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/naturalisation-british-citizenship
+1	aliens (foreign nationals),British citizenship,immigration,naturalisation	Naturalisation case papers 1801-1871	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/naturalisation-case-papers-1801-1871
+	aliens (foreign nationals),British citizenship,immigration,naturalisation,passengers	Aliens' registration cards 1918-1957	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/aliens-registration-cards-1918-1957
+	aliens (foreign nationals),British citizenship,immigration,naturalisation,passengers	Immigrants	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/immigrants
+3	aliens (foreign nationals),British citizenship,immigration,naturalisation,passengers	Immigration	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/immigration
+1	aliens (foreign nationals),first world war,internees,prisoners of war,second world war	Internees	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/internees
+1	aliens (foreign nationals),immigration	Alien arrivals	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/alien-arrivals
+1	aliens (foreign nationals),immigration,Jewish history,minorities,refugees	Refugees	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/refugees
+1	aliens (foreign nationals),migration,naturalisation	Alien entry books	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/alien-entry-books
+1	aliens (foreign nationals),passengers	Passengers	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/passengers
+1	america (emigration to),australia (emigration to),canada (emigration to),emigration,new zealand (emigration to)	Emigration	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/emigration
+1	anglo jewish history,emigration,immigration,Jewish history	Jews and Jewish communities in the 18th-20th centuries	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/jews-and-jewish-communities-18th-20th-centuries
+1	annulment of marriage,Courts of law,divorce	Divorces: further research	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/divorces-further-research
+1	apprenticeship,crew lists,first world war,merchant navy,World War One	Merchant seamen serving 1858-1917	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/merchant-seaman-serving-1858-1917
+1	apprenticeship,crew lists,merchant navy	Merchant seamen serving up to 1857	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/merchant-seaman-serving-up-to-1857
+1	apprenticeship,labour history,master craftsmen and tradesmen,tradesmen	Apprentices and masters	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/apprentices-and-masters
+1	architecture,buildings,houses,title deeds	Houses	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/houses
+	architecture,buildings,plans	Architectural drawings	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/architectural-drawings
+2	architecture,buildings,plans	Architectural history records held by other archives	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/architectural-history-records-held-by-other-archives
+1	army,awards,british army,campaign medals,medals,officers (army)	British military campaign and service medals	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-military-campaign-and-service-medals
+1	army,awards,british army,medals,officers (army),soldier	British Army officers up to 1913	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-army-officers-1913
+1	army,awards,gallantry medals,honours,medals,second world war,World War Two	Recommendations for military honours and awards 1935-1990	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/recommendations-military-honours-awards-1935-1990
+1	army,births,british army,Deaths,marriages,navy,royal air force,royal marines,royal navy	Births, marriages and deaths in the armed forces	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/birth-marriage-death-armed-forces
+1	army,boer war,british army,Crimean War,napoleonic wars,regiments and corps	British Army operations up to 1913	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-army-operations-up-to-1913
+1	army,british army,british empire,colonies,wars	Soldiers in African forces under British control	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/soldiers-african-forces-under-british-control
+1	army,british army,campaign medals,first world war,gallantry medals,medals,officers (army)	British Army medal index cards 1914-1920	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-army-medal-index-cards-1914-1920
+1	army,british army,cavalry,first world war,World War One	Household Cavalry soldiers' service records 1799-1920	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/household-cavalry-soldiers-service-records-1799-1920
+1	army,british army,courts martial,deserters (armed forces),first world war,second world war,soldier,World War One,World War Two	Courts martial and desertion in the British Army 17th-20th centuries	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/courts-martial-desertion-british-army-17th-20th-centuries
+1	army,british army,early modern period,medieval period,officers (army),soldier	Medieval and early modern soldiers	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/medieval-early-modern-soldiers
+1	army,british army,first world war,World War One	First World War soldiers' service and pension records	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/first-world-war-soldiers-pension-records
+1	army,british army,first world war,gallantry medals,medals,second world war,World War One	Victoria Cross registers 1856-1944	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/victoria-cross-registers-1856-1944
+1	army,british army,first world war,medals,officers (army),soldier,World War One,World War Two	British Army officers after 1913	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-army-officers-after-1913
+1	army,british army,first world war,non-commissioned officer,soldier	British Army soldiers after 1913	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-army-soldiers-after-1913
+1	army,british army,first world war,nurses,women's military service	British Army nurses' service records 1914-1918	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-army-nurses-service-records-1914-1918
+1	army,british army,first world war,regiments and corps,war diaries,World War One	British Army operations in the First World War	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-army-operations-first-world-war
+1	army,british army,first world war,regiments,war diaries	British Army war diaries 1914-1922	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-army-war-diaries-1914-1922
+1	army,british army,gallantry medals,honours,medals	British military gallantry medals	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-military-gallantry-medals
+1	army,british army,home front,militia,officers (army),regiments and corps,soldier	Volunteers and Territorials	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/volunteers-territorials
+1	army,british army,medals,militia,pensions,soldier	Militia	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/militia
+1	army,british army,muster rolls,regiments and corps,soldier	British Army muster rolls and pay lists c1730-1898	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-army-muster-rolls-pay-lists-1730-1898
+1	army,british army,nurses	British Army nurses	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-army-nurses
+1	army,british army,officers (army),pensions	British Army officers up to 1913: further research	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-army-officers-up-to-1913-further-research
+	army,british army,ordnance (military supplies)	Board of Ordnance	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/board-ordnance
+2	army,british army,ordnance (military supplies)	Research and development in the British Army	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/research-development-british-army
+1	army,british army,pensions,soldier	British Army soldiers up to 1913	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-army-soldiers-up-to-1913
+1	army,british army,regiments and corps	Army regiments	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/army-regiments
+1	army,british army,regiments and corps,second world war,war diaries,World War Two	British Army operations in the Second World War	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-army-operations-second-world-war
+1	army,british army,regiments and corps,war diaries	British Army operations after 1945	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-army-operations-after-1945
+1	army,british army,royal air force,royal navy,soldier,wars	Armed forces records held by other archives	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/armed-forces-records-held-by-other-archives
+1	army,first world war,indian army,second world war,World War One,World War Two	Indian Army personnel	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/indian-army-personnel
+1	army,first world war,soldier,women's military service	Women in the British Army	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/women-in-british-army
+1	army,first world war,women's military service	Women's Army Auxiliary Corps service records 1917-1920	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/womens-army-auxiliary-corps-service-records-1917-1920
+1	army,navy,nurses,royal air force,royal navy,women's military service	Military nursing	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/military-nursing
+1	art and artists	Art and artists' records held by other archives	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/art-and-artists-records-held-by-other-archives
+1	art and artists,copyright registration,photographs,stationery office	Copyright records of the Stationers' Hall	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/copyright-records-stationers-hall
+1	art and artists,foreign affairs,international relations,second world war,World War Two	Looted art 1939-1961	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/looted-art-1939-1961
+	assize courts,Courts of law,crime and criminals,trials	Criminal trials in the English assize courts 1559-1971 - key to records	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/criminal-trials-english-assize-courts-1559-1971-key-to-records
+2	assize courts,Courts of law,crime and criminals,trials	Criminal trials in the assize courts 1559-1971	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/criminal-trials-assize-courts-1559-1971
+1	assize courts,civil litigation,Courts of law,crime and criminals,law and order,trials	Civil trials in the English assize courts 1656-1971 - key to records	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/civil-trials-english-assize-courts-1656-1971-key-to-records
+1	assize courts,civil litigation,Courts of law,crime and criminals,trials	Criminal and civil trials in the Welsh assize courts 1831-1971 - key to records	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/criminal-civil-trials-welsh-assize-courts-1831-1971-key-to-records
+1	asylums (hospitals),hospitals,mental health	Mental health	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/mental-health
+1	asylums (hospitals),lunatic asylums,mental health	Asylum inmates	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/asylum-inmates
+	attorneys,barristers,lawyers,solicitors	Lawyers	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/lawyers
+2	attorneys,barristers,lawyers,solicitors	Lawyers: further research	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/lawyers-further-research
+1	australia (emigration to),canada (emigration to),dominions (british),emigration,new zealand (emigration to),passengers,shipping	Emigrants	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/emigrants
+1	awards,british war medal,campaign medals,first world war,honours,medals,mercantile marine medal,merchant navy,silver war badge	Merchant seamen's campaign medal records 1914-1918	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/merchant-seamens-campaign-medal-records-1914-1918
+1	awards,campaign medals,gallantry medals,honours,medals,merchant navy	Merchant seamen's medals and honours	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/merchant-seamen-medals-honours
+1	bankrupts,debtors,insolvency,prisons and prisoners	Bankrupts and insolvent debtors	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/bankrupts-insolvent-debtors
+1	baptisms,births,Deaths,marriages	Births, marriages and deaths in England and Wales	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/birth-marriage-death-england-and-wales
+1	baptisms,births,Deaths,marriages,nonconformists	Nonconformist and non-parish births, marriages and deaths 1567-1969	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/nonconformist-non-parish-births-marriages-deaths-1567-1969
+1	baptisms,births,Deaths,marriages,nonconformists,religious history	Nonconformists	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/nonconformists
+1	births,Deaths,Ireland,marriages,Scotland	Births, marriages and deaths in Scotland and Ireland	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/birth-marriage-death-scotland-and-ireland
+	births,Deaths,marriages	Births, marriages and deaths in the Channel Islands and the Isle of Man	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/birth-marriage-death-channel-islands-and-man
+2	births,Deaths,marriages	Where to go for birth, marriage and death certificates	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/birth-marriage-and-death-certificates
+1	births,colonies,Deaths,marriages,merchant navy,shipping	Births, marriages and deaths at sea or abroad	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/birth-marriage-death-sea-or-abroad
+1	births,merchant navy,passengers	Maritime births 1867-1960	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/maritime-births-1867-1960
+1	boer war,Crimean War,first world war,prisoners of war,second world war,World War Two	Prisoners of war in British hands	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/prisoners-of-war-british-hands
+1	boer war,wars	Boer War records	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/boer-war-records
+1	borstals,children's homes	Children's homes	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/children-care
+1	boundaries (international),colonies,diplomacy,foreign affairs,international relations,maps	International boundaries in maps, surveys and other records	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/international-boundaries-in-maps-surveys-other-records
+1	british army,Deaths,second world war,soldier,World War Two	British Army casualty lists 1939-1945	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-army-casualty-lists-1939-1945
+1	british army,soldier	British Army and militia 1760-1915	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-army-and-militia-1760-1915
+1	british empire,Caribbean,colonies,Slavery	British transatlantic slave trade records	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-transatlantic-slave-trade-records
+	british empire,colonies	Colonies and dependencies 1815-1870: using Colonial Office indexes to locate correspondence	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/colonies-and-dependencies-1815-1870-using-colonial-office-indexes-to-locate-correspondence
+2	british empire,colonies	Colonies and dependencies 1820-1850: using Colonial Office registers to locate correspondence	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/colonies-and-dependencies-1820-1850-using-colonial-office-registers-to-locate-correspondence
+	british empire,colonies,commonwealth of nations,dominions (british)	Colonies and dependencies 1850-1926: using Colonial Office registers to locate correspondence	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/colonies-and-dependencies-1850-1926-using-colonial-office-registers-to-locate-correspondence
+	british empire,colonies,commonwealth of nations,dominions (british)	Colonies and dependencies from 1782	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/colonies-dependencies-further-research
+3	british empire,colonies,commonwealth of nations,dominions (british)	Empire and Commonwealth records held by other archives	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/empire-commonwealth-records-held-by-other-archives
+1	british empire,colonies,international relations,maps,plans	Maps and plans of lands abroad	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/maps-plans-of-lands-abroad
+1	business history,coal mining,industry,labour history,mining	Mines and mining	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/mines-mining
+1	business history,companies,industry,labour history	Companies and businesses: further research	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/companies-and-businesses-further-research
+	business history,companies,industry,labour history,trade and industry	Business history records held by other archives	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/business-history-records-held-by-other-archives
+2	business history,companies,industry,labour history,trade and industry	Businesses	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/businesses
+1	business history,industry,labour history,trade and industry,tradesmen	People in business and trades	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/people-business-trades
+1	cabinet office,economic history,financial record of government,taxation,treasury	Economic history in the 20th century	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/economic-history-20th-century
+1	cabinet office,first world war,international relations,second world war,World War One,World War Two	Cabinet and its committees	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/cabinet-and-committees
+1	campaign medals,courts martial,prisoners of war,RAF,royal air force	Royal Air Force personnel	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-air-force-personnel
+1	campaign medals,medals,merchant navy,navy,second world war,World War Two	Merchant seamen's campaign medal records 1939-1945	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/merchant-seamens-campaign-medal-records-1939-1945
+1	campaign medals,medals,navy,royal navy,second world war,World War Two	Royal Navy ratings joining after 1928	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-navy-ratings-after-1928
+1	casualties of war,Deaths,first world war,second world war,World War One,World War Two	Deaths in the First and Second World Wars	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/deaths-first-and-second-world-wars
+1	census,population,statistics	Census records	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/census-records
+1	central criminal court,Courts of law,crime and criminals,crown courts,Magistrates' courts,old bailey,trials	Criminal courts in England and Wales from 1972	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/criminal-courts-england-wales-from-1972
+1	central criminal court,Courts of law,crime and criminals,law and order,old bailey	Trials in the Old Bailey and the Central Criminal Court	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/trials-old-bailey-central-criminal-court
+1	central criminal court,convicts,Courts of law,crime and criminals,old bailey,trials	Criminals and convicts	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/criminals-and-convicts
+1	chancel repairs,tithes	Chancel repair liabilities in England and Wales	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/chancel-repair-liabilities-england-wales
+1	changes of name,deeds poll,supreme court	Changes of name	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/changes-of-name
+1	charitable trusts,conveyance of land,deeds (property ownership),land,land ownership,trust deeds	Conveyances of land for charitable uses in trust deeds 1736-1963	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/conveyances-of-land-charitable-uses-trust-deeds-1736-1963
+1	charters,fairs,markets	Markets and fairs	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/markets-fairs
+1	charters,land,letters patent,patent rolls,royal grants	Royal grants in letters patent and charters from 1199	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-grants-letters-patent-charters-from-1199
+1	church lands,civil war (english),estates,land,land ownership	Crown, church and royalist lands 1642-1660	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/crown-church-royalist-lands-1642-1660
+1	cities,towns	Towns and cities	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/towns-and-cities
+1	civil litigation,Courts of law,crime and criminals,eyres (general),general eyres,medieval period,trials	General eyres 1194-1348	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/general-eyres-1194-1348
+1	civil litigation,Courts of law,deeds (property ownership),land ownership,wards and liveries (court of)	Land inheritance in the Court of Wards and Liveries 1540-1645	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/land-inheritance-court-of-wards-liveries-1540-1645
+1	civil litigation,Courts of law,equity courts,requests (court of)	Court of Requests records 1485-1642	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/court-of-requests-records-1485-1642
+1	civil litigation,Courts of law,equity courts,star chamber (court of),trials	Court of Star Chamber records 1485-1642	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/court-star-chamber-records-1485-1642
+1	civil litigation,Courts of law,kings bench (court of),trials	Court of King's Bench records 1200-1600	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/court-kings-bench-records-1200-1600
+1	civil litigation,Courts of law,legal disputes	Civil litigants	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/civil-litigants
+1	civil litigation,convicts,Courts of law,crime and criminals,law and order,prisons and prisoners,trials	Courts of law records held in other archives	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/courts-of-law-records-held-in-other-archives
+1	civil servants,crown servants,government employees,royal household	Civil or crown servants	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/civil-or-crown-servants
+1	coastguard	Coastguard officers	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/coastguard-officers
+1	coastguard,customs (tax),pensions,shipping	Coastguard records	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/coastguard-records
+1	colleges,education history,inspection of schools,poor laws,schools	Education inspectorate reports	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/education-inspectorate-reports
+1	colleges,education history,schools,universities	Education history records held by other archives	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/education-history-records-held-by-other-archives
+1	colleges,educational history,universities	Technical colleges and further education	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/technical-colleges-further-education
+1	combat reports (RAF),first world war,RAF,royal air force,royal flying corps,royal naval air service,second world war,squadrons (royal air force),World War One,World War Two	Royal Air Force operations	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-air-force-operations
+1	combat reports (RAF),royal air force,second world war,squadrons (royal air force),World War Two	Royal Air Force combat reports 1939-1945	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/raf-combat-reports-1939-1945
+1	common land,land	Common lands	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/common-lands
+1	commonwealth of nations,control commission,diplomacy,foreign affairs,foreign office,international relations,treaties	Foreign Office and Foreign and Commonwealth Office records from 1782	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/foreign-commonwealth-correspondence-and-records-from-1782
+1	conscientious objectors,conscription,first world war,World War One	Middlesex military service appeal tribunal 1916-1918	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/middlesex-military-service-appeal-tribunal-1916-1918
+1	conscientious objectors,first world war,second world war,World War One,World War Two	Conscientious objectors	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/conscientious-objectors
+1	contaminated land,land	Contaminated land	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/contaminated-land
+1	control commission,foreign office,holocaust,jewish,nazi,nazi persecution,persecution,war crimes	Nazi persecution	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/nazi-persecution-records-20th-century
+1	control commission,nuremberg trials,second world war,united nations war crimes commission,war crimes	War crimes 1939-1945	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/war-crimes-1939-1945
+1	conveyance of land,deeds (property ownership),fines (land conveyances),land ownership	Land conveyances by feet of fines 1182-1833	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/land-conveyance-feet-of-fines-1182-1833
+1	conveyance of land,deeds (property ownership),land,land ownership,title deeds	Enrolment of deeds and registration of titles to land	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/enrolment-of-deeds-registration-of-titles-land
+1	convicts,Courts of law,crime and criminals,law and order	Crime and punishment	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/crime-and-punishment
+	convicts,crime and criminals,law and order,prisons and prisoners	Prisoners and prison staff	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/prisoners-or-prison-staff
+2	convicts,crime and criminals,law and order,prisons and prisoners	Prisons	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/prisons
+1	copyright registration,Design manufacturing,registered designs,Trade marks	Registered designs 1839-1991	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/registered-designs-1839-1991
+1	coroners,Deaths,inquests,trials	Coroner's inquests	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/coroners-inquests
+1	countryside,national park,parish,rural,villages	Villages and the countryside	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/villages-and-countryside
+1	courts martial,easter rising (ireland),Ireland	Ireland's Easter Rising 1916	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ireland-easter-rising-1916
+1	courts martial,navy,officers (royal navy),royal navy	Royal Navy commissioned and warrant officers: further research	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-navy-commissioned-and-warrant-officers-further-research
+	crew lists,log books (ships),merchant navy,shipping	Crew lists and agreements and log books of merchant ships 1747-1860	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/crew-lists-agreements-log-books-merchant-ships-1747-1860
+2	crew lists,log books (ships),merchant navy,shipping	Crew lists and agreements and log books of merchant ships after 1861	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/crew-lists-agreements-log-books-merchant-ships-1861
+1	crew lists,merchant navy,officers merchant navy	Officers in the Merchant Navy	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/officers-merchant-navy
+1	crew lists,merchant navy,second world war,World War Two	Merchant seamen serving after 1917	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/merchant-seaman-serving-after-1917
+1	crime and criminals,early modern period,law and order,medieval period,outlaws	Outlaws and outlawry in medieval and early modern England	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/outlaws-outlawry-medieval-early-modern-england
+1	crime and criminals,health,home office,poverty	Home Office correspondence 1782-1979	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/home-office-correspondence-1782-1979
+1	crime and criminals,prisons and prisoners,transportation (punishment)	Crime, prisons and punishment 1770-1935	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/crime-prisons-punishment-1770-1935
+1	crown servants,royal household,royal servants,royal warrant holders,tradesmen	Royal Household and Wardrobe	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-household-wardrobe-records
+1	customs (tax),Inland Revenue	Customs officers	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/customs-officers
+1	customs (tax),excise (tax),Inland Revenue,medieval period,pipe rolls,taxation	Medieval customs' accounts	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/medieval-customs-accounts
+1	customs (tax),port books	Merchant trade records: port books 1565-1799	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/merchant-trade-records-port-books-1565-1799
+1	datasets,doctors,health,hospitals,medical services,mental health,nurses,welfare	Health policy	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/health-policy
+1	datasets,education history,poor laws,schools	Elementary and primary schools	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/elementary-primary-schools
+	datasets,education history,schools	Secondary schools	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/secondary-schools
+2	datasets,education history,schools	Special services in education	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/special-services-education
+1	diamond mark,patent office,registered designs,Trade marks	Diamond marks and trade marks	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/diamond-marks-trade-marks
+	diplomacy,foreign affairs,foreign office,international relations	Foreign Office and Foreign and Commonwealth Office correspondence 1920 onwards	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/foreign-office-and-foreign-and-commonwealth-office-correspondence-1920-onwards
+	diplomacy,foreign affairs,foreign office,international relations	Foreign Office correspondence 1782-1890	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/foreign-office-correspondence-1782-1890
+	diplomacy,foreign affairs,foreign office,international relations	Foreign Office correspondence 1891-1905	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/foreign-office-correspondence-1891-1905
+	diplomacy,foreign affairs,foreign office,international relations	Foreign Office correspondence 1906-1919	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/foreign-office-correspondence-1906-1919-using-card-index
+5	diplomacy,foreign affairs,foreign office,international relations	Foreign countries	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/foreign-country
+1	diplomacy,foreign affairs,international relations,medieval period	Foreign affairs before 1509	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/foreign-affairs-before-1509
+1	disability	Disability history	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/disability-history
+1	diseases,health,medical services,mental health,welfare	Health and social policy 1919-1939	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/health-social-policy-1919-1939
+1	dockyard,navy,royal navy	Royal Naval dockyard staff	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-naval-dockyard-staff
+1	doctors,hospitals,medical services,nurses,patients in hospital	Patients, doctors or nurses	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/patients-doctors-nurses
+1	early modern period,economic history,financial record of government,Inland Revenue,taxation,treasury	Treasury Board letters and papers 1557-1920	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/treasury-board-letters-papers-1557-1920
+1	early modern period,family history,genealogy,medieval period	Medieval and early modern family history	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/medieval-early-modern-family-history
+1	economic history,exchequer,financial records of government,hearth tax,taxation	Taxation before 1689	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/taxation-before-1689
+1	economic history,exchequer,financial records of government,pipe rolls	Medieval financial records: pipe rolls 1130-c1300	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/medieval-financial-records-pipe-rolls-1130-1300
+1	economic history,financial records of government,Inland Revenue,taxation	Taxation	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/taxation
+1	education history,schools	Schools	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/schools
+	educational history,schools,teachers	Teacher training	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/teacher-training
+2	educational history,schools,teachers	Teachers and pupils	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/teachers-and-pupils
+1	electoral registers	Electoral registration	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/electoral-registration
+1	electoral registers,living people,missing people	Living people	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/living-people
+1	emigration,immigration,passengers,shipping	Passenger lists	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/passenger-lists
+1	enclosure (land),land ownership,maps	Enclosure awards	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/enclosure-awards
+1	epidemics,health	Public health and epidemics in the 19th and 20th centuries	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/public-health-epidemics-19th-20th-centuries
+1	espionage,intelligence and security services,mi5 and mi6,security services,special operations executive	Intelligence and security services	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/intelligence-and-security-services
+1	estate,estates (landed gentry),land	Landed estates	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/landed-estates
+1	evacuation,home front,second world war,World War Two	Evacuees	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/evacuees
+1	excise (tax),Inland Revenue	Excise and Inland Revenue officers	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/excise-and-inland-revenue-officers
+1	famous people,prerogative court of canterbury,probate,wills	Famous wills 1552-1854	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/famous-wills-1552-1854
+1	finance 1909-1910 act,land ownership,maps,taxation,valuation office	Valuation Office survey: land value and ownership 1910-1915	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/valuation-office-survey-land-value-ownership-1910-1915
+1	first world war,foreign affairs,international relations,league of nations,World War One	League of Nations	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/league-of-nations
+1	first world war,land,requisitioned land,second world war,World War One,World War Two	Land requisitioned for war	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/land-requisitioned-war
+1	first world war,maps,World War One	Military maps of the First World War	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/military-maps-first-world-war
+1	first world war,medals,navy,royal navy,World War One	Royal Navy ratings 1853-1928	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-navy-ratings-1853-1928
+1	first world war,navy,officers (royal navy),pensions,royal navy	Royal Navy officers' pensions	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-navy-officers-pensions
+1	first world war,navy,officers (royal navy),pensions,royal navy,warrant officers,World War One	Royal Navy officers' service records 1756-1931	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-navy-officers-service-records-1756-1931
+1	first world war,navy,officers (royal navy),royal navy,World War One	Royal Navy officers' service record cards and files c1840-c1920	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-navy-officers-service-record-cards-files-c1840-c1920
+1	first world war,navy,officers (royal navy),royal navy,warrant officers,World War One	Royal Navy commissioned officers	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-navy-commissioned-officers
+1	first world war,navy,pensions,royal navy,World War One	Royal Navy ratings' pensions 17th-20th centuries	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-navy-ratings-pensions
+1	first world war,navy,royal naval reserve,World War One	Royal Naval Reserve personnel	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-naval-reserve-personnel
+1	first world war,navy,royal naval reserve,royal navy,World War One	Royal Naval Reserve officers' service records 1862-1964	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-naval-reserve-officers-service-records-1862-1964
+1	first world war,navy,royal naval volunteer reserve,World War One	Royal Naval Volunteer Reserve personnel	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-naval-volunteer-reserve-personnel
+1	first world war,navy,royal navy,World War One	Royal Navy ratings' service records 1853-1928	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-navy-ratings-service-records-1853-1928
+1	first world war,officers (air forces),RAF,royal air force,World War One	Royal Air Force officers' service records 1918-1919	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/raf-officers-service-records-1918-1919
+1	first world war,officers (air forces),royal naval air service,World War One	Royal Naval Air Service officers	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-naval-air-service-officers
+	first world war,officers (royal marines),royal marines,World War One	Royal Marines officers	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-marines-officers
+2	first world war,officers (royal marines),royal marines,World War One	Royal Marines personnel: further areas of research	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-marines-further-areas-research
+	first world war,prisoners of war,World War One	British prisoners of war c1790-1919	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-prisoners-of-war-1790-1919
+2	first world war,prisoners of war,World War One	Prisoner of war interview reports 1914-1918	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/prisoner-of-war-interview-reports-1914-1918
+1	first world war,prisoners of war,second world war,World War One,World War Two	Prisoners of war: selected records 1715-1945	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/prisoners-of-war-selected-records-1715-1945
+1	first world war,propaganda,second world war,World War One,World War Two	Propaganda	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/propaganda
+1	first world war,royal air force,women's military service	Women's Royal Air Force personnel	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/womens-royal-air-force-personnel
+	first world war,royal marines,World War One	Royal Marines other ranks	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-marines-other-ranks
+2	first world war,royal marines,World War One	Royal Marines' service records 1842-1925	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-marines-service-records-1842-1925
+	first world war,royal naval air service,World War One	Royal Naval Air Service officers' service records 1906-1918	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-naval-air-service-officers-service-records-1906-1918
+2	first world war,royal naval air service,World War One	Royal Naval Air Service ratings	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-naval-air-service-ratings
+	first world war,royal naval division,royal navy,World War One	Royal Naval Division personnel	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-naval-division-personnel
+2	first world war,royal naval division,royal navy,World War One	Royal Naval Division service records 1914-1919	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-naval-division-service-records-1914-1919
+1	first world war,royal naval reserve,royal navy,World War One	Royal Naval Reserve service records 1860-1955	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-naval-reserve-service-records-1860-1955
+1	first world war,royal naval volunteer reserve,royal navy,World War One	Royal Naval Volunteer Reserve service records 1903-1922	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-naval-volunteer-reserve-service-records-1903-1922
+1	first world war,royal navy,women's military service	Women's Royal Naval Service personnel	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/womens-royal-naval-service-personnel
+1	first world war,wars,World War One	First World War	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/first-world-war
+1	first world war,women's royal naval service,World War One	Women's Royal Naval service records 1917-1919	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/womens-royal-naval-service-records-1917-1919
+1	fleet air arm,navy,royal navy	Fleet Air Arm personnel	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/fleet-air-arm-personnel
+1	foreign affairs,foreign office,international relations,private papers,second world war	Sir Anthony Eden's private office papers 1935-1946	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/sir-anthony-edens-private-office-papers-1935-1946
+1	foreign affairs,law and order,legislation,privy council	Privy Council since 1386	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/privy-council-since-1386
+1	france (english lands in),land	French lands of the English kings	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/french-lands-english-kings
+1	gardens	Garden history records held by other archives	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/garden-history-records-held-by-other-archives
+1	gay and lesbian history,lesbian and gay history	Gay, lesbian and bisexual history	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/gay-lesbian-history
+1	german foreign ministry,nazi germany,second world war,World War Two	German Foreign Ministry and Italian documents 1867-1945 captured by the British	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/german-foreign-ministry-and-italian-documents-1867-1945-captured-by-british
+1	henry viii,political history (general),state papers	Letters and papers of Henry VIII	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/letters-papers-henry-viii
+1	heraldry,Seals	Seals	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/seals
+1	high court of admiralty,log books (ships),shipping,trafalgar (battle of)	French muster rolls from the Battle of Trafalgar 1805	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/french-muster-rolls-battle-of-trafalgar-1805
+	home front,home guard,second world war,World War Two	Durham Home Guard 1939-1945	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/durham-home-guard-records-1939-1945
+2	home front,home guard,second world war,World War Two	Home Guard personnel	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/home-guard-personnel
+1	home front,land girls,second world war,Women's Land Army	Women's Land Army	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/womens-land-army
+1	hospitals,medical services	Hospitals	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/hospitals
+1	indentured labour,indian indentured labour,labour history	Indian indentured labourers	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/indian-indentured-labourers
+1	industry,labour history,trade unions	Labour history records held by other archives	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/labour-history-records-held-by-other-archives
+1	inquisitions post mortem,land ownership	Inquisitions post mortem: land ownership and inheritance in the medieval and early modern periods	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/inquisitions-post-mortem
+1	inventions,patents of invention	Patents of invention	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/patents-of-invention
+1	korean war,prisoners of war,second world war personnel,World War Two	British prisoners of the Second World War and the Korean War	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-prisoners-second-world-war-korean-war
+1	land ownership,manorial documents register,manors	Manorial documents and lordships and how to use the Manorial Documents Register	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/manorial-documents-lordships-how-to-use-manorial-document-register
+1	land ownership,manors	Manors	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/manors
+1	land ownership,maps,taxation,tithes	Tithes	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/tithes
+1	land,manors,maps	Manors: further research	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/manors-further-research
+1	land,maps,ordnance survey,public rights of way,rights of way	Public rights of way, roads and other highways	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/public-rights-of-way
+1	legislation,parliament,political history (general)	Parliament	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/parliament
+1	maps,ordnance survey	Ordnance Survey	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ordnance-survey
+	maps,plans	Maps	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/maps
+2	maps,plans	Maps: further research	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/maps-further-research
+1	maps,second world war,World War Two	Military maps of the Second World War	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/military-maps-second-world-war
+1	marriages,merchant navy,passengers	Maritime marriages 1854-1972	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/maritime-marriages-1854-1972
+1	medals,navy,royal navy	Royal Navy ratings before 1853	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-navy-ratings-before-1853
+1	medieval period,political history (general)	Medieval political history	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/medieval-political-history
+	merchant navy	Merchant seamen registers 1835-1857	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/merchant-seamen-registers-1835-1857
+	merchant navy	Merchant seamen registers 1918-1941	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/merchant-seamen-registers-1918-1941
+3	merchant navy	Merchant seamen serving up to 1857: further research	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/merchant-seamen-serving-up-to-1857-further-research
+1	merchant navy,navy	Abbreviations in merchant seamen's records	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/abbreviations-merchant-seamens-records
+1	merchant navy,navy,royal navy,shipping	Maritime history records held by other archives	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/maritime-history-records-held-by-other-archives
+1	merchant navy,navy,shipping	Registration of merchant ships	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/registration-merchant-ships
+1	merchant navy,officers merchant navy	Officers in the Merchant Navy: further research	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/officers-merchant-navy-further-research
+1	merchant navy,royal navy,shipping	Ships wrecked or sunk	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ships-wrecked-sunk
+1	merchant navy,second world war,shipping,World War Two	Merchant shipping movement cards 1939-1945	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/merchant-shipping-movement-cards-1939-1945
+1	merchant navy,shipping	Merchant ships	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/merchant-ships
+1	metropolitan police,police	London Metropolitan and Transport Police	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/london-metropolitan-police
+1	metropolitan police,police,royal irish constabulary,transport police	Police	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/officer-in-police-force
+1	napoleonic wars,wars	Napoleonic Wars	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/napoleonic-wars
+1	navy,nurses,royal navy,women's military service	Royal Navy nurses	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-navy-nurses
+1	navy,officers (royal navy),royal navy,warrant officers	Royal Navy warrant officers	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-navy-warrant-officers
+1	navy,ordnance (military supplies),royal navy,shipping	Research and development in the Royal Navy	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/research-development-royal-navy
+1	navy,royal navy	Royal Navy ratings: further research	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-navy-ratings-further-research
+1	nazi germany,second world war,World War Two	Second World War	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/second-world-war
+1	newspapers,press	Newspapers	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/newspapers
+1	nurses,royal air force,women's military service	Royal Air Force nurses	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-air-force-nurse
+1	officers (air forces),royal flying corps	Royal Flying Corps officers	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/officer-royal-flying-corps
+1	officers (royal navy),probate,royal navy,warrant officers,wills	Wills of Royal Navy and Royal Marines personnel 1786-1882	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/wills-royal-navy-royal-marines-personnel-1786-1882
+1	olympics,paralympics,Sport	Olympic and Paralympic Games and sporting history	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/olympic-paralympic-games-sporting-history
+1	paupers,poor laws,poverty,workhouses	Poverty and the Poor Laws	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/poverty-poor-laws
+	paupers,poor laws,workhouses	Workhouse inmates and staff	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/workhouse-inmate-or-member-of-staff
+2	paupers,poor laws,workhouses	Workhouses	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/workhouse
+1	pensions,royal navy	Royal Navy unpaid pensions 1830-1860: claims by next of kin	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-navy-pensions-1830-1860-claims-by-next-of-kin
+1	photographs	Photographs	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/photographs
+1	photographs,prisons and prisoners	Victorian prisoners' photograph albums 1872-1873	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/victorian-prisoners-photograph-albums-1872-1873
+1	prime ministers,second world war,World War Two	Prime Minister's Office records	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/prime-ministers-office-records
+1	railways	Railway employment records 1833-1956	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/railway-employment-records-1833-1956
+	railways,trains	Railway workers	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/railway-workers
+2	railways,trains	Railways	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/railways
+1	royal air force,women's military service	Women's Royal Air Force service records 1918-1920	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/womens-royal-air-force-service-records-1918-1920
+1	royal flying corps	Royal Flying Corps airmen	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/airman-royal-flying-corps
+1	suffrage,Suffragettes,suffragists,votes for women	Women's suffrage	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/womens-suffrage
+1	ufos	UFOs	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos
+1	wars	Wars: an overview	http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/wars-overview

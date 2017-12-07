@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="185.60039605100752" totalTokens="80" titles="inspectorate, learning, adult, reports, digital, council, standards, training, annual, predecessor">
+	<word weight="0.125" count="10">inspectorate</word>
+	<word weight="0.1125" count="9">learning</word>
+	<word weight="0.1125" count="9">adult</word>
+	<word weight="0.1" count="8">reports</word>
+	<word weight="0.0625" count="5">digital</word>
+	<word weight="0.0625" count="5">council</word>
+	<word weight="0.0625" count="5">standards</word>
+	<word weight="0.0625" count="5">training</word>
+	<word weight="0.05" count="4">annual</word>
+	<word weight="0.0375" count="3">predecessor</word>
+	<word weight="0.025" count="2">march</word>
+	<word weight="0.025" count="2">national</word>
+	<word weight="0.025" count="2">migration</word>
+	<word weight="0.025" count="2">programme</word>
+	<word weight="0.0125" count="1">online</word>
+	<word weight="0.0125" count="1">electronic</word>
+	<word weight="0.0125" count="1">division</word>
+	<word weight="0.0125" count="1">government</word>
+	<word weight="0.0125" count="1">organisations</word>
+	<word weight="0.0125" count="1">inspection</word>
+  </topic>
+</topics>

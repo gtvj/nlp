@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.753910671890439" totalTokens="431" titles="loan, public, works, loans, pwlb, board, reports, commissioners, applications, accounts">
+	<word weight="0.07192575406032482" count="31">loan</word>
+	<word weight="0.060324825986078884" count="26">public</word>
+	<word weight="0.058004640371229696" count="25">works</word>
+	<word weight="0.05568445475638051" count="24">loans</word>
+	<word weight="0.05336426914153132" count="23">pwlb</word>
+	<word weight="0.048723897911832945" count="21">board</word>
+	<word weight="0.030162412993039442" count="13">reports</word>
+	<word weight="0.025522041763341066" count="11">commissioners</word>
+	<word weight="0.016241299303944315" count="7">applications</word>
+	<word weight="0.013921113689095127" count="6">accounts</word>
+	<word weight="0.013921113689095127" count="6">solicitor</word>
+	<word weight="0.013921113689095127" count="6">amounts</word>
+	<word weight="0.013921113689095127" count="6">advances</word>
+	<word weight="0.01160092807424594" count="5">repayment</word>
+	<word weight="0.009280742459396751" count="4">counsel</word>
+	<word weight="0.009280742459396751" count="4">fund</word>
+	<word weight="0.009280742459396751" count="4">local</word>
+	<word weight="0.009280742459396751" count="4">account</word>
+	<word weight="0.009280742459396751" count="4">bound</word>
+	<word weight="0.0069605568445475635" count="3">authorities</word>
+	<phrase weight="0.18840579710144928" count="13">public works loan board</phrase>
+	<phrase weight="0.057971014492753624" count="4">works loan board</phrase>
+	<phrase weight="0.028985507246376812" count="2">annual reports</phrase>
+	<phrase weight="0.028985507246376812" count="2">land settlement acts</phrase>
+	<phrase weight="0.028985507246376812" count="2">local loans fund</phrase>
+	<phrase weight="0.028985507246376812" count="2">loan commissioners</phrase>
+	<phrase weight="0.014492753623188406" count="1">report forms</phrase>
+	<phrase weight="0.014492753623188406" count="1">mortgages securing loans</phrase>
+	<phrase weight="0.014492753623188406" count="1">agricultural credits act</phrase>
+	<phrase weight="0.014492753623188406" count="1">total figures</phrase>
+	<phrase weight="0.014492753623188406" count="1">loan accounts</phrase>
+	<phrase weight="0.014492753623188406" count="1">west india relief commissioners mortgage indentures</phrase>
+	<phrase weight="0.014492753623188406" count="1">local authorities</phrase>
+	<phrase weight="0.014492753623188406" count="1">public works loan boards solicitor</phrase>
+	<phrase weight="0.014492753623188406" count="1">applications submitted</phrase>
+	<phrase weight="0.014492753623188406" count="1">loans granted</phrase>
+	<phrase weight="0.014492753623188406" count="1">loans refused</phrase>
+	<phrase weight="0.014492753623188406" count="1">accounts branch notifying</phrase>
+	<phrase weight="0.014492753623188406" count="1">tabular form</phrase>
+	<phrase weight="0.014492753623188406" count="1">fees received</phrase>
+  </topic>
+</topics>

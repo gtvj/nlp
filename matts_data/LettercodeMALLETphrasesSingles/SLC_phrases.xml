@@ -1,0 +1,20 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="28.683149958560236" totalTokens="90" titles="student, company, loans, finance, slc, england, government, practitioners, login, direct">
+	<word weight="0.26666666666666666" count="24">student</word>
+	<word weight="0.13333333333333333" count="12">company</word>
+	<word weight="0.13333333333333333" count="12">loans</word>
+	<word weight="0.1111111111111111" count="10">finance</word>
+	<word weight="0.07777777777777778" count="7">slc</word>
+	<word weight="0.06666666666666667" count="6">england</word>
+	<word weight="0.06666666666666667" count="6">government</word>
+	<word weight="0.022222222222222223" count="2">practitioners</word>
+	<word weight="0.022222222222222223" count="2">login</word>
+	<word weight="0.022222222222222223" count="2">direct</word>
+	<word weight="0.022222222222222223" count="2">repayment</word>
+	<word weight="0.022222222222222223" count="2">loan</word>
+	<word weight="0.011111111111111112" count="1">division</word>
+	<word weight="0.011111111111111112" count="1">field</word>
+	<word weight="0.011111111111111112" count="1">general</word>
+  </topic>
+</topics>

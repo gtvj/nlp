@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="11.474476788131765" totalTokens="208" titles="tribunals, tax, added, cv, decisions, appeals, president, directions, notes, practice">
+	<word weight="0.11538461538461539" count="24">tribunals</word>
+	<word weight="0.09615384615384616" count="20">tax</word>
+	<word weight="0.08653846153846154" count="18">added</word>
+	<word weight="0.07211538461538461" count="15">cv</word>
+	<word weight="0.03365384615384615" count="7">decisions</word>
+	<word weight="0.028846153846153848" count="6">appeals</word>
+	<word weight="0.02403846153846154" count="5">president</word>
+	<word weight="0.019230769230769232" count="4">directions</word>
+	<word weight="0.019230769230769232" count="4">notes</word>
+	<word weight="0.019230769230769232" count="4">practice</word>
+	<word weight="0.019230769230769232" count="4">reports</word>
+	<word weight="0.019230769230769232" count="4">administration</word>
+	<word weight="0.014423076923076924" count="3">case</word>
+	<word weight="0.014423076923076924" count="3">cases</word>
+	<word weight="0.014423076923076924" count="3">guidance</word>
+	<word weight="0.014423076923076924" count="3">issued</word>
+	<word weight="0.014423076923076924" count="3">tribunal</word>
+	<word weight="0.014423076923076924" count="3">instructions</word>
+	<word weight="0.009615384615384616" count="2">chairmen</word>
+	<word weight="0.009615384615384616" count="2">folders</word>
+	<phrase weight="0.3055555555555556" count="11">added tax tribunals</phrase>
+	<phrase weight="0.08333333333333333" count="3">added tax</phrase>
+	<phrase weight="0.05555555555555555" count="2">practice notes</phrase>
+	<phrase weight="0.027777777777777776" count="1">tax tribunals settling disputes arising</phrase>
+	<phrase weight="0.027777777777777776" count="1">added tax tribunal centres</phrase>
+	<phrase weight="0.027777777777777776" count="1">special commissioners</phrase>
+	<phrase weight="0.027777777777777776" count="1">london headquarters</phrase>
+	<phrase weight="0.027777777777777776" count="1">obtaining uniformity</phrase>
+	<phrase weight="0.027777777777777776" count="1">added tax tribunals reports</phrase>
+	<phrase weight="0.027777777777777776" count="1">future appeals</phrase>
+	<phrase weight="0.027777777777777776" count="1">tribunal sat</phrase>
+	<phrase weight="0.027777777777777776" count="1">legal representatives</phrase>
+	<phrase weight="0.027777777777777776" count="1">directions practice notes</phrase>
+	<phrase weight="0.027777777777777776" count="1">entertain appeals</phrase>
+	<phrase weight="0.027777777777777776" count="1">establishing precedents</phrase>
+	<phrase weight="0.027777777777777776" count="1">hm customs</phrase>
+	<phrase weight="0.027777777777777776" count="1">cases heard</phrase>
+	<phrase weight="0.027777777777777776" count="1">tax tribunals</phrase>
+	<phrase weight="0.027777777777777776" count="1">decisions arrived</phrase>
+	<phrase weight="0.027777777777777776" count="1">united kingdom</phrase>
+  </topic>
+</topics>

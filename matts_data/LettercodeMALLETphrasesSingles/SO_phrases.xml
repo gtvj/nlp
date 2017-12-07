@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.650582628421375" totalTokens="411" titles="signet, bills, warrants, books, king's, home, royal, letters, indexes, docquet">
+	<word weight="0.06569343065693431" count="27">signet</word>
+	<word weight="0.05596107055961071" count="23">bills</word>
+	<word weight="0.0413625304136253" count="17">warrants</word>
+	<word weight="0.0364963503649635" count="15">books</word>
+	<word weight="0.0364963503649635" count="15">king's</word>
+	<word weight="0.021897810218978103" count="9">home</word>
+	<word weight="0.021897810218978103" count="9">royal</word>
+	<word weight="0.019464720194647202" count="8">letters</word>
+	<word weight="0.0170316301703163" count="7">indexes</word>
+	<word weight="0.012165450121654502" count="5">docquet</word>
+	<word weight="0.009732360097323601" count="4">letter</word>
+	<word weight="0.009732360097323601" count="4">manual</word>
+	<word weight="0.009732360097323601" count="4">sign</word>
+	<word weight="0.009732360097323601" count="4">instruments</word>
+	<word weight="0.009732360097323601" count="4">foundations</word>
+	<word weight="0.009732360097323601" count="4">clerks</word>
+	<word weight="0.0072992700729927005" count="3">ireland</word>
+	<word weight="0.0072992700729927005" count="3">entry</word>
+	<word weight="0.0072992700729927005" count="3">irish</word>
+	<word weight="0.0072992700729927005" count="3">years</word>
+  </topic>
+</topics>

@@ -1,0 +1,30 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8655.26252001355" totalTokens="71" titles="board, laboratory, service, health, public, dn, annual, reports, minutes, yearbook">
+	<word weight="0.11267605633802817" count="8">board</word>
+	<word weight="0.11267605633802817" count="8">laboratory</word>
+	<word weight="0.09859154929577464" count="7">service</word>
+	<word weight="0.09859154929577464" count="7">health</word>
+	<word weight="0.09859154929577464" count="7">public</word>
+	<word weight="0.09859154929577464" count="7">dn</word>
+	<word weight="0.056338028169014086" count="4">annual</word>
+	<word weight="0.04225352112676056" count="3">reports</word>
+	<word weight="0.04225352112676056" count="3">minutes</word>
+	<word weight="0.028169014084507043" count="2">yearbook</word>
+	<word weight="0.028169014084507043" count="2">phls</word>
+	<word weight="0.028169014084507043" count="2">report</word>
+	<word weight="0.028169014084507043" count="2">correspondence</word>
+	<word weight="0.014084507042253521" count="1">general</word>
+	<word weight="0.014084507042253521" count="1">contained</word>
+	<word weight="0.014084507042253521" count="1">yearbooks</word>
+	<word weight="0.014084507042253521" count="1">diseases</word>
+	<word weight="0.014084507042253521" count="1">communicable</word>
+	<word weight="0.014084507042253521" count="1">investigations</word>
+	<word weight="0.014084507042253521" count="1">makes</word>
+	<phrase weight="0.4" count="4">public health laboratory service board</phrase>
+	<phrase weight="0.2" count="2">annual reports</phrase>
+	<phrase weight="0.2" count="2">health laboratory service board</phrase>
+	<phrase weight="0.1" count="1">phls yearbook</phrase>
+	<phrase weight="0.1" count="1">laboratory investigations</phrase>
+  </topic>
+</topics>

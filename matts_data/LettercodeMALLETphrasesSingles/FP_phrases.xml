@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="33.9147481545579" totalTokens="114" titles="health, education, minutes, council, authority, development, meetings, hec, unregistered, committees">
+	<word weight="0.18421052631578946" count="21">health</word>
+	<word weight="0.13157894736842105" count="15">education</word>
+	<word weight="0.09649122807017543" count="11">minutes</word>
+	<word weight="0.07017543859649122" count="8">council</word>
+	<word weight="0.043859649122807015" count="5">authority</word>
+	<word weight="0.043859649122807015" count="5">development</word>
+	<word weight="0.017543859649122806" count="2">meetings</word>
+	<word weight="0.017543859649122806" count="2">hec</word>
+	<word weight="0.017543859649122806" count="2">unregistered</word>
+	<word weight="0.008771929824561403" count="1">committees</word>
+	<word weight="0.008771929824561403" count="1">successors</word>
+	<word weight="0.008771929824561403" count="1">successor</word>
+	<word weight="0.008771929824561403" count="1">trace</word>
+	<word weight="0.008771929824561403" count="1">special</word>
+	<word weight="0.008771929824561403" count="1">inception</word>
+	<word weight="0.008771929824561403" count="1">committee</word>
+	<word weight="0.008771929824561403" count="1">audit</word>
+	<word weight="0.008771929824561403" count="1">resources</word>
+	<word weight="0.008771929824561403" count="1">board</word>
+	<word weight="0.008771929824561403" count="1">malaria</word>
+  </topic>
+</topics>

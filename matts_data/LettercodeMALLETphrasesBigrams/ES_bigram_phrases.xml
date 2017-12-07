@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.769093385665547" totalTokens="1318" titles="atomic weapons research, reports, nuclear, development, awre, awe, trials, work, tests, aldermaston">
+	<word weight="0.06069802731411229" count="80">weapons</word>
+	<word weight="0.05614567526555387" count="74">atomic</word>
+	<word weight="0.054628224582701064" count="72">es</word>
+	<word weight="0.04552352048558422" count="60">reports</word>
+	<word weight="0.04552352048558422" count="60">research</word>
+	<word weight="0.017450682852807285" count="23">nuclear</word>
+	<word weight="0.013657056145675266" count="18">development</word>
+	<word weight="0.012898330804248861" count="17">awre</word>
+	<word weight="0.011380880121396054" count="15">weapon</word>
+	<word weight="0.011380880121396054" count="15">awe</word>
+	<word weight="0.011380880121396054" count="15">trials</word>
+	<word weight="0.011380880121396054" count="15">work</word>
+	<word weight="0.009104704097116844" count="12">tests</word>
+	<word weight="0.00834597875569044" count="11">aldermaston</word>
+	<word weight="0.007587253414264037" count="10">projects</word>
+	<word weight="0.006828528072837633" count="9">policy</word>
+	<word weight="0.006828528072837633" count="9">acquisition</word>
+	<word weight="0.006828528072837633" count="9">site</word>
+	<word weight="0.006828528072837633" count="9">successors</word>
+	<word weight="0.006069802731411229" count="8">design</word>
+	<phrase weight="0.16170212765957448" count="38">atomic weapons research</phrase>
+	<phrase weight="0.02553191489361702" count="6">atomic weapons</phrase>
+	<phrase weight="0.01276595744680851" count="3">aldermaston site</phrase>
+	<phrase weight="0.01276595744680851" count="3">warhead design</phrase>
+	<phrase weight="0.01276595744680851" count="3">important visitors</phrase>
+	<phrase weight="0.01276595744680851" count="3">work undertaken</phrase>
+	<phrase weight="0.00851063829787234" count="2">weapon projects</phrase>
+	<phrase weight="0.00851063829787234" count="2">international tests</phrase>
+	<phrase weight="0.00851063829787234" count="2">weapons research</phrase>
+	<phrase weight="0.00851063829787234" count="2">threat reduction</phrase>
+	<phrase weight="0.00851063829787234" count="2">monte bello islands</phrase>
+	<phrase weight="0.00851063829787234" count="2">specialist materials</phrase>
+	<phrase weight="0.00851063829787234" count="2">wide range</phrase>
+	<phrase weight="0.00851063829787234" count="2">underground weapon tests</phrase>
+	<phrase weight="0.00851063829787234" count="2">nuclear weapons development</phrase>
+	<phrase weight="0.00851063829787234" count="2">theoretical physics notes</phrase>
+	<phrase weight="0.00851063829787234" count="2">nuclear explosions</phrase>
+	<phrase weight="0.00851063829787234" count="2">public relations</phrase>
+	<phrase weight="0.00851063829787234" count="2">atmospheric trials</phrase>
+	<phrase weight="0.00851063829787234" count="2">kilotonne bomb dropped</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.039511070328602" totalTokens="20858" titles="hm treasury, registry theme, economic adviser, uk government, services sector, policy work, ceremonial branch, economy sector, finance sector, public services">
+	<word weight="0.051634864320644354" count="1077">treasury</word>
+	<word weight="0.01586921085434845" count="331">sector</word>
+	<word weight="0.015821267619138938" count="330">public</word>
+	<word weight="0.015485664972672356" count="323">hm</word>
+	<word weight="0.015437721737462844" count="322">books</word>
+	<word weight="0.014958289385367725" count="312">policy</word>
+	<word weight="0.01361587879950139" count="284">division</word>
+	<word weight="0.012273468213635057" count="256">finance</word>
+	<word weight="0.011698149391120913" count="244">economic</word>
+	<word weight="0.010403682040464091" count="217">services</word>
+	<word weight="0.009828363217949948" count="205">government</word>
+	<word weight="0.009588647041902388" count="200">minutes</word>
+	<word weight="0.00891744174896922" count="186">correspondence</word>
+	<word weight="0.008773612043340685" count="183">committee</word>
+	<word weight="0.008773612043340685" count="183">letters</word>
+	<word weight="0.00867772557292166" count="181">group</word>
+	<word weight="0.008533895867293124" count="178">financial</word>
+	<word weight="0.008054463515198005" count="168">general</word>
+	<word weight="0.007191485281426791" count="150">expenditure</word>
+	<word weight="0.006951769105379231" count="145">commission</word>
+	<phrase weight="0.0600100857286939" count="238">hm treasury</phrase>
+	<phrase weight="0.00832072617246596" count="33">registry theme</phrase>
+	<phrase weight="0.007564296520423601" count="30">economic adviser</phrase>
+	<phrase weight="0.006555723651033787" count="26">uk government</phrase>
+	<phrase weight="0.006555723651033787" count="26">services sector</phrase>
+	<phrase weight="0.006051437216338881" count="24">policy work</phrase>
+	<phrase weight="0.005799293998991427" count="23">ceremonial branch</phrase>
+	<phrase weight="0.005799293998991427" count="23">economy sector</phrase>
+	<phrase weight="0.005547150781643974" count="22">finance sector</phrase>
+	<phrase weight="0.00529500756429652" count="21">public services</phrase>
+	<phrase weight="0.004790721129601614" count="19">letter books</phrase>
+	<phrase weight="0.0045385779122541605" count="18">royal commission</phrase>
+	<phrase weight="0.004286434694906707" count="17">public expenditure</phrase>
+	<phrase weight="0.0037821482602118004" count="15">treasury books</phrase>
+	<phrase weight="0.0037821482602118004" count="15">finance group</phrase>
+	<phrase weight="0.0035300050428643467" count="14">chief economic adviser</phrase>
+	<phrase weight="0.0032778618255168935" count="13">entry books</phrase>
+	<phrase weight="0.0032778618255168935" count="13">financial institutions</phrase>
+	<phrase weight="0.002773575390821987" count="11">financial conduct authority</phrase>
+	<phrase weight="0.0025214321734745334" count="10">european economic</phrase>
+  </topic>
+</topics>

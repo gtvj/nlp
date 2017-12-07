@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.907879266975448" totalTokens="268" titles="heritage, english, historic, monuments, england, government, buildings, committee, advisory, national">
+	<word weight="0.12686567164179105" count="34">heritage</word>
+	<word weight="0.11940298507462686" count="32">english</word>
+	<word weight="0.07462686567164178" count="20">historic</word>
+	<word weight="0.05970149253731343" count="16">monuments</word>
+	<word weight="0.05223880597014925" count="14">england</word>
+	<word weight="0.048507462686567165" count="13">government</word>
+	<word weight="0.033582089552238806" count="9">buildings</word>
+	<word weight="0.022388059701492536" count="6">committee</word>
+	<word weight="0.022388059701492536" count="6">advisory</word>
+	<word weight="0.018656716417910446" count="5">national</word>
+	<word weight="0.018656716417910446" count="5">reports</word>
+	<word weight="0.018656716417910446" count="5">commission</word>
+	<word weight="0.014925373134328358" count="4">viewfinder</word>
+	<word weight="0.014925373134328358" count="4">sites</word>
+	<word weight="0.014925373134328358" count="4">thesauri</word>
+	<word weight="0.014925373134328358" count="4">images</word>
+	<word weight="0.014925373134328358" count="4">ancient</word>
+	<word weight="0.011194029850746268" count="3">field</word>
+	<word weight="0.011194029850746268" count="3">general</word>
+	<word weight="0.011194029850746268" count="3">minutes</word>
+  </topic>
+</topics>

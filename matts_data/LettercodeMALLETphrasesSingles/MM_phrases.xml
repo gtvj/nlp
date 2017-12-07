@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="11.360677497068865" totalTokens="384" titles="millennium, commission, awards, scheme, projects, database, grants, individual, profesa, case">
+	<word weight="0.11458333333333333" count="44">millennium</word>
+	<word weight="0.059895833333333336" count="23">commission</word>
+	<word weight="0.041666666666666664" count="16">awards</word>
+	<word weight="0.0390625" count="15">scheme</word>
+	<word weight="0.033854166666666664" count="13">projects</word>
+	<word weight="0.028645833333333332" count="11">database</word>
+	<word weight="0.020833333333333332" count="8">grants</word>
+	<word weight="0.020833333333333332" count="8">individual</word>
+	<word weight="0.018229166666666668" count="7">profesa</word>
+	<word weight="0.015625" count="6">case</word>
+	<word weight="0.013020833333333334" count="5">festivals</word>
+	<word weight="0.013020833333333334" count="5">lottery</word>
+	<word weight="0.010416666666666666" count="4">festival</word>
+	<word weight="0.010416666666666666" count="4">datasets</word>
+	<word weight="0.010416666666666666" count="4">dataset</word>
+	<word weight="0.010416666666666666" count="4">amis</word>
+	<word weight="0.0078125" count="3">minutes</word>
+	<word weight="0.0078125" count="3">digital</word>
+	<word weight="0.0078125" count="3">completion</word>
+	<word weight="0.0078125" count="3">directly</word>
+  </topic>
+</topics>

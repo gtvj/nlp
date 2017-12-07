@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.95940009944457" totalTokens="695" titles="committee, judicial, council, privy, appeal, cases, court, appeals, volume, books">
+	<word weight="0.06330935251798561" count="44">committee</word>
+	<word weight="0.051798561151079135" count="36">judicial</word>
+	<word weight="0.04748201438848921" count="33">council</word>
+	<word weight="0.04028776978417266" count="28">privy</word>
+	<word weight="0.027338129496402876" count="19">appeal</word>
+	<word weight="0.027338129496402876" count="19">cases</word>
+	<word weight="0.025899280575539568" count="18">court</word>
+	<word weight="0.025899280575539568" count="18">appeals</word>
+	<word weight="0.02014388489208633" count="14">case</word>
+	<word weight="0.017266187050359712" count="12">volume</word>
+	<word weight="0.014388489208633094" count="10">books</word>
+	<word weight="0.012949640287769784" count="9">names</word>
+	<word weight="0.012949640287769784" count="9">ecclesiastical</word>
+	<word weight="0.011510791366906475" count="8">admiralty</word>
+	<word weight="0.010071942446043165" count="7">proceedings</word>
+	<word weight="0.010071942446043165" count="7">number</word>
+	<word weight="0.010071942446043165" count="7">minutes</word>
+	<word weight="0.008633093525179856" count="6">respondents</word>
+	<word weight="0.008633093525179856" count="6">transcripts</word>
+	<word weight="0.008633093525179856" count="6">index</word>
+  </topic>
+</topics>

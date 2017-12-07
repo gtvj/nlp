@@ -1,0 +1,27 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.6151137415871657" totalTokens="47" titles="committee, evidence, terrorism, suspected, persons, interrogation, procedures, authorised, appointed, counsellors">
+	<word weight="0.0851063829787234" count="4">committee</word>
+	<word weight="0.06382978723404255" count="3">evidence</word>
+	<word weight="0.06382978723404255" count="3">terrorism</word>
+	<word weight="0.06382978723404255" count="3">suspected</word>
+	<word weight="0.06382978723404255" count="3">persons</word>
+	<word weight="0.06382978723404255" count="3">interrogation</word>
+	<word weight="0.06382978723404255" count="3">procedures</word>
+	<word weight="0.06382978723404255" count="3">authorised</word>
+	<word weight="0.06382978723404255" count="3">appointed</word>
+	<word weight="0.06382978723404255" count="3">counsellors</word>
+	<word weight="0.06382978723404255" count="3">privy</word>
+	<word weight="0.06382978723404255" count="3">rv</word>
+	<word weight="0.0425531914893617" count="2">minutes</word>
+	<word weight="0.0425531914893617" count="2">inquiry</word>
+	<word weight="0.0425531914893617" count="2">parker</word>
+	<word weight="0.0425531914893617" count="2">report</word>
+	<word weight="0.02127659574468085" count="1">submitted</word>
+	<word weight="0.02127659574468085" count="1">meetings</word>
+	<phrase weight="0.3333333333333333" count="3">privy counsellors appointed</phrase>
+	<phrase weight="0.3333333333333333" count="3">persons suspected</phrase>
+	<phrase weight="0.2222222222222222" count="2">parker inquiry</phrase>
+	<phrase weight="0.1111111111111111" count="1">evidence submitted</phrase>
+  </topic>
+</topics>

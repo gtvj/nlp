@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.260401840531859" totalTokens="2770" titles="civil, aviation, air, authority, traffic, services, airworthiness, board, national, division">
+	<word weight="0.06570397111913358" count="182">civil</word>
+	<word weight="0.059927797833935016" count="166">aviation</word>
+	<word weight="0.05523465703971119" count="153">air</word>
+	<word weight="0.05018050541516245" count="139">authority</word>
+	<word weight="0.032490974729241874" count="90">traffic</word>
+	<word weight="0.02924187725631769" count="81">services</word>
+	<word weight="0.02888086642599278" count="80">airworthiness</word>
+	<word weight="0.024187725631768953" count="67">board</word>
+	<word weight="0.023465703971119134" count="65">national</word>
+	<word weight="0.022382671480144403" count="62">division</word>
+	<word weight="0.021299638989169676" count="59">group</word>
+	<word weight="0.020216606498194945" count="56">safety</word>
+	<word weight="0.01768953068592058" count="49">registration</word>
+	<word weight="0.01660649819494585" count="46">aircraft</word>
+	<word weight="0.0148014440433213" count="41">reports</word>
+	<word weight="0.01444043321299639" count="40">predecessors</word>
+	<word weight="0.01407942238267148" count="39">regulatory</word>
+	<word weight="0.01227436823104693" count="34">committee</word>
+	<word weight="0.01227436823104693" count="34">requirements</word>
+	<word weight="0.011913357400722021" count="33">minutes</word>
+  </topic>
+</topics>

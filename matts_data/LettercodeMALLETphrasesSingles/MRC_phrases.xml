@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.6357983837202243" totalTokens="43" titles="maps, public, plans, drawings, lane, chancery, rolled, standardised, modernised, contemporary">
+	<word weight="0.11627906976744186" count="5">maps</word>
+	<word weight="0.09302325581395349" count="4">public</word>
+	<word weight="0.09302325581395349" count="4">plans</word>
+	<word weight="0.046511627906976744" count="2">drawings</word>
+	<word weight="0.046511627906976744" count="2">lane</word>
+	<word weight="0.046511627906976744" count="2">chancery</word>
+	<word weight="0.046511627906976744" count="2">rolled</word>
+	<word weight="0.023255813953488372" count="1">standardised</word>
+	<word weight="0.023255813953488372" count="1">modernised</word>
+	<word weight="0.023255813953488372" count="1">contemporary</word>
+	<word weight="0.023255813953488372" count="1">names</word>
+	<word weight="0.023255813953488372" count="1">depicted</word>
+	<word weight="0.023255813953488372" count="1">places</word>
+	<word weight="0.023255813953488372" count="1">matter.as</word>
+	<word weight="0.023255813953488372" count="1">subject</word>
+	<word weight="0.023255813953488372" count="1">common</word>
+	<word weight="0.023255813953488372" count="1">government</word>
+	<word weight="0.023255813953488372" count="1">courts</word>
+	<word weight="0.023255813953488372" count="1">pedigree</word>
+	<word weight="0.023255813953488372" count="1">size</word>
+  </topic>
+</topics>

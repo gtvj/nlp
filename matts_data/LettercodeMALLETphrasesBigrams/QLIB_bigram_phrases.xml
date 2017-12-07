@@ -1,0 +1,41 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="18.03658160595707" totalTokens="150" titles="jan, lists, dec, monthly, medal, rolls, library, century, coronation, navy">
+	<word weight="0.06666666666666667" count="10">jan</word>
+	<word weight="0.06" count="9">lists</word>
+	<word weight="0.05333333333333334" count="8">dec</word>
+	<word weight="0.05333333333333334" count="8">monthly</word>
+	<word weight="0.04666666666666667" count="7">medal</word>
+	<word weight="0.04" count="6">rolls</word>
+	<word weight="0.04" count="6">library</word>
+	<word weight="0.03333333333333333" count="5">century</word>
+	<word weight="0.02666666666666667" count="4">coronation</word>
+	<word weight="0.02666666666666667" count="4">navy</word>
+	<word weight="0.02666666666666667" count="4">royal</word>
+	<word weight="0.02" count="3">oct</word>
+	<word weight="0.02" count="3">war</word>
+	<word weight="0.02" count="3">king</word>
+	<word weight="0.02" count="3">jubilee</word>
+	<word weight="0.02" count="3">army</word>
+	<word weight="0.02" count="3">site</word>
+	<word weight="0.02" count="3">stores</word>
+	<word weight="0.02" count="3">centre</word>
+	<word weight="0.02" count="3">resource</word>
+	<phrase weight="0.14285714285714285" count="3">resource centre</phrase>
+	<phrase weight="0.09523809523809523" count="2">category lists</phrase>
+	<phrase weight="0.09523809523809523" count="2">century royal navy lists</phrase>
+	<phrase weight="0.09523809523809523" count="2">army lists</phrase>
+	<phrase weight="0.047619047619047616" count="1">medal rolls</phrase>
+	<phrase weight="0.047619047619047616" count="1">jubilee medal rolls</phrase>
+	<phrase weight="0.047619047619047616" count="1">library stamps</phrase>
+	<phrase weight="0.047619047619047616" count="1">royal navy list</phrase>
+	<phrase weight="0.047619047619047616" count="1">honourable east</phrase>
+	<phrase weight="0.047619047619047616" count="1">militia forces</phrase>
+	<phrase weight="0.047619047619047616" count="1">manuscript annotations</phrase>
+	<phrase weight="0.047619047619047616" count="1">library library stock</phrase>
+	<phrase weight="0.047619047619047616" count="1">silver jubilee medal</phrase>
+	<phrase weight="0.047619047619047616" count="1">coronation medal rolls</phrase>
+	<phrase weight="0.047619047619047616" count="1">royal navy</phrase>
+	<phrase weight="0.047619047619047616" count="1">medal issued</phrase>
+  </topic>
+</topics>

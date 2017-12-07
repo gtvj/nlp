@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="13.995937677028346" totalTokens="160" titles="inquests, fayed, dodi, wales, princess, diana, deaths, moneim, abdel, mohamed">
+	<word weight="0.09375" count="15">inquests</word>
+	<word weight="0.0875" count="14">fayed</word>
+	<word weight="0.05" count="8">dodi</word>
+	<word weight="0.05" count="8">wales</word>
+	<word weight="0.05" count="8">princess</word>
+	<word weight="0.05" count="8">diana</word>
+	<word weight="0.05" count="8">deaths</word>
+	<word weight="0.04375" count="7">moneim</word>
+	<word weight="0.04375" count="7">abdel</word>
+	<word weight="0.04375" count="7">mohamed</word>
+	<word weight="0.04375" count="7">el-din</word>
+	<word weight="0.04375" count="7">emad</word>
+	<word weight="0.0375" count="6">evidence</word>
+	<word weight="0.01875" count="3">jurors</word>
+	<word weight="0.01875" count="3">bundles</word>
+	<word weight="0.0125" count="2">database</word>
+	<word weight="0.0125" count="2">coroner</word>
+	<word weight="0.0125" count="2">surrey</word>
+	<word weight="0.0125" count="2">work</word>
+	<word weight="0.0125" count="2">electronic</word>
+  </topic>
+</topics>

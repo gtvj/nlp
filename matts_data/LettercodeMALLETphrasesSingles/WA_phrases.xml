@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.851973835222012" totalTokens="313" titles="welsh, government, assembly, language, wales, board, public, policy, minutes, english">
+	<word weight="0.2012779552715655" count="63">welsh</word>
+	<word weight="0.11182108626198083" count="35">government</word>
+	<word weight="0.07667731629392971" count="24">assembly</word>
+	<word weight="0.0670926517571885" count="21">language</word>
+	<word weight="0.04153354632587859" count="13">wales</word>
+	<word weight="0.02875399361022364" count="9">board</word>
+	<word weight="0.025559105431309903" count="8">public</word>
+	<word weight="0.025559105431309903" count="8">policy</word>
+	<word weight="0.019169329073482427" count="6">minutes</word>
+	<word weight="0.01597444089456869" count="5">english</word>
+	<word weight="0.012779552715654952" count="4">gov.wales</word>
+	<word weight="0.012779552715654952" count="4">successors</word>
+	<word weight="0.012779552715654952" count="4">subsumed</word>
+	<word weight="0.012779552715654952" count="4">national</word>
+	<word weight="0.012779552715654952" count="4">measure</word>
+	<word weight="0.012779552715654952" count="4">development</word>
+	<word weight="0.009584664536741214" count="3">education</word>
+	<word weight="0.009584664536741214" count="3">commission</word>
+	<word weight="0.009584664536741214" count="3">electronic</word>
+	<word weight="0.009584664536741214" count="3">digital</word>
+  </topic>
+</topics>

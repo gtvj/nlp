@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.35762234830772" totalTokens="2260" titles="industrial research, laboratory, scientific, committee, reports, national, committees, board, spring, warren">
+	<word weight="0.10973451327433628" count="248">research</word>
+	<word weight="0.049557522123893805" count="112">laboratory</word>
+	<word weight="0.047345132743362835" count="107">industrial</word>
+	<word weight="0.045575221238938056" count="103">scientific</word>
+	<word weight="0.02566371681415929" count="58">committee</word>
+	<word weight="0.024778761061946902" count="56">reports</word>
+	<word weight="0.023893805309734513" count="54">national</word>
+	<word weight="0.019469026548672566" count="44">committees</word>
+	<word weight="0.015486725663716814" count="35">board</word>
+	<word weight="0.01415929203539823" count="32">council</word>
+	<word weight="0.01415929203539823" count="32">spring</word>
+	<word weight="0.01415929203539823" count="32">warren</word>
+	<word weight="0.013716814159292035" count="31">physical</word>
+	<word weight="0.012831858407079646" count="29">meetings</word>
+	<word weight="0.010176991150442478" count="23">engineering</word>
+	<word weight="0.010176991150442478" count="23">minutes</word>
+	<word weight="0.009734513274336283" count="22">boards</word>
+	<word weight="0.009734513274336283" count="22">organisation</word>
+	<word weight="0.009292035398230088" count="21">road</word>
+	<word weight="0.009292035398230088" count="21">laboratories</word>
+	<phrase weight="0.1948608137044968" count="91">industrial research</phrase>
+	<phrase weight="0.032119914346895075" count="15">spring laboratory</phrase>
+	<phrase weight="0.014989293361884369" count="7">physical laboratory</phrase>
+	<phrase weight="0.01284796573875803" count="6">research council</phrase>
+	<phrase weight="0.01284796573875803" count="6">research organisations</phrase>
+	<phrase weight="0.01284796573875803" count="6">national physical laboratory</phrase>
+	<phrase weight="0.01284796573875803" count="6">engineering laboratory</phrase>
+	<phrase weight="0.01284796573875803" count="6">research laboratory</phrase>
+	<phrase weight="0.01284796573875803" count="6">research board</phrase>
+	<phrase weight="0.010706638115631691" count="5">road research laboratory</phrase>
+	<phrase weight="0.010706638115631691" count="5">research reports</phrase>
+	<phrase weight="0.008565310492505354" count="4">physical laboratory reports</phrase>
+	<phrase weight="0.008565310492505354" count="4">research station</phrase>
+	<phrase weight="0.008565310492505354" count="4">advisory council</phrase>
+	<phrase weight="0.008565310492505354" count="4">process development division</phrase>
+	<phrase weight="0.008565310492505354" count="4">government chemist</phrase>
+	<phrase weight="0.008565310492505354" count="4">reports emanating</phrase>
+	<phrase weight="0.008565310492505354" count="4">research establishments</phrase>
+	<phrase weight="0.006423982869379015" count="3">national engineering laboratory</phrase>
+	<phrase weight="0.006423982869379015" count="3">grants committee</phrase>
+  </topic>
+</topics>

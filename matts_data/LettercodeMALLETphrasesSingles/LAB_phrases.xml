@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.208294249810374" totalTokens="4223" titles="employment, labour, industrial, committee, training, central, policy, division, health, service">
+	<word weight="0.047359696897939854" count="200">employment</word>
+	<word weight="0.030547004499171207" count="129">labour</word>
+	<word weight="0.021075065119583236" count="89">industrial</word>
+	<word weight="0.017996684821217145" count="76">committee</word>
+	<word weight="0.014918304522851054" count="63">training</word>
+	<word weight="0.01302391664693346" count="55">central</word>
+	<word weight="0.012313521193464362" count="52">policy</word>
+	<word weight="0.011366327255505565" count="48">division</word>
+	<word weight="0.010892730286526165" count="46">health</word>
+	<word weight="0.010655931802036467" count="45">service</word>
+	<word weight="0.010655931802036467" count="45">national</word>
+	<word weight="0.010419133317546767" count="44">services</word>
+	<word weight="0.010182334833057069" count="43">safety</word>
+	<word weight="0.010182334833057069" count="43">general</word>
+	<word weight="0.009945536348567369" count="42">manpower</word>
+	<word weight="0.009945536348567369" count="42">inspectorate</word>
+	<word weight="0.008524745441629173" count="36">tribunals</word>
+	<word weight="0.008287946957139474" count="35">administration</word>
+	<word weight="0.007814349988160076" count="33">regional</word>
+	<word weight="0.007814349988160076" count="33">reports</word>
+  </topic>
+</topics>

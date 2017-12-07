@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="11.23002894278637" totalTokens="214" titles="board, nursing, national, health, english, visiting, midwifery, reports, annual, circulars">
+	<word weight="0.09345794392523364" count="20">board</word>
+	<word weight="0.07476635514018691" count="16">nursing</word>
+	<word weight="0.07476635514018691" count="16">national</word>
+	<word weight="0.07009345794392523" count="15">health</word>
+	<word weight="0.07009345794392523" count="15">english</word>
+	<word weight="0.06542056074766354" count="14">visiting</word>
+	<word weight="0.06542056074766354" count="14">midwifery</word>
+	<word weight="0.018691588785046728" count="4">reports</word>
+	<word weight="0.018691588785046728" count="4">annual</word>
+	<word weight="0.018691588785046728" count="4">circulars</word>
+	<word weight="0.014018691588785047" count="3">charts</word>
+	<word weight="0.014018691588785047" count="3">organisational</word>
+	<word weight="0.014018691588785047" count="3">newsletters</word>
+	<word weight="0.014018691588785047" count="3">issued</word>
+	<word weight="0.014018691588785047" count="3">reviews</word>
+	<word weight="0.014018691588785047" count="3">plans</word>
+	<word weight="0.014018691588785047" count="3">strategic</word>
+	<word weight="0.014018691588785047" count="3">operational</word>
+	<word weight="0.014018691588785047" count="3">institutions</word>
+	<word weight="0.014018691588785047" count="3">minutes</word>
+	<phrase weight="0.22448979591836735" count="11">english national board</phrase>
+	<phrase weight="0.20408163265306123" count="10">health visiting</phrase>
+	<phrase weight="0.08163265306122448" count="4">national board</phrase>
+	<phrase weight="0.061224489795918366" count="3">strategic plans</phrase>
+	<phrase weight="0.04081632653061224" count="2">circulars issued</phrase>
+	<phrase weight="0.04081632653061224" count="2">annual reports</phrase>
+	<phrase weight="0.04081632653061224" count="2">organisational charts</phrase>
+	<phrase weight="0.04081632653061224" count="2">committees minutes</phrase>
+	<phrase weight="0.02040816326530612" count="1">uk central council</phrase>
+	<phrase weight="0.02040816326530612" count="1">training courses</phrase>
+	<phrase weight="0.02040816326530612" count="1">committee minutes</phrase>
+	<phrase weight="0.02040816326530612" count="1">training institutions</phrase>
+	<phrase weight="0.02040816326530612" count="1">professional nursing</phrase>
+	<phrase weight="0.02040816326530612" count="1">health visitors act</phrase>
+	<phrase weight="0.02040816326530612" count="1">approving institutions</phrase>
+	<phrase weight="0.02040816326530612" count="1">illustrative sample</phrase>
+	<phrase weight="0.02040816326530612" count="1">kingdom central council</phrase>
+	<phrase weight="0.02040816326530612" count="1">health visiting regulations</phrase>
+	<phrase weight="0.02040816326530612" count="1">major teaching hospitals</phrase>
+	<phrase weight="0.02040816326530612" count="1">newsletters issued</phrase>
+  </topic>
+</topics>

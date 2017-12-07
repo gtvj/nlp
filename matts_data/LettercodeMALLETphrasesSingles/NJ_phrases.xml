@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.871861329276792" totalTokens="223" titles="review, body, economics, manpower, pay, government, teachers, school, service, salaries">
+	<word weight="0.12556053811659193" count="28">review</word>
+	<word weight="0.11659192825112108" count="26">body</word>
+	<word weight="0.09865470852017937" count="22">economics</word>
+	<word weight="0.09865470852017937" count="22">manpower</word>
+	<word weight="0.05829596412556054" count="13">pay</word>
+	<word weight="0.04932735426008968" count="11">government</word>
+	<word weight="0.03139013452914798" count="7">teachers</word>
+	<word weight="0.03139013452914798" count="7">school</word>
+	<word weight="0.02242152466367713" count="5">service</word>
+	<word weight="0.02242152466367713" count="5">salaries</word>
+	<word weight="0.017937219730941704" count="4">prison</word>
+	<word weight="0.017937219730941704" count="4">forces</word>
+	<word weight="0.017937219730941704" count="4">armed</word>
+	<word weight="0.017937219730941704" count="4">field</word>
+	<word weight="0.017937219730941704" count="4">general</word>
+	<word weight="0.017937219730941704" count="4">senior</word>
+	<word weight="0.017937219730941704" count="4">remuneration</word>
+	<word weight="0.017937219730941704" count="4">dentists</word>
+	<word weight="0.017937219730941704" count="4">doctors</word>
+	<word weight="0.017937219730941704" count="4">board</word>
+  </topic>
+</topics>

@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="14.89144732656256" totalTokens="172" titles="pesticides, safety, directorate, se, government, uk, meetings, executive, health, regulations">
+	<word weight="0.09883720930232558" count="17">pesticides</word>
+	<word weight="0.0872093023255814" count="15">safety</word>
+	<word weight="0.0755813953488372" count="13">directorate</word>
+	<word weight="0.046511627906976744" count="8">se</word>
+	<word weight="0.029069767441860465" count="5">government</word>
+	<word weight="0.029069767441860465" count="5">uk</word>
+	<word weight="0.029069767441860465" count="5">meetings</word>
+	<word weight="0.029069767441860465" count="5">executive</word>
+	<word weight="0.029069767441860465" count="5">health</word>
+	<word weight="0.029069767441860465" count="5">regulations</word>
+	<word weight="0.023255813953488372" count="4">directive</word>
+	<word weight="0.023255813953488372" count="4">water</word>
+	<word weight="0.023255813953488372" count="4">work</word>
+	<word weight="0.01744186046511628" count="3">environment</word>
+	<word weight="0.01744186046511628" count="3">committee</word>
+	<word weight="0.01744186046511628" count="3">advisory</word>
+	<word weight="0.01744186046511628" count="3">psd</word>
+	<word weight="0.01744186046511628" count="3">chemical</word>
+	<word weight="0.011627906976744186" count="2">centre</word>
+	<word weight="0.011627906976744186" count="2">media</word>
+	<phrase weight="0.1282051282051282" count="5">safety executive</phrase>
+	<phrase weight="0.07692307692307693" count="3">uk government</phrase>
+	<phrase weight="0.07692307692307693" count="3">advisory committee</phrase>
+	<phrase weight="0.07692307692307693" count="3">pesticides safety directorate</phrase>
+	<phrase weight="0.05128205128205128" count="2">safety directorate</phrase>
+	<phrase weight="0.05128205128205128" count="2">regulations directorate</phrase>
+	<phrase weight="0.05128205128205128" count="2">media centre</phrase>
+	<phrase weight="0.02564102564102564" count="1">active ingredients</phrase>
+	<phrase weight="0.02564102564102564" count="1">incidents impacting</phrase>
+	<phrase weight="0.02564102564102564" count="1">seamless flow</phrase>
+	<phrase weight="0.02564102564102564" count="1">royal commission</phrase>
+	<phrase weight="0.02564102564102564" count="1">data studies supplied</phrase>
+	<phrase weight="0.02564102564102564" count="1">agricultural pesticides</phrase>
+	<phrase weight="0.02564102564102564" count="1">approving pesticides</phrase>
+	<phrase weight="0.02564102564102564" count="1">vegetable scheme</phrase>
+	<phrase weight="0.02564102564102564" count="1">databases recording psd</phrase>
+	<phrase weight="0.02564102564102564" count="1">detergent regulations</phrase>
+	<phrase weight="0.02564102564102564" count="1">water directive meetings agendas</phrase>
+	<phrase weight="0.02564102564102564" count="1">water directive meetings</phrase>
+	<phrase weight="0.02564102564102564" count="1">chemical regulations directorate</phrase>
+  </topic>
+</topics>

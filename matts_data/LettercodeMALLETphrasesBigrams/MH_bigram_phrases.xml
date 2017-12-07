@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.136091031618531" totalTokens="6901" titles="local government board, social security, law board, poor law commission, health, mh, general, medical, correspondence, services">
+	<word weight="0.07868424865961454" count="543">health</word>
+	<word weight="0.038690044921025936" count="267">board</word>
+	<word weight="0.027387335168816113" count="189">mh</word>
+	<word weight="0.02492392406897551" count="172">local</word>
+	<word weight="0.02246051296913491" count="155">poor</word>
+	<word weight="0.022315606433850166" count="154">law</word>
+	<word weight="0.019127662657585857" count="132">government</word>
+	<word weight="0.016519345022460514" count="114">general</word>
+	<word weight="0.015794812346036805" count="109">medical</word>
+	<word weight="0.015504999275467323" count="107">correspondence</word>
+	<word weight="0.01405593392261991" count="97">services</word>
+	<word weight="0.01289668164034198" count="89">commission</word>
+	<word weight="0.01188233589334879" count="82">committee</word>
+	<word weight="0.011157803216925083" count="77">divisions</word>
+	<word weight="0.010143457469931894" count="70">national</word>
+	<word weight="0.008839298652369222" count="61">service</word>
+	<word weight="0.00869439211708448" count="60">social</word>
+	<word weight="0.00854948558179974" count="59">hospital</word>
+	<word weight="0.00753513983480655" count="52">council</word>
+	<word weight="0.00753513983480655" count="52">minutes</word>
+	<phrase weight="0.041601255886970175" count="53">local government board</phrase>
+	<phrase weight="0.036891679748822605" count="47">social security</phrase>
+	<phrase weight="0.0282574568288854" count="36">law board</phrase>
+	<phrase weight="0.026687598116169546" count="34">poor law commission</phrase>
+	<phrase weight="0.015698587127158554" count="20">lunacy commission</phrase>
+	<phrase weight="0.014913657770800628" count="19">general nursing council</phrase>
+	<phrase weight="0.013343799058084773" count="17">law commission</phrase>
+	<phrase weight="0.009419152276295133" count="12">national health service</phrase>
+	<phrase weight="0.007849293563579277" count="10">national health insurance commissions</phrase>
+	<phrase weight="0.00706436420722135" count="9">annual reports</phrase>
+	<phrase weight="0.00706436420722135" count="9">government board</phrase>
+	<phrase weight="0.00706436420722135" count="9">health insurance</phrase>
+	<phrase weight="0.005494505494505495" count="7">nursing council</phrase>
+	<phrase weight="0.004709576138147566" count="6">medical officers</phrase>
+	<phrase weight="0.004709576138147566" count="6">special hospitals</phrase>
+	<phrase weight="0.004709576138147566" count="6">central health services council</phrase>
+	<phrase weight="0.004709576138147566" count="6">welsh board</phrase>
+	<phrase weight="0.004709576138147566" count="6">public health</phrase>
+	<phrase weight="0.003924646781789639" count="5">health divisions</phrase>
+	<phrase weight="0.003924646781789639" count="5">poor law</phrase>
+  </topic>
+</topics>

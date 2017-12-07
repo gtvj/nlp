@@ -1,0 +1,32 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.3679753885701766" totalTokens="58" titles="drawings, maps, plans, chancery, place, common, extra, public, size, measure">
+	<word weight="0.08620689655172414" count="5">drawings</word>
+	<word weight="0.08620689655172414" count="5">maps</word>
+	<word weight="0.06896551724137931" count="4">plans</word>
+	<word weight="0.05172413793103448" count="3">chancery</word>
+	<word weight="0.034482758620689655" count="2">place</word>
+	<word weight="0.034482758620689655" count="2">common</word>
+	<word weight="0.034482758620689655" count="2">extra</word>
+	<word weight="0.034482758620689655" count="2">public</word>
+	<word weight="0.017241379310344827" count="1">size</word>
+	<word weight="0.017241379310344827" count="1">measure</word>
+	<word weight="0.017241379310344827" count="1">preservation</word>
+	<word weight="0.017241379310344827" count="1">primarily</word>
+	<word weight="0.017241379310344827" count="1">transfer</word>
+	<word weight="0.017241379310344827" count="1">cater</word>
+	<word weight="0.017241379310344827" count="1">century</word>
+	<word weight="0.017241379310344827" count="1">twentieth</word>
+	<word weight="0.017241379310344827" count="1">accumulations</word>
+	<word weight="0.017241379310344827" count="1">artificial</word>
+	<word weight="0.017241379310344827" count="1">location</word>
+	<word weight="0.017241379310344827" count="1">inverted</word>
+	<phrase weight="0.14285714285714285" count="1">common subject matter</phrase>
+	<phrase weight="0.14285714285714285" count="1">architectural drawings</phrase>
+	<phrase weight="0.14285714285714285" count="1">preservation measure</phrase>
+	<phrase weight="0.14285714285714285" count="1">accompanying specifications</phrase>
+	<phrase weight="0.14285714285714285" count="1">twentieth century</phrase>
+	<phrase weight="0.14285714285714285" count="1">artificial accumulations</phrase>
+	<phrase weight="0.14285714285714285" count="1">common law</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.477580000425002" totalTokens="515" titles="boundary, local, government, commission, humberside, england, ax, county, reviews, yorkshire">
+	<word weight="0.06601941747572816" count="34">boundary</word>
+	<word weight="0.062135922330097085" count="32">local</word>
+	<word weight="0.06019417475728155" count="31">government</word>
+	<word weight="0.05436893203883495" count="28">commission</word>
+	<word weight="0.04854368932038835" count="25">humberside</word>
+	<word weight="0.04854368932038835" count="25">england</word>
+	<word weight="0.04466019417475728" count="23">ax</word>
+	<word weight="0.04271844660194175" count="22">county</word>
+	<word weight="0.02524271844660194" count="13">reviews</word>
+	<word weight="0.017475728155339806" count="9">yorkshire</word>
+	<word weight="0.017475728155339806" count="9">north</word>
+	<word weight="0.017475728155339806" count="9">maps</word>
+	<word weight="0.015533980582524271" count="8">selby</word>
+	<word weight="0.015533980582524271" count="8">survey</word>
+	<word weight="0.011650485436893204" count="6">review</word>
+	<word weight="0.011650485436893204" count="6">boundaries</word>
+	<word weight="0.009708737864077669" count="5">option</word>
+	<word weight="0.009708737864077669" count="5">district</word>
+	<word weight="0.009708737864077669" count="5">residents</word>
+	<word weight="0.009708737864077669" count="5">change</word>
+	<phrase weight="0.2127659574468085" count="20">local government boundary commission</phrase>
+	<phrase weight="0.031914893617021274" count="3">selby residents</phrase>
+	<phrase weight="0.031914893617021274" count="3">north yorkshire</phrase>
+	<phrase weight="0.031914893617021274" count="3">local government</phrase>
+	<phrase weight="0.031914893617021274" count="3">local government act</phrase>
+	<phrase weight="0.031914893617021274" count="3">east yorkshire</phrase>
+	<phrase weight="0.031914893617021274" count="3">abolish humberside</phrase>
+	<phrase weight="0.031914893617021274" count="3">parish boundary reviews</phrase>
+	<phrase weight="0.02127659574468085" count="2">south humberside</phrase>
+	<phrase weight="0.02127659574468085" count="2">government boundary commission</phrase>
+	<phrase weight="0.02127659574468085" count="2">draft proposals</phrase>
+	<phrase weight="0.02127659574468085" count="2">electoral arrangements</phrase>
+	<phrase weight="0.02127659574468085" count="2">district boundary reviews</phrase>
+	<phrase weight="0.010638297872340425" count="1">metropolitan districts</phrase>
+	<phrase weight="0.010638297872340425" count="1">principal area reviews</phrase>
+	<phrase weight="0.010638297872340425" count="1">local government boundaries</phrase>
+	<phrase weight="0.010638297872340425" count="1">early policy</phrase>
+	<phrase weight="0.010638297872340425" count="1">boundary maps</phrase>
+	<phrase weight="0.010638297872340425" count="1">humber bridge</phrase>
+	<phrase weight="0.010638297872340425" count="1">reviews provided</phrase>
+  </topic>
+</topics>

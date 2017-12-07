@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.129759047978372" totalTokens="5896" titles="british railways board, british transport commission, region, reports, minutes, services, successors, regions, research, london">
+	<word weight="0.11143147896879241" count="657">british</word>
+	<word weight="0.08361601085481682" count="493">railways</word>
+	<word weight="0.04121438263229308" count="243">board</word>
+	<word weight="0.02391451831750339" count="141">transport</word>
+	<word weight="0.01797829036635007" count="106">commission</word>
+	<word weight="0.01780868385345997" count="105">region</word>
+	<word weight="0.014246947082767978" count="84">reports</word>
+	<word weight="0.013738127544097693" count="81">minutes</word>
+	<word weight="0.012890094979647219" count="76">railway</word>
+	<word weight="0.011533242876526458" count="68">services</word>
+	<word weight="0.008989145183175035" count="53">successors</word>
+	<word weight="0.008649932157394844" count="51">rail</word>
+	<word weight="0.008310719131614654" count="49">regions</word>
+	<word weight="0.007971506105834464" count="47">research</word>
+	<word weight="0.007971506105834464" count="47">london</word>
+	<word weight="0.007801899592944369" count="46">road</word>
+	<word weight="0.007632293080054274" count="45">executive</word>
+	<word weight="0.006275440976933514" count="37">eastern</word>
+	<word weight="0.006275440976933514" count="37">western</word>
+	<word weight="0.005936227951153324" count="35">meetings</word>
+	<phrase weight="0.08835341365461848" count="110">british railways board</phrase>
+	<phrase weight="0.078714859437751" count="98">british railways</phrase>
+	<phrase weight="0.06265060240963856" count="78">british transport commission</phrase>
+	<phrase weight="0.06265060240963856" count="78">railways board</phrase>
+	<phrase weight="0.01606425702811245" count="20">transport commission</phrase>
+	<phrase weight="0.010441767068273093" count="13">rolling stock</phrase>
+	<phrase weight="0.008835341365461847" count="11">midland region</phrase>
+	<phrase weight="0.008835341365461847" count="11">british road services</phrase>
+	<phrase weight="0.007228915662650603" count="9">inland waterways executive</phrase>
+	<phrase weight="0.00642570281124498" count="8">numbered research reports</phrase>
+	<phrase weight="0.00642570281124498" count="8">road executives</phrase>
+	<phrase weight="0.005622489959839358" count="7">eastern region</phrase>
+	<phrase weight="0.004016064257028112" count="5">annual reports</phrase>
+	<phrase weight="0.004016064257028112" count="5">railway executive committee</phrase>
+	<phrase weight="0.004016064257028112" count="5">british rail</phrase>
+	<phrase weight="0.004016064257028112" count="5">channel tunnel</phrase>
+	<phrase weight="0.00321285140562249" count="4">area board</phrase>
+	<phrase weight="0.00321285140562249" count="4">north eastern region</phrase>
+	<phrase weight="0.00321285140562249" count="4">british railways publicity</phrase>
+	<phrase weight="0.00321285140562249" count="4">british waterways board</phrase>
+  </topic>
+</topics>

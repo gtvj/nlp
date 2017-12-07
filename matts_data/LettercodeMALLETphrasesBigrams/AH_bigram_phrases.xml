@@ -1,0 +1,33 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="27.332030226423473" totalTokens="99" titles="bureau, location, ah, reports, london, research, minutes, publicity, annual, consultants">
+	<word weight="0.1414141414141414" count="14">bureau</word>
+	<word weight="0.1414141414141414" count="14">location</word>
+	<word weight="0.10101010101010101" count="10">ah</word>
+	<word weight="0.08080808080808081" count="8">reports</word>
+	<word weight="0.04040404040404041" count="4">london</word>
+	<word weight="0.04040404040404041" count="4">research</word>
+	<word weight="0.030303030303030304" count="3">minutes</word>
+	<word weight="0.030303030303030304" count="3">publicity</word>
+	<word weight="0.030303030303030304" count="3">annual</word>
+	<word weight="0.020202020202020204" count="2">consultants</word>
+	<word weight="0.020202020202020204" count="2">development</word>
+	<word weight="0.020202020202020204" count="2">studies</word>
+	<word weight="0.020202020202020204" count="2">surveys</word>
+	<word weight="0.010101010101010102" count="1">meetings</word>
+	<word weight="0.010101010101010102" count="1">committee</word>
+	<word weight="0.010101010101010102" count="1">railway</word>
+	<word weight="0.010101010101010102" count="1">underground</word>
+	<word weight="0.010101010101010102" count="1">cards</word>
+	<word weight="0.010101010101010102" count="1">advertisement</word>
+	<word weight="0.010101010101010102" count="1">set</word>
+	<phrase weight="0.125" count="1">annual reports annual reports</phrase>
+	<phrase weight="0.125" count="1">research consultants reports reports</phrase>
+	<phrase weight="0.125" count="1">development corporations</phrase>
+	<phrase weight="0.125" count="1">interested government</phrase>
+	<phrase weight="0.125" count="1">advertisement cards</phrase>
+	<phrase weight="0.125" count="1">annual reports</phrase>
+	<phrase weight="0.125" count="1">reports reports</phrase>
+	<phrase weight="0.125" count="1">underground railway</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="25.250463352621907" totalTokens="331" titles="cultural, arts, olympiad, london, planning, council, projects, stakeholders, national, olympic">
+	<word weight="0.0513595166163142" count="17">cultural</word>
+	<word weight="0.04833836858006042" count="16">arts</word>
+	<word weight="0.03927492447129909" count="13">olympiad</word>
+	<word weight="0.03625377643504532" count="12">london</word>
+	<word weight="0.02416918429003021" count="8">planning</word>
+	<word weight="0.02416918429003021" count="8">council</word>
+	<word weight="0.021148036253776436" count="7">projects</word>
+	<word weight="0.015105740181268883" count="5">stakeholders</word>
+	<word weight="0.015105740181268883" count="5">plan</word>
+	<word weight="0.015105740181268883" count="5">national</word>
+	<word weight="0.015105740181268883" count="5">olympic</word>
+	<word weight="0.015105740181268883" count="5">england</word>
+	<word weight="0.012084592145015106" count="4">project</word>
+	<word weight="0.012084592145015106" count="4">discussion</word>
+	<word weight="0.012084592145015106" count="4">digital</word>
+	<word weight="0.012084592145015106" count="4">regional</word>
+	<word weight="0.012084592145015106" count="4">games</word>
+	<word weight="0.012084592145015106" count="4">work</word>
+	<word weight="0.00906344410876133" count="3">culture</word>
+	<word weight="0.00906344410876133" count="3">people</word>
+  </topic>
+</topics>

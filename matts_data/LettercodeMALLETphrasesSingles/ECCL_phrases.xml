@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="145.90637548293734" totalTokens="105" titles="bishopric, commissioners, manors, ecclesiastical, belonging, canterbury, london, worcester, chapter, winchester">
+	<word weight="0.05714285714285714" count="6">bishopric</word>
+	<word weight="0.047619047619047616" count="5">commissioners</word>
+	<word weight="0.0380952380952381" count="4">manors</word>
+	<word weight="0.0380952380952381" count="4">ecclesiastical</word>
+	<word weight="0.02857142857142857" count="3">belonging</word>
+	<word weight="0.02857142857142857" count="3">canterbury</word>
+	<word weight="0.02857142857142857" count="3">london</word>
+	<word weight="0.02857142857142857" count="3">worcester</word>
+	<word weight="0.02857142857142857" count="3">chapter</word>
+	<word weight="0.02857142857142857" count="3">winchester</word>
+	<word weight="0.02857142857142857" count="3">church</word>
+	<word weight="0.02857142857142857" count="3">withdrawn</word>
+	<word weight="0.02857142857142857" count="3">accounts</word>
+	<word weight="0.02857142857142857" count="3">ministers</word>
+	<word weight="0.02857142857142857" count="3">rolls</word>
+	<word weight="0.02857142857142857" count="3">court</word>
+	<word weight="0.02857142857142857" count="3">manorial</word>
+	<word weight="0.02857142857142857" count="3">commission</word>
+	<word weight="0.01904761904761905" count="2">successors</word>
+	<word weight="0.01904761904761905" count="2">estates</word>
+  </topic>
+</topics>

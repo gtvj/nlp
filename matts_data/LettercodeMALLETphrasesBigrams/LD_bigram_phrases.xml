@@ -1,0 +1,36 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="61.877721384567266" totalTokens="85" titles="trading, fair, reports, ld, consumer, oft, annual, credit, act, government">
+	<word weight="0.12941176470588237" count="11">trading</word>
+	<word weight="0.12941176470588237" count="11">fair</word>
+	<word weight="0.08235294117647059" count="7">reports</word>
+	<word weight="0.07058823529411765" count="6">ld</word>
+	<word weight="0.058823529411764705" count="5">consumer</word>
+	<word weight="0.058823529411764705" count="5">oft</word>
+	<word weight="0.047058823529411764" count="4">annual</word>
+	<word weight="0.047058823529411764" count="4">credit</word>
+	<word weight="0.03529411764705882" count="3">act</word>
+	<word weight="0.03529411764705882" count="3">government</word>
+	<word weight="0.03529411764705882" count="3">uk</word>
+	<word weight="0.023529411764705882" count="2">work</word>
+	<word weight="0.023529411764705882" count="2">register</word>
+	<word weight="0.023529411764705882" count="2">licensing</word>
+	<word weight="0.011764705882352941" count="1">parliamentary</word>
+	<word weight="0.011764705882352941" count="1">commission</word>
+	<word weight="0.011764705882352941" count="1">mergers</word>
+	<word weight="0.011764705882352941" count="1">monopolies</word>
+	<word weight="0.011764705882352941" count="1">committee</word>
+	<word weight="0.011764705882352941" count="1">advisory</word>
+	<phrase weight="0.4444444444444444" count="8">fair trading</phrase>
+	<phrase weight="0.05555555555555555" count="1">administer legislation concerned</phrase>
+	<phrase weight="0.05555555555555555" count="1">credit register</phrase>
+	<phrase weight="0.05555555555555555" count="1">consumer protection advisory committee</phrase>
+	<phrase weight="0.05555555555555555" count="1">uk government</phrase>
+	<phrase weight="0.05555555555555555" count="1">fair trading act</phrase>
+	<phrase weight="0.05555555555555555" count="1">consumer credit register</phrase>
+	<phrase weight="0.05555555555555555" count="1">annual reports</phrase>
+	<phrase weight="0.05555555555555555" count="1">consumer credit act licensing</phrase>
+	<phrase weight="0.05555555555555555" count="1">credit act licensing</phrase>
+	<phrase weight="0.05555555555555555" count="1">mergers commission</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,18 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="3.786857772659773" totalTokens="20" titles="lawyers, property, government, kj, reports, annual, services, advisory, lands, conveyancing">
+	<word weight="0.15" count="3">lawyers</word>
+	<word weight="0.15" count="3">property</word>
+	<word weight="0.15" count="3">government</word>
+	<word weight="0.15" count="3">kj</word>
+	<word weight="0.1" count="2">reports</word>
+	<word weight="0.1" count="2">annual</word>
+	<word weight="0.05" count="1">services</word>
+	<word weight="0.05" count="1">advisory</word>
+	<word weight="0.05" count="1">lands</word>
+	<word weight="0.05" count="1">conveyancing</word>
+	<phrase weight="0.5" count="2">government property lawyers</phrase>
+	<phrase weight="0.25" count="1">lands advisory services</phrase>
+	<phrase weight="0.25" count="1">property lawyers</phrase>
+  </topic>
+</topics>

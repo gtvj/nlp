@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="98.5108127190965" totalTokens="90" titles="inquiry, climbie, victoria, digital, march, national, migration, programme, final, online">
+	<word weight="0.12222222222222222" count="11">inquiry</word>
+	<word weight="0.1" count="9">climbie</word>
+	<word weight="0.1" count="9">victoria</word>
+	<word weight="0.05555555555555555" count="5">digital</word>
+	<word weight="0.03333333333333333" count="3">march</word>
+	<word weight="0.03333333333333333" count="3">national</word>
+	<word weight="0.03333333333333333" count="3">migration</word>
+	<word weight="0.03333333333333333" count="3">programme</word>
+	<word weight="0.03333333333333333" count="3">final</word>
+	<word weight="0.022222222222222223" count="2">online</word>
+	<word weight="0.022222222222222223" count="2">electronic</word>
+	<word weight="0.022222222222222223" count="2">state</word>
+	<word weight="0.022222222222222223" count="2">secretary</word>
+	<word weight="0.011111111111111112" count="1">background</word>
+	<word weight="0.011111111111111112" count="1">key</word>
+	<word weight="0.011111111111111112" count="1">statements</word>
+	<word weight="0.011111111111111112" count="1">witness</word>
+	<word weight="0.011111111111111112" count="1">proceedings</word>
+	<word weight="0.011111111111111112" count="1">transcripts</word>
+	<word weight="0.011111111111111112" count="1">evidence</word>
+  </topic>
+</topics>

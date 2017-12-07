@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="9.071033046587026" totalTokens="287" titles="welfare, bx, organisation, social, industry, coal, minutes, miners, committee, agenda">
+	<word weight="0.11846689895470383" count="34">welfare</word>
+	<word weight="0.06968641114982578" count="20">bx</word>
+	<word weight="0.06620209059233449" count="19">organisation</word>
+	<word weight="0.06620209059233449" count="19">social</word>
+	<word weight="0.0627177700348432" count="18">industry</word>
+	<word weight="0.0627177700348432" count="18">coal</word>
+	<word weight="0.03832752613240418" count="11">minutes</word>
+	<word weight="0.0313588850174216" count="9">miners</word>
+	<word weight="0.024390243902439025" count="7">committee</word>
+	<word weight="0.020905923344947737" count="6">agenda</word>
+	<word weight="0.020905923344947737" count="6">committees</word>
+	<word weight="0.017421602787456445" count="5">divisional</word>
+	<word weight="0.017421602787456445" count="5">commission</word>
+	<word weight="0.013937282229965157" count="4">rehabilitation</word>
+	<word weight="0.013937282229965157" count="4">reports</word>
+	<word weight="0.013937282229965157" count="4">annual</word>
+	<word weight="0.013937282229965157" count="4">predecessors</word>
+	<word weight="0.010452961672473868" count="3">scheme</word>
+	<word weight="0.010452961672473868" count="3">council</word>
+	<word weight="0.010452961672473868" count="3">national</word>
+	<phrase weight="0.2826086956521739" count="13">coal industry social welfare organisation</phrase>
+	<phrase weight="0.06521739130434782" count="3">welfare commission</phrase>
+	<phrase weight="0.043478260869565216" count="2">miners welfare committee</phrase>
+	<phrase weight="0.043478260869565216" count="2">industry social welfare organisation</phrase>
+	<phrase weight="0.043478260869565216" count="2">annual reports</phrase>
+	<phrase weight="0.021739130434782608" count="1">miners welfare</phrase>
+	<phrase weight="0.021739130434782608" count="1">east area</phrase>
+	<phrase weight="0.021739130434782608" count="1">council meetings</phrase>
+	<phrase weight="0.021739130434782608" count="1">national nature</phrase>
+	<phrase weight="0.021739130434782608" count="1">subordinate welfare</phrase>
+	<phrase weight="0.021739130434782608" count="1">divisional welfare committees agenda</phrase>
+	<phrase weight="0.021739130434782608" count="1">deal specifically</phrase>
+	<phrase weight="0.021739130434782608" count="1">representative divisional</phrase>
+	<phrase weight="0.021739130434782608" count="1">divisional welfare committees</phrase>
+	<phrase weight="0.021739130434782608" count="1">industry protective glasses scheme</phrase>
+	<phrase weight="0.021739130434782608" count="1">welfare committees</phrase>
+	<phrase weight="0.021739130434782608" count="1">ordinating committee</phrase>
+	<phrase weight="0.021739130434782608" count="1">general purposes</phrase>
+	<phrase weight="0.021739130434782608" count="1">rehabilitation centres</phrase>
+	<phrase weight="0.021739130434782608" count="1">national annual reports</phrase>
+  </topic>
+</topics>

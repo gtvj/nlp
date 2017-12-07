@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.522751324781356" totalTokens="450" titles="commission, countryside, parks, national, minutes, areas, correspondence, beauty, outstanding, recreation">
+	<word weight="0.08666666666666667" count="39">commission</word>
+	<word weight="0.07111111111111111" count="32">countryside</word>
+	<word weight="0.06" count="27">cou</word>
+	<word weight="0.044444444444444446" count="20">parks</word>
+	<word weight="0.04" count="18">national</word>
+	<word weight="0.022222222222222223" count="10">minutes</word>
+	<word weight="0.022222222222222223" count="10">areas</word>
+	<word weight="0.015555555555555555" count="7">correspondence</word>
+	<word weight="0.015555555555555555" count="7">beauty</word>
+	<word weight="0.015555555555555555" count="7">outstanding</word>
+	<word weight="0.013333333333333334" count="6">recreation</word>
+	<word weight="0.013333333333333334" count="6">natural</word>
+	<word weight="0.013333333333333334" count="6">maps</word>
+	<word weight="0.011111111111111112" count="5">management</word>
+	<word weight="0.011111111111111112" count="5">policy</word>
+	<word weight="0.008888888888888889" count="4">local</word>
+	<word weight="0.008888888888888889" count="4">group</word>
+	<word weight="0.008888888888888889" count="4">reports</word>
+	<word weight="0.008888888888888889" count="4">development</word>
+	<word weight="0.008888888888888889" count="4">committees</word>
+	<phrase weight="0.13793103448275862" count="12">countryside commission</phrase>
+	<phrase weight="0.13793103448275862" count="12">national parks commission</phrase>
+	<phrase weight="0.05747126436781609" count="5">national parks</phrase>
+	<phrase weight="0.05747126436781609" count="5">outstanding natural beauty</phrase>
+	<phrase weight="0.034482758620689655" count="3">countryside recreation research advisory group</phrase>
+	<phrase weight="0.022988505747126436" count="2">resources unit</phrase>
+	<phrase weight="0.022988505747126436" count="2">aid body</phrase>
+	<phrase weight="0.022988505747126436" count="2">colour slides</phrase>
+	<phrase weight="0.022988505747126436" count="2">confirming orders</phrase>
+	<phrase weight="0.022988505747126436" count="2">coastal preservation</phrase>
+	<phrase weight="0.022988505747126436" count="2">long distance routes</phrase>
+	<phrase weight="0.011494252873563218" count="1">roman wall</phrase>
+	<phrase weight="0.011494252873563218" count="1">publications issued</phrase>
+	<phrase weight="0.011494252873563218" count="1">maritime local planning authorities</phrase>
+	<phrase weight="0.011494252873563218" count="1">countryside commission publications</phrase>
+	<phrase weight="0.011494252873563218" count="1">corporate plans</phrase>
+	<phrase weight="0.011494252873563218" count="1">conservancy council</phrase>
+	<phrase weight="0.011494252873563218" count="1">local authority themes</phrase>
+	<phrase weight="0.011494252873563218" count="1">mm colour slides</phrase>
+	<phrase weight="0.011494252873563218" count="1">annual reports</phrase>
+  </topic>
+</topics>

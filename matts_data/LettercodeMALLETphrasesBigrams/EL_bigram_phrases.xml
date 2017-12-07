@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.610435171685356" totalTokens="335" titles="council, arts, music, encouragement, britain, directorate, el, great, museum, albert">
+	<word weight="0.14328358208955225" count="48">council</word>
+	<word weight="0.13432835820895522" count="45">arts</word>
+	<word weight="0.0955223880597015" count="32">music</word>
+	<word weight="0.08358208955223881" count="28">encouragement</word>
+	<word weight="0.04776119402985075" count="16">britain</word>
+	<word weight="0.04776119402985075" count="16">directorate</word>
+	<word weight="0.04477611940298507" count="15">el</word>
+	<word weight="0.041791044776119404" count="14">great</word>
+	<word weight="0.023880597014925373" count="8">museum</word>
+	<word weight="0.023880597014925373" count="8">albert</word>
+	<word weight="0.023880597014925373" count="8">victoria</word>
+	<word weight="0.023880597014925373" count="8">incorporated</word>
+	<word weight="0.023880597014925373" count="8">designated</word>
+	<word weight="0.020895522388059702" count="7">correspondence</word>
+	<word weight="0.014925373134328358" count="5">minutes</word>
+	<word weight="0.014925373134328358" count="5">regional</word>
+	<word weight="0.011940298507462687" count="4">committee</word>
+	<word weight="0.011940298507462687" count="4">festival</word>
+	<word weight="0.008955223880597015" count="3">scottish</word>
+	<word weight="0.008955223880597015" count="3">cema</word>
+	<phrase weight="0.19047619047619047" count="8">albert museum</phrase>
+	<phrase weight="0.16666666666666666" count="7">arts council</phrase>
+	<phrase weight="0.047619047619047616" count="2">art directorate</phrase>
+	<phrase weight="0.047619047619047616" count="2">music directorate</phrase>
+	<phrase weight="0.047619047619047616" count="2">drama directorate</phrase>
+	<phrase weight="0.047619047619047616" count="2">finance directorate</phrase>
+	<phrase weight="0.047619047619047616" count="2">administration directorate</phrase>
+	<phrase weight="0.047619047619047616" count="2">dance directorate</phrase>
+	<phrase weight="0.047619047619047616" count="2">literature directorate</phrase>
+	<phrase weight="0.047619047619047616" count="2">regional directorate</phrase>
+	<phrase weight="0.047619047619047616" count="2">welsh committees</phrase>
+	<phrase weight="0.023809523809523808" count="1">earlier committee</phrase>
+	<phrase weight="0.023809523809523808" count="1">executive committee</phrase>
+	<phrase weight="0.023809523809523808" count="1">scottish committee</phrase>
+	<phrase weight="0.023809523809523808" count="1">regional correspondence</phrase>
+	<phrase weight="0.023809523809523808" count="1">festival activities</phrase>
+	<phrase weight="0.023809523809523808" count="1">policy making</phrase>
+	<phrase weight="0.023809523809523808" count="1">annual reports</phrase>
+	<phrase weight="0.023809523809523808" count="1">john maynard keynes</phrase>
+	<phrase weight="0.023809523809523808" count="1">art exhibitions</phrase>
+  </topic>
+</topics>

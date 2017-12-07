@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.229676347587027" totalTokens="69" titles="inquiry, report, iraq, scott, prosecutions, goods, dual-use, equipment, defence, hmso">
+	<word weight="0.10144927536231885" count="7">inquiry</word>
+	<word weight="0.08695652173913043" count="6">report</word>
+	<word weight="0.07246376811594203" count="5">iraq</word>
+	<word weight="0.057971014492753624" count="4">scott</word>
+	<word weight="0.057971014492753624" count="4">prosecutions</word>
+	<word weight="0.057971014492753624" count="4">goods</word>
+	<word weight="0.057971014492753624" count="4">dual-use</word>
+	<word weight="0.057971014492753624" count="4">equipment</word>
+	<word weight="0.057971014492753624" count="4">defence</word>
+	<word weight="0.043478260869565216" count="3">hmso</word>
+	<word weight="0.043478260869565216" count="3">exports</word>
+	<word weight="0.028985507246376812" count="2">evidence</word>
+	<word weight="0.014492753623188406" count="1">july</word>
+	<word weight="0.014492753623188406" count="1">format</word>
+	<word weight="0.014492753623188406" count="1">cd-rom</word>
+	<word weight="0.014492753623188406" count="1">appendix</word>
+	<word weight="0.014492753623188406" count="1">iii</word>
+	<word weight="0.014492753623188406" count="1">contained</word>
+	<word weight="0.014492753623188406" count="1">errata</word>
+	<word weight="0.014492753623188406" count="1">list</word>
+  </topic>
+</topics>

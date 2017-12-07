@@ -1,0 +1,27 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0" totalTokens="65" titles="commissioners, em, special, tax, income, decisions, case, appeals, minutes, assessment">
+	<word weight="0.13846153846153847" count="9">commissioners</word>
+	<word weight="0.13846153846153847" count="9">em</word>
+	<word weight="0.12307692307692308" count="8">special</word>
+	<word weight="0.1076923076923077" count="7">tax</word>
+	<word weight="0.1076923076923077" count="7">income</word>
+	<word weight="0.07692307692307693" count="5">decisions</word>
+	<word weight="0.046153846153846156" count="3">case</word>
+	<word weight="0.046153846153846156" count="3">appeals</word>
+	<word weight="0.046153846153846156" count="3">minutes</word>
+	<word weight="0.03076923076923077" count="2">assessment</word>
+	<word weight="0.03076923076923077" count="2">administrative</word>
+	<word weight="0.015384615384615385" count="1">corporations</word>
+	<word weight="0.015384615384615385" count="1">individuals</word>
+	<word weight="0.015384615384615385" count="1">relate</word>
+	<word weight="0.015384615384615385" count="1">procedual</word>
+	<word weight="0.015384615384615385" count="1">brought</word>
+	<word weight="0.015384615384615385" count="1">procedural</word>
+	<word weight="0.015384615384615385" count="1">administration</word>
+	<phrase weight="0.6666666666666666" count="6">special commissioners</phrase>
+	<phrase weight="0.1111111111111111" count="1">decisions minutes</phrase>
+	<phrase weight="0.1111111111111111" count="1">appeals brought</phrase>
+	<phrase weight="0.1111111111111111" count="1">income tax</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="29.83019631908165" totalTokens="151" titles="inquiry, stephen, lawrence, death, arising, chairman, witnesses, submissions, required, agreed">
+	<word weight="0.152317880794702" count="23">inquiry</word>
+	<word weight="0.052980132450331126" count="8">stephen</word>
+	<word weight="0.046357615894039736" count="7">lawrence</word>
+	<word weight="0.033112582781456956" count="5">death</word>
+	<word weight="0.033112582781456956" count="5">arising</word>
+	<word weight="0.026490066225165563" count="4">chairman</word>
+	<word weight="0.019867549668874173" count="3">witnesses</word>
+	<word weight="0.019867549668874173" count="3">submissions</word>
+	<word weight="0.013245033112582781" count="2">required</word>
+	<word weight="0.013245033112582781" count="2">agreed</word>
+	<word weight="0.013245033112582781" count="2">march</word>
+	<word weight="0.013245033112582781" count="2">public</word>
+	<word weight="0.013245033112582781" count="2">transcripts</word>
+	<word weight="0.013245033112582781" count="2">individuals</word>
+	<word weight="0.013245033112582781" count="2">number</word>
+	<word weight="0.013245033112582781" count="2">terms</word>
+	<word weight="0.013245033112582781" count="2">administrative</word>
+	<word weight="0.006622516556291391" count="1">rulings</word>
+	<word weight="0.006622516556291391" count="1">chairman's</word>
+	<word weight="0.006622516556291391" count="1">hear</word>
+  </topic>
+</topics>

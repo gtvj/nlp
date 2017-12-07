@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.963689347723397" totalTokens="608" titles="probation, service, trust, management, offender, national, uk, noms, government, prison">
+	<word weight="0.11842105263157894" count="72">probation</word>
+	<word weight="0.09375" count="57">service</word>
+	<word weight="0.08881578947368421" count="54">trust</word>
+	<word weight="0.0805921052631579" count="49">management</word>
+	<word weight="0.0805921052631579" count="49">offender</word>
+	<word weight="0.0805921052631579" count="49">national</word>
+	<word weight="0.07236842105263158" count="44">uk</word>
+	<word weight="0.07236842105263158" count="44">noms</word>
+	<word weight="0.06743421052631579" count="41">government</word>
+	<word weight="0.01644736842105263" count="10">prison</word>
+	<word weight="0.013157894736842105" count="8">hm</word>
+	<word weight="0.009868421052631578" count="6">yorkshire</word>
+	<word weight="0.008223684210526315" count="5">justice</word>
+	<word weight="0.006578947368421052" count="4">valley</word>
+	<word weight="0.006578947368421052" count="4">west</word>
+	<word weight="0.006578947368421052" count="4">north</word>
+	<word weight="0.004934210526315789" count="3">gov</word>
+	<word weight="0.004934210526315789" count="3">www</word>
+	<word weight="0.004934210526315789" count="3">http</word>
+	<word weight="0.003289473684210526" count="2">somerset</word>
+	<phrase weight="0.16483516483516483" count="15">probation trust</phrase>
+	<phrase weight="0.0989010989010989" count="9">uk government</phrase>
+	<phrase weight="0.06593406593406594" count="6">national offender management service</phrase>
+	<phrase weight="0.03296703296703297" count="3">hm prison service</phrase>
+	<phrase weight="0.02197802197802198" count="2">sussex probation trust</phrase>
+	<phrase weight="0.02197802197802198" count="2">north sea camp</phrase>
+	<phrase weight="0.02197802197802198" count="2">west midlands probation trust</phrase>
+	<phrase weight="0.02197802197802198" count="2">north yorkshire probation trust</phrase>
+	<phrase weight="0.02197802197802198" count="2">peterborough probation trust</phrase>
+	<phrase weight="0.02197802197802198" count="2">somerset probation trust</phrase>
+	<phrase weight="0.02197802197802198" count="2">rutland probation trust</phrase>
+	<phrase weight="0.02197802197802198" count="2">suffolk probation trust</phrase>
+	<phrase weight="0.02197802197802198" count="2">cornwall probation trust</phrase>
+	<phrase weight="0.02197802197802198" count="2">yorkshire probation trust</phrase>
+	<phrase weight="0.02197802197802198" count="2">offender management service</phrase>
+	<phrase weight="0.01098901098901099" count="1">nottinghamshire probation trust</phrase>
+	<phrase weight="0.01098901098901099" count="1">northumbria probation trust</phrase>
+	<phrase weight="0.01098901098901099" count="1">wiltshire probation trust</phrase>
+	<phrase weight="0.01098901098901099" count="1">greater manchester probation trust</phrase>
+	<phrase weight="0.01098901098901099" count="1">west yorkshire probation trust</phrase>
+  </topic>
+</topics>

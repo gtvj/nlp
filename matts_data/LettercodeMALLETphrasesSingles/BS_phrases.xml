@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.940759803250103" totalTokens="952" titles="committee, inquiry, commission, evidence, minutes, committees, report, royal, cmnd, advisory">
+	<word weight="0.05042016806722689" count="48">committee</word>
+	<word weight="0.03571428571428571" count="34">inquiry</word>
+	<word weight="0.032563025210084036" count="31">commission</word>
+	<word weight="0.031512605042016806" count="30">evidence</word>
+	<word weight="0.028361344537815126" count="27">minutes</word>
+	<word weight="0.026260504201680673" count="25">committees</word>
+	<word weight="0.023109243697478993" count="22">report</word>
+	<word weight="0.02100840336134454" count="20">royal</word>
+	<word weight="0.014705882352941176" count="14">cmnd</word>
+	<word weight="0.014705882352941176" count="14">advisory</word>
+	<word weight="0.014705882352941176" count="14">correspondence</word>
+	<word weight="0.014705882352941176" count="14">reports</word>
+	<word weight="0.011554621848739496" count="11">boards</word>
+	<word weight="0.011554621848739496" count="11">councils</word>
+	<word weight="0.009453781512605041" count="9">final</word>
+	<word weight="0.008403361344537815" count="8">hmso</word>
+	<word weight="0.008403361344537815" count="8">circulated</word>
+	<word weight="0.008403361344537815" count="8">commissions</word>
+	<word weight="0.008403361344537815" count="8">viceregal</word>
+	<word weight="0.007352941176470588" count="7">tax</word>
+  </topic>
+</topics>

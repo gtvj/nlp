@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="10.411045191421538" totalTokens="252" titles="education, wales, council, funding, higher, training, national, minutes, reports, successor">
+	<word weight="0.12698412698412698" count="32">education</word>
+	<word weight="0.11904761904761904" count="30">wales</word>
+	<word weight="0.1111111111111111" count="28">council</word>
+	<word weight="0.08333333333333333" count="21">funding</word>
+	<word weight="0.03968253968253968" count="10">higher</word>
+	<word weight="0.03571428571428571" count="9">training</word>
+	<word weight="0.03571428571428571" count="9">national</word>
+	<word weight="0.027777777777777776" count="7">minutes</word>
+	<word weight="0.023809523809523808" count="6">reports</word>
+	<word weight="0.023809523809523808" count="6">successor</word>
+	<word weight="0.023809523809523808" count="6">plans</word>
+	<word weight="0.01984126984126984" count="5">agenda</word>
+	<word weight="0.01984126984126984" count="5">corporate</word>
+	<word weight="0.015873015873015872" count="4">directors</word>
+	<word weight="0.015873015873015872" count="4">meetings</word>
+	<word weight="0.015873015873015872" count="4">councils</word>
+	<word weight="0.011904761904761904" count="3">group</word>
+	<word weight="0.011904761904761904" count="3">annual</word>
+	<word weight="0.011904761904761904" count="3">circulars</word>
+	<word weight="0.011904761904761904" count="3">bulletins</word>
+  </topic>
+</topics>

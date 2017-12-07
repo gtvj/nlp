@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.509646878752645" totalTokens="1259" titles="uk government, pensions, work, jb, social, disability, security, policy, fund, dwp">
+	<word weight="0.09054805401111994" count="114">pensions</word>
+	<word weight="0.07148530579825259" count="90">work</word>
+	<word weight="0.06751389992057188" count="85">jb</word>
+	<word weight="0.057188244638602066" count="72">uk</word>
+	<word weight="0.048451151707704525" count="61">government</word>
+	<word weight="0.024622716441620333" count="31">social</word>
+	<word weight="0.019062748212867357" count="24">security</word>
+	<word weight="0.019062748212867357" count="24">disability</word>
+	<word weight="0.015885623510722795" count="20">pension</word>
+	<word weight="0.013502779984114376" count="17">policy</word>
+	<word weight="0.012708498808578236" count="16">advisory</word>
+	<word weight="0.012708498808578236" count="16">fund</word>
+	<word weight="0.012708498808578236" count="16">dwp</word>
+	<word weight="0.011119936457505957" count="14">service</word>
+	<word weight="0.011119936457505957" count="14">benefit</word>
+	<word weight="0.008737092930897538" count="11">ombudsman</word>
+	<word weight="0.008737092930897538" count="11">www</word>
+	<word weight="0.008737092930897538" count="11">committee</word>
+	<word weight="0.007942811755361398" count="10">employment</word>
+	<word weight="0.007148530579825258" count="9">independent</word>
+	<phrase weight="0.14027149321266968" count="31">uk government</phrase>
+	<phrase weight="0.05429864253393665" count="12">social security</phrase>
+	<phrase weight="0.02262443438914027" count="5">disability rights commission</phrase>
+	<phrase weight="0.01809954751131222" count="4">european social fund</phrase>
+	<phrase weight="0.01809954751131222" count="4">child maintenance</phrase>
+	<phrase weight="0.01809954751131222" count="4">pension protection fund</phrase>
+	<phrase weight="0.013574660633484163" count="3">permanent secretary</phrase>
+	<phrase weight="0.013574660633484163" count="3">senior officers</phrase>
+	<phrase weight="0.013574660633484163" count="3">occupational pensions</phrase>
+	<phrase weight="0.013574660633484163" count="3">unemployment benefit</phrase>
+	<phrase weight="0.013574660633484163" count="3">pensions ombudsman</phrase>
+	<phrase weight="0.00904977375565611" count="2">tabulation tool</phrase>
+	<phrase weight="0.00904977375565611" count="2">carers service</phrase>
+	<phrase weight="0.00904977375565611" count="2">dame ann bowtell</phrase>
+	<phrase weight="0.00904977375565611" count="2">disability employment advisory committee</phrase>
+	<phrase weight="0.00904977375565611" count="2">personal pensions</phrase>
+	<phrase weight="0.00904977375565611" count="2">communication centre</phrase>
+	<phrase weight="0.00904977375565611" count="2">social security advisory committee</phrase>
+	<phrase weight="0.00904977375565611" count="2">incapacity policy</phrase>
+	<phrase weight="0.00904977375565611" count="2">independent review service</phrase>
+  </topic>
+</topics>

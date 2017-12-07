@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.3698396082071558" totalTokens="58" titles="plans, maps, place, drawings, colonial, public, location, inverted, identify, current">
+	<word weight="0.08620689655172414" count="5">plans</word>
+	<word weight="0.08620689655172414" count="5">maps</word>
+	<word weight="0.05172413793103448" count="3">place</word>
+	<word weight="0.05172413793103448" count="3">drawings</word>
+	<word weight="0.05172413793103448" count="3">colonial</word>
+	<word weight="0.034482758620689655" count="2">public</word>
+	<word weight="0.017241379310344827" count="1">location</word>
+	<word weight="0.017241379310344827" count="1">inverted</word>
+	<word weight="0.017241379310344827" count="1">drawing</word>
+	<word weight="0.017241379310344827" count="1">map</word>
+	<word weight="0.017241379310344827" count="1">identify</word>
+	<word weight="0.017241379310344827" count="1">current</word>
+	<word weight="0.017241379310344827" count="1">area</word>
+	<word weight="0.017241379310344827" count="1">geographical</word>
+	<word weight="0.017241379310344827" count="1">political</word>
+	<word weight="0.017241379310344827" count="1">change</word>
+	<word weight="0.017241379310344827" count="1">significant</word>
+	<word weight="0.017241379310344827" count="1">standardised</word>
+	<word weight="0.017241379310344827" count="1">modernised</word>
+	<word weight="0.017241379310344827" count="1">contemporary</word>
+  </topic>
+</topics>

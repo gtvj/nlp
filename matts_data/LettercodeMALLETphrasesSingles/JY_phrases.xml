@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="62.24012860005615" totalTokens="98" titles="civil, college, service, accounts, reports, working, training, handbooks, occasional, studies">
+	<word weight="0.10204081632653061" count="10">civil</word>
+	<word weight="0.09183673469387756" count="9">college</word>
+	<word weight="0.09183673469387756" count="9">service</word>
+	<word weight="0.030612244897959183" count="3">accounts</word>
+	<word weight="0.030612244897959183" count="3">reports</word>
+	<word weight="0.030612244897959183" count="3">working</word>
+	<word weight="0.030612244897959183" count="3">training</word>
+	<word weight="0.030612244897959183" count="3">handbooks</word>
+	<word weight="0.030612244897959183" count="3">occasional</word>
+	<word weight="0.030612244897959183" count="3">studies</word>
+	<word weight="0.030612244897959183" count="3">centre</word>
+	<word weight="0.02040816326530612" count="2">management</word>
+	<word weight="0.02040816326530612" count="2">csc</word>
+	<word weight="0.02040816326530612" count="2">annual</word>
+	<word weight="0.02040816326530612" count="2">relevant</word>
+	<word weight="0.02040816326530612" count="2">subjects</word>
+	<word weight="0.02040816326530612" count="2">administrative</word>
+	<word weight="0.01020408163265306" count="1">csc's</word>
+	<word weight="0.01020408163265306" count="1">servants</word>
+	<word weight="0.01020408163265306" count="1">mainstream</word>
+  </topic>
+</topics>

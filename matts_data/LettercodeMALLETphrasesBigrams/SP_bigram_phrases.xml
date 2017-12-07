@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.163831263578316" totalTokens="7359" titles="state, sp, letters, secretaries, foreign, domestic, secretary, books, correspondence, pamphlets">
+	<word weight="0.06495447751053132" count="478">state</word>
+	<word weight="0.023644516918059518" count="174">sp</word>
+	<word weight="0.02187797255061829" count="161">letters</word>
+	<word weight="0.019703764098382932" count="145">secretaries</word>
+	<word weight="0.017121891561353443" count="126">foreign</word>
+	<word weight="0.013588802826470988" count="100">domestic</word>
+	<word weight="0.01195814648729447" count="88">secretary</word>
+	<word weight="0.00978393803505911" count="72">books</word>
+	<word weight="0.009376273950264982" count="69">correspondence</word>
+	<word weight="0.008153281695882593" count="60">pamphlets</word>
+	<word weight="0.007337953526294333" count="54">british</word>
+	<word weight="0.007202065498029623" count="53">scotland</word>
+	<word weight="0.006522625356706074" count="48">gazettes</word>
+	<word weight="0.006114961271911945" count="45">petitions</word>
+	<word weight="0.005707297187117815" count="42">number</word>
+	<word weight="0.005571409158853105" count="41">ireland</word>
+	<word weight="0.005571409158853105" count="41">king</word>
+	<word weight="0.005435521130588396" count="40">english</word>
+	<word weight="0.005299633102323685" count="39">war</word>
+	<word weight="0.005299633102323685" count="39">royal</word>
+	<phrase weight="0.0169971671388102" count="18">draft replies</phrase>
+	<phrase weight="0.015108593012275733" count="16">edward vi</phrase>
+	<phrase weight="0.014164305949008499" count="15">charles ii</phrase>
+	<phrase weight="0.014164305949008499" count="15">henry viii</phrase>
+	<phrase weight="0.0113314447592068" count="12">letter books</phrase>
+	<phrase weight="0.0113314447592068" count="12">privy council</phrase>
+	<phrase weight="0.010387157695939566" count="11">civil war</phrase>
+	<phrase weight="0.010387157695939566" count="11">royal letters</phrase>
+	<phrase weight="0.007554296506137866" count="8">entry books</phrase>
+	<phrase weight="0.0066100094428706326" count="7">domestic capacity</phrase>
+	<phrase weight="0.0066100094428706326" count="7">nineteenth century</phrase>
+	<phrase weight="0.0056657223796034" count="6">low countries</phrase>
+	<phrase weight="0.0056657223796034" count="6">lord lieutenant</phrase>
+	<phrase weight="0.0056657223796034" count="6">draft letters</phrase>
+	<phrase weight="0.004721435316336166" count="5">official custody</phrase>
+	<phrase weight="0.004721435316336166" count="5">calendar form</phrase>
+	<phrase weight="0.004721435316336166" count="5">crown lands</phrase>
+	<phrase weight="0.004721435316336166" count="5">great variety</phrase>
+	<phrase weight="0.004721435316336166" count="5">holy roman empire</phrase>
+	<phrase weight="0.004721435316336166" count="5">order books</phrase>
+  </topic>
+</topics>

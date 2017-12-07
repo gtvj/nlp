@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.200120283848518" totalTokens="455" titles="munitions, reports, war, contracts, branch, general, liquidation, director, committees, council">
+	<word weight="0.07692307692307693" count="35">munitions</word>
+	<word weight="0.02857142857142857" count="13">reports</word>
+	<word weight="0.02197802197802198" count="10">war</word>
+	<word weight="0.01978021978021978" count="9">contracts</word>
+	<word weight="0.017582417582417582" count="8">branch</word>
+	<word weight="0.015384615384615385" count="7">general</word>
+	<word weight="0.015384615384615385" count="7">liquidation</word>
+	<word weight="0.013186813186813187" count="6">director</word>
+	<word weight="0.013186813186813187" count="6">committees</word>
+	<word weight="0.013186813186813187" count="6">council</word>
+	<word weight="0.01098901098901099" count="5">specimens</word>
+	<word weight="0.01098901098901099" count="5">inspection</word>
+	<word weight="0.01098901098901099" count="5">explosives</word>
+	<word weight="0.01098901098901099" count="5">commission</word>
+	<word weight="0.01098901098901099" count="5">disposal</word>
+	<word weight="0.01098901098901099" count="5">history</word>
+	<word weight="0.008791208791208791" count="4">registry</word>
+	<word weight="0.008791208791208791" count="4">central</word>
+	<word weight="0.008791208791208791" count="4">supply</word>
+	<word weight="0.008791208791208791" count="4">george</word>
+	<phrase weight="0.06329113924050633" count="5">liquidation commission</phrase>
+	<phrase weight="0.05063291139240506" count="4">aircraft production</phrase>
+	<phrase weight="0.0379746835443038" count="3">lloyd george</phrase>
+	<phrase weight="0.0379746835443038" count="3">munitions inspection</phrase>
+	<phrase weight="0.0379746835443038" count="3">explosives supply</phrase>
+	<phrase weight="0.0379746835443038" count="3">weekly reports</phrase>
+	<phrase weight="0.02531645569620253" count="2">munitions council</phrase>
+	<phrase weight="0.02531645569620253" count="2">supplement sections</phrase>
+	<phrase weight="0.02531645569620253" count="2">director general</phrase>
+	<phrase weight="0.02531645569620253" count="2">contracts branch</phrase>
+	<phrase weight="0.02531645569620253" count="2">labour returns</phrase>
+	<phrase weight="0.02531645569620253" count="2">central registry</phrase>
+	<phrase weight="0.012658227848101266" count="1">successively received</phrase>
+	<phrase weight="0.012658227848101266" count="1">confidential reports circulated</phrase>
+	<phrase weight="0.012658227848101266" count="1">official history</phrase>
+	<phrase weight="0.012658227848101266" count="1">statistical tables</phrase>
+	<phrase weight="0.012658227848101266" count="1">important letters received</phrase>
+	<phrase weight="0.012658227848101266" count="1">munitions council daily reports</phrase>
+	<phrase weight="0.012658227848101266" count="1">armament output committee</phrase>
+	<phrase weight="0.012658227848101266" count="1">entitled rochdale national shell factory account books</phrase>
+  </topic>
+</topics>

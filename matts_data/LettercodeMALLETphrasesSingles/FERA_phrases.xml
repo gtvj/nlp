@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.267527205604955" totalTokens="501" titles="fera, environment, research, food, government, plant, risk, international, pesticide, data">
+	<word weight="0.14570858283433133" count="73">fera</word>
+	<word weight="0.08582834331337326" count="43">environment</word>
+	<word weight="0.08383233532934131" count="42">research</word>
+	<word weight="0.08383233532934131" count="42">food</word>
+	<word weight="0.06786427145708583" count="34">government</word>
+	<word weight="0.015968063872255488" count="8">plant</word>
+	<word weight="0.015968063872255488" count="8">risk</word>
+	<word weight="0.011976047904191617" count="6">international</word>
+	<word weight="0.011976047904191617" count="6">pesticide</word>
+	<word weight="0.011976047904191617" count="6">data</word>
+	<word weight="0.011976047904191617" count="6">wildlife</word>
+	<word weight="0.011976047904191617" count="6">management</word>
+	<word weight="0.011976047904191617" count="6">national</word>
+	<word weight="0.00998003992015968" count="5">beebase</word>
+	<word weight="0.00998003992015968" count="5">crop</word>
+	<word weight="0.00998003992015968" count="5">conference</word>
+	<word weight="0.007984031936127744" count="4">symposium</word>
+	<word weight="0.007984031936127744" count="4">evaluation</word>
+	<word weight="0.007984031936127744" count="4">portal</word>
+	<word weight="0.007984031936127744" count="4">environmental</word>
+  </topic>
+</topics>

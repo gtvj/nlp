@@ -1,0 +1,30 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.6345311612051034" totalTokens="47" titles="court, supreme, proceedings, recordings, video, uksc, kingdom, united, licence, december">
+	<word weight="0.2127659574468085" count="10">court</word>
+	<word weight="0.14893617021276595" count="7">supreme</word>
+	<word weight="0.10638297872340426" count="5">proceedings</word>
+	<word weight="0.06382978723404255" count="3">recordings</word>
+	<word weight="0.06382978723404255" count="3">video</word>
+	<word weight="0.06382978723404255" count="3">uksc</word>
+	<word weight="0.0425531914893617" count="2">kingdom</word>
+	<word weight="0.0425531914893617" count="2">united</word>
+	<word weight="0.02127659574468085" count="1">licence</word>
+	<word weight="0.02127659574468085" count="1">december</word>
+	<word weight="0.02127659574468085" count="1">october</word>
+	<word weight="0.02127659574468085" count="1">tna</word>
+	<word weight="0.02127659574468085" count="1">cases</word>
+	<word weight="0.02127659574468085" count="1">recent</word>
+	<word weight="0.02127659574468085" count="1">current</word>
+	<word weight="0.02127659574468085" count="1">footage</word>
+	<word weight="0.02127659574468085" count="1">online</word>
+	<word weight="0.02127659574468085" count="1">broadcast</word>
+	<word weight="0.02127659574468085" count="1">recorded</word>
+	<word weight="0.02127659574468085" count="1">digital</word>
+	<phrase weight="0.5" count="5">supreme court</phrase>
+	<phrase weight="0.2" count="2">video recordings</phrase>
+	<phrase weight="0.1" count="1">broadcast online</phrase>
+	<phrase weight="0.1" count="1">recent court cases</phrase>
+	<phrase weight="0.1" count="1">court proceedings</phrase>
+  </topic>
+</topics>

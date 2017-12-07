@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="33.630006812512285" totalTokens="88" titles="child, support, reports, case, independent, csa, meetings, examiner, annual, board">
+	<word weight="0.17045454545454544" count="15">child</word>
+	<word weight="0.1590909090909091" count="14">support</word>
+	<word weight="0.06818181818181818" count="6">reports</word>
+	<word weight="0.056818181818181816" count="5">case</word>
+	<word weight="0.056818181818181816" count="5">independent</word>
+	<word weight="0.045454545454545456" count="4">csa</word>
+	<word weight="0.045454545454545456" count="4">meetings</word>
+	<word weight="0.045454545454545456" count="4">examiner</word>
+	<word weight="0.03409090909090909" count="3">annual</word>
+	<word weight="0.03409090909090909" count="3">board</word>
+	<word weight="0.03409090909090909" count="3">minutes</word>
+	<word weight="0.03409090909090909" count="3">registry</word>
+	<word weight="0.022727272727272728" count="2">notes</word>
+	<word weight="0.022727272727272728" count="2">summary</word>
+	<word weight="0.022727272727272728" count="2">maintenance</word>
+	<word weight="0.022727272727272728" count="2">government</word>
+	<word weight="0.011363636363636364" count="1">examiner's</word>
+	<word weight="0.011363636363636364" count="1">benefit</word>
+	<word weight="0.011363636363636364" count="1">team</word>
+	<word weight="0.011363636363636364" count="1">management</word>
+  </topic>
+</topics>

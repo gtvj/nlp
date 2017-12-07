@@ -1,0 +1,23 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.959228410765145" totalTokens="32" titles="schools, funding, reports, annual, plans, corporate, kl, places, supply, planning">
+	<word weight="0.15625" count="5">schools</word>
+	<word weight="0.125" count="4">funding</word>
+	<word weight="0.09375" count="3">reports</word>
+	<word weight="0.09375" count="3">annual</word>
+	<word weight="0.09375" count="3">plans</word>
+	<word weight="0.09375" count="3">corporate</word>
+	<word weight="0.09375" count="3">kl</word>
+	<word weight="0.03125" count="1">places</word>
+	<word weight="0.03125" count="1">school</word>
+	<word weight="0.03125" count="1">supply</word>
+	<word weight="0.03125" count="1">planning</word>
+	<word weight="0.03125" count="1">england</word>
+	<word weight="0.03125" count="1">grant</word>
+	<word weight="0.03125" count="1">administration</word>
+	<word weight="0.03125" count="1">financing</word>
+	<phrase weight="0.5" count="2">corporate plans</phrase>
+	<phrase weight="0.25" count="1">school places</phrase>
+	<phrase weight="0.25" count="1">annual reports</phrase>
+  </topic>
+</topics>

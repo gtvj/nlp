@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.319622210957219" totalTokens="3847" titles="crown estate, land revenues, crown lands, predecessors, books, woods, forests, letters, commissioners, treasury">
+	<word weight="0.05224850532882766" count="201">crown</word>
+	<word weight="0.0356121653236288" count="137">estate</word>
+	<word weight="0.02547439563296075" count="98">predecessors</word>
+	<word weight="0.023914738757473356" count="92">books</word>
+	<word weight="0.021055367819079802" count="81">land</word>
+	<word weight="0.019755653756173643" count="76">woods</word>
+	<word weight="0.01949571094359241" count="75">forests</word>
+	<word weight="0.017936054068105018" count="69">letters</word>
+	<word weight="0.016116454380036394" count="62">revenues</word>
+	<word weight="0.013776969066805303" count="53">commissioners</word>
+	<word weight="0.013257083441642838" count="51">treasury</word>
+	<word weight="0.012737197816480375" count="49">lands</word>
+	<word weight="0.011957369378736678" count="46">administrative</word>
+	<word weight="0.010917598128411749" count="42">estates</word>
+	<word weight="0.010397712503249286" count="40">reports</word>
+	<word weight="0.009877826878086821" count="38">report</word>
+	<word weight="0.009357941252924357" count="36">entry</word>
+	<word weight="0.009097998440343124" count="35">general</word>
+	<word weight="0.006758513127112035" count="26">windsor</word>
+	<word weight="0.005978684689368339" count="23">selection</word>
+	<phrase weight="0.09292649098474341" count="67">crown estate</phrase>
+	<phrase weight="0.07905686546463246" count="57">land revenues</phrase>
+	<phrase weight="0.033287101248266296" count="24">crown lands</phrase>
+	<phrase weight="0.023578363384188627" count="17">entry books</phrase>
+	<phrase weight="0.022191400832177532" count="16">treasury report books</phrase>
+	<phrase weight="0.019417475728155338" count="14">crown lands collected</phrase>
+	<phrase weight="0.016643550624133148" count="12">surveyor general</phrase>
+	<phrase weight="0.015256588072122053" count="11">selection policy osp</phrase>
+	<phrase weight="0.015256588072122053" count="11">selection decisions applied</phrase>
+	<phrase weight="0.013869625520110958" count="10">crown estate commissioners</phrase>
+	<phrase weight="0.012482662968099861" count="9">land revenue</phrase>
+	<phrase weight="0.008321775312066574" count="6">letter books</phrase>
+	<phrase weight="0.008321775312066574" count="6">wide range</phrase>
+	<phrase weight="0.006934812760055479" count="5">treasury letters</phrase>
+	<phrase weight="0.006934812760055479" count="5">report books</phrase>
+	<phrase weight="0.006934812760055479" count="5">channel islands</phrase>
+	<phrase weight="0.005547850208044383" count="4">treasury report books entry books</phrase>
+	<phrase weight="0.005547850208044383" count="4">windsor estate</phrase>
+	<phrase weight="0.005547850208044383" count="4">farm rents</phrase>
+	<phrase weight="0.005547850208044383" count="4">royal forests</phrase>
+  </topic>
+</topics>

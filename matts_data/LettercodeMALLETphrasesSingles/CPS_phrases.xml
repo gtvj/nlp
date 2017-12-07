@@ -1,0 +1,18 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0" totalTokens="67" titles="service, prosecution, crown, cps, hmcpsi, inspectorate, government, blog, division, http://www.justiceinspectorates.gov.uk/hmcpsi">
+	<word weight="0.19402985074626866" count="13">service</word>
+	<word weight="0.19402985074626866" count="13">prosecution</word>
+	<word weight="0.19402985074626866" count="13">crown</word>
+	<word weight="0.14925373134328357" count="10">cps</word>
+	<word weight="0.05970149253731343" count="4">hmcpsi</word>
+	<word weight="0.05970149253731343" count="4">inspectorate</word>
+	<word weight="0.04477611940298507" count="3">government</word>
+	<word weight="0.029850746268656716" count="2">blog</word>
+	<word weight="0.014925373134328358" count="1">division</word>
+	<word weight="0.014925373134328358" count="1">http://www.justiceinspectorates.gov.uk/hmcpsi</word>
+	<word weight="0.014925373134328358" count="1">http://www.hmcpsi.gov.uk</word>
+	<word weight="0.014925373134328358" count="1">field</word>
+	<word weight="0.014925373134328358" count="1">general</word>
+  </topic>
+</topics>

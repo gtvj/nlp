@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.717417835886205" totalTokens="812" titles="horticulture, board, development, agriculture, ahdb, government, pork, executive, lamb, beef">
+	<word weight="0.09482758620689655" count="77">horticulture</word>
+	<word weight="0.09236453201970443" count="75">board</word>
+	<word weight="0.09236453201970443" count="75">development</word>
+	<word weight="0.09236453201970443" count="75">agriculture</word>
+	<word weight="0.06773399014778325" count="55">ahdb</word>
+	<word weight="0.06527093596059114" count="53">government</word>
+	<word weight="0.027093596059113302" count="22">pork</word>
+	<word weight="0.022167487684729065" count="18">executive</word>
+	<word weight="0.019704433497536946" count="16">lamb</word>
+	<word weight="0.019704433497536946" count="16">beef</word>
+	<word weight="0.01847290640394089" count="15">service</word>
+	<word weight="0.01847290640394089" count="15">meat</word>
+	<word weight="0.017241379310344827" count="14">pig</word>
+	<word weight="0.01600985221674877" count="13">bpex</word>
+	<word weight="0.01600985221674877" count="13">field</word>
+	<word weight="0.01600985221674877" count="13">general</word>
+	<word weight="0.014778325123152709" count="12">eblex</word>
+	<word weight="0.014778325123152709" count="12">potatoes</word>
+	<word weight="0.012315270935960592" count="10">love</word>
+	<word weight="0.012315270935960592" count="10">english</word>
+  </topic>
+</topics>

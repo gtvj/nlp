@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.182382582650872" totalTokens="4433" titles="social, health, security, divisions, successors, policy, central, administration, benefits, services">
+	<word weight="0.0764719151815926" count="339">social</word>
+	<word weight="0.07556959169862396" count="335">health</word>
+	<word weight="0.07150913602526505" count="317">security</word>
+	<word weight="0.020527859237536656" count="91">divisions</word>
+	<word weight="0.01488833746898263" count="66">division</word>
+	<word weight="0.013534852244529664" count="60">successors</word>
+	<word weight="0.013309271373787504" count="59">policy</word>
+	<word weight="0.013309271373787504" count="59">central</word>
+	<word weight="0.012858109632303182" count="57">administration</word>
+	<word weight="0.011730205278592375" count="52">benefits</word>
+	<word weight="0.008797653958944282" count="39">services</word>
+	<word weight="0.007895330475975638" count="35">advisory</word>
+	<word weight="0.007669749605233476" count="34">committee</word>
+	<word weight="0.006541845251522671" count="29">reports</word>
+	<word weight="0.006541845251522671" count="29">minutes</word>
+	<word weight="0.00631626438078051" count="28">national</word>
+	<word weight="0.00631626438078051" count="28">boards</word>
+	<word weight="0.006090683510038349" count="27">benefit</word>
+	<word weight="0.005639521768554027" count="25">group</word>
+	<word weight="0.005639521768554027" count="25">data</word>
+  </topic>
+</topics>

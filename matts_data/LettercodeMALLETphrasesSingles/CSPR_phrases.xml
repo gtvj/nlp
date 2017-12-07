@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="19.288513991247804" totalTokens="126" titles="pay, reports, service, unit, civil, research, survey, annual, comparability, commission">
+	<word weight="0.0873015873015873" count="11">pay</word>
+	<word weight="0.07936507936507936" count="10">reports</word>
+	<word weight="0.07142857142857142" count="9">service</word>
+	<word weight="0.06349206349206349" count="8">unit</word>
+	<word weight="0.06349206349206349" count="8">civil</word>
+	<word weight="0.05555555555555555" count="7">research</word>
+	<word weight="0.031746031746031744" count="4">survey</word>
+	<word weight="0.031746031746031744" count="4">annual</word>
+	<word weight="0.023809523809523808" count="3">comparability</word>
+	<word weight="0.023809523809523808" count="3">commission</word>
+	<word weight="0.023809523809523808" count="3">staff</word>
+	<word weight="0.023809523809523808" count="3">work</word>
+	<word weight="0.023809523809523808" count="3">board</word>
+	<word weight="0.015873015873015872" count="2">internal</word>
+	<word weight="0.015873015873015872" count="2">general</word>
+	<word weight="0.007936507936507936" count="1">companies</word>
+	<word weight="0.007936507936507936" count="1">insurance</word>
+	<word weight="0.007936507936507936" count="1">industries</word>
+	<word weight="0.007936507936507936" count="1">manufacturing</word>
+	<word weight="0.007936507936507936" count="1">societies</word>
+  </topic>
+</topics>

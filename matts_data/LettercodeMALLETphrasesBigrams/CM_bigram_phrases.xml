@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.4214743290998335" totalTokens="1714" titles="property services, cm, directorate, predecessors, division, building, buildings, reports, management, defence">
+	<word weight="0.10035005834305717" count="172">services</word>
+	<word weight="0.0676779463243874" count="116">property</word>
+	<word weight="0.042007001166861145" count="72">cm</word>
+	<word weight="0.03325554259043174" count="57">directorate</word>
+	<word weight="0.030338389731621937" count="52">predecessors</word>
+	<word weight="0.020420070011668612" count="35">division</word>
+	<word weight="0.01750291715285881" count="30">buildings</word>
+	<word weight="0.01750291715285881" count="30">building</word>
+	<word weight="0.015169194865810968" count="26">reports</word>
+	<word weight="0.013418903150525088" count="23">management</word>
+	<word weight="0.011668611435239206" count="20">region</word>
+	<word weight="0.011668611435239206" count="20">defence</word>
+	<word weight="0.011085180863477246" count="19">london</word>
+	<word weight="0.010501750291715286" count="18">supplies</word>
+	<word weight="0.009334889148191364" count="16">staff</word>
+	<word weight="0.008751458576429404" count="15">civil</word>
+	<word weight="0.008751458576429404" count="15">psa</word>
+	<word weight="0.008751458576429404" count="15">sites</word>
+	<word weight="0.008168028004667444" count="14">accommodation</word>
+	<word weight="0.008168028004667444" count="14">corporate</word>
+	<phrase weight="0.2453416149068323" count="79">property services</phrase>
+	<phrase weight="0.034161490683229816" count="11">defence services</phrase>
+	<phrase weight="0.027950310559006212" count="9">supplies division</phrase>
+	<phrase weight="0.024844720496894408" count="8">civil accommodation</phrase>
+	<phrase weight="0.018633540372670808" count="6">staff management division</phrase>
+	<phrase weight="0.018633540372670808" count="6">quantity surveying services</phrase>
+	<phrase weight="0.015527950310559006" count="5">originating body</phrase>
+	<phrase weight="0.012422360248447204" count="4">hampton court palace</phrase>
+	<phrase weight="0.009316770186335404" count="3">london region</phrase>
+	<phrase weight="0.009316770186335404" count="3">finance division</phrase>
+	<phrase weight="0.009316770186335404" count="3">home regional services</phrase>
+	<phrase weight="0.009316770186335404" count="3">feasibility studies</phrase>
+	<phrase weight="0.009316770186335404" count="3">maplin sands</phrase>
+	<phrase weight="0.006211180124223602" count="2">specialist services</phrase>
+	<phrase weight="0.006211180124223602" count="2">public buildings</phrase>
+	<phrase weight="0.006211180124223602" count="2">crown suppliers privatisation unit</phrase>
+	<phrase weight="0.006211180124223602" count="2">london airport</phrase>
+	<phrase weight="0.006211180124223602" count="2">south west region</phrase>
+	<phrase weight="0.006211180124223602" count="2">banqueting house</phrase>
+	<phrase weight="0.006211180124223602" count="2">galleries group</phrase>
+  </topic>
+</topics>

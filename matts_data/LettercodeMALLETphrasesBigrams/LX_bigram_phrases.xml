@@ -1,0 +1,22 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.3958665924623126" totalTokens="37" titles="lx, contributions, minutes, meetings, board, management, circulars, plans, business, reports">
+	<word weight="0.1891891891891892" count="7">lx</word>
+	<word weight="0.16216216216216217" count="6">contributions</word>
+	<word weight="0.08108108108108109" count="3">minutes</word>
+	<word weight="0.08108108108108109" count="3">meetings</word>
+	<word weight="0.08108108108108109" count="3">board</word>
+	<word weight="0.08108108108108109" count="3">management</word>
+	<word weight="0.05405405405405406" count="2">circulars</word>
+	<word weight="0.05405405405405406" count="2">plans</word>
+	<word weight="0.05405405405405406" count="2">business</word>
+	<word weight="0.05405405405405406" count="2">reports</word>
+	<word weight="0.05405405405405406" count="2">annual</word>
+	<word weight="0.02702702702702703" count="1">insurance</word>
+	<word weight="0.02702702702702703" count="1">national</word>
+	<phrase weight="0.4" count="2">management board meetings</phrase>
+	<phrase weight="0.2" count="1">business plans</phrase>
+	<phrase weight="0.2" count="1">annual reports</phrase>
+	<phrase weight="0.2" count="1">national insurance contributions</phrase>
+  </topic>
+</topics>

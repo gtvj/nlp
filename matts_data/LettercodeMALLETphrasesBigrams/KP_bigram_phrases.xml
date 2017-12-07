@@ -1,0 +1,23 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.1791411792515687" totalTokens="52" titles="committee, conduct, education, legal, advisory, kp, publications, services, offering, standards">
+	<word weight="0.15384615384615385" count="8">committee</word>
+	<word weight="0.1346153846153846" count="7">conduct</word>
+	<word weight="0.1346153846153846" count="7">education</word>
+	<word weight="0.1346153846153846" count="7">legal</word>
+	<word weight="0.11538461538461539" count="6">advisory</word>
+	<word weight="0.09615384615384616" count="5">kp</word>
+	<word weight="0.057692307692307696" count="3">publications</word>
+	<word weight="0.019230769230769232" count="1">services</word>
+	<word weight="0.019230769230769232" count="1">offering</word>
+	<word weight="0.019230769230769232" count="1">standards</word>
+	<word weight="0.019230769230769232" count="1">upholding</word>
+	<word weight="0.019230769230769232" count="1">project</word>
+	<word weight="0.019230769230769232" count="1">research</word>
+	<word weight="0.019230769230769232" count="1">committees</word>
+	<word weight="0.019230769230769232" count="1">minutes</word>
+	<word weight="0.019230769230769232" count="1">correspondence</word>
+	<phrase weight="0.8571428571428571" count="6">advisory committee</phrase>
+	<phrase weight="0.14285714285714285" count="1">offering legal services</phrase>
+  </topic>
+</topics>

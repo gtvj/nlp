@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.621448705278483" totalTokens="1600" titles="national dock labour board, national dock labour corporation, bk, london, general, minutes, ndlb, scheme, meetings, south">
+	<word weight="0.13" count="208">dock</word>
+	<word weight="0.118125" count="189">labour</word>
+	<word weight="0.085625" count="137">board</word>
+	<word weight="0.0825" count="132">national</word>
+	<word weight="0.0325" count="52">bk</word>
+	<word weight="0.0225" count="36">london</word>
+	<word weight="0.021875" count="35">corporation</word>
+	<word weight="0.01625" count="26">general</word>
+	<word weight="0.014375" count="23">minutes</word>
+	<word weight="0.013125" count="21">ndlb</word>
+	<word weight="0.01" count="16">scheme</word>
+	<word weight="0.01" count="16">meetings</word>
+	<word weight="0.00875" count="14">south</word>
+	<word weight="0.008125" count="13">coast</word>
+	<word weight="0.0075" count="12">head</word>
+	<word weight="0.0075" count="12">section</word>
+	<word weight="0.0075" count="12">statistical</word>
+	<word weight="0.006875" count="11">immingham</word>
+	<word weight="0.006875" count="11">grimsby</word>
+	<word weight="0.006875" count="11">work</word>
+	<phrase weight="0.16911764705882354" count="46">national dock labour board</phrase>
+	<phrase weight="0.1213235294117647" count="33">dock labour board</phrase>
+	<phrase weight="0.10294117647058823" count="28">national dock labour corporation</phrase>
+	<phrase weight="0.029411764705882353" count="8">dock labour scheme</phrase>
+	<phrase weight="0.022058823529411766" count="6">south coast</phrase>
+	<phrase weight="0.022058823529411766" count="6">dock workers</phrase>
+	<phrase weight="0.022058823529411766" count="6">dock work</phrase>
+	<phrase weight="0.01838235294117647" count="5">immingham dock labour board</phrase>
+	<phrase weight="0.01838235294117647" count="5">national dock labour scheme</phrase>
+	<phrase weight="0.014705882352941176" count="4">dock labour corporation</phrase>
+	<phrase weight="0.011029411764705883" count="3">london dock labour board</phrase>
+	<phrase weight="0.011029411764705883" count="3">decision books</phrase>
+	<phrase weight="0.011029411764705883" count="3">coast dock labour board</phrase>
+	<phrase weight="0.007352941176470588" count="2">building works</phrase>
+	<phrase weight="0.007352941176470588" count="2">labour board</phrase>
+	<phrase weight="0.007352941176470588" count="2">labour scheme</phrase>
+	<phrase weight="0.007352941176470588" count="2">national sports committee</phrase>
+	<phrase weight="0.007352941176470588" count="2">statistical section</phrase>
+	<phrase weight="0.007352941176470588" count="2">dock worker</phrase>
+	<phrase weight="0.007352941176470588" count="2">london portworkers</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.072395516367068" totalTokens="16801" titles="valuation, maps, board, survey, ordnance, sheet, revenue, inland, act, cases">
+	<word weight="0.040830902922445095" count="686">valuation</word>
+	<word weight="0.025712755193143266" count="432">maps</word>
+	<word weight="0.02345098506041307" count="394">board</word>
+	<word weight="0.022439140527349563" count="377">survey</word>
+	<word weight="0.022320099994047972" count="375">ordnance</word>
+	<word weight="0.022201059460746384" count="373">sheet</word>
+	<word weight="0.018153681328492353" count="305">revenue</word>
+	<word weight="0.018153681328492353" count="305">inland</word>
+	<word weight="0.01749895839533361" count="294">act</word>
+	<word weight="0.016665674662222487" count="280">cases</word>
+	<word weight="0.016487113862270104" count="277">district</word>
+	<word weight="0.01630855306231772" count="274">finance</word>
+	<word weight="0.015891911195762158" count="267">worn</word>
+	<word weight="0.015891911195762158" count="267">majority</word>
+	<word weight="0.015832390929111363" count="266">additions</word>
+	<word weight="0.014284863996190703" count="240">shown</word>
+	<word weight="0.012856377596571633" count="216">names</word>
+	<word weight="0.012618296529968454" count="212">place</word>
+	<word weight="0.012320695196714481" count="207">map</word>
+	<word weight="0.01023748586393667" count="172">property</word>
+  </topic>
+</topics>

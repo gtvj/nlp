@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="16.90251000943216" totalTokens="109" titles="council, consumer, minutes, reports, meetings, releases, press, publications, annual, committee">
+	<word weight="0.24770642201834864" count="27">council</word>
+	<word weight="0.23853211009174313" count="26">consumer</word>
+	<word weight="0.08256880733944955" count="9">minutes</word>
+	<word weight="0.07339449541284404" count="8">reports</word>
+	<word weight="0.03669724770642202" count="4">meetings</word>
+	<word weight="0.027522935779816515" count="3">releases</word>
+	<word weight="0.027522935779816515" count="3">press</word>
+	<word weight="0.027522935779816515" count="3">publications</word>
+	<word weight="0.027522935779816515" count="3">annual</word>
+	<word weight="0.027522935779816515" count="3">committee</word>
+	<word weight="0.01834862385321101" count="2">organisations</word>
+	<word weight="0.01834862385321101" count="2">survey</word>
+	<word weight="0.01834862385321101" count="2">field</word>
+	<word weight="0.01834862385321101" count="2">submissions</word>
+	<word weight="0.009174311926605505" count="1">protection</word>
+	<word weight="0.009174311926605505" count="1">safeguard</word>
+	<word weight="0.009174311926605505" count="1">appointed</word>
+	<word weight="0.009174311926605505" count="1">consumers</word>
+	<word weight="0.009174311926605505" count="1">affecting</word>
+	<word weight="0.009174311926605505" count="1">problems</word>
+  </topic>
+</topics>

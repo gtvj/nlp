@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.26453911244097" totalTokens="520" titles="milk, marketing, board, dairy, committee, reports, annual, quality, board's, breeding">
+	<word weight="0.13653846153846153" count="71">milk</word>
+	<word weight="0.08653846153846154" count="45">marketing</word>
+	<word weight="0.06923076923076923" count="36">board</word>
+	<word weight="0.01730769230769231" count="9">dairy</word>
+	<word weight="0.015384615384615385" count="8">committee</word>
+	<word weight="0.015384615384615385" count="8">reports</word>
+	<word weight="0.013461538461538462" count="7">annual</word>
+	<word weight="0.011538461538461539" count="6">quality</word>
+	<word weight="0.011538461538461539" count="6">board's</word>
+	<word weight="0.009615384615384616" count="5">breeding</word>
+	<word weight="0.009615384615384616" count="5">minutes</word>
+	<word weight="0.009615384615384616" count="5">producers</word>
+	<word weight="0.009615384615384616" count="5">meetings</word>
+	<word weight="0.009615384615384616" count="5">products</word>
+	<word weight="0.007692307692307693" count="4">committees</word>
+	<word weight="0.007692307692307693" count="4">recording</word>
+	<word weight="0.007692307692307693" count="4">scheme</word>
+	<word weight="0.007692307692307693" count="4">agricultural</word>
+	<word weight="0.007692307692307693" count="4">general</word>
+	<word weight="0.0057692307692307696" count="3">production</word>
+  </topic>
+</topics>

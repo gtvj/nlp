@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="11.885224114812623" totalTokens="201" titles="training, enterprise, employment, group, councils, policy, government, policies, education, scheme">
+	<word weight="0.15920398009950248" count="32">training</word>
+	<word weight="0.06965174129353234" count="14">enterprise</word>
+	<word weight="0.06965174129353234" count="14">employment</word>
+	<word weight="0.03980099502487562" count="8">group</word>
+	<word weight="0.029850746268656716" count="6">councils</word>
+	<word weight="0.029850746268656716" count="6">policy</word>
+	<word weight="0.029850746268656716" count="6">government</word>
+	<word weight="0.01990049751243781" count="4">policies</word>
+	<word weight="0.01990049751243781" count="4">education</word>
+	<word weight="0.01990049751243781" count="4">scheme</word>
+	<word weight="0.01990049751243781" count="4">programmes</word>
+	<word weight="0.014925373134328358" count="3">monitoring</word>
+	<word weight="0.014925373134328358" count="3">skills</word>
+	<word weight="0.014925373134328358" count="3">allowance</word>
+	<word weight="0.014925373134328358" count="3">tecs</word>
+	<word weight="0.014925373134328358" count="3">work</word>
+	<word weight="0.014925373134328358" count="3">opportunities</word>
+	<word weight="0.014925373134328358" count="3">equal</word>
+	<word weight="0.014925373134328358" count="3">evaluation</word>
+	<word weight="0.014925373134328358" count="3">research</word>
+	<phrase weight="0.125" count="5">enterprise councils</phrase>
+	<phrase weight="0.075" count="3">skills training</phrase>
+	<phrase weight="0.075" count="3">government training programmes</phrase>
+	<phrase weight="0.05" count="2">training standards</phrase>
+	<phrase weight="0.05" count="2">equal opportunities training</phrase>
+	<phrase weight="0.05" count="2">enterprise allowance scheme</phrase>
+	<phrase weight="0.05" count="2">training enterprise</phrase>
+	<phrase weight="0.025" count="1">policies working</phrase>
+	<phrase weight="0.025" count="1">government initiatives</phrase>
+	<phrase weight="0.025" count="1">training careers service</phrase>
+	<phrase weight="0.025" count="1">training enterprise councils</phrase>
+	<phrase weight="0.025" count="1">improve employment</phrase>
+	<phrase weight="0.025" count="1">promoting enterprise</phrase>
+	<phrase weight="0.025" count="1">vocational education programmes</phrase>
+	<phrase weight="0.025" count="1">allowance scheme</phrase>
+	<phrase weight="0.025" count="1">special training</phrase>
+	<phrase weight="0.025" count="1">youth training scheme policy discussions</phrase>
+	<phrase weight="0.025" count="1">sector companies</phrase>
+	<phrase weight="0.025" count="1">training providers</phrase>
+	<phrase weight="0.025" count="1">deprived areas</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.863825404257538" totalTokens="375" titles="transport, lm, goods, policy, successors, aviation, division, vehicles, security, heavy">
+	<word weight="0.08533333333333333" count="32">transport</word>
+	<word weight="0.050666666666666665" count="19">lm</word>
+	<word weight="0.02666666666666667" count="10">goods</word>
+	<word weight="0.024" count="9">policy</word>
+	<word weight="0.024" count="9">successors</word>
+	<word weight="0.018666666666666668" count="7">aviation</word>
+	<word weight="0.018666666666666668" count="7">division</word>
+	<word weight="0.016" count="6">vehicles</word>
+	<word weight="0.013333333333333334" count="5">security</word>
+	<word weight="0.013333333333333334" count="5">heavy</word>
+	<word weight="0.013333333333333334" count="5">survey</word>
+	<word weight="0.010666666666666666" count="4">cht</word>
+	<word weight="0.010666666666666666" count="4">international</word>
+	<word weight="0.010666666666666666" count="4">public</word>
+	<word weight="0.010666666666666666" count="4">road</word>
+	<word weight="0.010666666666666666" count="4">vehicle</word>
+	<word weight="0.010666666666666666" count="4">continuing</word>
+	<word weight="0.010666666666666666" count="4">statistics</word>
+	<word weight="0.008" count="3">avi</word>
+	<word weight="0.008" count="3">traffic</word>
+	<phrase weight="0.045454545454545456" count="3">continuing survey</phrase>
+	<phrase weight="0.045454545454545456" count="3">local urban transport</phrase>
+	<phrase weight="0.030303030303030304" count="2">public transport london</phrase>
+	<phrase weight="0.030303030303030304" count="2">aviation security</phrase>
+	<phrase weight="0.030303030303030304" count="2">channel tunnel fixed link divisions</phrase>
+	<phrase weight="0.030303030303030304" count="2">heavy goods vehicles</phrase>
+	<phrase weight="0.030303030303030304" count="2">works act</phrase>
+	<phrase weight="0.030303030303030304" count="2">air traffic division</phrase>
+	<phrase weight="0.030303030303030304" count="2">international aviation directorate</phrase>
+	<phrase weight="0.030303030303030304" count="2">signs division</phrase>
+	<phrase weight="0.015151515151515152" count="1">tolls policy</phrase>
+	<phrase weight="0.015151515151515152" count="1">national aviation security programme</phrase>
+	<phrase weight="0.015151515151515152" count="1">goods transport</phrase>
+	<phrase weight="0.015151515151515152" count="1">maritime security programme</phrase>
+	<phrase weight="0.015151515151515152" count="1">london regional transport</phrase>
+	<phrase weight="0.015151515151515152" count="1">csrgt sampled vehicles</phrase>
+	<phrase weight="0.015151515151515152" count="1">proposed rail services</phrase>
+	<phrase weight="0.015151515151515152" count="1">public roads</phrase>
+	<phrase weight="0.015151515151515152" count="1">transport policy purposes</phrase>
+	<phrase weight="0.015151515151515152" count="1">goods vehicle dataset</phrase>
+  </topic>
+</topics>

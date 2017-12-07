@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.942414923799934" totalTokens="702" titles="judicial committee, council, privy, cases, appeal, appeals, court, volume, books, ecclesiastical">
+	<word weight="0.06267806267806268" count="44">committee</word>
+	<word weight="0.05128205128205128" count="36">judicial</word>
+	<word weight="0.04700854700854701" count="33">council</word>
+	<word weight="0.039886039886039885" count="28">privy</word>
+	<word weight="0.027065527065527065" count="19">appeal</word>
+	<word weight="0.027065527065527065" count="19">cases</word>
+	<word weight="0.02564102564102564" count="18">court</word>
+	<word weight="0.02564102564102564" count="18">appeals</word>
+	<word weight="0.019943019943019943" count="14">case</word>
+	<word weight="0.017094017094017096" count="12">volume</word>
+	<word weight="0.014245014245014245" count="10">books</word>
+	<word weight="0.01282051282051282" count="9">names</word>
+	<word weight="0.01282051282051282" count="9">ecclesiastical</word>
+	<word weight="0.011396011396011397" count="8">admiralty</word>
+	<word weight="0.009971509971509971" count="7">proceedings</word>
+	<word weight="0.009971509971509971" count="7">number</word>
+	<word weight="0.009971509971509971" count="7">minutes</word>
+	<word weight="0.008547008547008548" count="6">respondents</word>
+	<word weight="0.008547008547008548" count="6">transcripts</word>
+	<word weight="0.008547008547008548" count="6">index</word>
+	<phrase weight="0.2743362831858407" count="31">judicial committee</phrase>
+	<phrase weight="0.02654867256637168" count="3">colonial appeals</phrase>
+	<phrase weight="0.02654867256637168" count="3">lower court</phrase>
+	<phrase weight="0.017699115044247787" count="2">admiralty cases</phrase>
+	<phrase weight="0.017699115044247787" count="2">disputed wills</phrase>
+	<phrase weight="0.017699115044247787" count="2">appeal cases</phrase>
+	<phrase weight="0.017699115044247787" count="2">bill books</phrase>
+	<phrase weight="0.017699115044247787" count="2">admiralty petitioners</phrase>
+	<phrase weight="0.017699115044247787" count="2">petition books</phrase>
+	<phrase weight="0.017699115044247787" count="2">judical committee</phrase>
+	<phrase weight="0.008849557522123894" count="1">draft instruments</phrase>
+	<phrase weight="0.008849557522123894" count="1">constituted formal judgments</phrase>
+	<phrase weight="0.008849557522123894" count="1">prize appeal cases</phrase>
+	<phrase weight="0.008849557522123894" count="1">formal court</phrase>
+	<phrase weight="0.008849557522123894" count="1">processes processes</phrase>
+	<phrase weight="0.008849557522123894" count="1">contents section</phrase>
+	<phrase weight="0.008849557522123894" count="1">appellants case</phrase>
+	<phrase weight="0.008849557522123894" count="1">court appealed</phrase>
+	<phrase weight="0.008849557522123894" count="1">testamentary cases</phrase>
+	<phrase weight="0.008849557522123894" count="1">council present</phrase>
+  </topic>
+</topics>

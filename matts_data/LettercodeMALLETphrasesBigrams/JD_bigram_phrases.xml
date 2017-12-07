@@ -1,0 +1,31 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="296.8377365154967" totalTokens="68" titles="commission, jd, monopolies, mergers, competition, reviews, annual, successors, publications, predecessors">
+	<word weight="0.19117647058823528" count="13">commission</word>
+	<word weight="0.11764705882352941" count="8">jd</word>
+	<word weight="0.10294117647058823" count="7">monopolies</word>
+	<word weight="0.08823529411764706" count="6">mergers</word>
+	<word weight="0.04411764705882353" count="3">competition</word>
+	<word weight="0.04411764705882353" count="3">reviews</word>
+	<word weight="0.04411764705882353" count="3">annual</word>
+	<word weight="0.04411764705882353" count="3">successors</word>
+	<word weight="0.04411764705882353" count="3">publications</word>
+	<word weight="0.029411764705882353" count="2">predecessors</word>
+	<word weight="0.014705882352941176" count="1">government</word>
+	<word weight="0.014705882352941176" count="1">uk</word>
+	<word weight="0.014705882352941176" count="1">merger</word>
+	<word weight="0.014705882352941176" count="1">company</word>
+	<word weight="0.014705882352941176" count="1">proposed</word>
+	<word weight="0.014705882352941176" count="1">legislation</word>
+	<word weight="0.014705882352941176" count="1">conferences</word>
+	<word weight="0.014705882352941176" count="1">discussions</word>
+	<word weight="0.014705882352941176" count="1">internal</word>
+	<word weight="0.014705882352941176" count="1">procedures</word>
+	<phrase weight="0.45454545454545453" count="5">mergers commission</phrase>
+	<phrase weight="0.18181818181818182" count="2">annual reviews</phrase>
+	<phrase weight="0.09090909090909091" count="1">internal discussions</phrase>
+	<phrase weight="0.09090909090909091" count="1">uk government</phrase>
+	<phrase weight="0.09090909090909091" count="1">competition commission</phrase>
+	<phrase weight="0.09090909090909091" count="1">restrictive practices commission</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.254859168741107" totalTokens="1667" titles="royal, observatory, rgo, greenwich, publications, observations, almanac, astronomical, nautical, astronomers">
+	<word weight="0.1295740851829634" count="216">royal</word>
+	<word weight="0.1289742051589682" count="215">observatory</word>
+	<word weight="0.1277744451109778" count="213">rgo</word>
+	<word weight="0.11697660467906419" count="195">greenwich</word>
+	<word weight="0.015596880623875225" count="26">publications</word>
+	<word weight="0.013797240551889621" count="23">observations</word>
+	<word weight="0.01199760047990402" count="20">almanac</word>
+	<word weight="0.010797840431913617" count="18">astronomical</word>
+	<word weight="0.009598080383923215" count="16">nautical</word>
+	<word weight="0.007798440311937612" count="13">astronomers</word>
+	<word weight="0.007798440311937612" count="13">cape</word>
+	<word weight="0.0065986802639472104" count="11">solar</word>
+	<word weight="0.0065986802639472104" count="11">plates</word>
+	<word weight="0.005398920215956809" count="9">telescope</word>
+	<word weight="0.005398920215956809" count="9">hope</word>
+	<word weight="0.005398920215956809" count="9">good</word>
+	<word weight="0.004799040191961607" count="8">photographs</word>
+	<word weight="0.004199160167966407" count="7">project</word>
+	<word weight="0.004199160167966407" count="7">microfilm</word>
+	<word weight="0.003599280143971206" count="6">ledgers</word>
+  </topic>
+</topics>

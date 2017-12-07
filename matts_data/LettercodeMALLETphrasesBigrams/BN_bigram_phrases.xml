@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.177113251203743" totalTokens="4635" titles="social security, central administration, health, bn, divisions, successors, policy, benefits, services, children">
+	<word weight="0.07313915857605179" count="339">social</word>
+	<word weight="0.07249190938511327" count="336">health</word>
+	<word weight="0.06882416396979504" count="319">security</word>
+	<word weight="0.033872707659115424" count="157">bn</word>
+	<word weight="0.019633225458468177" count="91">divisions</word>
+	<word weight="0.01423948220064725" count="66">division</word>
+	<word weight="0.012944983818770227" count="60">successors</word>
+	<word weight="0.01272923408845739" count="59">policy</word>
+	<word weight="0.01272923408845739" count="59">central</word>
+	<word weight="0.012297734627831715" count="57">administration</word>
+	<word weight="0.01121898597626753" count="52">benefits</word>
+	<word weight="0.008414239482200648" count="39">services</word>
+	<word weight="0.00819848975188781" count="38">committee</word>
+	<word weight="0.00819848975188781" count="38">children</word>
+	<word weight="0.007551240560949299" count="35">advisory</word>
+	<word weight="0.006256742179072276" count="29">reports</word>
+	<word weight="0.006256742179072276" count="29">minutes</word>
+	<word weight="0.006040992448759439" count="28">national</word>
+	<word weight="0.006040992448759439" count="28">boards</word>
+	<word weight="0.005825242718446602" count="27">benefit</word>
+	<phrase weight="0.24110218140068887" count="210">social security</phrase>
+	<phrase weight="0.03903559127439724" count="34">central administration</phrase>
+	<phrase weight="0.009184845005740528" count="8">elderly people</phrase>
+	<phrase weight="0.008036739380022962" count="7">individual datasets</phrase>
+	<phrase weight="0.0057405281285878304" count="5">national insurance</phrase>
+	<phrase weight="0.004592422502870264" count="4">social security policy group</phrase>
+	<phrase weight="0.004592422502870264" count="4">abortion act</phrase>
+	<phrase weight="0.004592422502870264" count="4">subject matter</phrase>
+	<phrase weight="0.004592422502870264" count="4">personnel division</phrase>
+	<phrase weight="0.004592422502870264" count="4">social security operations group</phrase>
+	<phrase weight="0.004592422502870264" count="4">health authorities</phrase>
+	<phrase weight="0.004592422502870264" count="4">security policy group division</phrase>
+	<phrase weight="0.004592422502870264" count="4">general practitioners</phrase>
+	<phrase weight="0.004592422502870264" count="4">social services</phrase>
+	<phrase weight="0.003444316877152698" count="3">works function</phrase>
+	<phrase weight="0.003444316877152698" count="3">medical division</phrase>
+	<phrase weight="0.003444316877152698" count="3">income support</phrase>
+	<phrase weight="0.003444316877152698" count="3">teaching hospitals</phrase>
+	<phrase weight="0.003444316877152698" count="3">representative case</phrase>
+	<phrase weight="0.003444316877152698" count="3">housing benefit</phrase>
+  </topic>
+</topics>

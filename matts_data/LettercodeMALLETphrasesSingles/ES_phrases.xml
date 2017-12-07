@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.793424740683072" totalTokens="1229" titles="weapons, atomic, reports, research, nuclear, development, trials, work, tests, awre">
+	<word weight="0.06509357200976404" count="80">weapons</word>
+	<word weight="0.060211554109031735" count="74">atomic</word>
+	<word weight="0.04882017900732303" count="60">reports</word>
+	<word weight="0.04882017900732303" count="60">research</word>
+	<word weight="0.01708706265256306" count="21">nuclear</word>
+	<word weight="0.014646053702196907" count="18">development</word>
+	<word weight="0.012205044751830757" count="15">trials</word>
+	<word weight="0.012205044751830757" count="15">work</word>
+	<word weight="0.009764035801464606" count="12">tests</word>
+	<word weight="0.009764035801464606" count="12">weapon</word>
+	<word weight="0.009764035801464606" count="12">awre</word>
+	<word weight="0.008950366151342554" count="11">aldermaston</word>
+	<word weight="0.008136696501220505" count="10">projects</word>
+	<word weight="0.008136696501220505" count="10">awe</word>
+	<word weight="0.007323026851098454" count="9">acquisition</word>
+	<word weight="0.007323026851098454" count="9">successors</word>
+	<word weight="0.006509357200976403" count="8">policy</word>
+	<word weight="0.006509357200976403" count="8">design</word>
+	<word weight="0.006509357200976403" count="8">site</word>
+	<word weight="0.006509357200976403" count="8">undertaken</word>
+  </topic>
+</topics>

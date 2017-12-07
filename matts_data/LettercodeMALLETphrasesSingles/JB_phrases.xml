@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.567667539474212" totalTokens="1069" titles="pensions, work, government, social, security, disability, policy, advisory, fund, benefit">
+	<word weight="0.10477081384471469" count="112">pensions</word>
+	<word weight="0.08419083255378859" count="90">work</word>
+	<word weight="0.05706267539756782" count="61">government</word>
+	<word weight="0.028999064546304958" count="31">social</word>
+	<word weight="0.021515434985968196" count="23">security</word>
+	<word weight="0.021515434985968196" count="23">disability</word>
+	<word weight="0.018709073900841908" count="20">pension</word>
+	<word weight="0.015902712815715623" count="17">policy</word>
+	<word weight="0.014967259120673527" count="16">advisory</word>
+	<word weight="0.014967259120673527" count="16">fund</word>
+	<word weight="0.013096351730589336" count="14">benefit</word>
+	<word weight="0.01216089803554724" count="13">dwp</word>
+	<word weight="0.011225444340505144" count="12">service</word>
+	<word weight="0.01028999064546305" count="11">committee</word>
+	<word weight="0.009354536950420954" count="10">employment</word>
+	<word weight="0.00841908325537886" count="9">ombudsman</word>
+	<word weight="0.00841908325537886" count="9">general</word>
+	<word weight="0.00841908325537886" count="9">state</word>
+	<word weight="0.007483629560336763" count="8">personal</word>
+	<word weight="0.007483629560336763" count="8">independent</word>
+  </topic>
+</topics>

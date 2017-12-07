@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="26.083373814683505" totalTokens="163" titles="tithe, merger, apportionment, agreement, tithes, rentcharge, award, commutation, awards, commission">
+	<word weight="0.11042944785276074" count="18">tithe</word>
+	<word weight="0.03680981595092025" count="6">merger</word>
+	<word weight="0.03680981595092025" count="6">apportionment</word>
+	<word weight="0.03680981595092025" count="6">agreement</word>
+	<word weight="0.03680981595092025" count="6">tithes</word>
+	<word weight="0.03067484662576687" count="5">rentcharge</word>
+	<word weight="0.03067484662576687" count="5">award</word>
+	<word weight="0.03067484662576687" count="5">commutation</word>
+	<word weight="0.03067484662576687" count="5">awards</word>
+	<word weight="0.03067484662576687" count="5">commission</word>
+	<word weight="0.018404907975460124" count="3">interest</word>
+	<word weight="0.018404907975460124" count="3">parties</word>
+	<word weight="0.012269938650306749" count="2">effected</word>
+	<word weight="0.012269938650306749" count="2">provided</word>
+	<word weight="0.012269938650306749" count="2">cases</word>
+	<word weight="0.012269938650306749" count="2">act</word>
+	<word weight="0.012269938650306749" count="2">declarations</word>
+	<word weight="0.012269938650306749" count="2">boundary</word>
+	<word weight="0.012269938650306749" count="2">successor</word>
+	<word weight="0.012269938650306749" count="2">instrument</word>
+  </topic>
+</topics>

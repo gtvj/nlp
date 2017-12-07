@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.6100018195342398" totalTokens="49" titles="maps, plans, pleas, common, court, place, drawings, public, location, inverted">
+	<word weight="0.10204081632653061" count="5">maps</word>
+	<word weight="0.08163265306122448" count="4">plans</word>
+	<word weight="0.061224489795918366" count="3">pleas</word>
+	<word weight="0.061224489795918366" count="3">common</word>
+	<word weight="0.061224489795918366" count="3">court</word>
+	<word weight="0.04081632653061224" count="2">place</word>
+	<word weight="0.04081632653061224" count="2">drawings</word>
+	<word weight="0.04081632653061224" count="2">public</word>
+	<word weight="0.02040816326530612" count="1">location</word>
+	<word weight="0.02040816326530612" count="1">inverted</word>
+	<word weight="0.02040816326530612" count="1">drawing</word>
+	<word weight="0.02040816326530612" count="1">map</word>
+	<word weight="0.02040816326530612" count="1">identify</word>
+	<word weight="0.02040816326530612" count="1">standardised</word>
+	<word weight="0.02040816326530612" count="1">modernised</word>
+	<word weight="0.02040816326530612" count="1">contemporary</word>
+	<word weight="0.02040816326530612" count="1">names</word>
+	<word weight="0.02040816326530612" count="1">depicted</word>
+	<word weight="0.02040816326530612" count="1">places</word>
+	<word weight="0.02040816326530612" count="1">amendments</word>
+  </topic>
+</topics>

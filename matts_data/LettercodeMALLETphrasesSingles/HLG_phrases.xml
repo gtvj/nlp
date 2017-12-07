@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.1433165564551375" totalTokens="6670" titles="local, government, housing, planning, health, land, commission, general, board, division">
+	<word weight="0.06131934032983508" count="409">local</word>
+	<word weight="0.05067466266866567" count="338">government</word>
+	<word weight="0.041379310344827586" count="276">housing</word>
+	<word weight="0.027886056971514243" count="186">planning</word>
+	<word weight="0.018140929535232383" count="121">health</word>
+	<word weight="0.017991004497751123" count="120">land</word>
+	<word weight="0.012443778110944527" count="83">commission</word>
+	<word weight="0.012293853073463269" count="82">general</word>
+	<word weight="0.012143928035982009" count="81">board</word>
+	<word weight="0.011244377811094454" count="75">division</word>
+	<word weight="0.010944527736131934" count="73">successors</word>
+	<word weight="0.010794602698650674" count="72">committee</word>
+	<word weight="0.010344827586206896" count="69">divisions</word>
+	<word weight="0.010044977511244379" count="67">act</word>
+	<word weight="0.009295352323838081" count="62">minutes</word>
+	<word weight="0.008995502248875561" count="60">town</word>
+	<word weight="0.008545727136431784" count="57">development</word>
+	<word weight="0.00719640179910045" count="48">country</word>
+	<word weight="0.007046476761619191" count="47">successor</word>
+	<word weight="0.007046476761619191" count="47">environment</word>
+  </topic>
+</topics>

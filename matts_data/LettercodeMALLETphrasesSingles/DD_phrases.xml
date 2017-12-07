@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.188241535060031" totalTokens="297" titles="boundary, wales, local, commission, government, reviews, electoral, reports, district, special">
+	<word weight="0.10437710437710437" count="31">boundary</word>
+	<word weight="0.09764309764309764" count="29">wales</word>
+	<word weight="0.08754208754208755" count="26">local</word>
+	<word weight="0.08417508417508418" count="25">commission</word>
+	<word weight="0.08417508417508418" count="25">government</word>
+	<word weight="0.06060606060606061" count="18">reviews</word>
+	<word weight="0.050505050505050504" count="15">electoral</word>
+	<word weight="0.04377104377104377" count="13">reports</word>
+	<word weight="0.02356902356902357" count="7">district</word>
+	<word weight="0.02356902356902357" count="7">special</word>
+	<word weight="0.020202020202020204" count="6">community</word>
+	<word weight="0.016835016835016835" count="5">boundaries</word>
+	<word weight="0.016835016835016835" count="5">correspondence</word>
+	<word weight="0.016835016835016835" count="5">review</word>
+	<word weight="0.013468013468013467" count="4">welsh</word>
+	<word weight="0.013468013468013467" count="4">county</word>
+	<word weight="0.013468013468013467" count="4">commissioners</word>
+	<word weight="0.013468013468013467" count="4">covering</word>
+	<word weight="0.010101010101010102" count="3">counties</word>
+	<word weight="0.010101010101010102" count="3">unitary</word>
+  </topic>
+</topics>

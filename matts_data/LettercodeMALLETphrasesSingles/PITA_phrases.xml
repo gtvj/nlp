@@ -1,0 +1,18 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="2.6485693638944454" totalTokens="28" titles="inquiry, redfern, government, facilities, nuclear, analysis, tissue, human, division, michael">
+	<word weight="0.21428571428571427" count="6">inquiry</word>
+	<word weight="0.17857142857142858" count="5">redfern</word>
+	<word weight="0.07142857142857142" count="2">government</word>
+	<word weight="0.07142857142857142" count="2">facilities</word>
+	<word weight="0.07142857142857142" count="2">nuclear</word>
+	<word weight="0.07142857142857142" count="2">analysis</word>
+	<word weight="0.07142857142857142" count="2">tissue</word>
+	<word weight="0.07142857142857142" count="2">human</word>
+	<word weight="0.03571428571428571" count="1">division</word>
+	<word weight="0.03571428571428571" count="1">michael</word>
+	<word weight="0.03571428571428571" count="1">conducted</word>
+	<word weight="0.03571428571428571" count="1">april</word>
+	<word weight="0.03571428571428571" count="1">announced</word>
+  </topic>
+</topics>

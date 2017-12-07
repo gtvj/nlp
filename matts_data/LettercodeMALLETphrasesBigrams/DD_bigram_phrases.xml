@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.039589826003366" totalTokens="322" titles="boundary, wales, commission, local, government, dd, reviews, electoral, reports, district">
+	<word weight="0.09627329192546584" count="31">boundary</word>
+	<word weight="0.09006211180124224" count="29">wales</word>
+	<word weight="0.08074534161490683" count="26">commission</word>
+	<word weight="0.08074534161490683" count="26">local</word>
+	<word weight="0.07763975155279502" count="25">government</word>
+	<word weight="0.07763975155279502" count="25">dd</word>
+	<word weight="0.055900621118012424" count="18">reviews</word>
+	<word weight="0.046583850931677016" count="15">electoral</word>
+	<word weight="0.040372670807453416" count="13">reports</word>
+	<word weight="0.021739130434782608" count="7">district</word>
+	<word weight="0.021739130434782608" count="7">special</word>
+	<word weight="0.018633540372670808" count="6">community</word>
+	<word weight="0.015527950310559006" count="5">boundaries</word>
+	<word weight="0.015527950310559006" count="5">correspondence</word>
+	<word weight="0.015527950310559006" count="5">review</word>
+	<word weight="0.012422360248447204" count="4">welsh</word>
+	<word weight="0.012422360248447204" count="4">county</word>
+	<word weight="0.012422360248447204" count="4">commissioners</word>
+	<word weight="0.012422360248447204" count="4">covering</word>
+	<word weight="0.009316770186335404" count="3">counties</word>
+	<phrase weight="0.2903225806451613" count="18">local government boundary commission</phrase>
+	<phrase weight="0.08064516129032258" count="5">government boundary commission</phrase>
+	<phrase weight="0.04838709677419355" count="3">general correspondence</phrase>
+	<phrase weight="0.04838709677419355" count="3">special community reviews</phrase>
+	<phrase weight="0.04838709677419355" count="3">district electoral reviews</phrase>
+	<phrase weight="0.04838709677419355" count="3">boundary reviews</phrase>
+	<phrase weight="0.03225806451612903" count="2">county electoral reviews</phrase>
+	<phrase weight="0.03225806451612903" count="2">electoral boundaries</phrase>
+	<phrase weight="0.03225806451612903" count="2">electoral arrangements</phrase>
+	<phrase weight="0.03225806451612903" count="2">special boundary reviews</phrase>
+	<phrase weight="0.016129032258064516" count="1">reports reports</phrase>
+	<phrase weight="0.016129032258064516" count="1">national boundary</phrase>
+	<phrase weight="0.016129032258064516" count="1">local boundary commission</phrase>
+	<phrase weight="0.016129032258064516" count="1">apparent anomalies</phrase>
+	<phrase weight="0.016129032258064516" count="1">district electoral review</phrase>
+	<phrase weight="0.016129032258064516" count="1">occasional reports</phrase>
+	<phrase weight="0.016129032258064516" count="1">unitary authority electoral reviews</phrase>
+	<phrase weight="0.016129032258064516" count="1">unitary authority electoral review reports</phrase>
+	<phrase weight="0.016129032258064516" count="1">electoral districts</phrase>
+	<phrase weight="0.016129032258064516" count="1">county electoral review</phrase>
+  </topic>
+</topics>

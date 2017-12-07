@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="10.703788173940909" totalTokens="410" titles="millennium, commission, awards, scheme, projects, database, grants, individual, profesa, case">
+	<word weight="0.11219512195121951" count="46">millennium</word>
+	<word weight="0.06097560975609756" count="25">commission</word>
+	<word weight="0.03902439024390244" count="16">awards</word>
+	<word weight="0.036585365853658534" count="15">scheme</word>
+	<word weight="0.036585365853658534" count="15">mm</word>
+	<word weight="0.03170731707317073" count="13">projects</word>
+	<word weight="0.026829268292682926" count="11">database</word>
+	<word weight="0.01951219512195122" count="8">grants</word>
+	<word weight="0.01951219512195122" count="8">individual</word>
+	<word weight="0.01707317073170732" count="7">profesa</word>
+	<word weight="0.014634146341463415" count="6">case</word>
+	<word weight="0.012195121951219513" count="5">festivals</word>
+	<word weight="0.012195121951219513" count="5">lottery</word>
+	<word weight="0.00975609756097561" count="4">festival</word>
+	<word weight="0.00975609756097561" count="4">datasets</word>
+	<word weight="0.00975609756097561" count="4">dataset</word>
+	<word weight="0.00975609756097561" count="4">amis</word>
+	<word weight="0.007317073170731708" count="3">minutes</word>
+	<word weight="0.007317073170731708" count="3">digital</word>
+	<word weight="0.007317073170731708" count="3">completion</word>
+	<phrase weight="0.1125" count="9">millennium commission</phrase>
+	<phrase weight="0.05" count="4">awards scheme</phrase>
+	<phrase weight="0.0375" count="3">millennium awards scheme</phrase>
+	<phrase weight="0.025" count="2">grants database</phrase>
+	<phrase weight="0.025" count="2">make searches</phrase>
+	<phrase weight="0.025" count="2">millennium projects</phrase>
+	<phrase weight="0.025" count="2">view summary</phrase>
+	<phrase weight="0.025" count="2">sourced directly</phrase>
+	<phrase weight="0.025" count="2">millennium festival</phrase>
+	<phrase weight="0.025" count="2">united kingdom</phrase>
+	<phrase weight="0.025" count="2">individual projects</phrase>
+	<phrase weight="0.025" count="2">individual datasets</phrase>
+	<phrase weight="0.025" count="2">individual people</phrase>
+	<phrase weight="0.0125" count="1">millennium commission projects</phrase>
+	<phrase weight="0.0125" count="1">millennium commission wanted</phrase>
+	<phrase weight="0.0125" count="1">positive impact</phrase>
+	<phrase weight="0.0125" count="1">house press</phrase>
+	<phrase weight="0.0125" count="1">awards scheme database</phrase>
+	<phrase weight="0.0125" count="1">schemes accounting</phrase>
+	<phrase weight="0.0125" count="1">key users</phrase>
+  </topic>
+</topics>

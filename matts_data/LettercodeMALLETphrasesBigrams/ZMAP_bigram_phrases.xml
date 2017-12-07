@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="13.482619899953063" totalTokens="171" titles="maps, atlases, library, london, miscellaneous, reproductions, reproduced, cartographers, commission, john">
+	<word weight="0.09941520467836257" count="17">maps</word>
+	<word weight="0.06432748538011696" count="11">atlases</word>
+	<word weight="0.05263157894736842" count="9">library</word>
+	<word weight="0.029239766081871343" count="5">london</word>
+	<word weight="0.029239766081871343" count="5">miscellaneous</word>
+	<word weight="0.023391812865497075" count="4">reproductions</word>
+	<word weight="0.023391812865497075" count="4">reproduced</word>
+	<word weight="0.023391812865497075" count="4">cartographers</word>
+	<word weight="0.017543859649122806" count="3">commission</word>
+	<word weight="0.017543859649122806" count="3">john</word>
+	<word weight="0.017543859649122806" count="3">facsimile</word>
+	<word weight="0.017543859649122806" count="3">plans</word>
+	<word weight="0.017543859649122806" count="3">society</word>
+	<word weight="0.017543859649122806" count="3">topographical</word>
+	<word weight="0.017543859649122806" count="3">miscellany</word>
+	<word weight="0.017543859649122806" count="3">public</word>
+	<word weight="0.011695906432748537" count="2">customs</word>
+	<word weight="0.011695906432748537" count="2">hm</word>
+	<word weight="0.011695906432748537" count="2">scotland</word>
+	<word weight="0.011695906432748537" count="2">survey</word>
+	<phrase weight="0.05405405405405406" count="2">factice atlases</phrase>
+	<phrase weight="0.05405405405405406" count="2">ordnance survey</phrase>
+	<phrase weight="0.05405405405405406" count="2">artificial collections</phrase>
+	<phrase weight="0.05405405405405406" count="2">miscellaneous maps</phrase>
+	<phrase weight="0.05405405405405406" count="2">london reproduced</phrase>
+	<phrase weight="0.05405405405405406" count="2">antiquarian maps</phrase>
+	<phrase weight="0.05405405405405406" count="2">miscellaneous atlases</phrase>
+	<phrase weight="0.05405405405405406" count="2">topographical society</phrase>
+	<phrase weight="0.02702702702702703" count="1">british isles</phrase>
+	<phrase weight="0.02702702702702703" count="1">great britain</phrase>
+	<phrase weight="0.02702702702702703" count="1">royal commission</phrase>
+	<phrase weight="0.02702702702702703" count="1">inland revenue</phrase>
+	<phrase weight="0.02702702702702703" count="1">sixth century</phrase>
+	<phrase weight="0.02702702702702703" count="1">facsimile reproductions</phrase>
+	<phrase weight="0.02702702702702703" count="1">unidentified provenance</phrase>
+	<phrase weight="0.02702702702702703" count="1">plans reproduced</phrase>
+	<phrase weight="0.02702702702702703" count="1">van den wynhaerde</phrase>
+	<phrase weight="0.02702702702702703" count="1">john ogilby</phrase>
+	<phrase weight="0.02702702702702703" count="1">thomas jefferys</phrase>
+	<phrase weight="0.02702702702702703" count="1">unknown provenance</phrase>
+  </topic>
+</topics>

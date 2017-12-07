@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.372077232953643" totalTokens="3874" titles="court, prerogative, canterbury, wills, probate, administration, inventories, books, exhibits, letters">
+	<word weight="0.059886422302529684" count="232">court</word>
+	<word weight="0.03742901393908105" count="145">prerogative</word>
+	<word weight="0.036654620547238" count="142">canterbury</word>
+	<word weight="0.02632937532266391" count="102">wills</word>
+	<word weight="0.025038719669592154" count="97">probate</word>
+	<word weight="0.02219927723283428" count="86">administration</word>
+	<word weight="0.0123902942694889" count="48">inventories</word>
+	<word weight="0.011874032008260196" count="46">books</word>
+	<word weight="0.011615900877645843" count="45">exhibits</word>
+	<word weight="0.00980898296334538" count="38">letters</word>
+	<word weight="0.008260196179659268" count="32">act</word>
+	<word weight="0.007227671657201859" count="28">century</word>
+	<word weight="0.007227671657201859" count="28">estate</word>
+	<word weight="0.007227671657201859" count="28">depositions</word>
+	<word weight="0.006969540526587507" count="27">litigation</word>
+	<word weight="0.006711409395973154" count="26">administrators</word>
+	<word weight="0.00619514713474445" count="24">accounts</word>
+	<word weight="0.00619514713474445" count="24">jurisdictions</word>
+	<word weight="0.005937016004130098" count="23">grants</word>
+	<word weight="0.005937016004130098" count="23">commissions</word>
+  </topic>
+</topics>

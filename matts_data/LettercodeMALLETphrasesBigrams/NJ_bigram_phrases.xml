@@ -1,0 +1,44 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.231139673120056" totalTokens="291" titles="review, body, economics, manpower, uk, nj, pay, government, teachers, school">
+	<word weight="0.10309278350515463" count="30">review</word>
+	<word weight="0.09621993127147767" count="28">body</word>
+	<word weight="0.07560137457044673" count="22">economics</word>
+	<word weight="0.07560137457044673" count="22">manpower</word>
+	<word weight="0.058419243986254296" count="17">uk</word>
+	<word weight="0.054982817869415807" count="16">nj</word>
+	<word weight="0.044673539518900345" count="13">pay</word>
+	<word weight="0.037800687285223365" count="11">government</word>
+	<word weight="0.024054982817869417" count="7">teachers</word>
+	<word weight="0.024054982817869417" count="7">school</word>
+	<word weight="0.020618556701030927" count="6">salaries</word>
+	<word weight="0.01718213058419244" count="5">service</word>
+	<word weight="0.01718213058419244" count="5">www</word>
+	<word weight="0.01718213058419244" count="5">http</word>
+	<word weight="0.01718213058419244" count="5">senior</word>
+	<word weight="0.013745704467353952" count="4">prison</word>
+	<word weight="0.013745704467353952" count="4">forces</word>
+	<word weight="0.013745704467353952" count="4">armed</word>
+	<word weight="0.013745704467353952" count="4">ome</word>
+	<word weight="0.013745704467353952" count="4">field</word>
+	<phrase weight="0.13636363636363635" count="6">manpower economics</phrase>
+	<phrase weight="0.13636363636363635" count="6">uk government</phrase>
+	<phrase weight="0.11363636363636363" count="5">review body</phrase>
+	<phrase weight="0.06818181818181818" count="3">school teachers</phrase>
+	<phrase weight="0.06818181818181818" count="3">school teachers review body</phrase>
+	<phrase weight="0.06818181818181818" count="3">senior salaries review body</phrase>
+	<phrase weight="0.06818181818181818" count="3">armed forces pay review body</phrase>
+	<phrase weight="0.06818181818181818" count="3">prison service pay review body</phrase>
+	<phrase weight="0.045454545454545456" count="2">police advisory board</phrase>
+	<phrase weight="0.022727272727272728" count="1">police negotiating board</phrase>
+	<phrase weight="0.022727272727272728" count="1">pay review</phrase>
+	<phrase weight="0.022727272727272728" count="1">pay review body</phrase>
+	<phrase weight="0.022727272727272728" count="1">service pay</phrase>
+	<phrase weight="0.022727272727272728" count="1">forces pay review body</phrase>
+	<phrase weight="0.022727272727272728" count="1">salaries review body</phrase>
+	<phrase weight="0.022727272727272728" count="1">service pay review body</phrase>
+	<phrase weight="0.022727272727272728" count="1">ad hoc inquiry</phrase>
+	<phrase weight="0.022727272727272728" count="1">negotiating board</phrase>
+	<phrase weight="0.022727272727272728" count="1">nhs pay review body</phrase>
+  </topic>
+</topics>

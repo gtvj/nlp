@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.421432747411135" totalTokens="1638" titles="savings, national, post, committee, nsc, bank, war, certificate, branch, investments">
+	<word weight="0.19047619047619047" count="312">savings</word>
+	<word weight="0.0989010989010989" count="162">national</word>
+	<word weight="0.07387057387057387" count="121">post</word>
+	<word weight="0.04884004884004884" count="80">committee</word>
+	<word weight="0.045787545787545784" count="75">nsc</word>
+	<word weight="0.031135531135531136" count="51">bank</word>
+	<word weight="0.014652014652014652" count="24">war</word>
+	<word weight="0.010378510378510378" count="17">certificate</word>
+	<word weight="0.009157509157509158" count="15">branch</word>
+	<word weight="0.008547008547008548" count="14">investments</word>
+	<word weight="0.008547008547008548" count="14">publicity</word>
+	<word weight="0.007936507936507936" count="13">staff</word>
+	<word weight="0.007326007326007326" count="12">government</word>
+	<word weight="0.006105006105006105" count="10">certificates</word>
+	<word weight="0.006105006105006105" count="10">division</word>
+	<word weight="0.006105006105006105" count="10">bonds</word>
+	<word weight="0.005494505494505495" count="9">committees</word>
+	<word weight="0.005494505494505495" count="9">reports</word>
+	<word weight="0.004884004884004884" count="8">leaflets</word>
+	<word weight="0.004884004884004884" count="8">history</word>
+  </topic>
+</topics>

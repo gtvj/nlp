@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.304046051327551" totalTokens="2927" titles="air, force, royal, reports, operations, command, personnel, raf, books, war">
+	<word weight="0.1400751622822002" count="410">air</word>
+	<word weight="0.03382302699009224" count="99">force</word>
+	<word weight="0.026648445507345405" count="78">royal</word>
+	<word weight="0.02459856508370345" count="72">reports</word>
+	<word weight="0.01400751622822002" count="41">operations</word>
+	<word weight="0.01400751622822002" count="41">command</word>
+	<word weight="0.013324222753672703" count="39">personnel</word>
+	<word weight="0.013324222753672703" count="39">raf</word>
+	<word weight="0.012299282541851725" count="36">books</word>
+	<word weight="0.011274342330030749" count="33">war</word>
+	<word weight="0.01093269559275709" count="32">research</word>
+	<word weight="0.010249402118209771" count="30">defence</word>
+	<word weight="0.009224461906388794" count="27">general</word>
+	<word weight="0.008199521694567818" count="24">staff</word>
+	<word weight="0.007516228220020499" count="22">development</word>
+	<word weight="0.007516228220020499" count="22">allied</word>
+	<word weight="0.00717458148274684" count="21">world</word>
+	<word weight="0.00717458148274684" count="21">branch</word>
+	<word weight="0.006832934745473181" count="20">british</word>
+	<word weight="0.006491288008199521" count="19">unit</word>
+  </topic>
+</topics>

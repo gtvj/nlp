@@ -1,0 +1,32 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.1772012604951436" totalTokens="53" titles="adjudicator, revenue, adjudicators, jp, uk, reports, annual, gov, www, http">
+	<word weight="0.1509433962264151" count="8">adjudicator</word>
+	<word weight="0.09433962264150944" count="5">revenue</word>
+	<word weight="0.07547169811320754" count="4">adjudicators</word>
+	<word weight="0.07547169811320754" count="4">jp</word>
+	<word weight="0.05660377358490566" count="3">uk</word>
+	<word weight="0.05660377358490566" count="3">reports</word>
+	<word weight="0.05660377358490566" count="3">annual</word>
+	<word weight="0.03773584905660377" count="2">gov</word>
+	<word weight="0.03773584905660377" count="2">www</word>
+	<word weight="0.03773584905660377" count="2">http</word>
+	<word weight="0.03773584905660377" count="2">inland</word>
+	<word weight="0.03773584905660377" count="2">complaints</word>
+	<word weight="0.018867924528301886" count="1">adjudicatorsoffice</word>
+	<word weight="0.018867924528301886" count="1">field</word>
+	<word weight="0.018867924528301886" count="1">general</word>
+	<word weight="0.018867924528301886" count="1">government</word>
+	<word weight="0.018867924528301886" count="1">valuation</word>
+	<word weight="0.018867924528301886" count="1">citizens</word>
+	<word weight="0.018867924528301886" count="1">investigation</word>
+	<word weight="0.018867924528301886" count="1">division</word>
+	<phrase weight="0.25" count="2">annual reports</phrase>
+	<phrase weight="0.125" count="1">hm revenue</phrase>
+	<phrase weight="0.125" count="1">inland revenue</phrase>
+	<phrase weight="0.125" count="1">revenue adjudicators</phrase>
+	<phrase weight="0.125" count="1">uk government</phrase>
+	<phrase weight="0.125" count="1">citizen complaints</phrase>
+	<phrase weight="0.125" count="1">revenue adjudicator</phrase>
+  </topic>
+</topics>

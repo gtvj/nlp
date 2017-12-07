@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.1423051591408" totalTokens="4293" titles="commonwealth, relations, government, gazettes, sessional, dominions, acts, print, confidential, high">
+	<word weight="0.08618681574656417" count="370">commonwealth</word>
+	<word weight="0.05823433496389471" count="250">relations</word>
+	<word weight="0.049848590729093874" count="214">government</word>
+	<word weight="0.047985092010249246" count="206">gazettes</word>
+	<word weight="0.04612159329140461" count="198">sessional</word>
+	<word weight="0.041462846494293035" count="178">dominions</word>
+	<word weight="0.03657116235732588" count="157">acts</word>
+	<word weight="0.03051479152108083" count="131">print</word>
+	<word weight="0.03028185418122525" count="130">confidential</word>
+	<word weight="0.023526671325413463" count="101">high</word>
+	<word weight="0.019799673887724203" count="85">africa</word>
+	<word weight="0.017470300489168415" count="75">general</word>
+	<word weight="0.014442115071045888" count="62">south</word>
+	<word weight="0.011646866992778943" count="50">commission</word>
+	<word weight="0.011413929652923364" count="49">divisions</word>
+	<word weight="0.010715117633356627" count="46">correspondence</word>
+	<word weight="0.010715117633356627" count="46">economic</word>
+	<word weight="0.008851618914511996" count="38">commissioners</word>
+	<word weight="0.008851618914511996" count="38">successors</word>
+	<word weight="0.00791986955508968" count="34">australia</word>
+  </topic>
+</topics>

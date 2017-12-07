@@ -1,0 +1,34 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="21.516333554876212" totalTokens="138" titles="health, visitors, training, council, dw, education, courses, institutional, minutes, correspondence">
+	<word weight="0.11594202898550725" count="16">health</word>
+	<word weight="0.09420289855072464" count="13">visitors</word>
+	<word weight="0.09420289855072464" count="13">training</word>
+	<word weight="0.09420289855072464" count="13">council</word>
+	<word weight="0.07246376811594203" count="10">dw</word>
+	<word weight="0.057971014492753624" count="8">education</word>
+	<word weight="0.021739130434782608" count="3">courses</word>
+	<word weight="0.021739130434782608" count="3">institutional</word>
+	<word weight="0.021739130434782608" count="3">minutes</word>
+	<word weight="0.021739130434782608" count="3">correspondence</word>
+	<word weight="0.014492753623188406" count="2">visiting</word>
+	<word weight="0.014492753623188406" count="2">approval</word>
+	<word weight="0.014492753623188406" count="2">assessment</word>
+	<word weight="0.014492753623188406" count="2">publications</word>
+	<word weight="0.014492753623188406" count="2">reports</word>
+	<word weight="0.014492753623188406" count="2">committees</word>
+	<word weight="0.014492753623188406" count="2">councils</word>
+	<word weight="0.007246376811594203" count="1">southampton</word>
+	<word weight="0.007246376811594203" count="1">university</word>
+	<word weight="0.007246376811594203" count="1">technology</word>
+	<phrase weight="0.6190476190476191" count="13">health visitors</phrase>
+	<phrase weight="0.047619047619047616" count="1">east surrey college</phrase>
+	<phrase weight="0.047619047619047616" count="1">working parties</phrase>
+	<phrase weight="0.047619047619047616" count="1">health visiting</phrase>
+	<phrase weight="0.047619047619047616" count="1">city polytechnic</phrase>
+	<phrase weight="0.047619047619047616" count="1">institutional courses</phrase>
+	<phrase weight="0.047619047619047616" count="1">health visitor</phrase>
+	<phrase weight="0.047619047619047616" count="1">examinations provided</phrase>
+	<phrase weight="0.047619047619047616" count="1">adequately reflected</phrase>
+  </topic>
+</topics>

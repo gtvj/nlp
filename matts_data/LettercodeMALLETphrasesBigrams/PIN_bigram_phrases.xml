@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.251268913347561" totalTokens="3533" titles="national insurance, national insurance act, pensions, successors, war, health, committee, industrial, acts, policy">
+	<word weight="0.08434757996037362" count="298">insurance</word>
+	<word weight="0.0665157090291537" count="235">national</word>
+	<word weight="0.051797339371638836" count="183">pensions</word>
+	<word weight="0.03141805830738749" count="111">successors</word>
+	<word weight="0.02207755448627229" count="78">war</word>
+	<word weight="0.012454005094820267" count="44">committee</word>
+	<word weight="0.012454005094820267" count="44">health</word>
+	<word weight="0.012454005094820267" count="44">act</word>
+	<word weight="0.008491367110104727" count="30">industrial</word>
+	<word weight="0.007925275969431078" count="28">acts</word>
+	<word weight="0.00735918482875743" count="26">benefit</word>
+	<word weight="0.00735918482875743" count="26">unemployment</word>
+	<word weight="0.00735918482875743" count="26">policy</word>
+	<word weight="0.007076139258420606" count="25">injuries</word>
+	<word weight="0.006793093688083782" count="24">administration</word>
+	<word weight="0.006793093688083782" count="24">services</word>
+	<word weight="0.006793093688083782" count="24">social</word>
+	<word weight="0.006510048117746957" count="23">committees</word>
+	<word weight="0.006510048117746957" count="23">subsequent</word>
+	<word weight="0.006227002547410133" count="22">general</word>
+	<phrase weight="0.17991004497751126" count="120">national insurance</phrase>
+	<phrase weight="0.04047976011994003" count="27">national insurance act</phrase>
+	<phrase weight="0.013493253373313344" count="9">industrial injuries</phrase>
+	<phrase weight="0.013493253373313344" count="9">social security</phrase>
+	<phrase weight="0.010494752623688156" count="7">internal services</phrase>
+	<phrase weight="0.010494752623688156" count="7">unemployment insurance</phrase>
+	<phrase weight="0.010494752623688156" count="7">war pensions</phrase>
+	<phrase weight="0.008995502248875561" count="6">newcastle central</phrase>
+	<phrase weight="0.008995502248875561" count="6">world war</phrase>
+	<phrase weight="0.008995502248875561" count="6">royal commission</phrase>
+	<phrase weight="0.0074962518740629685" count="5">chief insurance officer</phrase>
+	<phrase weight="0.0074962518740629685" count="5">reciprocal agreements</phrase>
+	<phrase weight="0.005997001499250375" count="4">physical attributes</phrase>
+	<phrase weight="0.005997001499250375" count="4">national assistance board</phrase>
+	<phrase weight="0.005997001499250375" count="4">annual reports</phrase>
+	<phrase weight="0.005997001499250375" count="4">national insurance advisory committee</phrase>
+	<phrase weight="0.005997001499250375" count="4">health insurance</phrase>
+	<phrase weight="0.005997001499250375" count="4">recording place</phrase>
+	<phrase weight="0.005997001499250375" count="4">industrial injuries advisory council</phrase>
+	<phrase weight="0.005997001499250375" count="4">world war pensions award</phrase>
+  </topic>
+</topics>

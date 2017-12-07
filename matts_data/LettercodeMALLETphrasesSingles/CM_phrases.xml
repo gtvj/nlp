@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.435887405748186" totalTokens="1624" titles="services, property, directorate, predecessors, division, buildings, reports, management, region, defence">
+	<word weight="0.10591133004926108" count="172">services</word>
+	<word weight="0.07142857142857142" count="116">property</word>
+	<word weight="0.035098522167487683" count="57">directorate</word>
+	<word weight="0.03201970443349754" count="52">predecessors</word>
+	<word weight="0.021551724137931036" count="35">division</word>
+	<word weight="0.01847290640394089" count="30">buildings</word>
+	<word weight="0.01847290640394089" count="30">building</word>
+	<word weight="0.01600985221674877" count="26">reports</word>
+	<word weight="0.01416256157635468" count="23">management</word>
+	<word weight="0.012315270935960592" count="20">region</word>
+	<word weight="0.012315270935960592" count="20">defence</word>
+	<word weight="0.011699507389162561" count="19">london</word>
+	<word weight="0.011083743842364532" count="18">supplies</word>
+	<word weight="0.009852216748768473" count="16">staff</word>
+	<word weight="0.009236453201970444" count="15">civil</word>
+	<word weight="0.009236453201970444" count="15">sites</word>
+	<word weight="0.008620689655172414" count="14">accommodation</word>
+	<word weight="0.008620689655172414" count="14">psa</word>
+	<word weight="0.008620689655172414" count="14">corporate</word>
+	<word weight="0.008620689655172414" count="14">site</word>
+  </topic>
+</topics>

@@ -1,0 +1,39 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0" totalTokens="113" titles="london, plans, maps, borough, county, current, place, places, drawings, war">
+	<word weight="0.07079646017699115" count="8">london</word>
+	<word weight="0.05309734513274336" count="6">plans</word>
+	<word weight="0.04424778761061947" count="5">maps</word>
+	<word weight="0.035398230088495575" count="4">borough</word>
+	<word weight="0.02654867256637168" count="3">county</word>
+	<word weight="0.02654867256637168" count="3">current</word>
+	<word weight="0.02654867256637168" count="3">place</word>
+	<word weight="0.02654867256637168" count="3">places</word>
+	<word weight="0.02654867256637168" count="3">map</word>
+	<word weight="0.02654867256637168" count="3">drawings</word>
+	<word weight="0.02654867256637168" count="3">war</word>
+	<word weight="0.02654867256637168" count="3">public</word>
+	<word weight="0.017699115044247787" count="2">council</word>
+	<word weight="0.017699115044247787" count="2">area</word>
+	<word weight="0.017699115044247787" count="2">detailed</word>
+	<word weight="0.017699115044247787" count="2">wo</word>
+	<word weight="0.017699115044247787" count="2">extra</word>
+	<word weight="0.008849557522123894" count="1">size</word>
+	<word weight="0.008849557522123894" count="1">measure</word>
+	<word weight="0.008849557522123894" count="1">preservation</word>
+	<phrase weight="0.07142857142857142" count="1">coming months</phrase>
+	<phrase weight="0.07142857142857142" count="1">preservation measure</phrase>
+	<phrase weight="0.07142857142857142" count="1">london council</phrase>
+	<phrase weight="0.07142857142857142" count="1">common subject matter</phrase>
+	<phrase weight="0.07142857142857142" count="1">architectural drawings</phrase>
+	<phrase weight="0.07142857142857142" count="1">geographical area</phrase>
+	<phrase weight="0.07142857142857142" count="1">london borough</phrase>
+	<phrase weight="0.07142857142857142" count="1">london county council</phrase>
+	<phrase weight="0.07142857142857142" count="1">plans illustrating military actions</phrase>
+	<phrase weight="0.07142857142857142" count="1">london area</phrase>
+	<phrase weight="0.07142857142857142" count="1">twentieth century</phrase>
+	<phrase weight="0.07142857142857142" count="1">artificial accumulations</phrase>
+	<phrase weight="0.07142857142857142" count="1">significant change</phrase>
+	<phrase weight="0.07142857142857142" count="1">based map catalogues</phrase>
+  </topic>
+</topics>

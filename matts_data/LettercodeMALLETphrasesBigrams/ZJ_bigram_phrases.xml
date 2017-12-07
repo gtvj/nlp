@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="13.656516998292553" totalTokens="265" titles="gazette, london, gazettes, official, edinburgh, notices, zj, orders, online, bankruptcy">
+	<word weight="0.0830188679245283" count="22">gazette</word>
+	<word weight="0.06037735849056604" count="16">london</word>
+	<word weight="0.05660377358490566" count="15">gazettes</word>
+	<word weight="0.04150943396226415" count="11">official</word>
+	<word weight="0.03018867924528302" count="8">edinburgh</word>
+	<word weight="0.026415094339622643" count="7">notices</word>
+	<word weight="0.026415094339622643" count="7">zj</word>
+	<word weight="0.018867924528301886" count="5">orders</word>
+	<word weight="0.018867924528301886" count="5">online</word>
+	<word weight="0.01509433962264151" count="4">bankruptcy</word>
+	<word weight="0.01509433962264151" count="4">appointments</word>
+	<word weight="0.01509433962264151" count="4">acts</word>
+	<word weight="0.01509433962264151" count="4">policy</word>
+	<word weight="0.01509433962264151" count="4">takedown</word>
+	<word weight="0.01509433962264151" count="4">set</word>
+	<word weight="0.01509433962264151" count="4">criteria</word>
+	<word weight="0.01509433962264151" count="4">meets</word>
+	<word weight="0.01509433962264151" count="4">removed</word>
+	<word weight="0.01509433962264151" count="4">contained</word>
+	<word weight="0.01509433962264151" count="4">belfast</word>
+	<phrase weight="0.14285714285714285" count="7">london gazette</phrase>
+	<phrase weight="0.10204081632653061" count="5">official gazettes</phrase>
+	<phrase weight="0.08163265306122448" count="4">criteria set</phrase>
+	<phrase weight="0.061224489795918366" count="3">edinburgh gazette</phrase>
+	<phrase weight="0.04081632653061224" count="2">belfast gazette</phrase>
+	<phrase weight="0.04081632653061224" count="2">london gazettes</phrase>
+	<phrase weight="0.04081632653061224" count="2">belfast gazettes portal page</phrase>
+	<phrase weight="0.02040816326530612" count="1">reading rooms</phrase>
+	<phrase weight="0.02040816326530612" count="1">parliament passed</phrase>
+	<phrase weight="0.02040816326530612" count="1">deceased persons</phrase>
+	<phrase weight="0.02040816326530612" count="1">bankruptcy acts</phrase>
+	<phrase weight="0.02040816326530612" count="1">prove debts</phrase>
+	<phrase weight="0.02040816326530612" count="1">public companies</phrase>
+	<phrase weight="0.02040816326530612" count="1">bank returns</phrase>
+	<phrase weight="0.02040816326530612" count="1">integral indexes</phrase>
+	<phrase weight="0.02040816326530612" count="1">friendly societies dissolved</phrase>
+	<phrase weight="0.02040816326530612" count="1">public places</phrase>
+	<phrase weight="0.02040816326530612" count="1">world wars</phrase>
+	<phrase weight="0.02040816326530612" count="1">official notices</phrase>
+	<phrase weight="0.02040816326530612" count="1">complete years</phrase>
+  </topic>
+</topics>

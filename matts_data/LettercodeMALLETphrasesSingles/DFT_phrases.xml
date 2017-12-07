@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.466729299841092" totalTokens="1087" titles="transport, dft, government, rail, field, general, traffic, speed, high, network">
+	<word weight="0.14443422263109476" count="157">transport</word>
+	<word weight="0.0984360625574977" count="107">dft</word>
+	<word weight="0.08463661453541858" count="92">government</word>
+	<word weight="0.01655933762649494" count="18">rail</word>
+	<word weight="0.015639374425023" count="17">field</word>
+	<word weight="0.015639374425023" count="17">general</word>
+	<word weight="0.011039558417663294" count="12">traffic</word>
+	<word weight="0.00919963201471941" count="10">speed</word>
+	<word weight="0.00919963201471941" count="10">high</word>
+	<word weight="0.00919963201471941" count="10">network</word>
+	<word weight="0.00827966881324747" count="9">road</word>
+	<word weight="0.007359705611775529" count="8">education</word>
+	<word weight="0.007359705611775529" count="8">bikeability</word>
+	<word weight="0.007359705611775529" count="8">drug</word>
+	<word weight="0.007359705611775529" count="8">secondary</word>
+	<word weight="0.007359705611775529" count="8">consultation</word>
+	<word weight="0.007359705611775529" count="8">public</word>
+	<word weight="0.007359705611775529" count="8">investigation</word>
+	<word weight="0.007359705611775529" count="8">travel</word>
+	<word weight="0.006439742410303588" count="7">safety</word>
+  </topic>
+</topics>

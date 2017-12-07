@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.974286048706052" totalTokens="384" titles="government, national, body, code, online, creating, tna's, incorporated, end, service">
+	<word weight="0.0859375" count="33">government</word>
+	<word weight="0.03125" count="12">national</word>
+	<word weight="0.026041666666666668" count="10">body</word>
+	<word weight="0.0234375" count="9">code</word>
+	<word weight="0.0234375" count="9">online</word>
+	<word weight="0.020833333333333332" count="8">creating</word>
+	<word weight="0.020833333333333332" count="8">tna's</word>
+	<word weight="0.020833333333333332" count="8">incorporated</word>
+	<word weight="0.020833333333333332" count="8">end</word>
+	<word weight="0.018229166666666668" count="7">service</word>
+	<word weight="0.018229166666666668" count="7">central</word>
+	<word weight="0.018229166666666668" count="7">past</word>
+	<word weight="0.018229166666666668" count="7">provide</word>
+	<word weight="0.015625" count="6">policy</word>
+	<word weight="0.015625" count="6">health</word>
+	<word weight="0.013020833333333334" count="5">environment</word>
+	<word weight="0.013020833333333334" count="5">commission</word>
+	<word weight="0.010416666666666666" count="4">sport</word>
+	<word weight="0.010416666666666666" count="4">media</word>
+	<word weight="0.010416666666666666" count="4">culture</word>
+  </topic>
+</topics>

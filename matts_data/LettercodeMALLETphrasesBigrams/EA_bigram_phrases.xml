@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.045524115903615" totalTokens="588" titles="educational communications, uk government, becta, technology, ea, british, council, national, learning, ict">
+	<word weight="0.13435374149659865" count="79">becta</word>
+	<word weight="0.0935374149659864" count="55">technology</word>
+	<word weight="0.08673469387755102" count="51">educational</word>
+	<word weight="0.06972789115646258" count="41">ea</word>
+	<word weight="0.06462585034013606" count="38">communications</word>
+	<word weight="0.06462585034013606" count="38">british</word>
+	<word weight="0.061224489795918366" count="36">government</word>
+	<word weight="0.05782312925170068" count="34">uk</word>
+	<word weight="0.023809523809523808" count="14">council</word>
+	<word weight="0.023809523809523808" count="14">national</word>
+	<word weight="0.017006802721088437" count="10">learning</word>
+	<word weight="0.01020408163265306" count="6">ict</word>
+	<word weight="0.006802721088435374" count="4">ncet</word>
+	<word weight="0.006802721088435374" count="4">resource</word>
+	<word weight="0.006802721088435374" count="4">reports</word>
+	<word weight="0.006802721088435374" count="4">minutes</word>
+	<word weight="0.006802721088435374" count="4">home</word>
+	<word weight="0.006802721088435374" count="4">grid</word>
+	<word weight="0.006802721088435374" count="4">evaluation</word>
+	<word weight="0.00510204081632653" count="3">plans</word>
+	<phrase weight="0.17796610169491525" count="21">educational communications</phrase>
+	<phrase weight="0.17796610169491525" count="21">uk government</phrase>
+	<phrase weight="0.1440677966101695" count="17">british educational communications</phrase>
+	<phrase weight="0.06779661016949153" count="8">national council</phrase>
+	<phrase weight="0.05084745762711865" count="6">educational technology</phrase>
+	<phrase weight="0.03389830508474576" count="4">national grid</phrase>
+	<phrase weight="0.025423728813559324" count="3">medium term plans</phrase>
+	<phrase weight="0.01694915254237288" count="2">emerging technologies</phrase>
+	<phrase weight="0.01694915254237288" count="2">local authorities</phrase>
+	<phrase weight="0.01694915254237288" count="2">technology improvement leadership tool</phrase>
+	<phrase weight="0.01694915254237288" count="2">evidence database</phrase>
+	<phrase weight="0.01694915254237288" count="2">mailing list service</phrase>
+	<phrase weight="0.01694915254237288" count="2">board meetings</phrase>
+	<phrase weight="0.01694915254237288" count="2">opportunities fund</phrase>
+	<phrase weight="0.01694915254237288" count="2">resource library</phrase>
+	<phrase weight="0.01694915254237288" count="2">becta home</phrase>
+	<phrase weight="0.01694915254237288" count="2">technology world forum</phrase>
+	<phrase weight="0.01694915254237288" count="2">becta matrix</phrase>
+	<phrase weight="0.00847457627118644" count="1">ict advice</phrase>
+	<phrase weight="0.00847457627118644" count="1">becta ict provision</phrase>
+  </topic>
+</topics>

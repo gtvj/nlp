@@ -1,0 +1,42 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="9.775438818579035" totalTokens="218" titles="council, tribunals, bl, justice, administrative, committee, minutes, reports, inquiries, procedure">
+	<word weight="0.14678899082568808" count="32">council</word>
+	<word weight="0.13302752293577982" count="29">tribunals</word>
+	<word weight="0.0871559633027523" count="19">bl</word>
+	<word weight="0.04128440366972477" count="9">justice</word>
+	<word weight="0.04128440366972477" count="9">administrative</word>
+	<word weight="0.04128440366972477" count="9">committee</word>
+	<word weight="0.027522935779816515" count="6">minutes</word>
+	<word weight="0.022935779816513763" count="5">reports</word>
+	<word weight="0.01834862385321101" count="4">inquiries</word>
+	<word weight="0.01834862385321101" count="4">procedure</word>
+	<word weight="0.01834862385321101" count="4">meetings</word>
+	<word weight="0.013761467889908258" count="3">special</word>
+	<word weight="0.013761467889908258" count="3">annual</word>
+	<word weight="0.013761467889908258" count="3">planning</word>
+	<word weight="0.013761467889908258" count="3">uk</word>
+	<word weight="0.013761467889908258" count="3">legal</word>
+	<word weight="0.013761467889908258" count="3">circulated</word>
+	<word weight="0.013761467889908258" count="3">agenda</word>
+	<word weight="0.013761467889908258" count="3">functions</word>
+	<word weight="0.009174311926605505" count="2">proceedings</word>
+	<phrase weight="0.25" count="7">administrative justice</phrase>
+	<phrase weight="0.10714285714285714" count="3">legal committee</phrase>
+	<phrase weight="0.07142857142857142" count="2">planning procedure committee</phrase>
+	<phrase weight="0.07142857142857142" count="2">uk government</phrase>
+	<phrase weight="0.07142857142857142" count="2">formal minutes</phrase>
+	<phrase weight="0.03571428571428571" count="1">special reports annual reports</phrase>
+	<phrase weight="0.03571428571428571" count="1">administrative tribunals</phrase>
+	<phrase weight="0.03571428571428571" count="1">statutory inquiries</phrase>
+	<phrase weight="0.03571428571428571" count="1">agenda minutes</phrase>
+	<phrase weight="0.03571428571428571" count="1">miscellaneous committees</phrase>
+	<phrase weight="0.03571428571428571" count="1">council committee minutes</phrase>
+	<phrase weight="0.03571428571428571" count="1">questions arising</phrase>
+	<phrase weight="0.03571428571428571" count="1">special reports</phrase>
+	<phrase weight="0.03571428571428571" count="1">functions committee</phrase>
+	<phrase weight="0.03571428571428571" count="1">country planning</phrase>
+	<phrase weight="0.03571428571428571" count="1">council members</phrase>
+	<phrase weight="0.03571428571428571" count="1">consultation process</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,28 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.177173654273705" totalTokens="54" titles="board, transport, british, docks, reports, accounts, minutes, annual, committee, finance">
+	<word weight="0.12962962962962962" count="7">board</word>
+	<word weight="0.12962962962962962" count="7">transport</word>
+	<word weight="0.12962962962962962" count="7">british</word>
+	<word weight="0.1111111111111111" count="6">docks</word>
+	<word weight="0.09259259259259259" count="5">br</word>
+	<word weight="0.07407407407407407" count="4">reports</word>
+	<word weight="0.05555555555555555" count="3">accounts</word>
+	<word weight="0.05555555555555555" count="3">minutes</word>
+	<word weight="0.037037037037037035" count="2">annual</word>
+	<word weight="0.037037037037037035" count="2">committee</word>
+	<word weight="0.037037037037037035" count="2">finance</word>
+	<word weight="0.018518518518518517" count="1">memoranda</word>
+	<word weight="0.018518518518518517" count="1">commisssion</word>
+	<word weight="0.018518518518518517" count="1">ports</word>
+	<word weight="0.018518518518518517" count="1">management</word>
+	<word weight="0.018518518518518517" count="1">sector</word>
+	<word weight="0.018518518518518517" count="1">public</word>
+	<phrase weight="0.4444444444444444" count="4">british transport docks board</phrase>
+	<phrase weight="0.1111111111111111" count="1">finance committee</phrase>
+	<phrase weight="0.1111111111111111" count="1">transport docks board</phrase>
+	<phrase weight="0.1111111111111111" count="1">sector management</phrase>
+	<phrase weight="0.1111111111111111" count="1">accounts annual reports</phrase>
+	<phrase weight="0.1111111111111111" count="1">british transport commisssion</phrase>
+  </topic>
+</topics>

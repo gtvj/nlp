@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="10.672429359613012" totalTokens="187" titles="mhra, medicines, products, regulatory, healthcare, government, pharmacopoeia, british, commission, scheme">
+	<word weight="0.13903743315508021" count="26">mhra</word>
+	<word weight="0.11229946524064172" count="21">medicines</word>
+	<word weight="0.10160427807486631" count="19">products</word>
+	<word weight="0.09090909090909091" count="17">regulatory</word>
+	<word weight="0.09090909090909091" count="17">healthcare</word>
+	<word weight="0.0481283422459893" count="9">government</word>
+	<word weight="0.03208556149732621" count="6">pharmacopoeia</word>
+	<word weight="0.03208556149732621" count="6">british</word>
+	<word weight="0.026737967914438502" count="5">commission</word>
+	<word weight="0.0213903743315508" count="4">scheme</word>
+	<word weight="0.0213903743315508" count="4">card</word>
+	<word weight="0.0213903743315508" count="4">yellow</word>
+	<word weight="0.0106951871657754" count="2">devices</word>
+	<word weight="0.0106951871657754" count="2">safety</word>
+	<word weight="0.0106951871657754" count="2">committee</word>
+	<word weight="0.0106951871657754" count="2">homoeopathic</word>
+	<word weight="0.0106951871657754" count="2">registration</word>
+	<word weight="0.0106951871657754" count="2">board</word>
+	<word weight="0.0106951871657754" count="2">advisory</word>
+	<word weight="0.0106951871657754" count="2">advertising</word>
+  </topic>
+</topics>

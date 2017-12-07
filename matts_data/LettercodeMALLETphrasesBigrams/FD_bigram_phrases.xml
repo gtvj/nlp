@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.867572064922278" totalTokens="1199" titles="medical research council, medical research committee, fd, minutes, reports, board, general, health, units, committees">
+	<word weight="0.15763135946622187" count="189">research</word>
+	<word weight="0.1134278565471226" count="136">medical</word>
+	<word weight="0.07839866555462886" count="94">council</word>
+	<word weight="0.0408673894912427" count="49">committee</word>
+	<word weight="0.026688907422852376" count="32">fd</word>
+	<word weight="0.020016680567139282" count="24">minutes</word>
+	<word weight="0.01834862385321101" count="22">reports</word>
+	<word weight="0.01834862385321101" count="22">board</word>
+	<word weight="0.01751459549624687" count="21">general</word>
+	<word weight="0.010842368640533779" count="13">health</word>
+	<word weight="0.009174311926605505" count="11">units</word>
+	<word weight="0.008340283569641367" count="10">topics</word>
+	<word weight="0.008340283569641367" count="10">projects</word>
+	<word weight="0.008340283569641367" count="10">committees</word>
+	<word weight="0.008340283569641367" count="10">boards</word>
+	<word weight="0.007506255212677231" count="9">correspondence</word>
+	<word weight="0.005838198498748957" count="7">industrial</word>
+	<word weight="0.005838198498748957" count="7">policy</word>
+	<word weight="0.005838198498748957" count="7">grants</word>
+	<word weight="0.005838198498748957" count="7">uk</word>
+	<phrase weight="0.1589958158995816" count="38">medical research council</phrase>
+	<phrase weight="0.12552301255230125" count="30">medical research committee</phrase>
+	<phrase weight="0.05439330543933055" count="13">research council</phrase>
+	<phrase weight="0.04184100418410042" count="10">research committee</phrase>
+	<phrase weight="0.02092050209205021" count="5">research boards</phrase>
+	<phrase weight="0.016736401673640166" count="4">medical research</phrase>
+	<phrase weight="0.012552301255230125" count="3">uk government</phrase>
+	<phrase weight="0.012552301255230125" count="3">working parties</phrase>
+	<phrase weight="0.012552301255230125" count="3">research board</phrase>
+	<phrase weight="0.012552301255230125" count="3">research projects</phrase>
+	<phrase weight="0.008368200836820083" count="2">disorders board</phrase>
+	<phrase weight="0.008368200836820083" count="2">industrial fatigue board</phrase>
+	<phrase weight="0.008368200836820083" count="2">health board</phrase>
+	<phrase weight="0.008368200836820083" count="2">general practice research framework</phrase>
+	<phrase weight="0.008368200836820083" count="2">royal commission</phrase>
+	<phrase weight="0.008368200836820083" count="2">progress reports</phrase>
+	<phrase weight="0.008368200836820083" count="2">national institute</phrase>
+	<phrase weight="0.008368200836820083" count="2">ionising radiations</phrase>
+	<phrase weight="0.008368200836820083" count="2">clinical research board</phrase>
+	<phrase weight="0.008368200836820083" count="2">tropical medicine research board</phrase>
+  </topic>
+</topics>

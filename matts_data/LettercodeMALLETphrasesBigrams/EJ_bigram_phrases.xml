@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.173070483385095" totalTokens="449" titles="schools council, curriculum, examinations, committee, minutes, development, ej, secondary, agenda, committees">
+	<word weight="0.09799554565701558" count="44">council</word>
+	<word weight="0.0935412026726058" count="42">curriculum</word>
+	<word weight="0.0779510022271715" count="35">examinations</word>
+	<word weight="0.05790645879732739" count="26">schools</word>
+	<word weight="0.053452115812917596" count="24">committee</word>
+	<word weight="0.0400890868596882" count="18">development</word>
+	<word weight="0.0400890868596882" count="18">minutes</word>
+	<word weight="0.035634743875278395" count="16">school</word>
+	<word weight="0.035634743875278395" count="16">ej</word>
+	<word weight="0.028953229398663696" count="13">agenda</word>
+	<word weight="0.028953229398663696" count="13">secondary</word>
+	<word weight="0.015590200445434299" count="7">board</word>
+	<word weight="0.015590200445434299" count="7">committees</word>
+	<word weight="0.013363028953229399" count="6">management</word>
+	<word weight="0.011135857461024499" count="5">assessment</word>
+	<word weight="0.008908685968819599" count="4">education</word>
+	<word weight="0.008908685968819599" count="4">reports</word>
+	<word weight="0.008908685968819599" count="4">authority</word>
+	<word weight="0.008908685968819599" count="4">science</word>
+	<word weight="0.0066815144766146995" count="3">welsh</word>
+	<phrase weight="0.2894736842105263" count="22">schools council</phrase>
+	<phrase weight="0.10526315789473684" count="8">secondary examinations council</phrase>
+	<phrase weight="0.07894736842105263" count="6">school curriculum development committee</phrase>
+	<phrase weight="0.039473684210526314" count="3">school curriculum</phrase>
+	<phrase weight="0.02631578947368421" count="2">curriculum development committee</phrase>
+	<phrase weight="0.02631578947368421" count="2">secondary science curriculum review steering committee</phrase>
+	<phrase weight="0.013157894736842105" count="1">final reports</phrase>
+	<phrase weight="0.013157894736842105" count="1">professional committee</phrase>
+	<phrase weight="0.013157894736842105" count="1">level results</phrase>
+	<phrase weight="0.013157894736842105" count="1">educational examination</phrase>
+	<phrase weight="0.013157894736842105" count="1">management appears</phrase>
+	<phrase weight="0.013157894736842105" count="1">curriculum development</phrase>
+	<phrase weight="0.013157894736842105" count="1">programmes set</phrase>
+	<phrase weight="0.013157894736842105" count="1">ad hoc</phrase>
+	<phrase weight="0.013157894736842105" count="1">school curriculum development council</phrase>
+	<phrase weight="0.013157894736842105" count="1">alternative title</phrase>
+	<phrase weight="0.013157894736842105" count="1">eleventh meeting</phrase>
+	<phrase weight="0.013157894736842105" count="1">welsh language</phrase>
+	<phrase weight="0.013157894736842105" count="1">topic approach</phrase>
+	<phrase weight="0.013157894736842105" count="1">policy decisions</phrase>
+  </topic>
+</topics>

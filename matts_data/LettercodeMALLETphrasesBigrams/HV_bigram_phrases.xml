@@ -1,0 +1,39 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="41.031596066990026" totalTokens="112" titles="books, commission, paving, hv, estate, crown, park, regent, levied, rate">
+	<word weight="0.08928571428571429" count="10">books</word>
+	<word weight="0.08928571428571429" count="10">commission</word>
+	<word weight="0.08035714285714286" count="9">paving</word>
+	<word weight="0.0625" count="7">hv</word>
+	<word weight="0.05357142857142857" count="6">estate</word>
+	<word weight="0.05357142857142857" count="6">crown</word>
+	<word weight="0.044642857142857144" count="5">park</word>
+	<word weight="0.03571428571428571" count="4">regent</word>
+	<word weight="0.026785714285714284" count="3">levied</word>
+	<word weight="0.026785714285714284" count="3">rate</word>
+	<word weight="0.026785714285714284" count="3">minute</word>
+	<word weight="0.026785714285714284" count="3">properties</word>
+	<word weight="0.026785714285714284" count="3">rates</word>
+	<word weight="0.026785714285714284" count="3">letter</word>
+	<word weight="0.026785714285714284" count="3">sewer</word>
+	<word weight="0.017857142857142856" count="2">payments</word>
+	<word weight="0.017857142857142856" count="2">payees</word>
+	<word weight="0.017857142857142856" count="2">act</word>
+	<word weight="0.017857142857142856" count="2">recording</word>
+	<word weight="0.017857142857142856" count="2">london</word>
+	<phrase weight="0.15" count="3">crown estate paving commission</phrase>
+	<phrase weight="0.1" count="2">letter books</phrase>
+	<phrase weight="0.1" count="2">estate paving commission</phrase>
+	<phrase weight="0.1" count="2">paving commission</phrase>
+	<phrase weight="0.1" count="2">park sewer commission</phrase>
+	<phrase weight="0.05" count="1">crown estate</phrase>
+	<phrase weight="0.05" count="1">paving commissioners</phrase>
+	<phrase weight="0.05" count="1">rate books detailing</phrase>
+	<phrase weight="0.05" count="1">minute books</phrase>
+	<phrase weight="0.05" count="1">maintain facilities</phrase>
+	<phrase weight="0.05" count="1">rate books recording rates levied</phrase>
+	<phrase weight="0.05" count="1">minute books recording</phrase>
+	<phrase weight="0.05" count="1">central london</phrase>
+	<phrase weight="0.05" count="1">regents park</phrase>
+  </topic>
+</topics>

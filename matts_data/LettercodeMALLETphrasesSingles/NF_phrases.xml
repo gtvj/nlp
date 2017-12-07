@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="10.343989975108519" totalTokens="227" titles="trade, employers, unions, associations, registry, registration, rtuea, engagements, act, relations">
+	<word weight="0.1013215859030837" count="23">trade</word>
+	<word weight="0.08370044052863436" count="19">employers</word>
+	<word weight="0.08370044052863436" count="19">unions</word>
+	<word weight="0.07488986784140969" count="17">associations</word>
+	<word weight="0.06167400881057269" count="14">registry</word>
+	<word weight="0.030837004405286344" count="7">registration</word>
+	<word weight="0.022026431718061675" count="5">rtuea</word>
+	<word weight="0.01762114537444934" count="4">union</word>
+	<word weight="0.01762114537444934" count="4">engagements</word>
+	<word weight="0.01762114537444934" count="4">act</word>
+	<word weight="0.01762114537444934" count="4">relations</word>
+	<word weight="0.013215859030837005" count="3">legal</word>
+	<word weight="0.013215859030837005" count="3">chief</word>
+	<word weight="0.013215859030837005" count="3">amalgamations</word>
+	<word weight="0.013215859030837005" count="3">returns</word>
+	<word weight="0.013215859030837005" count="3">rules</word>
+	<word weight="0.013215859030837005" count="3">organisations</word>
+	<word weight="0.013215859030837005" count="3">individual</word>
+	<word weight="0.013215859030837005" count="3">complaints</word>
+	<word weight="0.00881057268722467" count="2">statistics</word>
+  </topic>
+</topics>

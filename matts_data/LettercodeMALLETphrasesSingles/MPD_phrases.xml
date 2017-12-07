@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0807186870068914" totalTokens="106" titles="london, maps, treasury, plans, borough, drawings, county, current, place, places">
+	<word weight="0.07547169811320754" count="8">london</word>
+	<word weight="0.0660377358490566" count="7">maps</word>
+	<word weight="0.05660377358490566" count="6">treasury</word>
+	<word weight="0.04716981132075472" count="5">plans</word>
+	<word weight="0.03773584905660377" count="4">borough</word>
+	<word weight="0.03773584905660377" count="4">drawings</word>
+	<word weight="0.02830188679245283" count="3">county</word>
+	<word weight="0.02830188679245283" count="3">current</word>
+	<word weight="0.02830188679245283" count="3">place</word>
+	<word weight="0.02830188679245283" count="3">places</word>
+	<word weight="0.02830188679245283" count="3">map</word>
+	<word weight="0.018867924528301886" count="2">council</word>
+	<word weight="0.018867924528301886" count="2">area</word>
+	<word weight="0.018867924528301886" count="2">century</word>
+	<word weight="0.018867924528301886" count="2">public</word>
+	<word weight="0.018867924528301886" count="2">solicitor</word>
+	<word weight="0.009433962264150943" count="1">outer</word>
+	<word weight="0.009433962264150943" count="1">kent</word>
+	<word weight="0.009433962264150943" count="1">surrey</word>
+	<word weight="0.009433962264150943" count="1">middlesex</word>
+  </topic>
+</topics>

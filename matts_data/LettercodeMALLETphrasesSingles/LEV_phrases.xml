@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="32.861362561778115" totalTokens="126" titles="inquiry, leveson, press, ethics, practices, culture, recordings, video, transcripts, evidence">
+	<word weight="0.19047619047619047" count="24">inquiry</word>
+	<word weight="0.07936507936507936" count="10">leveson</word>
+	<word weight="0.06349206349206349" count="8">press</word>
+	<word weight="0.06349206349206349" count="8">ethics</word>
+	<word weight="0.06349206349206349" count="8">practices</word>
+	<word weight="0.06349206349206349" count="8">culture</word>
+	<word weight="0.047619047619047616" count="6">recordings</word>
+	<word weight="0.047619047619047616" count="6">video</word>
+	<word weight="0.031746031746031744" count="4">transcripts</word>
+	<word weight="0.031746031746031744" count="4">evidence</word>
+	<word weight="0.023809523809523808" count="3">administrative</word>
+	<word weight="0.023809523809523808" count="3">reviews</word>
+	<word weight="0.023809523809523808" count="3">judicial</word>
+	<word weight="0.023809523809523808" count="3">hearings</word>
+	<word weight="0.015873015873015872" count="2">government</word>
+	<word weight="0.007936507936507936" count="1">chairman</word>
+	<word weight="0.007936507936507936" count="1">rulings</word>
+	<word weight="0.007936507936507936" count="1">oral</word>
+	<word weight="0.007936507936507936" count="1">statements</word>
+	<word weight="0.007936507936507936" count="1">witness</word>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.104915048773743" totalTokens="48" titles="number, library, collection, hayward, transport, british, materials, publications, books, remaining">
+	<word weight="0.20833333333333334" count="10">number</word>
+	<word weight="0.08333333333333333" count="4">library</word>
+	<word weight="0.0625" count="3">collection</word>
+	<word weight="0.0625" count="3">hayward</word>
+	<word weight="0.041666666666666664" count="2">transport</word>
+	<word weight="0.041666666666666664" count="2">british</word>
+	<word weight="0.041666666666666664" count="2">materials</word>
+	<word weight="0.041666666666666664" count="2">publications</word>
+	<word weight="0.041666666666666664" count="2">books</word>
+	<word weight="0.020833333333333332" count="1">remaining</word>
+	<word weight="0.020833333333333332" count="1">steamers</word>
+	<word weight="0.020833333333333332" count="1">canals</word>
+	<word weight="0.020833333333333332" count="1">cornwall</word>
+	<word weight="0.020833333333333332" count="1">mines</word>
+	<word weight="0.020833333333333332" count="1">history</word>
+	<word weight="0.020833333333333332" count="1">railway</word>
+	<word weight="0.020833333333333332" count="1">subject</word>
+	<word weight="0.020833333333333332" count="1">weston-super-mare</word>
+	<word weight="0.020833333333333332" count="1">late</word>
+	<word weight="0.020833333333333332" count="1">compiled</word>
+  </topic>
+</topics>

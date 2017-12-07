@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="26.4826969271476" totalTokens="123" titles="commission, royal, fine, art, reports, warrants, minutes, correspondence, meetings, cases">
+	<word weight="0.0975609756097561" count="12">commission</word>
+	<word weight="0.0975609756097561" count="12">royal</word>
+	<word weight="0.08130081300813008" count="10">fine</word>
+	<word weight="0.07317073170731707" count="9">art</word>
+	<word weight="0.032520325203252036" count="4">reports</word>
+	<word weight="0.024390243902439025" count="3">report</word>
+	<word weight="0.024390243902439025" count="3">warrants</word>
+	<word weight="0.024390243902439025" count="3">minutes</word>
+	<word weight="0.024390243902439025" count="3">correspondence</word>
+	<word weight="0.016260162601626018" count="2">warrant</word>
+	<word weight="0.016260162601626018" count="2">meetings</word>
+	<word weight="0.016260162601626018" count="2">cases</word>
+	<word weight="0.016260162601626018" count="2">london</word>
+	<word weight="0.016260162601626018" count="2">building</word>
+	<word weight="0.016260162601626018" count="2">design</word>
+	<word weight="0.008130081300813009" count="1">longer</word>
+	<word weight="0.008130081300813009" count="1">work</word>
+	<word weight="0.008130081300813009" count="1">commission's</word>
+	<word weight="0.008130081300813009" count="1">replaced</word>
+	<word weight="0.008130081300813009" count="1">previous</word>
+  </topic>
+</topics>

@@ -1,0 +1,33 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.2336990201198061" totalTokens="74" titles="london, maps, plans, borough, drawings, treasury, council, county, places, century">
+	<word weight="0.0945945945945946" count="7">london</word>
+	<word weight="0.08108108108108109" count="6">maps</word>
+	<word weight="0.06756756756756757" count="5">plans</word>
+	<word weight="0.04054054054054054" count="3">borough</word>
+	<word weight="0.04054054054054054" count="3">drawings</word>
+	<word weight="0.04054054054054054" count="3">treasury</word>
+	<word weight="0.02702702702702703" count="2">council</word>
+	<word weight="0.02702702702702703" count="2">county</word>
+	<word weight="0.02702702702702703" count="2">places</word>
+	<word weight="0.02702702702702703" count="2">century</word>
+	<word weight="0.02702702702702703" count="2">twentieth</word>
+	<word weight="0.02702702702702703" count="2">map</word>
+	<word weight="0.02702702702702703" count="2">extra</word>
+	<word weight="0.02702702702702703" count="2">public</word>
+	<word weight="0.013513513513513514" count="1">size</word>
+	<word weight="0.013513513513513514" count="1">measure</word>
+	<word weight="0.013513513513513514" count="1">preservation</word>
+	<word weight="0.013513513513513514" count="1">primarily</word>
+	<word weight="0.013513513513513514" count="1">transfer</word>
+	<word weight="0.013513513513513514" count="1">cater</word>
+	<phrase weight="0.2222222222222222" count="2">twentieth century</phrase>
+	<phrase weight="0.1111111111111111" count="1">common subject matter</phrase>
+	<phrase weight="0.1111111111111111" count="1">architectural drawings</phrase>
+	<phrase weight="0.1111111111111111" count="1">preservation measure</phrase>
+	<phrase weight="0.1111111111111111" count="1">london county council</phrase>
+	<phrase weight="0.1111111111111111" count="1">artificial accumulations</phrase>
+	<phrase weight="0.1111111111111111" count="1">london area</phrase>
+	<phrase weight="0.1111111111111111" count="1">london council</phrase>
+  </topic>
+</topics>

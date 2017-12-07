@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0" totalTokens="59" titles="commission, monopolies, mergers, competition, reviews, annual, successors, publications, predecessors, government">
+	<word weight="0.2033898305084746" count="12">commission</word>
+	<word weight="0.11864406779661017" count="7">monopolies</word>
+	<word weight="0.1016949152542373" count="6">mergers</word>
+	<word weight="0.05084745762711865" count="3">competition</word>
+	<word weight="0.05084745762711865" count="3">reviews</word>
+	<word weight="0.05084745762711865" count="3">annual</word>
+	<word weight="0.05084745762711865" count="3">successors</word>
+	<word weight="0.05084745762711865" count="3">publications</word>
+	<word weight="0.03389830508474576" count="2">predecessors</word>
+	<word weight="0.01694915254237288" count="1">government</word>
+	<word weight="0.01694915254237288" count="1">merger</word>
+	<word weight="0.01694915254237288" count="1">company</word>
+	<word weight="0.01694915254237288" count="1">proposed</word>
+	<word weight="0.01694915254237288" count="1">legislation</word>
+	<word weight="0.01694915254237288" count="1">conferences</word>
+	<word weight="0.01694915254237288" count="1">discussions</word>
+	<word weight="0.01694915254237288" count="1">internal</word>
+	<word weight="0.01694915254237288" count="1">procedures</word>
+	<word weight="0.01694915254237288" count="1">commission's</word>
+	<word weight="0.01694915254237288" count="1">general</word>
+  </topic>
+</topics>

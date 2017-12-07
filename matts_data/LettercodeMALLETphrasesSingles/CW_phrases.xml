@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.847179590235195" totalTokens="251" titles="conciliation, advisory, service, arbitration, acas, case, reports, trade, government, unions">
+	<word weight="0.11952191235059761" count="30">conciliation</word>
+	<word weight="0.10756972111553785" count="27">advisory</word>
+	<word weight="0.099601593625498" count="25">service</word>
+	<word weight="0.099601593625498" count="25">arbitration</word>
+	<word weight="0.08764940239043825" count="22">acas</word>
+	<word weight="0.035856573705179286" count="9">case</word>
+	<word weight="0.027888446215139442" count="7">reports</word>
+	<word weight="0.0199203187250996" count="5">trade</word>
+	<word weight="0.0199203187250996" count="5">government</word>
+	<word weight="0.0199203187250996" count="5">unions</word>
+	<word weight="0.01593625498007968" count="4">council</word>
+	<word weight="0.01195219123505976" count="3">publications</word>
+	<word weight="0.01195219123505976" count="3">collective</word>
+	<word weight="0.01195219123505976" count="3">recognition</word>
+	<word weight="0.01195219123505976" count="3">annual</word>
+	<word weight="0.01195219123505976" count="3">minutes</word>
+	<word weight="0.01195219123505976" count="3">employers</word>
+	<word weight="0.01195219123505976" count="3">inquiries</word>
+	<word weight="0.00796812749003984" count="2">notifications</word>
+	<word weight="0.00796812749003984" count="2">early</word>
+  </topic>
+</topics>

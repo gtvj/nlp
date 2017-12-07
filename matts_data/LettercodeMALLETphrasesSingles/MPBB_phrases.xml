@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.3778372264675436" totalTokens="52" titles="maps, plans, london, drawings, exchequer, borough, places, public, extra, current">
+	<word weight="0.09615384615384616" count="5">maps</word>
+	<word weight="0.07692307692307693" count="4">plans</word>
+	<word weight="0.057692307692307696" count="3">london</word>
+	<word weight="0.057692307692307696" count="3">drawings</word>
+	<word weight="0.057692307692307696" count="3">exchequer</word>
+	<word weight="0.038461538461538464" count="2">borough</word>
+	<word weight="0.038461538461538464" count="2">places</word>
+	<word weight="0.038461538461538464" count="2">public</word>
+	<word weight="0.038461538461538464" count="2">extra</word>
+	<word weight="0.019230769230769232" count="1">current</word>
+	<word weight="0.019230769230769232" count="1">plan</word>
+	<word weight="0.019230769230769232" count="1">map</word>
+	<word weight="0.019230769230769232" count="1">county</word>
+	<word weight="0.019230769230769232" count="1">city</word>
+	<word weight="0.019230769230769232" count="1">area</word>
+	<word weight="0.019230769230769232" count="1">standardised</word>
+	<word weight="0.019230769230769232" count="1">modernised</word>
+	<word weight="0.019230769230769232" count="1">contemporary</word>
+	<word weight="0.019230769230769232" count="1">names</word>
+	<word weight="0.019230769230769232" count="1">depicted</word>
+  </topic>
+</topics>

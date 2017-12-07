@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="21.47405825195866" totalTokens="99" titles="coastguard, maritime, mca, government, register, ship, zone, activity, kid's, group">
+	<word weight="0.1919191919191919" count="19">coastguard</word>
+	<word weight="0.1919191919191919" count="19">maritime</word>
+	<word weight="0.12121212121212122" count="12">mca</word>
+	<word weight="0.0707070707070707" count="7">government</word>
+	<word weight="0.04040404040404041" count="4">register</word>
+	<word weight="0.04040404040404041" count="4">ship</word>
+	<word weight="0.020202020202020204" count="2">zone</word>
+	<word weight="0.020202020202020204" count="2">activity</word>
+	<word weight="0.020202020202020204" count="2">kid's</word>
+	<word weight="0.020202020202020204" count="2">group</word>
+	<word weight="0.020202020202020204" count="2">ensign</word>
+	<word weight="0.020202020202020204" count="2">red</word>
+	<word weight="0.020202020202020204" count="2">smart</word>
+	<word weight="0.020202020202020204" count="2">sea</word>
+	<word weight="0.020202020202020204" count="2">video</word>
+	<word weight="0.020202020202020204" count="2">online</word>
+	<word weight="0.020202020202020204" count="2">podcasts</word>
+	<word weight="0.020202020202020204" count="2">news</word>
+	<word weight="0.020202020202020204" count="2">field</word>
+	<word weight="0.020202020202020204" count="2">general</word>
+  </topic>
+</topics>

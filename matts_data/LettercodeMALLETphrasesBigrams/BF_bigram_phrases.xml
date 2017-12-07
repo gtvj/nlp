@@ -1,0 +1,38 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="21.977723937336275" totalTokens="121" titles="pensions, tribunals, appeal, bf, registers, appeals, case, disability, assessment, entitlement">
+	<word weight="0.09917355371900827" count="12">pensions</word>
+	<word weight="0.09090909090909091" count="11">tribunals</word>
+	<word weight="0.08264462809917356" count="10">appeal</word>
+	<word weight="0.08264462809917356" count="10">bf</word>
+	<word weight="0.04132231404958678" count="5">registers</word>
+	<word weight="0.04132231404958678" count="5">appeals</word>
+	<word weight="0.03305785123966942" count="4">case</word>
+	<word weight="0.03305785123966942" count="4">tribunal</word>
+	<word weight="0.024793388429752067" count="3">disability</word>
+	<word weight="0.024793388429752067" count="3">assessment</word>
+	<word weight="0.024793388429752067" count="3">entitlement</word>
+	<word weight="0.024793388429752067" count="3">cases</word>
+	<word weight="0.024793388429752067" count="3">correspondence</word>
+	<word weight="0.01652892561983471" count="2">claims</word>
+	<word weight="0.01652892561983471" count="2">hearing</word>
+	<word weight="0.01652892561983471" count="2">war</word>
+	<word weight="0.01652892561983471" count="2">decisions</word>
+	<word weight="0.01652892561983471" count="2">arising</word>
+	<word weight="0.01652892561983471" count="2">administration</word>
+	<word weight="0.01652892561983471" count="2">selection</word>
+	<phrase weight="0.23529411764705882" count="4">pensions appeal tribunals</phrase>
+	<phrase weight="0.11764705882352941" count="2">appeal tribunals</phrase>
+	<phrase weight="0.058823529411764705" count="1">pensions claims</phrase>
+	<phrase weight="0.058823529411764705" count="1">numbered tribunals hearing</phrase>
+	<phrase weight="0.058823529411764705" count="1">cases registers</phrase>
+	<phrase weight="0.058823529411764705" count="1">social security</phrase>
+	<phrase weight="0.058823529411764705" count="1">pensions appeal tribunal</phrase>
+	<phrase weight="0.058823529411764705" count="1">assessment tribunal</phrase>
+	<phrase weight="0.058823529411764705" count="1">appeals arising</phrase>
+	<phrase weight="0.058823529411764705" count="1">war disability pensions disallowed</phrase>
+	<phrase weight="0.058823529411764705" count="1">appeal tribunal</phrase>
+	<phrase weight="0.058823529411764705" count="1">war disability pensions</phrase>
+	<phrase weight="0.058823529411764705" count="1">assessment tribunals</phrase>
+  </topic>
+</topics>

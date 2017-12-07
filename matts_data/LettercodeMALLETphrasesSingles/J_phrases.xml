@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.076592747598142" totalTokens="10820" titles="court, crown, supreme, judicature, case, division, master, chancery, courts, indictments">
+	<word weight="0.09750462107208872" count="1055">court</word>
+	<word weight="0.04408502772643253" count="477">crown</word>
+	<word weight="0.03364140480591497" count="364">supreme</word>
+	<word weight="0.02809611829944547" count="304">judicature</word>
+	<word weight="0.022828096118299446" count="247">case</word>
+	<word weight="0.02134935304990758" count="231">division</word>
+	<word weight="0.021256931608133085" count="230">master</word>
+	<word weight="0.021164510166358595" count="229">chancery</word>
+	<word weight="0.020517560073937152" count="222">courts</word>
+	<word weight="0.019038817005545286" count="206">indictments</word>
+	<word weight="0.012939001848428836" count="140">high</word>
+	<word weight="0.010536044362292052" count="114">offence</word>
+	<word weight="0.010351201478743069" count="112">offence(s</word>
+	<word weight="0.010351201478743069" count="112">statement</word>
+	<word weight="0.010073937153419593" count="109">justice</word>
+	<word weight="0.008133086876155268" count="88">bench</word>
+	<word weight="0.0073937153419593345" count="80">predecessors</word>
+	<word weight="0.007301293900184843" count="79">books</word>
+	<word weight="0.007024029574861368" count="76">queen's</word>
+	<word weight="0.006469500924214418" count="70">appeal</word>
+  </topic>
+</topics>

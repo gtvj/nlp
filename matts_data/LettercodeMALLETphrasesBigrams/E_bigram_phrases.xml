@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.073111930777322" totalTokens="17399" titles="lord treasurer, entry books, crown lands, exchequer, king, remembrancer, court, rolls, accounts, receipt">
+	<word weight="0.034772113339847116" count="605">exchequer</word>
+	<word weight="0.02178286108397034" count="379">king</word>
+	<word weight="0.021610437381458705" count="376">remembrancer</word>
+	<word weight="0.013793896200931088" count="240">court</word>
+	<word weight="0.013161675958388413" count="229">rolls</word>
+	<word weight="0.011839760905799183" count="206">accounts</word>
+	<word weight="0.010575320420713834" count="184">books</word>
+	<word weight="0.010000574745675039" count="174">crown</word>
+	<word weight="0.007988964883039256" count="139">receipt</word>
+	<word weight="0.007759066613023737" count="135">pipe</word>
+	<word weight="0.006781998965457785" count="118">lands</word>
+	<word weight="0.005689982182884074" count="99">writs</word>
+	<word weight="0.005402609345364676" count="94">deeds</word>
+	<word weight="0.005115236507845278" count="89">augmentations</word>
+	<word weight="0.004770389102822002" count="83">treasury</word>
+	<word weight="0.004712914535318122" count="82">revenue</word>
+	<word weight="0.004540490832806483" count="79">pleas</word>
+	<word weight="0.004425541697798724" count="77">treasurer</word>
+	<word weight="0.004368067130294844" count="76">tenths</word>
+	<word weight="0.004195643427783206" count="73">orders</word>
+	<phrase weight="0.01818181818181818" count="46">lord treasurer</phrase>
+	<phrase weight="0.009881422924901186" count="25">entry books</phrase>
+	<phrase weight="0.00909090909090909" count="23">crown lands</phrase>
+	<phrase weight="0.0071146245059288534" count="18">religious houses</phrase>
+	<phrase weight="0.0067193675889328066" count="17">letters patent</phrase>
+	<phrase weight="0.0067193675889328066" count="17">crown leases</phrase>
+	<phrase weight="0.005533596837944664" count="14">general surveyors</phrase>
+	<phrase weight="0.005533596837944664" count="14">ancient deeds</phrase>
+	<phrase weight="0.0047430830039525695" count="12">henry viii</phrase>
+	<phrase weight="0.0047430830039525695" count="12">farm rents</phrase>
+	<phrase weight="0.0047430830039525695" count="12">plea rolls</phrase>
+	<phrase weight="0.004347826086956522" count="11">land revenue</phrase>
+	<phrase weight="0.004347826086956522" count="11">supreme court</phrase>
+	<phrase weight="0.003952569169960474" count="10">pipe rolls</phrase>
+	<phrase weight="0.003952569169960474" count="10">declared accounts</phrase>
+	<phrase weight="0.0035573122529644267" count="9">issue rolls</phrase>
+	<phrase weight="0.0031620553359683794" count="8">common pleas</phrase>
+	<phrase weight="0.0031620553359683794" count="8">great seal</phrase>
+	<phrase weight="0.0031620553359683794" count="8">assessed taxes</phrase>
+	<phrase weight="0.0031620553359683794" count="8">miscellaneous books</phrase>
+  </topic>
+</topics>

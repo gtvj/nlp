@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0620610982272163" totalTokens="74" titles="public, aids, finding, calendars, texts, unpublished, unfinished, library, claims, florida">
+	<word weight="0.0945945945945946" count="7">public</word>
+	<word weight="0.06756756756756757" count="5">aids</word>
+	<word weight="0.06756756756756757" count="5">finding</word>
+	<word weight="0.05405405405405406" count="4">calendars</word>
+	<word weight="0.05405405405405406" count="4">texts</word>
+	<word weight="0.05405405405405406" count="4">unpublished</word>
+	<word weight="0.05405405405405406" count="4">unfinished</word>
+	<word weight="0.04054054054054054" count="3">library</word>
+	<word weight="0.02702702702702703" count="2">claims</word>
+	<word weight="0.02702702702702703" count="2">florida</word>
+	<word weight="0.02702702702702703" count="2">east</word>
+	<word weight="0.02702702702702703" count="2">modern</word>
+	<word weight="0.02702702702702703" count="2">describe</word>
+	<word weight="0.02702702702702703" count="2">projects</word>
+	<word weight="0.02702702702702703" count="2">abandoned</word>
+	<word weight="0.013513513513513514" count="1">predecessors</word>
+	<word weight="0.013513513513513514" count="1">early</word>
+	<word weight="0.013513513513513514" count="1">medieval</word>
+	<word weight="0.013513513513513514" count="1">spain</word>
+	<word weight="0.013513513513513514" count="1">cession</word>
+  </topic>
+</topics>

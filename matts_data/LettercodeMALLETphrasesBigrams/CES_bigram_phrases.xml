@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.610807749518611" totalTokens="908" titles="uk government, uk commission, skills, employment, sector, justice, people, iip, investors, construction">
+	<word weight="0.17400881057268722" count="158">uk</word>
+	<word weight="0.13656387665198239" count="124">skills</word>
+	<word weight="0.07819383259911894" count="71">employment</word>
+	<word weight="0.07599118942731277" count="69">commission</word>
+	<word weight="0.07158590308370044" count="65">government</word>
+	<word weight="0.013215859030837005" count="12">people</word>
+	<word weight="0.013215859030837005" count="12">justice</word>
+	<word weight="0.013215859030837005" count="12">sector</word>
+	<word weight="0.011013215859030838" count="10">construction</word>
+	<word weight="0.011013215859030838" count="10">industry</word>
+	<word weight="0.011013215859030838" count="10">iip</word>
+	<word weight="0.011013215859030838" count="10">investors</word>
+	<word weight="0.009911894273127754" count="9">creative</word>
+	<word weight="0.00881057268722467" count="8">skillset</word>
+	<word weight="0.00881057268722467" count="8">org</word>
+	<word weight="0.00881057268722467" count="8">field</word>
+	<word weight="0.00881057268722467" count="8">general</word>
+	<word weight="0.007709251101321586" count="7">http</word>
+	<word weight="0.007709251101321586" count="7">learning</word>
+	<word weight="0.007709251101321586" count="7">www</word>
+	<phrase weight="0.28205128205128205" count="44">uk government</phrase>
+	<phrase weight="0.17307692307692307" count="27">uk commission</phrase>
+	<phrase weight="0.02564102564102564" count="4">cultural skills</phrase>
+	<phrase weight="0.02564102564102564" count="4">sector skills councils</phrase>
+	<phrase weight="0.02564102564102564" count="4">utility skills</phrase>
+	<phrase weight="0.02564102564102564" count="4">lifelong learning uk</phrase>
+	<phrase weight="0.02564102564102564" count="4">motor industry</phrase>
+	<phrase weight="0.019230769230769232" count="3">creative skillset</phrase>
+	<phrase weight="0.019230769230769232" count="3">construction skills</phrase>
+	<phrase weight="0.019230769230769232" count="3">construction industry training board</phrase>
+	<phrase weight="0.01282051282051282" count="2">built environment diploma</phrase>
+	<phrase weight="0.01282051282051282" count="2">sector skills council</phrase>
+	<phrase weight="0.01282051282051282" count="2">logistics sector</phrase>
+	<phrase weight="0.01282051282051282" count="2">education sector</phrase>
+	<phrase weight="0.01282051282051282" count="2">justice labour market</phrase>
+	<phrase weight="0.01282051282051282" count="2">central england</phrase>
+	<phrase weight="0.01282051282051282" count="2">integrated personal development system</phrase>
+	<phrase weight="0.01282051282051282" count="2">manufacturing technologies</phrase>
+	<phrase weight="0.01282051282051282" count="2">sector skills development</phrase>
+	<phrase weight="0.01282051282051282" count="2">justice horizon scan</phrase>
+  </topic>
+</topics>

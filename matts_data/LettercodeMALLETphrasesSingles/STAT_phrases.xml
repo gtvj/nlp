@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.500312411333425" totalTokens="488" titles="stationery, books, printing, tender, in-letters, branch, copyright, official, minutes, hmso">
+	<word weight="0.10040983606557377" count="49">stationery</word>
+	<word weight="0.03483606557377049" count="17">books</word>
+	<word weight="0.02459016393442623" count="12">printing</word>
+	<word weight="0.018442622950819672" count="9">tender</word>
+	<word weight="0.018442622950819672" count="9">in-letters</word>
+	<word weight="0.01639344262295082" count="8">branch</word>
+	<word weight="0.01639344262295082" count="8">copyright</word>
+	<word weight="0.014344262295081968" count="7">official</word>
+	<word weight="0.014344262295081968" count="7">minutes</word>
+	<word weight="0.014344262295081968" count="7">hmso</word>
+	<word weight="0.012295081967213115" count="6">circulars</word>
+	<word weight="0.012295081967213115" count="6">government</word>
+	<word weight="0.012295081967213115" count="6">meetings</word>
+	<word weight="0.012295081967213115" count="6">out-letters</word>
+	<word weight="0.012295081967213115" count="6">area</word>
+	<word weight="0.012295081967213115" count="6">northern</word>
+	<word weight="0.012295081967213115" count="6">registers</word>
+	<word weight="0.010245901639344262" count="5">tenders</word>
+	<word weight="0.010245901639344262" count="5">correspondence</word>
+	<word weight="0.010245901639344262" count="5">deputy</word>
+  </topic>
+</topics>

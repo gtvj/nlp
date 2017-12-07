@@ -1,0 +1,38 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="2249.8366904076315" totalTokens="133" titles="london, maps, borough, plans, county, current, place, places, drawings, public">
+	<word weight="0.06015037593984962" count="8">london</word>
+	<word weight="0.045112781954887216" count="6">maps</word>
+	<word weight="0.03759398496240601" count="5">map</word>
+	<word weight="0.03007518796992481" count="4">borough</word>
+	<word weight="0.03007518796992481" count="4">plans</word>
+	<word weight="0.022556390977443608" count="3">county</word>
+	<word weight="0.022556390977443608" count="3">current</word>
+	<word weight="0.022556390977443608" count="3">place</word>
+	<word weight="0.022556390977443608" count="3">places</word>
+	<word weight="0.022556390977443608" count="3">drawings</word>
+	<word weight="0.022556390977443608" count="3">public</word>
+	<word weight="0.015037593984962405" count="2">council</word>
+	<word weight="0.015037593984962405" count="2">area</word>
+	<word weight="0.015037593984962405" count="2">added</word>
+	<word weight="0.015037593984962405" count="2">detailed</word>
+	<word weight="0.015037593984962405" count="2">air</word>
+	<word weight="0.015037593984962405" count="2">century</word>
+	<word weight="0.015037593984962405" count="2">twentieth</word>
+	<word weight="0.015037593984962405" count="2">extract</word>
+	<word weight="0.015037593984962405" count="2">individual</word>
+	<phrase weight="0.13333333333333333" count="2">twentieth century</phrase>
+	<phrase weight="0.13333333333333333" count="2">individual map extract</phrase>
+	<phrase weight="0.06666666666666667" count="1">preservation measure</phrase>
+	<phrase weight="0.06666666666666667" count="1">london council</phrase>
+	<phrase weight="0.06666666666666667" count="1">geographical area</phrase>
+	<phrase weight="0.06666666666666667" count="1">london borough</phrase>
+	<phrase weight="0.06666666666666667" count="1">london county council</phrase>
+	<phrase weight="0.06666666666666667" count="1">significant change</phrase>
+	<phrase weight="0.06666666666666667" count="1">based map catalogues</phrase>
+	<phrase weight="0.06666666666666667" count="1">coming months</phrase>
+	<phrase weight="0.06666666666666667" count="1">subject matter</phrase>
+	<phrase weight="0.06666666666666667" count="1">london area</phrase>
+	<phrase weight="0.06666666666666667" count="1">technical drawings</phrase>
+  </topic>
+</topics>

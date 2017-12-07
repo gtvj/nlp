@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.246205218400606" totalTokens="1507" titles="sc, rolls, petitions, special, collections, parliament, letters, chancery, seals, century">
+	<word weight="0.027206370272063702" count="41">sc</word>
+	<word weight="0.025879230258792303" count="39">rolls</word>
+	<word weight="0.025215660252156602" count="38">petitions</word>
+	<word weight="0.013934970139349702" count="21">special</word>
+	<word weight="0.012607830126078301" count="19">collections</word>
+	<word weight="0.009953550099535502" count="15">parliament</word>
+	<word weight="0.009953550099535502" count="15">letters</word>
+	<word weight="0.009953550099535502" count="15">chancery</word>
+	<word weight="0.0092899800928998" count="14">seals</word>
+	<word weight="0.0092899800928998" count="14">century</word>
+	<word weight="0.008626410086264101" count="13">petition</word>
+	<word weight="0.008626410086264101" count="13">crown</word>
+	<word weight="0.007962840079628402" count="12">exchequer</word>
+	<word weight="0.0072992700729927005" count="11">king</word>
+	<word weight="0.006635700066357001" count="10">royal</word>
+	<word weight="0.005972130059721301" count="9">ancient</word>
+	<word weight="0.005972130059721301" count="9">lands</word>
+	<word weight="0.005972130059721301" count="9">number</word>
+	<word weight="0.005972130059721301" count="9">receipt</word>
+	<word weight="0.005972130059721301" count="9">treasury</word>
+	<phrase weight="0.06967213114754098" count="17">special collections</phrase>
+	<phrase weight="0.01639344262295082" count="4">nineteenth century</phrase>
+	<phrase weight="0.012295081967213115" count="3">crown hands</phrase>
+	<phrase weight="0.012295081967213115" count="3">hundred rolls</phrase>
+	<phrase weight="0.012295081967213115" count="3">ancient petitions</phrase>
+	<phrase weight="0.012295081967213115" count="3">parliament rolls</phrase>
+	<phrase weight="0.00819672131147541" count="2">detached seals</phrase>
+	<phrase weight="0.00819672131147541" count="2">land revenue</phrase>
+	<phrase weight="0.00819672131147541" count="2">rolls estate</phrase>
+	<phrase weight="0.00819672131147541" count="2">common law</phrase>
+	<phrase weight="0.00819672131147541" count="2">unknown provenance</phrase>
+	<phrase weight="0.00819672131147541" count="2">solemn privileges</phrase>
+	<phrase weight="0.00819672131147541" count="2">estate officials</phrase>
+	<phrase weight="0.00819672131147541" count="2">artificial collection</phrase>
+	<phrase weight="0.00819672131147541" count="2">manorial survey</phrase>
+	<phrase weight="0.00819672131147541" count="2">petitions addressed</phrase>
+	<phrase weight="0.00819672131147541" count="2">official enquiry</phrase>
+	<phrase weight="0.00819672131147541" count="2">court rolls</phrase>
+	<phrase weight="0.00819672131147541" count="2">fourteenth century</phrase>
+	<phrase weight="0.00819672131147541" count="2">petitions contained</phrase>
+  </topic>
+</topics>

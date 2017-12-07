@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.468928391795187" totalTokens="605" titles="wales, july, library, national, rolls, principality, deeds, chester, plea, palatinate">
+	<word weight="0.08925619834710743" count="54">wales</word>
+	<word weight="0.04132231404958678" count="25">july</word>
+	<word weight="0.04132231404958678" count="25">library</word>
+	<word weight="0.04132231404958678" count="25">national</word>
+	<word weight="0.02809917355371901" count="17">rolls</word>
+	<word weight="0.02809917355371901" count="17">principality</word>
+	<word weight="0.023140495867768594" count="14">deeds</word>
+	<word weight="0.021487603305785124" count="13">chester</word>
+	<word weight="0.021487603305785124" count="13">plea</word>
+	<word weight="0.01818181818181818" count="11">palatinate</word>
+	<word weight="0.013223140495867768" count="8">exchequer</word>
+	<word weight="0.011570247933884297" count="7">sessions</word>
+	<word weight="0.011570247933884297" count="7">caernarfon</word>
+	<word weight="0.011570247933884297" count="7">justice</word>
+	<word weight="0.011570247933884297" count="7">courts</word>
+	<word weight="0.011570247933884297" count="7">proceedings</word>
+	<word weight="0.011570247933884297" count="7">lordship</word>
+	<word weight="0.009917355371900827" count="6">legal</word>
+	<word weight="0.009917355371900827" count="6">court</word>
+	<word weight="0.008264462809917356" count="5">north</word>
+  </topic>
+</topics>

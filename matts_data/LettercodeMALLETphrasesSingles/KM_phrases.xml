@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.522638379318989" totalTokens="526" titles="food, standards, committee, government, advisory, meat, hygiene, service, general, science">
+	<word weight="0.12547528517110265" count="66">food</word>
+	<word weight="0.07224334600760456" count="38">standards</word>
+	<word weight="0.04752851711026616" count="25">committee</word>
+	<word weight="0.034220532319391636" count="18">government</word>
+	<word weight="0.03231939163498099" count="17">advisory</word>
+	<word weight="0.030418250950570342" count="16">meat</word>
+	<word weight="0.028517110266159697" count="15">hygiene</word>
+	<word weight="0.024714828897338403" count="13">service</word>
+	<word weight="0.02091254752851711" count="11">general</word>
+	<word weight="0.019011406844106463" count="10">science</word>
+	<word weight="0.017110266159695818" count="9">regulations</word>
+	<word weight="0.015209125475285171" count="8">labelling</word>
+	<word weight="0.013307984790874524" count="7">board</word>
+	<word weight="0.013307984790874524" count="7">minutes</word>
+	<word weight="0.013307984790874524" count="7">field</word>
+	<word weight="0.013307984790874524" count="7">implementation</word>
+	<word weight="0.011406844106463879" count="6">policy</word>
+	<word weight="0.011406844106463879" count="6">law</word>
+	<word weight="0.011406844106463879" count="6">safety</word>
+	<word weight="0.011406844106463879" count="6">eat</word>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.64565547839813" totalTokens="1091" titles="court, chamber, star, proceedings, reign, heard, disputes, cases, henry, elizabeth">
+	<word weight="0.04949587534372136" count="54">court</word>
+	<word weight="0.0384967919340055" count="42">chamber</word>
+	<word weight="0.0384967919340055" count="42">star</word>
+	<word weight="0.03024747937671861" count="33">proceedings</word>
+	<word weight="0.017415215398716773" count="19">reign</word>
+	<word weight="0.017415215398716773" count="19">heard</word>
+	<word weight="0.015582034830430797" count="17">disputes</word>
+	<word weight="0.011915673693858845" count="13">cases</word>
+	<word weight="0.01008249312557287" count="11">henry</word>
+	<word weight="0.01008249312557287" count="11">elizabeth</word>
+	<word weight="0.01008249312557287" count="11">suits</word>
+	<word weight="0.00916590284142988" count="10">title</word>
+	<word weight="0.00916590284142988" count="10">criminal</word>
+	<word weight="0.00916590284142988" count="10">civil</word>
+	<word weight="0.008249312557286892" count="9">riot</word>
+	<word weight="0.008249312557286892" count="9">equity</word>
+	<word weight="0.007332722273143905" count="8">offences</word>
+	<word weight="0.007332722273143905" count="8">brought</word>
+	<word weight="0.007332722273143905" count="8">procedure</word>
+	<word weight="0.007332722273143905" count="8">viii</word>
+  </topic>
+</topics>

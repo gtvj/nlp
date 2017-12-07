@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0810131208261862" totalTokens="107" titles="london, public, maps, borough, plans, county, current, place, places, drawings">
+	<word weight="0.07476635514018691" count="8">london</word>
+	<word weight="0.04672897196261682" count="5">public</word>
+	<word weight="0.04672897196261682" count="5">maps</word>
+	<word weight="0.037383177570093455" count="4">borough</word>
+	<word weight="0.037383177570093455" count="4">plans</word>
+	<word weight="0.028037383177570093" count="3">county</word>
+	<word weight="0.028037383177570093" count="3">current</word>
+	<word weight="0.028037383177570093" count="3">place</word>
+	<word weight="0.028037383177570093" count="3">places</word>
+	<word weight="0.028037383177570093" count="3">map</word>
+	<word weight="0.028037383177570093" count="3">drawings</word>
+	<word weight="0.018691588785046728" count="2">council</word>
+	<word weight="0.018691588785046728" count="2">area</word>
+	<word weight="0.018691588785046728" count="2">kew</word>
+	<word weight="0.009345794392523364" count="1">outer</word>
+	<word weight="0.009345794392523364" count="1">kent</word>
+	<word weight="0.009345794392523364" count="1">surrey</word>
+	<word weight="0.009345794392523364" count="1">middlesex</word>
+	<word weight="0.009345794392523364" count="1">essex</word>
+	<word weight="0.009345794392523364" count="1">remained</word>
+  </topic>
+</topics>

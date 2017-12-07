@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.082168458043488" totalTokens="14681" titles="chancery, rolls, court, writs, crown, equity, bag, petty, side, patent">
+	<word weight="0.03732715755057557" count="548">chancery</word>
+	<word weight="0.01484912471902459" count="218">rolls</word>
+	<word weight="0.012941897690892991" count="190">court</word>
+	<word weight="0.011170901164770793" count="164">writs</word>
+	<word weight="0.010285402901709692" count="151">crown</word>
+	<word weight="0.007628908112526395" count="112">equity</word>
+	<word weight="0.006947755602479395" count="102">bag</word>
+	<word weight="0.006947755602479395" count="102">petty</word>
+	<word weight="0.006334718343437095" count="93">side</word>
+	<word weight="0.006266603092432396" count="92">patent</word>
+	<word weight="0.005994142088413596" count="88">letters</word>
+	<word weight="0.005926026837408896" count="87">clerks</word>
+	<word weight="0.005381104829371296" count="79">clerk</word>
+	<word weight="0.005176759076357196" count="76">books</word>
+	<word weight="0.004495606566310197" count="66">trade</word>
+	<word weight="0.004359376064300797" count="64">lord</word>
+	<word weight="0.004359376064300797" count="64">inquisitions</word>
+	<word weight="0.004359376064300797" count="64">masters</word>
+	<word weight="0.004291260813296097" count="63">cases</word>
+	<word weight="0.0041550303112866975" count="61">commissions</word>
+  </topic>
+</topics>

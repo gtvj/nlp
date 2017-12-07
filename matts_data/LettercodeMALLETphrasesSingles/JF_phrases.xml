@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="17.50653631451171" totalTokens="168" titles="prices, consumer, policy, food, successors, division, protection, act, safety, annual">
+	<word weight="0.10119047619047619" count="17">prices</word>
+	<word weight="0.07142857142857142" count="12">consumer</word>
+	<word weight="0.05357142857142857" count="9">price</word>
+	<word weight="0.05357142857142857" count="9">policy</word>
+	<word weight="0.05357142857142857" count="9">food</word>
+	<word weight="0.05357142857142857" count="9">successors</word>
+	<word weight="0.047619047619047616" count="8">division</word>
+	<word weight="0.047619047619047616" count="8">protection</word>
+	<word weight="0.023809523809523808" count="4">act</word>
+	<word weight="0.023809523809523808" count="4">safety</word>
+	<word weight="0.017857142857142856" count="3">annual</word>
+	<word weight="0.017857142857142856" count="3">bill</word>
+	<word weight="0.017857142857142856" count="3">legislation</word>
+	<word weight="0.017857142857142856" count="3">subsidies</word>
+	<word weight="0.017857142857142856" count="3">unit</word>
+	<word weight="0.011904761904761904" count="2">outlets</word>
+	<word weight="0.011904761904761904" count="2">retail</word>
+	<word weight="0.011904761904761904" count="2">marking</word>
+	<word weight="0.011904761904761904" count="2">surveys</word>
+	<word weight="0.011904761904761904" count="2">local</word>
+  </topic>
+</topics>

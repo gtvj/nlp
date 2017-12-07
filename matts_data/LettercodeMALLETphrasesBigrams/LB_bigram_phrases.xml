@@ -1,0 +1,12 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="10.075656904080555" totalTokens="14" titles="tribunal, tax, combined, administration, lb, deals, ">
+	<word weight="0.21428571428571427" count="3">tribunal</word>
+	<word weight="0.21428571428571427" count="3">tax</word>
+	<word weight="0.21428571428571427" count="3">combined</word>
+	<word weight="0.14285714285714285" count="2">administration</word>
+	<word weight="0.14285714285714285" count="2">lb</word>
+	<word weight="0.07142857142857142" count="1">deals</word>
+	<phrase weight="1.0" count="1">combined tax tribunal</phrase>
+  </topic>
+</topics>

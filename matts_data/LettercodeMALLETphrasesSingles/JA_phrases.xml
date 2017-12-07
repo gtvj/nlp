@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.064322946067666" totalTokens="8557" titles="health, nhs, government, national, care, service, research, public, committee, general">
+	<word weight="0.11709711347434848" count="1002">health</word>
+	<word weight="0.09127030501343929" count="781">nhs</word>
+	<word weight="0.05586069884305247" count="478">government</word>
+	<word weight="0.022087180086478905" count="189">national</word>
+	<word weight="0.013205562697206965" count="113">care</word>
+	<word weight="0.0120369288301975" count="103">service</word>
+	<word weight="0.0102839780296833" count="88">research</word>
+	<word weight="0.008764754002570995" count="75">public</word>
+	<word weight="0.008531027229169102" count="73">committee</word>
+	<word weight="0.008180437069066262" count="70">general</word>
+	<word weight="0.006427486268552063" count="55">social</word>
+	<word weight="0.006076896108449223" count="52">programme</word>
+	<word weight="0.005960032721748276" count="51">england</word>
+	<word weight="0.005726305948346383" count="49">field</word>
+	<word weight="0.005609442561645437" count="48">advisory</word>
+	<word weight="0.0054925791749444895" count="47">centre</word>
+	<word weight="0.005025125628140704" count="43">protection</word>
+	<word weight="0.004908262241439757" count="42">inquiry</word>
+	<word weight="0.004908262241439757" count="42">services</word>
+	<word weight="0.004674535468037864" count="40">medical</word>
+  </topic>
+</topics>

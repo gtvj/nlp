@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.184256209375679" totalTokens="269" titles="highways, uk, government, traffic, england, standards, registry, plans, tss, radar">
+	<word weight="0.22304832713754646" count="60">highways</word>
+	<word weight="0.11152416356877323" count="30">uk</word>
+	<word weight="0.10037174721189591" count="27">government</word>
+	<word weight="0.03717472118959108" count="10">traffic</word>
+	<word weight="0.026022304832713755" count="7">england</word>
+	<word weight="0.01858736059479554" count="5">standards</word>
+	<word weight="0.01486988847583643" count="4">registry</word>
+	<word weight="0.01486988847583643" count="4">plans</word>
+	<word weight="0.01486988847583643" count="4">tss</word>
+	<word weight="0.01486988847583643" count="4">radar</word>
+	<word weight="0.01486988847583643" count="4">compendium</word>
+	<word weight="0.01486988847583643" count="4">partnernet</word>
+	<word weight="0.01486988847583643" count="4">loads</word>
+	<word weight="0.01486988847583643" count="4">abnormal</word>
+	<word weight="0.01486988847583643" count="4">www</word>
+	<word weight="0.01486988847583643" count="4">projects</word>
+	<word weight="0.01486988847583643" count="4">road</word>
+	<word weight="0.011152416356877323" count="3">ha</word>
+	<word weight="0.007434944237918215" count="2">halogen</word>
+	<word weight="0.007434944237918215" count="2">environment</word>
+	<phrase weight="0.2777777777777778" count="15">uk government</phrase>
+	<phrase weight="0.07407407407407407" count="4">highways england</phrase>
+	<phrase weight="0.07407407407407407" count="4">tss plans registry</phrase>
+	<phrase weight="0.037037037037037035" count="2">latest news</phrase>
+	<phrase weight="0.037037037037037035" count="2">electronic service delivery</phrase>
+	<phrase weight="0.037037037037037035" count="2">abnormal loads</phrase>
+	<phrase weight="0.037037037037037035" count="2">logging environment</phrase>
+	<phrase weight="0.037037037037037035" count="2">major road projects</phrase>
+	<phrase weight="0.037037037037037035" count="2">atlas pro</phrase>
+	<phrase weight="0.037037037037037035" count="2">knowledge compendium</phrase>
+	<phrase weight="0.037037037037037035" count="2">road projects</phrase>
+	<phrase weight="0.018518518518518517" count="1">traffic officer recruitment</phrase>
+	<phrase weight="0.018518518518518517" count="1">realtime traffic info</phrase>
+	<phrase weight="0.018518518518518517" count="1">radar international</phrase>
+	<phrase weight="0.018518518518518517" count="1">traffic radio</phrase>
+	<phrase weight="0.018518518518518517" count="1">river crossing</phrase>
+	<phrase weight="0.018518518518518517" count="1">traffic info</phrase>
+	<phrase weight="0.018518518518518517" count="1">eu watch</phrase>
+	<phrase weight="0.018518518518518517" count="1">dartford river crossing</phrase>
+	<phrase weight="0.018518518518518517" count="1">officer recruitment</phrase>
+  </topic>
+</topics>

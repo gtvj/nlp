@@ -1,0 +1,40 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0819049611898035" totalTokens="103" titles="maps, plans, sp, drawings, place, state, london, area, places, centuries">
+	<word weight="0.06796116504854369" count="7">maps</word>
+	<word weight="0.04854368932038835" count="5">plans</word>
+	<word weight="0.038834951456310676" count="4">sp</word>
+	<word weight="0.038834951456310676" count="4">drawings</word>
+	<word weight="0.02912621359223301" count="3">place</word>
+	<word weight="0.02912621359223301" count="3">state</word>
+	<word weight="0.019417475728155338" count="2">london</word>
+	<word weight="0.019417475728155338" count="2">map</word>
+	<word weight="0.019417475728155338" count="2">area</word>
+	<word weight="0.019417475728155338" count="2">places</word>
+	<word weight="0.019417475728155338" count="2">centuries</word>
+	<word weight="0.019417475728155338" count="2">sixteenth</word>
+	<word weight="0.019417475728155338" count="2">ireland</word>
+	<word weight="0.019417475728155338" count="2">geographical</word>
+	<word weight="0.019417475728155338" count="2">public</word>
+	<word weight="0.009708737864077669" count="1">size</word>
+	<word weight="0.009708737864077669" count="1">measure</word>
+	<word weight="0.009708737864077669" count="1">preservation</word>
+	<word weight="0.009708737864077669" count="1">primarily</word>
+	<word weight="0.009708737864077669" count="1">transfer</word>
+	<phrase weight="0.06666666666666667" count="1">plans illustrating naval</phrase>
+	<phrase weight="0.06666666666666667" count="1">digital images</phrase>
+	<phrase weight="0.06666666666666667" count="1">preservation measure</phrase>
+	<phrase weight="0.06666666666666667" count="1">seventh centuries</phrase>
+	<phrase weight="0.06666666666666667" count="1">geographical area</phrase>
+	<phrase weight="0.06666666666666667" count="1">eighteenth centuries</phrase>
+	<phrase weight="0.06666666666666667" count="1">north america</phrase>
+	<phrase weight="0.06666666666666667" count="1">topographical views</phrase>
+	<phrase weight="0.06666666666666667" count="1">common subject matter</phrase>
+	<phrase weight="0.06666666666666667" count="1">significant change</phrase>
+	<phrase weight="0.06666666666666667" count="1">geographical areas</phrase>
+	<phrase weight="0.06666666666666667" count="1">illuminated letter</phrase>
+	<phrase weight="0.06666666666666667" count="1">twentieth century</phrase>
+	<phrase weight="0.06666666666666667" count="1">artificial accumulations</phrase>
+	<phrase weight="0.06666666666666667" count="1">london area</phrase>
+  </topic>
+</topics>

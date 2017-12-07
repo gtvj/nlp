@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="12.345947885375786" totalTokens="384" titles="council, health, committee, nursing, central, nurse, midwifery, kingdom, united, visiting">
+	<word weight="0.049479166666666664" count="19">council</word>
+	<word weight="0.046875" count="18">health</word>
+	<word weight="0.041666666666666664" count="16">committee</word>
+	<word weight="0.041666666666666664" count="16">nursing</word>
+	<word weight="0.0390625" count="15">central</word>
+	<word weight="0.026041666666666668" count="10">nurse</word>
+	<word weight="0.026041666666666668" count="10">midwifery</word>
+	<word weight="0.026041666666666668" count="10">kingdom</word>
+	<word weight="0.026041666666666668" count="10">united</word>
+	<word weight="0.0234375" count="9">visiting</word>
+	<word weight="0.020833333333333332" count="8">training</word>
+	<word weight="0.018229166666666668" count="7">register</word>
+	<word weight="0.018229166666666668" count="7">professional</word>
+	<word weight="0.015625" count="6">mental</word>
+	<word weight="0.015625" count="6">registration</word>
+	<word weight="0.013020833333333334" count="5">parts</word>
+	<word weight="0.013020833333333334" count="5">nurses</word>
+	<word weight="0.013020833333333334" count="5">index</word>
+	<word weight="0.010416666666666666" count="4">annual</word>
+	<word weight="0.010416666666666666" count="4">minutes</word>
+  </topic>
+</topics>

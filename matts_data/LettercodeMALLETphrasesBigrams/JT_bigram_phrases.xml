@@ -1,0 +1,30 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="2522.1856896258096" totalTokens="71" titles="commission, government, local, jt, england, reviews, structural, reports, minutes, correspondence">
+	<word weight="0.15492957746478872" count="11">commission</word>
+	<word weight="0.14084507042253522" count="10">government</word>
+	<word weight="0.14084507042253522" count="10">local</word>
+	<word weight="0.09859154929577464" count="7">jt</word>
+	<word weight="0.08450704225352113" count="6">england</word>
+	<word weight="0.056338028169014086" count="4">reviews</word>
+	<word weight="0.04225352112676056" count="3">structural</word>
+	<word weight="0.04225352112676056" count="3">reports</word>
+	<word weight="0.04225352112676056" count="3">minutes</word>
+	<word weight="0.04225352112676056" count="3">correspondence</word>
+	<word weight="0.028169014084507043" count="2">boundaries</word>
+	<word weight="0.014084507042253521" count="1">ward</word>
+	<word weight="0.014084507042253521" count="1">conducted</word>
+	<word weight="0.014084507042253521" count="1">english</word>
+	<word weight="0.014084507042253521" count="1">final</word>
+	<word weight="0.014084507042253521" count="1">formally</word>
+	<word weight="0.014084507042253521" count="1">sitting</word>
+	<word weight="0.014084507042253521" count="1">circulated</word>
+	<word weight="0.014084507042253521" count="1">state</word>
+	<word weight="0.014084507042253521" count="1">secretary</word>
+	<phrase weight="0.5384615384615384" count="7">local government commission</phrase>
+	<phrase weight="0.23076923076923078" count="3">structural reviews</phrase>
+	<phrase weight="0.07692307692307693" count="1">local government conducted</phrase>
+	<phrase weight="0.07692307692307693" count="1">local government boundaries</phrase>
+	<phrase weight="0.07692307692307693" count="1">government commission</phrase>
+  </topic>
+</topics>

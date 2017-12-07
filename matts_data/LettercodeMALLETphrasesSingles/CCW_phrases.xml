@@ -1,0 +1,16 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="2.521982017204592" totalTokens="30" titles="water, council, consumer, ccw, https://www.ccwater.org.uk, http://www.ccwater.org.uk, field, general, government, division">
+	<word weight="0.23333333333333334" count="7">water</word>
+	<word weight="0.23333333333333334" count="7">council</word>
+	<word weight="0.23333333333333334" count="7">consumer</word>
+	<word weight="0.06666666666666667" count="2">ccw</word>
+	<word weight="0.03333333333333333" count="1">https://www.ccwater.org.uk</word>
+	<word weight="0.03333333333333333" count="1">http://www.ccwater.org.uk</word>
+	<word weight="0.03333333333333333" count="1">field</word>
+	<word weight="0.03333333333333333" count="1">general</word>
+	<word weight="0.03333333333333333" count="1">government</word>
+	<word weight="0.03333333333333333" count="1">division</word>
+	<word weight="0.03333333333333333" count="1">ccwater</word>
+  </topic>
+</topics>

@@ -1,0 +1,35 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="92.2937166261851" totalTokens="106" titles="steel, iron, board, britain, great, corporation, division, ishra, iscgb, realisation">
+	<word weight="0.1509433962264151" count="16">steel</word>
+	<word weight="0.1509433962264151" count="16">iron</word>
+	<word weight="0.05660377358490566" count="6">board</word>
+	<word weight="0.04716981132075472" count="5">britain</word>
+	<word weight="0.04716981132075472" count="5">great</word>
+	<word weight="0.04716981132075472" count="5">corporation</word>
+	<word weight="0.02830188679245283" count="3">division</word>
+	<word weight="0.02830188679245283" count="3">ishra</word>
+	<word weight="0.02830188679245283" count="3">iscgb</word>
+	<word weight="0.02830188679245283" count="3">realisation</word>
+	<word weight="0.02830188679245283" count="3">holding</word>
+	<word weight="0.018867924528301886" count="2">returns</word>
+	<word weight="0.018867924528301886" count="2">index</word>
+	<word weight="0.018867924528301886" count="2">companies</word>
+	<word weight="0.018867924528301886" count="2">staff</word>
+	<word weight="0.018867924528301886" count="2">finance</word>
+	<word weight="0.009433962264150943" count="1">cost</word>
+	<word weight="0.009433962264150943" count="1">running</word>
+	<word weight="0.009433962264150943" count="1">profit</word>
+	<word weight="0.009433962264150943" count="1">capital</word>
+	<phrase weight="0.2857142857142857" count="6">steel board</phrase>
+	<phrase weight="0.23809523809523808" count="5">steel corporation</phrase>
+	<phrase weight="0.14285714285714285" count="3">steel holding</phrase>
+	<phrase weight="0.047619047619047616" count="1">development division</phrase>
+	<phrase weight="0.047619047619047616" count="1">technical division</phrase>
+	<phrase weight="0.047619047619047616" count="1">steel industries</phrase>
+	<phrase weight="0.047619047619047616" count="1">steel companies</phrase>
+	<phrase weight="0.047619047619047616" count="1">profit returns</phrase>
+	<phrase weight="0.047619047619047616" count="1">banking arrangements</phrase>
+	<phrase weight="0.047619047619047616" count="1">similar index</phrase>
+  </topic>
+</topics>

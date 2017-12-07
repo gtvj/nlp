@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="24.8491350489334" totalTokens="332" titles="cultural, arts, olympiad, london, planning, england, council, projects, stakeholders, national">
+	<word weight="0.05120481927710843" count="17">cultural</word>
+	<word weight="0.04819277108433735" count="16">arts</word>
+	<word weight="0.0391566265060241" count="13">olympiad</word>
+	<word weight="0.0391566265060241" count="13">london</word>
+	<word weight="0.024096385542168676" count="8">planning</word>
+	<word weight="0.024096385542168676" count="8">england</word>
+	<word weight="0.024096385542168676" count="8">council</word>
+	<word weight="0.02108433734939759" count="7">projects</word>
+	<word weight="0.015060240963855422" count="5">stakeholders</word>
+	<word weight="0.015060240963855422" count="5">plan</word>
+	<word weight="0.015060240963855422" count="5">national</word>
+	<word weight="0.015060240963855422" count="5">olympic</word>
+	<word weight="0.012048192771084338" count="4">project</word>
+	<word weight="0.012048192771084338" count="4">discussion</word>
+	<word weight="0.012048192771084338" count="4">digital</word>
+	<word weight="0.012048192771084338" count="4">events</word>
+	<word weight="0.012048192771084338" count="4">regional</word>
+	<word weight="0.012048192771084338" count="4">games</word>
+	<word weight="0.012048192771084338" count="4">work</word>
+	<word weight="0.009036144578313253" count="3">culture</word>
+	<phrase weight="0.09722222222222222" count="7">cultural olympiad</phrase>
+	<phrase weight="0.06944444444444445" count="5">council england</phrase>
+	<phrase weight="0.041666666666666664" count="3">paralympic games</phrase>
+	<phrase weight="0.027777777777777776" count="2">arts jobs</phrase>
+	<phrase weight="0.027777777777777776" count="2">arts council england</phrase>
+	<phrase weight="0.027777777777777776" count="2">cultural olympiad national funding</phrase>
+	<phrase weight="0.027777777777777776" count="2">uk government</phrase>
+	<phrase weight="0.013888888888888888" count="1">internal stakeholders</phrase>
+	<phrase weight="0.013888888888888888" count="1">regional cultural events</phrase>
+	<phrase weight="0.013888888888888888" count="1">leaders group</phrase>
+	<phrase weight="0.013888888888888888" count="1">statistical charts</phrase>
+	<phrase weight="0.013888888888888888" count="1">communication strategies</phrase>
+	<phrase weight="0.013888888888888888" count="1">data collection</phrase>
+	<phrase weight="0.013888888888888888" count="1">area concerns meeting</phrase>
+	<phrase weight="0.013888888888888888" count="1">stakeholders partnerships</phrase>
+	<phrase weight="0.013888888888888888" count="1">organisation review</phrase>
+	<phrase weight="0.013888888888888888" count="1">regional networking</phrase>
+	<phrase weight="0.013888888888888888" count="1">olympic movement</phrase>
+	<phrase weight="0.013888888888888888" count="1">key messages</phrase>
+	<phrase weight="0.013888888888888888" count="1">years prior</phrase>
+  </topic>
+</topics>

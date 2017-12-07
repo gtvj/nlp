@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.506645964513993" totalTokens="1925" titles="nursing, council, general, england, wales, correspondence, nurses, examinations, registration, committees">
+	<word weight="0.09142857142857143" count="176">nursing</word>
+	<word weight="0.08051948051948052" count="155">council</word>
+	<word weight="0.07948051948051948" count="153">general</word>
+	<word weight="0.06025974025974026" count="116">england</word>
+	<word weight="0.05974025974025974" count="115">wales</word>
+	<word weight="0.02025974025974026" count="39">correspondence</word>
+	<word weight="0.01818181818181818" count="35">nurses</word>
+	<word weight="0.01818181818181818" count="35">examinations</word>
+	<word weight="0.015584415584415584" count="30">registration</word>
+	<word weight="0.014025974025974027" count="27">committees</word>
+	<word weight="0.013506493506493506" count="26">registrar</word>
+	<word weight="0.012987012987012988" count="25">training</word>
+	<word weight="0.011948051948051949" count="23">education</word>
+	<word weight="0.00935064935064935" count="18">gnc</word>
+	<word weight="0.008311688311688312" count="16">minutes</word>
+	<word weight="0.007792207792207792" count="15">examination</word>
+	<word weight="0.007272727272727273" count="14">hospitals</word>
+	<word weight="0.006753246753246753" count="13">register</word>
+	<word weight="0.006233766233766234" count="12">health</word>
+	<word weight="0.006233766233766234" count="12">committee</word>
+  </topic>
+</topics>

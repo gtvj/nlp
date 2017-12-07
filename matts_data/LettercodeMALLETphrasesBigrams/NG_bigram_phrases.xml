@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.741999397532495" totalTokens="550" titles="national gallery, ng, pictures, letters, board, work, meetings, correspondence, publications, minutes">
+	<word weight="0.08727272727272728" count="48">gallery</word>
+	<word weight="0.08" count="44">national</word>
+	<word weight="0.07454545454545454" count="41">ng</word>
+	<word weight="0.02" count="11">letters</word>
+	<word weight="0.02" count="11">pictures</word>
+	<word weight="0.01818181818181818" count="10">work</word>
+	<word weight="0.01818181818181818" count="10">board</word>
+	<word weight="0.016363636363636365" count="9">correspondence</word>
+	<word weight="0.016363636363636365" count="9">meetings</word>
+	<word weight="0.012727272727272728" count="7">photographs</word>
+	<word weight="0.012727272727272728" count="7">publications</word>
+	<word weight="0.012727272727272728" count="7">minutes</word>
+	<word weight="0.012727272727272728" count="7">collection</word>
+	<word weight="0.01090909090909091" count="6">books</word>
+	<word weight="0.01090909090909091" count="6">wornum</word>
+	<word weight="0.00909090909090909" count="5">register</word>
+	<word weight="0.00909090909090909" count="5">kay</word>
+	<word weight="0.00909090909090909" count="5">family</word>
+	<word weight="0.00909090909090909" count="5">conservation</word>
+	<word weight="0.007272727272727273" count="4">boxall</word>
+	<phrase weight="0.35294117647058826" count="36">national gallery</phrase>
+	<phrase weight="0.0196078431372549" count="2">nicholson wornum</phrase>
+	<phrase weight="0.0196078431372549" count="2">gallery activities</phrase>
+	<phrase weight="0.0196078431372549" count="2">board meetings</phrase>
+	<phrase weight="0.0196078431372549" count="2">general inventory</phrase>
+	<phrase weight="0.0196078431372549" count="2">martin davies</phrase>
+	<phrase weight="0.0196078431372549" count="2">account books</phrase>
+	<phrase weight="0.0196078431372549" count="2">press cuttings</phrase>
+	<phrase weight="0.0196078431372549" count="2">conservation dossier</phrase>
+	<phrase weight="0.0196078431372549" count="2">philip hendy</phrase>
+	<phrase weight="0.00980392156862745" count="1">reform club</phrase>
+	<phrase weight="0.00980392156862745" count="1">annotated publications</phrase>
+	<phrase weight="0.00980392156862745" count="1">eminent persons</phrase>
+	<phrase weight="0.00980392156862745" count="1">incomplete set</phrase>
+	<phrase weight="0.00980392156862745" count="1">white transparencies</phrase>
+	<phrase weight="0.00980392156862745" count="1">gallery paintings</phrase>
+	<phrase weight="0.00980392156862745" count="1">memoranda discussed</phrase>
+	<phrase weight="0.00980392156862745" count="1">colour transparencies</phrase>
+	<phrase weight="0.00980392156862745" count="1">john taylor coleridge</phrase>
+	<phrase weight="0.00980392156862745" count="1">gallery staff</phrase>
+  </topic>
+</topics>

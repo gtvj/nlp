@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.131689353061223" totalTokens="360" titles="insolvency, service, rf, official, bankruptcy, receivers, uk, predecessors, technical, case">
+	<word weight="0.10277777777777777" count="37">insolvency</word>
+	<word weight="0.06388888888888888" count="23">service</word>
+	<word weight="0.05277777777777778" count="19">rf</word>
+	<word weight="0.03333333333333333" count="12">official</word>
+	<word weight="0.022222222222222223" count="8">bankruptcy</word>
+	<word weight="0.022222222222222223" count="8">receivers</word>
+	<word weight="0.016666666666666666" count="6">uk</word>
+	<word weight="0.016666666666666666" count="6">predecessors</word>
+	<word weight="0.013888888888888888" count="5">technical</word>
+	<word weight="0.013888888888888888" count="5">case</word>
+	<word weight="0.013888888888888888" count="5">committee</word>
+	<word weight="0.013888888888888888" count="5">contracting</word>
+	<word weight="0.011111111111111112" count="4">practitioners</word>
+	<word weight="0.011111111111111112" count="4">government</word>
+	<word weight="0.011111111111111112" count="4">receiver</word>
+	<word weight="0.011111111111111112" count="4">general</word>
+	<word weight="0.008333333333333333" count="3">policy</word>
+	<word weight="0.008333333333333333" count="3">advice</word>
+	<word weight="0.008333333333333333" count="3">section</word>
+	<word weight="0.008333333333333333" count="3">inspector</word>
+	<phrase weight="0.208955223880597" count="14">insolvency service</phrase>
+	<phrase weight="0.07462686567164178" count="5">official receivers</phrase>
+	<phrase weight="0.029850746268656716" count="2">official receiver</phrase>
+	<phrase weight="0.029850746268656716" count="2">deputy inspector general</phrase>
+	<phrase weight="0.029850746268656716" count="2">human resources</phrase>
+	<phrase weight="0.029850746268656716" count="2">insolvency law review committee</phrase>
+	<phrase weight="0.029850746268656716" count="2">insolvency practitioners</phrase>
+	<phrase weight="0.029850746268656716" count="2">technical section</phrase>
+	<phrase weight="0.029850746268656716" count="2">uk government</phrase>
+	<phrase weight="0.014925373134328358" count="1">bankruptcy case</phrase>
+	<phrase weight="0.014925373134328358" count="1">bankruptcy process</phrase>
+	<phrase weight="0.014925373134328358" count="1">rules committee</phrase>
+	<phrase weight="0.014925373134328358" count="1">investment policy</phrase>
+	<phrase weight="0.014925373134328358" count="1">accommodation costs</phrase>
+	<phrase weight="0.014925373134328358" count="1">substantial media interest</phrase>
+	<phrase weight="0.014925373134328358" count="1">practitioners tribunal</phrase>
+	<phrase weight="0.014925373134328358" count="1">enabling order</phrase>
+	<phrase weight="0.014925373134328358" count="1">insolvency service headquarters</phrase>
+	<phrase weight="0.014925373134328358" count="1">parliamentary commissioner</phrase>
+	<phrase weight="0.014925373134328358" count="1">excel workbooks</phrase>
+  </topic>
+</topics>

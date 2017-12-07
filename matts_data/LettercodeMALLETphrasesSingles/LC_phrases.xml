@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.985503026244689" totalTokens="590" titles="books, lord, chamberlain's, accounts, household, royal, correspondence, warrants, entry, theatres">
+	<word weight="0.04745762711864407" count="28">books</word>
+	<word weight="0.0423728813559322" count="25">lord</word>
+	<word weight="0.03389830508474576" count="20">chamberlain's</word>
+	<word weight="0.0288135593220339" count="17">accounts</word>
+	<word weight="0.013559322033898305" count="8">household</word>
+	<word weight="0.013559322033898305" count="8">royal</word>
+	<word weight="0.013559322033898305" count="8">correspondence</word>
+	<word weight="0.013559322033898305" count="8">warrants</word>
+	<word weight="0.011864406779661017" count="7">entry</word>
+	<word weight="0.011864406779661017" count="7">theatres</word>
+	<word weight="0.010169491525423728" count="6">lists</word>
+	<word weight="0.010169491525423728" count="6">robes</word>
+	<word weight="0.00847457627118644" count="5">warrant</word>
+	<word weight="0.00847457627118644" count="5">recognizances</word>
+	<word weight="0.00847457627118644" count="5">events</word>
+	<word weight="0.00847457627118644" count="5">chamberlain</word>
+	<word weight="0.00847457627118644" count="5">appointments</word>
+	<word weight="0.00847457627118644" count="5">wardrobe</word>
+	<word weight="0.00847457627118644" count="5">great</word>
+	<word weight="0.006779661016949152" count="4">rolls</word>
+  </topic>
+</topics>

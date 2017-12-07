@@ -1,0 +1,30 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0" totalTokens="69" titles="board, occupational, pensions, dm, reports, minutes, annual, evidence, oral, written">
+	<word weight="0.14492753623188406" count="10">board</word>
+	<word weight="0.14492753623188406" count="10">occupational</word>
+	<word weight="0.11594202898550725" count="8">pensions</word>
+	<word weight="0.10144927536231885" count="7">dm</word>
+	<word weight="0.08695652173913043" count="6">reports</word>
+	<word weight="0.043478260869565216" count="3">minutes</word>
+	<word weight="0.028985507246376812" count="2">annual</word>
+	<word weight="0.028985507246376812" count="2">evidence</word>
+	<word weight="0.028985507246376812" count="2">oral</word>
+	<word weight="0.028985507246376812" count="2">written</word>
+	<word weight="0.028985507246376812" count="2">schemes</word>
+	<word weight="0.028985507246376812" count="2">pension</word>
+	<word weight="0.028985507246376812" count="2">review</word>
+	<word weight="0.028985507246376812" count="2">opb</word>
+	<word weight="0.014492753623188406" count="1">connection</word>
+	<word weight="0.014492753623188406" count="1">organizations</word>
+	<word weight="0.014492753623188406" count="1">individuals</word>
+	<word weight="0.014492753623188406" count="1">submitted</word>
+	<word weight="0.014492753623188406" count="1">administration</word>
+	<word weight="0.014492753623188406" count="1">op</word>
+	<phrase weight="0.5454545454545454" count="6">occupational pensions board</phrase>
+	<phrase weight="0.18181818181818182" count="2">annual reports</phrase>
+	<phrase weight="0.09090909090909091" count="1">occupational pension schemes</phrase>
+	<phrase weight="0.09090909090909091" count="1">pensions board</phrase>
+	<phrase weight="0.09090909090909091" count="1">supporting written</phrase>
+  </topic>
+</topics>

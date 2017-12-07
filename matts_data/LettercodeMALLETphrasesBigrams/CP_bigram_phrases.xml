@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.252719635778861" totalTokens="4267" titles="common pleas, court, cp, rolls, property, fines, concords, land, final, title">
+	<word weight="0.053433325521443635" count="228">court</word>
+	<word weight="0.0426529177408015" count="182">pleas</word>
+	<word weight="0.03913756737754863" count="167">common</word>
+	<word weight="0.024373095851886573" count="104">cp</word>
+	<word weight="0.0199203187250996" count="85">rolls</word>
+	<word weight="0.014530114834778533" count="62">property</word>
+	<word weight="0.013123974689477385" count="56">fines</word>
+	<word weight="0.012655261307710336" count="54">concords</word>
+	<word weight="0.011483477853292711" count="49">land</word>
+	<word weight="0.010546051089758613" count="45">title</word>
+	<word weight="0.010546051089758613" count="45">final</word>
+	<word weight="0.010311694398875087" count="44">writs</word>
+	<word weight="0.009842981017108038" count="42">conveyancing</word>
+	<word weight="0.009842981017108038" count="42">filed</word>
+	<word weight="0.00843684087180689" count="36">books</word>
+	<word weight="0.00796812749003984" count="34">notes</word>
+	<word weight="0.007733770799156316" count="33">concord</word>
+	<word weight="0.007499414108272791" count="32">century</word>
+	<word weight="0.0072650574173892665" count="31">plea</word>
+	<word weight="0.0065619873447386925" count="28">foot</word>
+	<phrase weight="0.19783616692426584" count="128">common pleas</phrase>
+	<phrase weight="0.02627511591962906" count="17">final concord</phrase>
+	<phrase weight="0.02627511591962906" count="17">final concords</phrase>
+	<phrase weight="0.023183925811437404" count="15">plea rolls</phrase>
+	<phrase weight="0.021638330757341576" count="14">court official responsible</phrase>
+	<phrase weight="0.02009273570324575" count="13">convey property</phrase>
+	<phrase weight="0.02009273570324575" count="13">settled format</phrase>
+	<phrase weight="0.02009273570324575" count="13">fairly complete</phrase>
+	<phrase weight="0.0077279752704791345" count="5">george iv</phrase>
+	<phrase weight="0.0061823802163833074" count="4">common pleas division</phrase>
+	<phrase weight="0.0061823802163833074" count="4">recovery rolls</phrase>
+	<phrase weight="0.0061823802163833074" count="4">henry viii</phrase>
+	<phrase weight="0.0061823802163833074" count="4">silver books</phrase>
+	<phrase weight="0.0061823802163833074" count="4">fees due</phrase>
+	<phrase weight="0.0061823802163833074" count="4">william iv</phrase>
+	<phrase weight="0.0061823802163833074" count="4">high court</phrase>
+	<phrase weight="0.0061823802163833074" count="4">nisi prius</phrase>
+	<phrase weight="0.00463678516228748" count="3">george iii</phrase>
+	<phrase weight="0.00463678516228748" count="3">return days</phrase>
+	<phrase weight="0.00463678516228748" count="3">william iii</phrase>
+  </topic>
+</topics>

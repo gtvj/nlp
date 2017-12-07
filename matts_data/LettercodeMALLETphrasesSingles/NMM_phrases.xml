@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.361974353995826" totalTokens="495" titles="museum, maritime, national, correspondence, acquisitions, trustees, royal, caird, greenwich, minutes">
+	<word weight="0.12525252525252525" count="62">museum</word>
+	<word weight="0.08888888888888889" count="44">maritime</word>
+	<word weight="0.08888888888888889" count="44">national</word>
+	<word weight="0.048484848484848485" count="24">correspondence</word>
+	<word weight="0.022222222222222223" count="11">acquisitions</word>
+	<word weight="0.01818181818181818" count="9">trustees</word>
+	<word weight="0.01818181818181818" count="9">acquisition</word>
+	<word weight="0.01616161616161616" count="8">royal</word>
+	<word weight="0.014141414141414142" count="7">caird</word>
+	<word weight="0.014141414141414142" count="7">greenwich</word>
+	<word weight="0.012121212121212121" count="6">minutes</word>
+	<word weight="0.010101010101010102" count="5">system</word>
+	<word weight="0.010101010101010102" count="5">registers</word>
+	<word weight="0.010101010101010102" count="5">geoffrey</word>
+	<word weight="0.010101010101010102" count="5">staff</word>
+	<word weight="0.00808080808080808" count="4">number</word>
+	<word weight="0.00808080808080808" count="4">government</word>
+	<word weight="0.00808080808080808" count="4">objects</word>
+	<word weight="0.00808080808080808" count="4">collections</word>
+	<word weight="0.00808080808080808" count="4">administrative</word>
+  </topic>
+</topics>

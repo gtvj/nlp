@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.1473873816022895" totalTokens="4983" titles="board, customs, outport, excise, books, letter, collector, revenue, irish, orders">
+	<word weight="0.06441902468392535" count="321">board</word>
+	<word weight="0.058398555087296806" count="291">customs</word>
+	<word weight="0.03351394742123219" count="167">outport</word>
+	<word weight="0.02869757174392936" count="143">excise</word>
+	<word weight="0.027694160144491272" count="138">books</word>
+	<word weight="0.020268914308649407" count="101">letter</word>
+	<word weight="0.018864138069436084" count="94">collector</word>
+	<word weight="0.015853903271121815" count="79">revenue</word>
+	<word weight="0.015653220951234198" count="78">irish</word>
+	<word weight="0.01525185631145896" count="76">orders</word>
+	<word weight="0.013245033112582781" count="66">administrative</word>
+	<word weight="0.012843668472807546" count="64">central</word>
+	<word weight="0.01244230383303231" count="62">general</word>
+	<word weight="0.011639574553481838" count="58">staff</word>
+	<word weight="0.011238209913706602" count="56">exports</word>
+	<word weight="0.011037527593818985" count="55">imports</word>
+	<word weight="0.01043548063415613" count="52">miscellaneous</word>
+	<word weight="0.009833433674493278" count="49">scottish</word>
+	<word weight="0.00963275135460566" count="48">english</word>
+	<word weight="0.009231386714830423" count="46">mainland</word>
+  </topic>
+</topics>

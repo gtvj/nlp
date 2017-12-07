@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.497864880142115" totalTokens="1996" titles="general nursing council, england, wales, dt, correspondence, nurses, examinations, registration, registrar, committees">
+	<word weight="0.08817635270541083" count="176">nursing</word>
+	<word weight="0.0811623246492986" count="162">council</word>
+	<word weight="0.07665330661322645" count="153">general</word>
+	<word weight="0.05811623246492986" count="116">wales</word>
+	<word weight="0.05811623246492986" count="116">england</word>
+	<word weight="0.03557114228456914" count="71">dt</word>
+	<word weight="0.019539078156312624" count="39">correspondence</word>
+	<word weight="0.01753507014028056" count="35">nurses</word>
+	<word weight="0.01753507014028056" count="35">examinations</word>
+	<word weight="0.01503006012024048" count="30">registration</word>
+	<word weight="0.014529058116232466" count="29">registrar</word>
+	<word weight="0.013527054108216433" count="27">committees</word>
+	<word weight="0.012525050100200401" count="25">training</word>
+	<word weight="0.011523046092184368" count="23">education</word>
+	<word weight="0.009519038076152305" count="19">gnc</word>
+	<word weight="0.008016032064128256" count="16">minutes</word>
+	<word weight="0.00751503006012024" count="15">examination</word>
+	<word weight="0.0070140280561122245" count="14">hospitals</word>
+	<word weight="0.006513026052104208" count="13">register</word>
+	<word weight="0.006513026052104208" count="13">committee</word>
+	<phrase weight="0.3285302593659942" count="114">general nursing council</phrase>
+	<phrase weight="0.06340057636887608" count="22">nursing council</phrase>
+	<phrase weight="0.023054755043227664" count="8">nursing education</phrase>
+	<phrase weight="0.011527377521613832" count="4">regional nurse training committees</phrase>
+	<phrase weight="0.008645533141210375" count="3">training schools</phrase>
+	<phrase weight="0.008645533141210375" count="3">final examination</phrase>
+	<phrase weight="0.008645533141210375" count="3">health visiting</phrase>
+	<phrase weight="0.008645533141210375" count="3">signed minutes</phrase>
+	<phrase weight="0.005763688760806916" count="2">draft minutes</phrase>
+	<phrase weight="0.005763688760806916" count="2">research unit</phrase>
+	<phrase weight="0.005763688760806916" count="2">royal college</phrase>
+	<phrase weight="0.005763688760806916" count="2">area nurse training committees</phrase>
+	<phrase weight="0.005763688760806916" count="2">wide range</phrase>
+	<phrase weight="0.005763688760806916" count="2">nurses act</phrase>
+	<phrase weight="0.005763688760806916" count="2">dame ellen musson</phrase>
+	<phrase weight="0.005763688760806916" count="2">registration body</phrase>
+	<phrase weight="0.005763688760806916" count="2">examinations set</phrase>
+	<phrase weight="0.005763688760806916" count="2">national health service</phrase>
+	<phrase weight="0.005763688760806916" count="2">intermediate examinations</phrase>
+	<phrase weight="0.005763688760806916" count="2">data processing</phrase>
+  </topic>
+</topics>

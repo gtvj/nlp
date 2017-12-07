@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0823839288613994" totalTokens="99" titles="maps, plans, drawings, place, state, london, area, places, centuries, sixteenth">
+	<word weight="0.0707070707070707" count="7">maps</word>
+	<word weight="0.050505050505050504" count="5">plans</word>
+	<word weight="0.04040404040404041" count="4">drawings</word>
+	<word weight="0.030303030303030304" count="3">place</word>
+	<word weight="0.030303030303030304" count="3">state</word>
+	<word weight="0.020202020202020204" count="2">london</word>
+	<word weight="0.020202020202020204" count="2">map</word>
+	<word weight="0.020202020202020204" count="2">area</word>
+	<word weight="0.020202020202020204" count="2">places</word>
+	<word weight="0.020202020202020204" count="2">centuries</word>
+	<word weight="0.020202020202020204" count="2">sixteenth</word>
+	<word weight="0.020202020202020204" count="2">ireland</word>
+	<word weight="0.020202020202020204" count="2">geographical</word>
+	<word weight="0.020202020202020204" count="2">public</word>
+	<word weight="0.010101010101010102" count="1">size</word>
+	<word weight="0.010101010101010102" count="1">measure</word>
+	<word weight="0.010101010101010102" count="1">preservation</word>
+	<word weight="0.010101010101010102" count="1">primarily</word>
+	<word weight="0.010101010101010102" count="1">transfer</word>
+	<word weight="0.010101010101010102" count="1">cater</word>
+  </topic>
+</topics>

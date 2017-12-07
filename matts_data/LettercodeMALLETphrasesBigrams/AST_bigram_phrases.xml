@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.63252087500363" totalTokens="1309" titles="unemployment assistance board, successors, benefits, resettlement, commission, national, local, business, internal, pensions">
+	<word weight="0.08097784568372804" count="106">assistance</word>
+	<word weight="0.07257448433919023" count="95">board</word>
+	<word weight="0.04736440030557677" count="62">unemployment</word>
+	<word weight="0.029793735676088617" count="39">benefits</word>
+	<word weight="0.029793735676088617" count="39">successors</word>
+	<word weight="0.029029793735676088" count="38">resettlement</word>
+	<word weight="0.02750190985485103" count="36">commission</word>
+	<word weight="0.023682200152788387" count="31">national</word>
+	<word weight="0.013750954927425516" count="18">local</word>
+	<word weight="0.012223071046600458" count="16">internal</word>
+	<word weight="0.012223071046600458" count="16">business</word>
+	<word weight="0.01145912910618793" count="15">pensions</word>
+	<word weight="0.009931245225362872" count="13">social</word>
+	<word weight="0.009167303284950344" count="12">reports</word>
+	<word weight="0.009167303284950344" count="12">unit</word>
+	<word weight="0.008403361344537815" count="11">representative</word>
+	<word weight="0.008403361344537815" count="11">case</word>
+	<word weight="0.007639419404125287" count="10">central</word>
+	<word weight="0.006875477463712758" count="9">act</word>
+	<word weight="0.006875477463712758" count="9">minutes</word>
+	<phrase weight="0.15789473684210525" count="42">unemployment assistance board</phrase>
+	<phrase weight="0.07518796992481203" count="20">national assistance board</phrase>
+	<phrase weight="0.05263157894736842" count="14">benefits commission</phrase>
+	<phrase weight="0.041353383458646614" count="11">assistance board</phrase>
+	<phrase weight="0.015037593984962405" count="4">local organisation</phrase>
+	<phrase weight="0.015037593984962405" count="4">sheffield resettlement unit</phrase>
+	<phrase weight="0.015037593984962405" count="4">national insurance</phrase>
+	<phrase weight="0.015037593984962405" count="4">legal aid</phrase>
+	<phrase weight="0.011278195488721804" count="3">previously assigned</phrase>
+	<phrase weight="0.011278195488721804" count="3">annual reports</phrase>
+	<phrase weight="0.007518796992481203" count="2">social welfare services</phrase>
+	<phrase weight="0.007518796992481203" count="2">social welfare provision</phrase>
+	<phrase weight="0.007518796992481203" count="2">chief executives</phrase>
+	<phrase weight="0.007518796992481203" count="2">assistance boards</phrase>
+	<phrase weight="0.007518796992481203" count="2">unemployment assistance act</phrase>
+	<phrase weight="0.007518796992481203" count="2">local pensions committees</phrase>
+	<phrase weight="0.007518796992481203" count="2">single homeless persons</phrase>
+	<phrase weight="0.007518796992481203" count="2">central policy</phrase>
+	<phrase weight="0.007518796992481203" count="2">age pensions</phrase>
+	<phrase weight="0.007518796992481203" count="2">camberwell resettlement unit</phrase>
+  </topic>
+</topics>

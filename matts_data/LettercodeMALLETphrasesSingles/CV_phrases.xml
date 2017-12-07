@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="11.958052371427259" totalTokens="192" titles="tribunals, tax, added, decisions, appeals, president, directions, notes, practice, reports">
+	<word weight="0.125" count="24">tribunals</word>
+	<word weight="0.10416666666666667" count="20">tax</word>
+	<word weight="0.09375" count="18">added</word>
+	<word weight="0.036458333333333336" count="7">decisions</word>
+	<word weight="0.03125" count="6">appeals</word>
+	<word weight="0.026041666666666668" count="5">president</word>
+	<word weight="0.020833333333333332" count="4">directions</word>
+	<word weight="0.020833333333333332" count="4">notes</word>
+	<word weight="0.020833333333333332" count="4">practice</word>
+	<word weight="0.020833333333333332" count="4">reports</word>
+	<word weight="0.020833333333333332" count="4">administration</word>
+	<word weight="0.015625" count="3">case</word>
+	<word weight="0.015625" count="3">cases</word>
+	<word weight="0.015625" count="3">guidance</word>
+	<word weight="0.015625" count="3">issued</word>
+	<word weight="0.015625" count="3">tribunal</word>
+	<word weight="0.015625" count="3">instructions</word>
+	<word weight="0.010416666666666666" count="2">chairmen</word>
+	<word weight="0.010416666666666666" count="2">folders</word>
+	<word weight="0.010416666666666666" count="2">decision</word>
+  </topic>
+</topics>

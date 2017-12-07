@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.5834025056227965" totalTokens="887" titles="books, manuscripts, oriental, receipt, copyright, division, british, correspondence, registers, lending">
+	<word weight="0.18038331454340473" count="160">books</word>
+	<word weight="0.09582863585118377" count="85">manuscripts</word>
+	<word weight="0.08004509582863585" count="71">oriental</word>
+	<word weight="0.033821871476888386" count="30">receipt</word>
+	<word weight="0.029312288613303268" count="26">copyright</word>
+	<word weight="0.02818489289740699" count="25">division</word>
+	<word weight="0.02593010146561443" count="23">british</word>
+	<word weight="0.02367531003382187" count="21">correspondence</word>
+	<word weight="0.02254791431792559" count="20">registers</word>
+	<word weight="0.020293122886133032" count="18">lending</word>
+	<word weight="0.015783540022547914" count="14">minutes</word>
+	<word weight="0.014656144306651634" count="13">library</word>
+	<word weight="0.013528748590755355" count="12">library's</word>
+	<word weight="0.013528748590755355" count="12">fully</word>
+	<word weight="0.013528748590755355" count="12">catalogued</word>
+	<word weight="0.012401352874859075" count="11">reports</word>
+	<word weight="0.010146561443066516" count="9">predecessor</word>
+	<word weight="0.010146561443066516" count="9">services</word>
+	<word weight="0.010146561443066516" count="9">bibliographic</word>
+	<word weight="0.010146561443066516" count="9">predecessors</word>
+  </topic>
+</topics>

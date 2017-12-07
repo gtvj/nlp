@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.303686508267269" totalTokens="4349" titles="ordnance survey, field survey, maps, boundaries, os, boundary, mapping, branch, public, levelling">
+	<word weight="0.05909404460795585" count="257">survey</word>
+	<word weight="0.045987583352494824" count="200">ordnance</word>
+	<word weight="0.028742239595309266" count="125">maps</word>
+	<word weight="0.023223729593009886" count="101">boundaries</word>
+	<word weight="0.022993791676247412" count="100">os</word>
+	<word weight="0.01724534375718556" count="75">boundary</word>
+	<word weight="0.012646585421936076" count="55">field</word>
+	<word weight="0.011956771671648655" count="52">mapping</word>
+	<word weight="0.011037020004598759" count="48">branch</word>
+	<word weight="0.010807082087836284" count="47">public</word>
+	<word weight="0.009887330420786388" count="43">map</word>
+	<word weight="0.00942745458726144" count="41">levelling</word>
+	<word weight="0.008967578753736492" count="39">directorate</word>
+	<word weight="0.008507702920211543" count="37">local</word>
+	<word weight="0.008277765003449069" count="36">books</word>
+	<word weight="0.008047827086686594" count="35">rights</word>
+	<word weight="0.008047827086686594" count="35">scale</word>
+	<word weight="0.007587951253161646" count="33">definitive</word>
+	<word weight="0.007587951253161646" count="33">county</word>
+	<word weight="0.0073580133363991725" count="32">inch</word>
+	<phrase weight="0.1334120425029516" count="113">ordnance survey</phrase>
+	<phrase weight="0.04132231404958678" count="35">field survey</phrase>
+	<phrase weight="0.01652892561983471" count="14">definitive maps</phrase>
+	<phrase weight="0.014167650531286895" count="12">local authorities</phrase>
+	<phrase weight="0.012987012987012988" count="11">uk government</phrase>
+	<phrase weight="0.011806375442739079" count="10">great britain</phrase>
+	<phrase weight="0.010625737898465172" count="9">levelling divisions</phrase>
+	<phrase weight="0.009445100354191263" count="8">ordnance survey maps</phrase>
+	<phrase weight="0.008264462809917356" count="7">public boundaries</phrase>
+	<phrase weight="0.008264462809917356" count="7">sketch maps</phrase>
+	<phrase weight="0.0059031877213695395" count="5">national grid</phrase>
+	<phrase weight="0.0059031877213695395" count="5">boundary remark books</phrase>
+	<phrase weight="0.0059031877213695395" count="5">public path orders</phrase>
+	<phrase weight="0.004722550177095631" count="4">county boroughs</phrase>
+	<phrase weight="0.004722550177095631" count="4">ordnance survey act</phrase>
+	<phrase weight="0.004722550177095631" count="4">director small</phrase>
+	<phrase weight="0.004722550177095631" count="4">inch maps</phrase>
+	<phrase weight="0.004722550177095631" count="4">director general</phrase>
+	<phrase weight="0.004722550177095631" count="4">national mapping</phrase>
+	<phrase weight="0.004722550177095631" count="4">scale mapping</phrase>
+  </topic>
+</topics>

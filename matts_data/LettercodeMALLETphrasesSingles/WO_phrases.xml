@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.058137164183408" totalTokens="16326" titles="war, general, forces, army, military, reports, headquarters, books, service, world">
+	<word weight="0.0521254440769325" count="851">war</word>
+	<word weight="0.01733431336518437" count="283">general</word>
+	<word weight="0.015251745681734657" count="249">forces</word>
+	<word weight="0.015129241700355262" count="247">army</word>
+	<word weight="0.014087957858630406" count="230">military</word>
+	<word weight="0.011270366286904324" count="184">reports</word>
+	<word weight="0.011025358324145534" count="180">headquarters</word>
+	<word weight="0.009310302584834007" count="152">books</word>
+	<word weight="0.00900404263138552" count="147">service</word>
+	<word weight="0.00900404263138552" count="147">world</word>
+	<word weight="0.008942790640695822" count="146">royal</word>
+	<word weight="0.008820286659316428" count="144">armed</word>
+	<word weight="0.008820286659316428" count="144">british</word>
+	<word weight="0.0074114908734533875" count="121">corps</word>
+	<word weight="0.0071052309200049" count="116">regiments</word>
+	<word weight="0.006431459022418228" count="105">officers</word>
+	<word weight="0.0063089550410388336" count="103">registers</word>
+	<word weight="0.006002695087590347" count="98">advocate</word>
+	<word weight="0.005941443096900649" count="97">judge</word>
+	<word weight="0.00569643513414186" count="93">maps</word>
+  </topic>
+</topics>

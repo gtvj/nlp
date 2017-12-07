@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="22.9353633944803" totalTokens="141" titles="government, reports, actuary's, committee, national, approved, actuarys, annual, correspondence, calculations">
+	<word weight="0.09929078014184398" count="14">government</word>
+	<word weight="0.06382978723404255" count="9">reports</word>
+	<word weight="0.05673758865248227" count="8">actuary's</word>
+	<word weight="0.05673758865248227" count="8">act</word>
+	<word weight="0.03546099290780142" count="5">committee</word>
+	<word weight="0.028368794326241134" count="4">national</word>
+	<word weight="0.028368794326241134" count="4">approved</word>
+	<word weight="0.02127659574468085" count="3">actuarys</word>
+	<word weight="0.02127659574468085" count="3">annual</word>
+	<word weight="0.02127659574468085" count="3">correspondence</word>
+	<word weight="0.02127659574468085" count="3">calculations</word>
+	<word weight="0.02127659574468085" count="3">insurance</word>
+	<word weight="0.02127659574468085" count="3">actuary</word>
+	<word weight="0.02127659574468085" count="3">valuation</word>
+	<word weight="0.02127659574468085" count="3">valuations</word>
+	<word weight="0.02127659574468085" count="3">societies</word>
+	<word weight="0.014184397163120567" count="2">war</word>
+	<word weight="0.014184397163120567" count="2">advisory</word>
+	<word weight="0.014184397163120567" count="2">actuarial</word>
+	<word weight="0.014184397163120567" count="2">governments</word>
+  </topic>
+</topics>

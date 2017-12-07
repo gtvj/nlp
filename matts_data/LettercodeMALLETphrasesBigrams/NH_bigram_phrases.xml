@@ -1,0 +1,19 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="2.596912038563674" totalTokens="26" titles="countryside, wales, council, dataset, bats, nh, fauna, flora, welsh, conservation">
+	<word weight="0.19230769230769232" count="5">countryside</word>
+	<word weight="0.15384615384615385" count="4">wales</word>
+	<word weight="0.15384615384615385" count="4">council</word>
+	<word weight="0.11538461538461539" count="3">dataset</word>
+	<word weight="0.11538461538461539" count="3">bats</word>
+	<word weight="0.11538461538461539" count="3">nh</word>
+	<word weight="0.038461538461538464" count="1">fauna</word>
+	<word weight="0.038461538461538464" count="1">flora</word>
+	<word weight="0.038461538461538464" count="1">welsh</word>
+	<word weight="0.038461538461538464" count="1">conservation</word>
+	<phrase weight="0.5" count="3">countryside council</phrase>
+	<phrase weight="0.16666666666666666" count="1">bats dataset</phrase>
+	<phrase weight="0.16666666666666666" count="1">bats dataset countryside council</phrase>
+	<phrase weight="0.16666666666666666" count="1">welsh countryside</phrase>
+  </topic>
+</topics>

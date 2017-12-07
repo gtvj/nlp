@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.186533530229553" totalTokens="363" titles="committee, potato, board, reports, marketing, minutes, advisory, statutory, boards, considered">
+	<word weight="0.12672176308539945" count="46">committee</word>
+	<word weight="0.10743801652892562" count="39">potato</word>
+	<word weight="0.09917355371900827" count="36">board</word>
+	<word weight="0.0881542699724518" count="32">reports</word>
+	<word weight="0.0881542699724518" count="32">marketing</word>
+	<word weight="0.07988980716253444" count="29">minutes</word>
+	<word weight="0.01652892561983471" count="6">advisory</word>
+	<word weight="0.01652892561983471" count="6">statutory</word>
+	<word weight="0.013774104683195593" count="5">boards</word>
+	<word weight="0.013774104683195593" count="5">considered</word>
+	<word weight="0.011019283746556474" count="4">ireland</word>
+	<word weight="0.011019283746556474" count="4">northern</word>
+	<word weight="0.011019283746556474" count="4">joint</word>
+	<word weight="0.011019283746556474" count="4">retailers</word>
+	<word weight="0.011019283746556474" count="4">producers</word>
+	<word weight="0.011019283746556474" count="4">basic</word>
+	<word weight="0.008264462809917356" count="3">executive</word>
+	<word weight="0.008264462809917356" count="3">resolutions</word>
+	<word weight="0.008264462809917356" count="3">accounts</word>
+	<word weight="0.008264462809917356" count="3">annual</word>
+  </topic>
+</topics>

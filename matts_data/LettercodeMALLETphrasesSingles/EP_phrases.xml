@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="59.54374529714772" totalTokens="101" titles="art, works, export, committee, reviewing, minutes, council, advisory, sale, enquiry">
+	<word weight="0.1188118811881188" count="12">art</word>
+	<word weight="0.1188118811881188" count="12">works</word>
+	<word weight="0.09900990099009901" count="10">export</word>
+	<word weight="0.0891089108910891" count="9">committee</word>
+	<word weight="0.07920792079207921" count="8">reviewing</word>
+	<word weight="0.06930693069306931" count="7">minutes</word>
+	<word weight="0.0594059405940594" count="6">council</word>
+	<word weight="0.0594059405940594" count="6">advisory</word>
+	<word weight="0.019801980198019802" count="2">sale</word>
+	<word weight="0.019801980198019802" count="2">enquiry</word>
+	<word weight="0.019801980198019802" count="2">reports</word>
+	<word weight="0.019801980198019802" count="2">annual</word>
+	<word weight="0.019801980198019802" count="2">advice</word>
+	<word weight="0.009900990099009901" count="1">controls</word>
+	<word weight="0.009900990099009901" count="1">science</word>
+	<word weight="0.009900990099009901" count="1">education</word>
+	<word weight="0.009900990099009901" count="1">public</word>
+	<word weight="0.009900990099009901" count="1">treasury</word>
+	<word weight="0.009900990099009901" count="1">pre</word>
+	<word weight="0.009900990099009901" count="1">cases</word>
+  </topic>
+</topics>

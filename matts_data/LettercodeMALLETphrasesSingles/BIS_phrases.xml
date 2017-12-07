@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.244029080847841" totalTokens="2050" titles="skills, bis, business, innovation, government, east, midlands, service, funding, general">
+	<word weight="0.10536585365853658" count="216">skills</word>
+	<word weight="0.09853658536585366" count="202">bis</word>
+	<word weight="0.0951219512195122" count="195">business</word>
+	<word weight="0.09317073170731707" count="191">innovation</word>
+	<word weight="0.08195121951219513" count="168">government</word>
+	<word weight="0.018536585365853658" count="38">east</word>
+	<word weight="0.013658536585365854" count="28">midlands</word>
+	<word weight="0.011707317073170732" count="24">service</word>
+	<word weight="0.01121951219512195" count="23">funding</word>
+	<word weight="0.01024390243902439" count="21">general</word>
+	<word weight="0.00975609756097561" count="20">west</word>
+	<word weight="0.00975609756097561" count="20">field</word>
+	<word weight="0.00878048780487805" count="18">south</word>
+	<word weight="0.00878048780487805" count="18">nextstep</word>
+	<word weight="0.007804878048780488" count="16">training</word>
+	<word weight="0.007317073170731708" count="15">board</word>
+	<word weight="0.006829268292682927" count="14">national</word>
+	<word weight="0.005853658536585366" count="12">london</word>
+	<word weight="0.005853658536585366" count="12">statistics</word>
+	<word weight="0.004878048780487805" count="10">engineering</word>
+  </topic>
+</topics>

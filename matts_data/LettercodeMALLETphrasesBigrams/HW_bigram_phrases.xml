@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.253103455775431" totalTokens="4224" titles="government code, government communications headquarters, cypher, school, reports, hw, general, war, intelligence, section">
+	<word weight="0.049479166666666664" count="209">government</word>
+	<word weight="0.042850378787878785" count="181">cypher</word>
+	<word weight="0.041666666666666664" count="176">code</word>
+	<word weight="0.04142992424242424" count="175">school</word>
+	<word weight="0.026988636363636364" count="114">reports</word>
+	<word weight="0.022727272727272728" count="96">hw</word>
+	<word weight="0.019649621212121212" count="83">general</word>
+	<word weight="0.018465909090909092" count="78">war</word>
+	<word weight="0.017992424242424244" count="76">intelligence</word>
+	<word weight="0.017518939393939392" count="74">communications</word>
+	<word weight="0.016098484848484848" count="68">section</word>
+	<word weight="0.015625" count="66">messages</word>
+	<word weight="0.01231060606060606" count="52">german</word>
+	<word weight="0.01112689393939394" count="47">air</word>
+	<word weight="0.009943181818181818" count="42">signals</word>
+	<word weight="0.009232954545454546" count="39">naval</word>
+	<word weight="0.008996212121212122" count="38">world</word>
+	<word weight="0.008285984848484848" count="35">japanese</word>
+	<word weight="0.007575757575757576" count="32">diplomatic</word>
+	<word weight="0.007575757575757576" count="32">headquarters</word>
+	<phrase weight="0.1912632821723731" count="162">government code</phrase>
+	<phrase weight="0.02715466351829988" count="23">government communications headquarters</phrase>
+	<phrase weight="0.015348288075560802" count="13">world war</phrase>
+	<phrase weight="0.011806375442739079" count="10">naval section</phrase>
+	<phrase weight="0.010625737898465172" count="9">signals intelligence</phrase>
+	<phrase weight="0.009445100354191263" count="8">bletchley park</phrase>
+	<phrase weight="0.008264462809917356" count="7">diplomatic section</phrase>
+	<phrase weight="0.0070838252656434475" count="6">cypher school</phrase>
+	<phrase weight="0.0070838252656434475" count="6">uk government</phrase>
+	<phrase weight="0.0059031877213695395" count="5">commercial section</phrase>
+	<phrase weight="0.0059031877213695395" count="5">air section</phrase>
+	<phrase weight="0.0059031877213695395" count="5">intelligence reports</phrase>
+	<phrase weight="0.0035419126328217238" count="3">national technical authority</phrase>
+	<phrase weight="0.0035419126328217238" count="3">sigint board</phrase>
+	<phrase weight="0.0035419126328217238" count="3">soviet union</phrase>
+	<phrase weight="0.0035419126328217238" count="3">military section</phrase>
+	<phrase weight="0.0035419126328217238" count="3">spanish civil war</phrase>
+	<phrase weight="0.0035419126328217238" count="3">intercepted enemy communications</phrase>
+	<phrase weight="0.0035419126328217238" count="3">research section</phrase>
+	<phrase weight="0.0035419126328217238" count="3">combined bureau</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0" totalTokens="138" titles="court, books, steward, peveril, honour, thomas, degge, pleadings, recording, middleton">
+	<word weight="0.07246376811594203" count="10">court</word>
+	<word weight="0.050724637681159424" count="7">books</word>
+	<word weight="0.028985507246376812" count="4">steward</word>
+	<word weight="0.028985507246376812" count="4">peveril</word>
+	<word weight="0.028985507246376812" count="4">honour</word>
+	<word weight="0.021739130434782608" count="3">thomas</word>
+	<word weight="0.021739130434782608" count="3">degge</word>
+	<word weight="0.021739130434782608" count="3">pleadings</word>
+	<word weight="0.021739130434782608" count="3">recording</word>
+	<word weight="0.014492753623188406" count="2">middleton</word>
+	<word weight="0.014492753623188406" count="2">lord</word>
+	<word weight="0.014492753623188406" count="2">break</word>
+	<word weight="0.014492753623188406" count="2">patent</word>
+	<word weight="0.014492753623188406" count="2">letters</word>
+	<word weight="0.014492753623188406" count="2">appointed</word>
+	<word weight="0.014492753623188406" count="2">eyre</word>
+	<word weight="0.014492753623188406" count="2">long</word>
+	<word weight="0.014492753623188406" count="2">continued</word>
+	<word weight="0.014492753623188406" count="2">writs</word>
+	<word weight="0.014492753623188406" count="2">proceedings</word>
+  </topic>
+</topics>

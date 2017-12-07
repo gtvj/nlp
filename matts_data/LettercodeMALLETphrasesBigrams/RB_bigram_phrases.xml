@@ -1,0 +1,32 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="86.26125268783227" totalTokens="89" titles="inspectorate, learning, adult, reports, rb, digital, council, standards, training, annual">
+	<word weight="0.11235955056179775" count="10">inspectorate</word>
+	<word weight="0.10112359550561797" count="9">learning</word>
+	<word weight="0.10112359550561797" count="9">adult</word>
+	<word weight="0.0898876404494382" count="8">reports</word>
+	<word weight="0.0898876404494382" count="8">rb</word>
+	<word weight="0.056179775280898875" count="5">digital</word>
+	<word weight="0.056179775280898875" count="5">council</word>
+	<word weight="0.056179775280898875" count="5">standards</word>
+	<word weight="0.056179775280898875" count="5">training</word>
+	<word weight="0.0449438202247191" count="4">annual</word>
+	<word weight="0.033707865168539325" count="3">predecessor</word>
+	<word weight="0.02247191011235955" count="2">march</word>
+	<word weight="0.02247191011235955" count="2">national</word>
+	<word weight="0.02247191011235955" count="2">migration</word>
+	<word weight="0.02247191011235955" count="2">programme</word>
+	<word weight="0.011235955056179775" count="1">online</word>
+	<word weight="0.011235955056179775" count="1">electronic</word>
+	<word weight="0.011235955056179775" count="1">division</word>
+	<word weight="0.011235955056179775" count="1">government</word>
+	<word weight="0.011235955056179775" count="1">uk</word>
+	<phrase weight="0.25" count="4">training standards council</phrase>
+	<phrase weight="0.25" count="4">learning inspectorate</phrase>
+	<phrase weight="0.25" count="4">adult learning inspectorate</phrase>
+	<phrase weight="0.0625" count="1">standards council</phrase>
+	<phrase weight="0.0625" count="1">inspection reports</phrase>
+	<phrase weight="0.0625" count="1">annual reports</phrase>
+	<phrase weight="0.0625" count="1">chief inspector</phrase>
+  </topic>
+</topics>

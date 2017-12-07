@@ -1,0 +1,35 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="54.17009429967722" totalTokens="91" titles="curriculum, wales, council, jl, reports, welsh, minutes, annual, panel, subject">
+	<word weight="0.13186813186813187" count="12">curriculum</word>
+	<word weight="0.10989010989010989" count="10">wales</word>
+	<word weight="0.10989010989010989" count="10">council</word>
+	<word weight="0.0989010989010989" count="9">jl</word>
+	<word weight="0.04395604395604396" count="4">reports</word>
+	<word weight="0.04395604395604396" count="4">welsh</word>
+	<word weight="0.04395604395604396" count="4">minutes</word>
+	<word weight="0.03296703296703297" count="3">annual</word>
+	<word weight="0.03296703296703297" count="3">panel</word>
+	<word weight="0.03296703296703297" count="3">subject</word>
+	<word weight="0.02197802197802198" count="2">steering</word>
+	<word weight="0.01098901098901099" count="1">national</word>
+	<word weight="0.01098901098901099" count="1">administration</word>
+	<word weight="0.01098901098901099" count="1">authority</word>
+	<word weight="0.01098901098901099" count="1">assessment</word>
+	<word weight="0.01098901098901099" count="1">march</word>
+	<word weight="0.01098901098901099" count="1">april</word>
+	<word weight="0.01098901098901099" count="1">subsequent</word>
+	<word weight="0.01098901098901099" count="1">existence</word>
+	<word weight="0.01098901098901099" count="1">months</word>
+	<phrase weight="0.38095238095238093" count="8">curriculum council</phrase>
+	<phrase weight="0.14285714285714285" count="3">welsh subject panel</phrase>
+	<phrase weight="0.09523809523809523" count="2">curriculum steering</phrase>
+	<phrase weight="0.09523809523809523" count="2">annual reports</phrase>
+	<phrase weight="0.047619047619047616" count="1">subsequent reports</phrase>
+	<phrase weight="0.047619047619047616" count="1">key stages</phrase>
+	<phrase weight="0.047619047619047616" count="1">eighteen months</phrase>
+	<phrase weight="0.047619047619047616" count="1">short life</phrase>
+	<phrase weight="0.047619047619047616" count="1">assessment authority</phrase>
+	<phrase weight="0.047619047619047616" count="1">national curriculum</phrase>
+  </topic>
+</topics>

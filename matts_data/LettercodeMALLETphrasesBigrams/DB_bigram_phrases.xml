@@ -1,0 +1,41 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="18.39365248359177" totalTokens="138" titles="council, national, awards, db, academic, minutes, reports, boards, committee, panels">
+	<word weight="0.13768115942028986" count="19">council</word>
+	<word weight="0.10869565217391304" count="15">national</word>
+	<word weight="0.10144927536231885" count="14">awards</word>
+	<word weight="0.07971014492753623" count="11">db</word>
+	<word weight="0.06521739130434782" count="9">academic</word>
+	<word weight="0.050724637681159424" count="7">minutes</word>
+	<word weight="0.050724637681159424" count="7">reports</word>
+	<word weight="0.028985507246376812" count="4">boards</word>
+	<word weight="0.028985507246376812" count="4">committee</word>
+	<word weight="0.021739130434782608" count="3">panels</word>
+	<word weight="0.021739130434782608" count="3">charter</word>
+	<word weight="0.021739130434782608" count="3">royal</word>
+	<word weight="0.021739130434782608" count="3">design</word>
+	<word weight="0.021739130434782608" count="3">art</word>
+	<word weight="0.021739130434782608" count="3">diplomas</word>
+	<word weight="0.021739130434782608" count="3">technological</word>
+	<word weight="0.021739130434782608" count="3">meetings</word>
+	<word weight="0.021739130434782608" count="3">annual</word>
+	<word weight="0.014492753623188406" count="2">studies</word>
+	<word weight="0.014492753623188406" count="2">committees</word>
+	<phrase weight="0.2692307692307692" count="7">national academic awards</phrase>
+	<phrase weight="0.19230769230769232" count="5">national council</phrase>
+	<phrase weight="0.038461538461538464" count="1">working parties</phrase>
+	<phrase weight="0.038461538461538464" count="1">technological awards</phrase>
+	<phrase weight="0.038461538461538464" count="1">reports meetings</phrase>
+	<phrase weight="0.038461538461538464" count="1">committee minutes</phrase>
+	<phrase weight="0.038461538461538464" count="1">charter royal charter</phrase>
+	<phrase weight="0.038461538461538464" count="1">general committees</phrase>
+	<phrase weight="0.038461538461538464" count="1">reports minutes</phrase>
+	<phrase weight="0.038461538461538464" count="1">reports annual reports</phrase>
+	<phrase weight="0.038461538461538464" count="1">higher education</phrase>
+	<phrase weight="0.038461538461538464" count="1">joint steering committee</phrase>
+	<phrase weight="0.038461538461538464" count="1">specialist panels</phrase>
+	<phrase weight="0.038461538461538464" count="1">governing body</phrase>
+	<phrase weight="0.038461538461538464" count="1">higher awards committee</phrase>
+	<phrase weight="0.038461538461538464" count="1">annual reports</phrase>
+  </topic>
+</topics>

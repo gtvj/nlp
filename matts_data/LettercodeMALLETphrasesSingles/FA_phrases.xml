@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.6460800308259345" totalTokens="47" titles="gas, supply, reports, annual, ofgas, industry, regulation, pipelines, interests, consumers">
+	<word weight="0.19148936170212766" count="9">gas</word>
+	<word weight="0.1276595744680851" count="6">supply</word>
+	<word weight="0.06382978723404255" count="3">reports</word>
+	<word weight="0.06382978723404255" count="3">annual</word>
+	<word weight="0.0425531914893617" count="2">ofgas</word>
+	<word weight="0.0425531914893617" count="2">report</word>
+	<word weight="0.02127659574468085" count="1">industry</word>
+	<word weight="0.02127659574468085" count="1">regulation</word>
+	<word weight="0.02127659574468085" count="1">pipelines</word>
+	<word weight="0.02127659574468085" count="1">interests</word>
+	<word weight="0.02127659574468085" count="1">consumers</word>
+	<word weight="0.02127659574468085" count="1">protection</word>
+	<word weight="0.02127659574468085" count="1">subjects</word>
+	<word weight="0.02127659574468085" count="1">end</word>
+	<word weight="0.02127659574468085" count="1">energy</word>
+	<word weight="0.02127659574468085" count="1">state</word>
+	<word weight="0.02127659574468085" count="1">secretary</word>
+	<word weight="0.02127659574468085" count="1">publish</word>
+	<word weight="0.02127659574468085" count="1">commission</word>
+	<word weight="0.02127659574468085" count="1">mergers</word>
+  </topic>
+</topics>

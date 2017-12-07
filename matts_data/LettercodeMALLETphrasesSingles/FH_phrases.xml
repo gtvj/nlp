@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.928702569111357" totalTokens="579" titles="bus, national, company, central, transport, administration, nbc, companies, board, minutes">
+	<word weight="0.08808290155440414" count="51">bus</word>
+	<word weight="0.0846286701208981" count="49">national</word>
+	<word weight="0.07944732297063903" count="46">company</word>
+	<word weight="0.025906735751295335" count="15">central</word>
+	<word weight="0.024179620034542316" count="14">transport</word>
+	<word weight="0.024179620034542316" count="14">administration</word>
+	<word weight="0.017271157167530225" count="10">nbc</word>
+	<word weight="0.017271157167530225" count="10">companies</word>
+	<word weight="0.015544041450777202" count="9">board</word>
+	<word weight="0.015544041450777202" count="9">minutes</word>
+	<word weight="0.015544041450777202" count="9">unregistered</word>
+	<word weight="0.012089810017271158" count="7">regional</word>
+	<word weight="0.008635578583765112" count="5">staff</word>
+	<word weight="0.008635578583765112" count="5">policy</word>
+	<word weight="0.008635578583765112" count="5">services</word>
+	<word weight="0.008635578583765112" count="5">local</word>
+	<word weight="0.008635578583765112" count="5">correspondence</word>
+	<word weight="0.008635578583765112" count="5">nbc's</word>
+	<word weight="0.008635578583765112" count="5">development</word>
+	<word weight="0.008635578583765112" count="5">region</word>
+  </topic>
+</topics>

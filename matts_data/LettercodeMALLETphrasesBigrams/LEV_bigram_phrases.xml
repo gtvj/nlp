@@ -1,0 +1,37 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="32.26293083506859" totalTokens="128" titles="inquiry, leveson, press, ethics, practices, culture, recordings, video, transcripts, evidence">
+	<word weight="0.1875" count="24">inquiry</word>
+	<word weight="0.078125" count="10">leveson</word>
+	<word weight="0.0625" count="8">press</word>
+	<word weight="0.0625" count="8">ethics</word>
+	<word weight="0.0625" count="8">practices</word>
+	<word weight="0.0625" count="8">culture</word>
+	<word weight="0.046875" count="6">recordings</word>
+	<word weight="0.046875" count="6">video</word>
+	<word weight="0.03125" count="4">transcripts</word>
+	<word weight="0.03125" count="4">evidence</word>
+	<word weight="0.0234375" count="3">administrative</word>
+	<word weight="0.0234375" count="3">reviews</word>
+	<word weight="0.0234375" count="3">judicial</word>
+	<word weight="0.0234375" count="3">hearings</word>
+	<word weight="0.015625" count="2">government</word>
+	<word weight="0.0078125" count="1">chairman</word>
+	<word weight="0.0078125" count="1">rulings</word>
+	<word weight="0.0078125" count="1">oral</word>
+	<word weight="0.0078125" count="1">statements</word>
+	<word weight="0.0078125" count="1">witness</word>
+	<phrase weight="0.36363636363636365" count="8">leveson inquiry</phrase>
+	<phrase weight="0.13636363636363635" count="3">video recordings</phrase>
+	<phrase weight="0.09090909090909091" count="2">judicial reviews</phrase>
+	<phrase weight="0.045454545454545456" count="1">oral hearings</phrase>
+	<phrase weight="0.045454545454545456" count="1">inquiry terms</phrase>
+	<phrase weight="0.045454545454545456" count="1">average size</phrase>
+	<phrase weight="0.045454545454545456" count="1">final report</phrase>
+	<phrase weight="0.045454545454545456" count="1">evidence submitted</phrase>
+	<phrase weight="0.045454545454545456" count="1">administrative running</phrase>
+	<phrase weight="0.045454545454545456" count="1">witness statements</phrase>
+	<phrase weight="0.045454545454545456" count="1">piece level</phrase>
+	<phrase weight="0.045454545454545456" count="1">uk government</phrase>
+  </topic>
+</topics>

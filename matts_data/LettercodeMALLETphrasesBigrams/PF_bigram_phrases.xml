@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.165983443954079" totalTokens="3432" titles="uk government, culture, sport, media, pf, museum, london, national, www, olympic">
+	<word weight="0.0777972027972028" count="267">uk</word>
+	<word weight="0.0743006993006993" count="255">culture</word>
+	<word weight="0.07080419580419581" count="243">sport</word>
+	<word weight="0.06934731934731934" count="238">media</word>
+	<word weight="0.06351981351981352" count="218">pf</word>
+	<word weight="0.06264568764568765" count="215">government</word>
+	<word weight="0.024475524475524476" count="84">museum</word>
+	<word weight="0.02156177156177156" count="74">london</word>
+	<word weight="0.017191142191142192" count="59">national</word>
+	<word weight="0.01078088578088578" count="37">www</word>
+	<word weight="0.009032634032634032" count="31">olympic</word>
+	<word weight="0.008158508158508158" count="28">http</word>
+	<word weight="0.007867132867132868" count="27">british</word>
+	<word weight="0.007575757575757576" count="26">org</word>
+	<word weight="0.006993006993006993" count="24">dcms</word>
+	<word weight="0.006993006993006993" count="24">field</word>
+	<word weight="0.006993006993006993" count="24">general</word>
+	<word weight="0.006701631701631702" count="23">games</word>
+	<word weight="0.00641025641025641" count="22">britain</word>
+	<word weight="0.00641025641025641" count="22">tate</word>
+	<phrase weight="0.20454545454545456" count="117">uk government</phrase>
+	<phrase weight="0.027972027972027972" count="16">albert museum</phrase>
+	<phrase weight="0.022727272727272728" count="13">visit britain</phrase>
+	<phrase weight="0.015734265734265736" count="9">national museums liverpool</phrase>
+	<phrase weight="0.015734265734265736" count="9">british film institute</phrase>
+	<phrase weight="0.012237762237762238" count="7">royal armouries</phrase>
+	<phrase weight="0.008741258741258742" count="5">museums liverpool</phrase>
+	<phrase weight="0.008741258741258742" count="5">heritage lottery fund</phrase>
+	<phrase weight="0.006993006993006993" count="4">paralympic games</phrase>
+	<phrase weight="0.006993006993006993" count="4">uk anti</phrase>
+	<phrase weight="0.006993006993006993" count="4">learning legacy</phrase>
+	<phrase weight="0.006993006993006993" count="4">british museum</phrase>
+	<phrase weight="0.006993006993006993" count="4">london group</phrase>
+	<phrase weight="0.006993006993006993" count="4">national railway museum</phrase>
+	<phrase weight="0.005244755244755245" count="3">national lottery awards database</phrase>
+	<phrase weight="0.005244755244755245" count="3">public services</phrase>
+	<phrase weight="0.005244755244755245" count="3">government olympic communication</phrase>
+	<phrase weight="0.005244755244755245" count="3">science museum</phrase>
+	<phrase weight="0.005244755244755245" count="3">set london roadshow blog</phrase>
+	<phrase weight="0.005244755244755245" count="3">connection vouchers</phrase>
+  </topic>
+</topics>

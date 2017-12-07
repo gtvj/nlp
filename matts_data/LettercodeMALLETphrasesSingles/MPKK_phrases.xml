@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.369478484435963" totalTokens="57" titles="maps, plans, place, drawings, foreign, extra, public, size, measure, preservation">
+	<word weight="0.08771929824561403" count="5">maps</word>
+	<word weight="0.07017543859649122" count="4">plans</word>
+	<word weight="0.05263157894736842" count="3">place</word>
+	<word weight="0.05263157894736842" count="3">drawings</word>
+	<word weight="0.05263157894736842" count="3">foreign</word>
+	<word weight="0.03508771929824561" count="2">extra</word>
+	<word weight="0.03508771929824561" count="2">public</word>
+	<word weight="0.017543859649122806" count="1">size</word>
+	<word weight="0.017543859649122806" count="1">measure</word>
+	<word weight="0.017543859649122806" count="1">preservation</word>
+	<word weight="0.017543859649122806" count="1">primarily</word>
+	<word weight="0.017543859649122806" count="1">transfer</word>
+	<word weight="0.017543859649122806" count="1">cater</word>
+	<word weight="0.017543859649122806" count="1">century</word>
+	<word weight="0.017543859649122806" count="1">twentieth</word>
+	<word weight="0.017543859649122806" count="1">accumulations</word>
+	<word weight="0.017543859649122806" count="1">artificial</word>
+	<word weight="0.017543859649122806" count="1">location</word>
+	<word weight="0.017543859649122806" count="1">inverted</word>
+	<word weight="0.017543859649122806" count="1">drawing</word>
+  </topic>
+</topics>

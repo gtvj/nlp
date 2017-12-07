@@ -1,0 +1,41 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="9.702801077699437" totalTokens="186" titles="training, pb, teaching, teacher, development, government, uk, minutes, tda, board">
+	<word weight="0.10215053763440861" count="19">training</word>
+	<word weight="0.08602150537634409" count="16">pb</word>
+	<word weight="0.07526881720430108" count="14">teaching</word>
+	<word weight="0.06451612903225806" count="12">teacher</word>
+	<word weight="0.05913978494623656" count="11">development</word>
+	<word weight="0.04838709677419355" count="9">government</word>
+	<word weight="0.04838709677419355" count="9">uk</word>
+	<word weight="0.03763440860215054" count="7">minutes</word>
+	<word weight="0.03225806451612903" count="6">tda</word>
+	<word weight="0.03225806451612903" count="6">board</word>
+	<word weight="0.021505376344086023" count="4">education</word>
+	<word weight="0.021505376344086023" count="4">level</word>
+	<word weight="0.021505376344086023" count="4">management</word>
+	<word weight="0.016129032258064516" count="3">plans</word>
+	<word weight="0.016129032258064516" count="3">corporate</word>
+	<word weight="0.016129032258064516" count="3">annual</word>
+	<word weight="0.016129032258064516" count="3">schools</word>
+	<word weight="0.016129032258064516" count="3">electronic</word>
+	<word weight="0.010752688172043012" count="2">starting</word>
+	<word weight="0.010752688172043012" count="2">hub</word>
+	<phrase weight="0.2" count="5">teacher training</phrase>
+	<phrase weight="0.08" count="2">management board</phrase>
+	<phrase weight="0.08" count="2">teacher training resource bank</phrase>
+	<phrase weight="0.08" count="2">data provision</phrase>
+	<phrase weight="0.08" count="2">high level teaching assistants</phrase>
+	<phrase weight="0.08" count="2">electronic minutes</phrase>
+	<phrase weight="0.04" count="1">teacher development hub</phrase>
+	<phrase weight="0.04" count="1">financial statements</phrase>
+	<phrase weight="0.04" count="1">development hub</phrase>
+	<phrase weight="0.04" count="1">previous meeting</phrase>
+	<phrase weight="0.04" count="1">corporate plans</phrase>
+	<phrase weight="0.04" count="1">annual reports</phrase>
+	<phrase weight="0.04" count="1">level teaching assistant program</phrase>
+	<phrase weight="0.04" count="1">higher level teaching assistant program</phrase>
+	<phrase weight="0.04" count="1">uk government</phrase>
+	<phrase weight="0.04" count="1">national college</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.20285705248967" totalTokens="4395" titles="aviation, aircraft, development, research, civil, production, general, supply, successors, reports">
+	<word weight="0.048464163822525594" count="213">aviation</word>
+	<word weight="0.04550625711035267" count="200">aircraft</word>
+	<word weight="0.03617747440273038" count="159">development</word>
+	<word weight="0.0348122866894198" count="153">research</word>
+	<word weight="0.03094425483503982" count="136">civil</word>
+	<word weight="0.02844141069397042" count="125">air</word>
+	<word weight="0.026848691695108076" count="118">production</word>
+	<word weight="0.023208191126279865" count="102">general</word>
+	<word weight="0.01956769055745165" count="86">supply</word>
+	<word weight="0.018657565415244597" count="82">successors</word>
+	<word weight="0.015244596131968146" count="67">reports</word>
+	<word weight="0.014334470989761093" count="63">royal</word>
+	<word weight="0.011604095563139932" count="51">division</word>
+	<word weight="0.008873720136518772" count="39">drawings</word>
+	<word weight="0.008646188850967008" count="38">technical</word>
+	<word weight="0.007736063708759955" count="34">control</word>
+	<word weight="0.007053469852104664" count="31">committee</word>
+	<word weight="0.006370875995449375" count="28">branch</word>
+	<word weight="0.0061433447098976105" count="27">directorate</word>
+	<word weight="0.005915813424345847" count="26">predecessors</word>
+  </topic>
+</topics>

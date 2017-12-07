@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.156836556723201" totalTokens="4101" titles="uk government, defence, intelligence, staff, service, royal, reports, scientific, army, general">
+	<word weight="0.10680321872713973" count="438">defence</word>
+	<word weight="0.04120946110704706" count="169">uk</word>
+	<word weight="0.034869544013655204" count="143">government</word>
+	<word weight="0.029261155815654718" count="120">intelligence</word>
+	<word weight="0.016581321628871007" count="68">staff</word>
+	<word weight="0.01341136308217508" count="55">service</word>
+	<word weight="0.013167520117044623" count="54">royal</word>
+	<word weight="0.011460619361131432" count="47">reports</word>
+	<word weight="0.009997561570348696" count="41">scientific</word>
+	<word weight="0.008778346744696415" count="36">army</word>
+	<word weight="0.008290660814435503" count="34">general</word>
+	<word weight="0.007559131919044135" count="31">research</word>
+	<word weight="0.007071445988783224" count="29">air</word>
+	<word weight="0.007071445988783224" count="29">mod</word>
+	<word weight="0.007071445988783224" count="29">military</word>
+	<word weight="0.006827603023652768" count="28">directorate</word>
+	<word weight="0.006827603023652768" count="28">committee</word>
+	<word weight="0.0060960741282614" count="25">chiefs</word>
+	<word weight="0.005852231163130944" count="24">operations</word>
+	<word weight="0.005852231163130944" count="24">technical</word>
+	<phrase weight="0.10552763819095477" count="84">uk government</phrase>
+	<phrase weight="0.016331658291457288" count="13">royal air force</phrase>
+	<phrase weight="0.01256281407035176" count="10">staff committee</phrase>
+	<phrase weight="0.010050251256281407" count="8">service children</phrase>
+	<phrase weight="0.008793969849246231" count="7">branch folders</phrase>
+	<phrase weight="0.008793969849246231" count="7">scientific intelligence</phrase>
+	<phrase weight="0.008793969849246231" count="7">defence intelligence staff</phrase>
+	<phrase weight="0.008793969849246231" count="7">defence staff</phrase>
+	<phrase weight="0.007537688442211055" count="6">joint intelligence bureau</phrase>
+	<phrase weight="0.00628140703517588" count="5">defence technical undergraduate scheme</phrase>
+	<phrase weight="0.00628140703517588" count="5">service personnel</phrase>
+	<phrase weight="0.00628140703517588" count="5">defence chiefs</phrase>
+	<phrase weight="0.00628140703517588" count="5">defence intelligence</phrase>
+	<phrase weight="0.005025125628140704" count="4">defence fire training</phrase>
+	<phrase weight="0.005025125628140704" count="4">years preceding unification</phrase>
+	<phrase weight="0.005025125628140704" count="4">air force</phrase>
+	<phrase weight="0.005025125628140704" count="4">atomic energy intelligence</phrase>
+	<phrase weight="0.005025125628140704" count="4">welbeck defence sixth form college</phrase>
+	<phrase weight="0.005025125628140704" count="4">royal navy</phrase>
+	<phrase weight="0.005025125628140704" count="4">defence council</phrase>
+  </topic>
+</topics>

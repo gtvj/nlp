@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="119.0985910956217" totalTokens="84" titles="copyright, forms, drawings, paintings, registers, books, photographs, application, label, works">
+	<word weight="0.09523809523809523" count="8">copyright</word>
+	<word weight="0.05952380952380952" count="5">forms</word>
+	<word weight="0.047619047619047616" count="4">drawings</word>
+	<word weight="0.047619047619047616" count="4">paintings</word>
+	<word weight="0.047619047619047616" count="4">registers</word>
+	<word weight="0.047619047619047616" count="4">books</word>
+	<word weight="0.03571428571428571" count="3">photographs</word>
+	<word weight="0.03571428571428571" count="3">application</word>
+	<word weight="0.03571428571428571" count="3">label</word>
+	<word weight="0.03571428571428571" count="3">works</word>
+	<word weight="0.03571428571428571" count="3">stationers</word>
+	<word weight="0.023809523809523808" count="2">assignments</word>
+	<word weight="0.023809523809523808" count="2">advertisements</word>
+	<word weight="0.023809523809523808" count="2">labels</word>
+	<word weight="0.023809523809523808" count="2">indexes</word>
+	<word weight="0.023809523809523808" count="2">entry</word>
+	<word weight="0.023809523809523808" count="2">registration</word>
+	<word weight="0.023809523809523808" count="2">company</word>
+	<word weight="0.011904761904761904" count="1">entries</word>
+	<word weight="0.011904761904761904" count="1">arts</word>
+  </topic>
+</topics>

@@ -1,0 +1,32 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="39.53175445130685" totalTokens="96" titles="rail, regulation, regulator, jr, uk, reports, annual, publications, successor, portal">
+	<word weight="0.19791666666666666" count="19">rail</word>
+	<word weight="0.10416666666666667" count="10">regulation</word>
+	<word weight="0.08333333333333333" count="8">regulator</word>
+	<word weight="0.07291666666666667" count="7">jr</word>
+	<word weight="0.041666666666666664" count="4">uk</word>
+	<word weight="0.03125" count="3">reports</word>
+	<word weight="0.03125" count="3">annual</word>
+	<word weight="0.03125" count="3">publications</word>
+	<word weight="0.020833333333333332" count="2">successor</word>
+	<word weight="0.020833333333333332" count="2">portal</word>
+	<word weight="0.020833333333333332" count="2">data</word>
+	<word weight="0.020833333333333332" count="2">guidance</word>
+	<word weight="0.020833333333333332" count="2">orr</word>
+	<word weight="0.020833333333333332" count="2">gov</word>
+	<word weight="0.020833333333333332" count="2">www</word>
+	<word weight="0.020833333333333332" count="2">http</word>
+	<word weight="0.020833333333333332" count="2">government</word>
+	<word weight="0.010416666666666666" count="1">division</word>
+	<word weight="0.010416666666666666" count="1">industry</word>
+	<word weight="0.010416666666666666" count="1">railway</word>
+	<phrase weight="0.3157894736842105" count="6">rail regulation</phrase>
+	<phrase weight="0.3157894736842105" count="6">rail regulator</phrase>
+	<phrase weight="0.10526315789473684" count="2">annual reports</phrase>
+	<phrase weight="0.10526315789473684" count="2">uk government</phrase>
+	<phrase weight="0.05263157894736842" count="1">disabled passengers</phrase>
+	<phrase weight="0.05263157894736842" count="1">rail service operators</phrase>
+	<phrase weight="0.05263157894736842" count="1">railway industry</phrase>
+  </topic>
+</topics>

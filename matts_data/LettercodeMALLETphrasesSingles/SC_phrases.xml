@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.273927780409902" totalTokens="1444" titles="rolls, petitions, special, collections, parliament, letters, chancery, seals, century, exchequer">
+	<word weight="0.027008310249307478" count="39">rolls</word>
+	<word weight="0.02631578947368421" count="38">petitions</word>
+	<word weight="0.014542936288088643" count="21">special</word>
+	<word weight="0.013157894736842105" count="19">collections</word>
+	<word weight="0.01038781163434903" count="15">parliament</word>
+	<word weight="0.01038781163434903" count="15">letters</word>
+	<word weight="0.01038781163434903" count="15">chancery</word>
+	<word weight="0.009695290858725761" count="14">seals</word>
+	<word weight="0.009002770083102494" count="13">petition</word>
+	<word weight="0.009002770083102494" count="13">century</word>
+	<word weight="0.008310249307479225" count="12">exchequer</word>
+	<word weight="0.008310249307479225" count="12">crown</word>
+	<word weight="0.006925207756232687" count="10">royal</word>
+	<word weight="0.006232686980609419" count="9">ancient</word>
+	<word weight="0.006232686980609419" count="9">lands</word>
+	<word weight="0.006232686980609419" count="9">number</word>
+	<word weight="0.006232686980609419" count="9">receipt</word>
+	<word weight="0.006232686980609419" count="9">treasury</word>
+	<word weight="0.006232686980609419" count="9">cases</word>
+	<word weight="0.00554016620498615" count="8">leases</word>
+  </topic>
+</topics>

@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.519660855354299" totalTokens="1223" titles="paymaster general, pensions, officers, allowances, naval, army, widows, royal, civil, services">
+	<word weight="0.06377759607522486" count="78">pensions</word>
+	<word weight="0.04006541291905151" count="49">officers</word>
+	<word weight="0.033524121013900246" count="41">general</word>
+	<word weight="0.032706459525756335" count="40">paymaster</word>
+	<word weight="0.028618152085036794" count="35">naval</word>
+	<word weight="0.028618152085036794" count="35">allowances</word>
+	<word weight="0.02616516762060507" count="32">army</word>
+	<word weight="0.023712183156173343" count="29">pay</word>
+	<word weight="0.017170891251022075" count="21">royal</word>
+	<word weight="0.017170891251022075" count="21">widows</word>
+	<word weight="0.01553556827473426" count="19">civil</word>
+	<word weight="0.014717906786590351" count="18">services</word>
+	<word weight="0.013082583810302535" count="16">half</word>
+	<word weight="0.011447260834014717" count="14">payments</word>
+	<word weight="0.011447260834014717" count="14">warrant</word>
+	<word weight="0.01062959934587081" count="13">books</word>
+	<word weight="0.01062959934587081" count="13">retired</word>
+	<word weight="0.008994276369582993" count="11">paid</word>
+	<word weight="0.008994276369582993" count="11">registers</word>
+	<word weight="0.008176614881439084" count="10">accounts</word>
+	<phrase weight="0.14732142857142858" count="33">paymaster general</phrase>
+	<phrase weight="0.03571428571428571" count="8">warrant officers</phrase>
+	<phrase weight="0.026785714285714284" count="6">half pay</phrase>
+	<phrase weight="0.017857142857142856" count="4">marine officers</phrase>
+	<phrase weight="0.017857142857142856" count="4">royal warrants</phrase>
+	<phrase weight="0.013392857142857142" count="3">civil superannuation allowances</phrase>
+	<phrase weight="0.008928571428571428" count="2">entry books</phrase>
+	<phrase weight="0.008928571428571428" count="2">special grants</phrase>
+	<phrase weight="0.008928571428571428" count="2">foreign half pay</phrase>
+	<phrase weight="0.008928571428571428" count="2">retired allowances</phrase>
+	<phrase weight="0.008928571428571428" count="2">polish refugees</phrase>
+	<phrase weight="0.008928571428571428" count="2">letter books</phrase>
+	<phrase weight="0.008928571428571428" count="2">disablement allowances</phrase>
+	<phrase weight="0.008928571428571428" count="2">salaries paid</phrase>
+	<phrase weight="0.008928571428571428" count="2">annuities paid</phrase>
+	<phrase weight="0.008928571428571428" count="2">receivers general</phrase>
+	<phrase weight="0.008928571428571428" count="2">royal irish constabulary</phrase>
+	<phrase weight="0.008928571428571428" count="2">property acts</phrase>
+	<phrase weight="0.008928571428571428" count="2">royal marines</phrase>
+	<phrase weight="0.008928571428571428" count="2">civil officers</phrase>
+  </topic>
+</topics>

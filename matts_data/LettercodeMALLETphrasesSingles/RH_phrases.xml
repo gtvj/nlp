@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.18567813436534" totalTokens="2788" titles="education, schools, children, dfe, families, dcsf, government, national, learning, general">
+	<word weight="0.09146341463414634" count="255">education</word>
+	<word weight="0.09038737446197992" count="252">schools</word>
+	<word weight="0.07890961262553801" count="220">children</word>
+	<word weight="0.07855093256814921" count="219">dfe</word>
+	<word weight="0.07532281205164992" count="210">families</word>
+	<word weight="0.07352941176470588" count="205">dcsf</word>
+	<word weight="0.06886657101865136" count="192">government</word>
+	<word weight="0.011477761836441894" count="32">national</word>
+	<word weight="0.011477761836441894" count="32">school</word>
+	<word weight="0.008967001434720229" count="25">learning</word>
+	<word weight="0.007173601147776184" count="20">general</word>
+	<word weight="0.0068149210903873745" count="19">field</word>
+	<word weight="0.005738880918220947" count="16">standards</word>
+	<word weight="0.005380200860832138" count="15">teaching</word>
+	<word weight="0.005021520803443328" count="14">advisory</word>
+	<word weight="0.005021520803443328" count="14">research</word>
+	<word weight="0.005021520803443328" count="14">service</word>
+	<word weight="0.004662840746054519" count="13">children's</word>
+	<word weight="0.004662840746054519" count="13">support</word>
+	<word weight="0.00430416068866571" count="12">network</word>
+  </topic>
+</topics>

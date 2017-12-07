@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.0198144449521775" totalTokens="600" titles="london, locog, olympic, games, paralympic, committee, organising, publications, bid, staff">
+	<word weight="0.07666666666666666" count="46">london</word>
+	<word weight="0.05333333333333334" count="32">locog</word>
+	<word weight="0.05333333333333334" count="32">olympic</word>
+	<word weight="0.041666666666666664" count="25">games</word>
+	<word weight="0.03333333333333333" count="20">paralympic</word>
+	<word weight="0.03166666666666667" count="19">committee</word>
+	<word weight="0.03" count="18">organising</word>
+	<word weight="0.018333333333333333" count="11">publications</word>
+	<word weight="0.015" count="9">bid</word>
+	<word weight="0.013333333333333334" count="8">staff</word>
+	<word weight="0.013333333333333334" count="8">public</word>
+	<word weight="0.011666666666666667" count="7">extranet</word>
+	<word weight="0.01" count="6">digital</word>
+	<word weight="0.008333333333333333" count="5">intranet</word>
+	<word weight="0.008333333333333333" count="5">ceremonies</word>
+	<word weight="0.006666666666666667" count="4">internet</word>
+	<word weight="0.006666666666666667" count="4">july</word>
+	<word weight="0.006666666666666667" count="4">twitter</word>
+	<word weight="0.006666666666666667" count="4">singapore</word>
+	<word weight="0.006666666666666667" count="4">behalf</word>
+	<phrase weight="0.168141592920354" count="19">paralympic games</phrase>
+	<phrase weight="0.13274336283185842" count="15">london organising committee</phrase>
+	<phrase weight="0.02654867256637168" count="3">organising committee</phrase>
+	<phrase weight="0.017699115044247787" count="2">partners extranet site</phrase>
+	<phrase weight="0.017699115044247787" count="2">volunteer database</phrase>
+	<phrase weight="0.017699115044247787" count="2">service extranet</phrase>
+	<phrase weight="0.017699115044247787" count="2">british olympic association</phrase>
+	<phrase weight="0.017699115044247787" count="2">london olympic institute</phrase>
+	<phrase weight="0.017699115044247787" count="2">infoplus news</phrase>
+	<phrase weight="0.017699115044247787" count="2">legacy integration group</phrase>
+	<phrase weight="0.017699115044247787" count="2">international sport</phrase>
+	<phrase weight="0.017699115044247787" count="2">specifically focus</phrase>
+	<phrase weight="0.008849557522123894" count="1">providing basic</phrase>
+	<phrase weight="0.008849557522123894" count="1">closing ceremonies</phrase>
+	<phrase weight="0.008849557522123894" count="1">publishing interests</phrase>
+	<phrase weight="0.008849557522123894" count="1">locog senior management presentations</phrase>
+	<phrase weight="0.008849557522123894" count="1">write articles</phrase>
+	<phrase weight="0.008849557522123894" count="1">proposed olympic venue sites</phrase>
+	<phrase weight="0.008849557522123894" count="1">extensible markup language</phrase>
+	<phrase weight="0.008849557522123894" count="1">service operations</phrase>
+  </topic>
+</topics>

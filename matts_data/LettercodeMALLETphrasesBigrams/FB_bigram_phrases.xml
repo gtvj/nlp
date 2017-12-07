@@ -1,0 +1,29 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0" totalTokens="72" titles="bureau, central, board, exchanges, visits, educational, fb, minutes, trustees, reports">
+	<word weight="0.1111111111111111" count="8">bureau</word>
+	<word weight="0.08333333333333333" count="6">central</word>
+	<word weight="0.06944444444444445" count="5">board</word>
+	<word weight="0.06944444444444445" count="5">exchanges</word>
+	<word weight="0.06944444444444445" count="5">visits</word>
+	<word weight="0.06944444444444445" count="5">educational</word>
+	<word weight="0.06944444444444445" count="5">fb</word>
+	<word weight="0.05555555555555555" count="4">minutes</word>
+	<word weight="0.05555555555555555" count="4">trustees</word>
+	<word weight="0.041666666666666664" count="3">reports</word>
+	<word weight="0.041666666666666664" count="3">annual</word>
+	<word weight="0.041666666666666664" count="3">agenda</word>
+	<word weight="0.027777777777777776" count="2">meetings</word>
+	<word weight="0.013888888888888888" count="1">ireland</word>
+	<word weight="0.013888888888888888" count="1">northern</word>
+	<word weight="0.013888888888888888" count="1">scotland</word>
+	<word weight="0.013888888888888888" count="1">work</word>
+	<word weight="0.013888888888888888" count="1">sections</word>
+	<word weight="0.013888888888888888" count="1">detail</word>
+	<word weight="0.013888888888888888" count="1">extend</word>
+	<phrase weight="0.6" count="6">central bureau</phrase>
+	<phrase weight="0.2" count="2">annual reports</phrase>
+	<phrase weight="0.1" count="1">stop providing formal</phrase>
+	<phrase weight="0.1" count="1">board meetings</phrase>
+  </topic>
+</topics>

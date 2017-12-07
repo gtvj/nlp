@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.785620386355375" totalTokens="1016" titles="societies, friendly, rules, trade, unions, amendments, regulation, registry, register, removed">
+	<word weight="0.125" count="127">societies</word>
+	<word weight="0.0610236220472441" count="62">friendly</word>
+	<word weight="0.0531496062992126" count="54">rules</word>
+	<word weight="0.04822834645669291" count="49">trade</word>
+	<word weight="0.04232283464566929" count="43">unions</word>
+	<word weight="0.03641732283464567" count="37">amendments</word>
+	<word weight="0.0344488188976378" count="35">regulation</word>
+	<word weight="0.0344488188976378" count="35">registry</word>
+	<word weight="0.03346456692913386" count="34">register</word>
+	<word weight="0.028543307086614175" count="29">removed</word>
+	<word weight="0.027559055118110236" count="28">returns</word>
+	<word weight="0.027559055118110236" count="28">annual</word>
+	<word weight="0.024606299212598427" count="25">industrial</word>
+	<word weight="0.018700787401574805" count="19">building</word>
+	<word weight="0.01673228346456693" count="17">provident</word>
+	<word weight="0.014763779527559055" count="15">act</word>
+	<word weight="0.012795275590551181" count="13">union</word>
+	<word weight="0.011811023622047244" count="12">loan</word>
+	<word weight="0.010826771653543307" count="11">acts</word>
+	<word weight="0.010826771653543307" count="11">statutory</word>
+  </topic>
+</topics>

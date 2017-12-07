@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="9.634737448953379" totalTokens="284" titles="olympic, lottery, distributor, grants, minutes, agenda, london, board, committee, locog">
+	<word weight="0.13732394366197184" count="39">olympic</word>
+	<word weight="0.11971830985915492" count="34">lottery</word>
+	<word weight="0.10915492957746478" count="31">distributor</word>
+	<word weight="0.035211267605633804" count="10">grants</word>
+	<word weight="0.03169014084507042" count="9">minutes</word>
+	<word weight="0.03169014084507042" count="9">agenda</word>
+	<word weight="0.028169014084507043" count="8">london</word>
+	<word weight="0.028169014084507043" count="8">board</word>
+	<word weight="0.02112676056338028" count="6">committee</word>
+	<word weight="0.017605633802816902" count="5">locog</word>
+	<word weight="0.017605633802816902" count="5">games</word>
+	<word weight="0.017605633802816902" count="5">paralympic</word>
+	<word weight="0.017605633802816902" count="5">grant</word>
+	<word weight="0.017605633802816902" count="5">meetings</word>
+	<word weight="0.014084507042253521" count="4">sport</word>
+	<word weight="0.01056338028169014" count="3">considered</word>
+	<word weight="0.01056338028169014" count="3">funds</word>
+	<word weight="0.01056338028169014" count="3">july</word>
+	<word weight="0.01056338028169014" count="3">event</word>
+	<word weight="0.01056338028169014" count="3">conference</word>
+  </topic>
+</topics>

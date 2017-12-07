@@ -1,0 +1,33 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="21.792914198516208" totalTokens="120" titles="licensing, vehicle, dvla, driver, uk, government, online, www, registrations, personalised">
+	<word weight="0.15833333333333333" count="19">licensing</word>
+	<word weight="0.15833333333333333" count="19">vehicle</word>
+	<word weight="0.15" count="18">dvla</word>
+	<word weight="0.125" count="15">driver</word>
+	<word weight="0.075" count="9">uk</word>
+	<word weight="0.041666666666666664" count="5">government</word>
+	<word weight="0.03333333333333333" count="4">online</word>
+	<word weight="0.03333333333333333" count="4">gov</word>
+	<word weight="0.03333333333333333" count="4">www</word>
+	<word weight="0.016666666666666666" count="2">registrations</word>
+	<word weight="0.016666666666666666" count="2">personalised</word>
+	<word weight="0.016666666666666666" count="2">microsite</word>
+	<word weight="0.016666666666666666" count="2">draw</word>
+	<word weight="0.016666666666666666" count="2">prize</word>
+	<word weight="0.016666666666666666" count="2">field</word>
+	<word weight="0.016666666666666666" count="2">general</word>
+	<word weight="0.016666666666666666" count="2">services</word>
+	<word weight="0.016666666666666666" count="2">business</word>
+	<word weight="0.008333333333333333" count="1">division</word>
+	<word weight="0.008333333333333333" count="1">vehiclelicence</word>
+	<phrase weight="0.47619047619047616" count="10">vehicle licensing</phrase>
+	<phrase weight="0.14285714285714285" count="3">vehicle licensing online</phrase>
+	<phrase weight="0.09523809523809523" count="2">business services</phrase>
+	<phrase weight="0.09523809523809523" count="2">personalised registrations</phrase>
+	<phrase weight="0.047619047619047616" count="1">prize draw microsite</phrase>
+	<phrase weight="0.047619047619047616" count="1">uk government</phrase>
+	<phrase weight="0.047619047619047616" count="1">licensing online</phrase>
+	<phrase weight="0.047619047619047616" count="1">dvla prize draw microsite</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.255240821523414" totalTokens="2229" titles="british transport, periodicals, railway, library, magazine, news, journal, general, london, gazette">
+	<word weight="0.11036339165545088" count="246">periodicals</word>
+	<word weight="0.09286675639300135" count="207">railway</word>
+	<word weight="0.08793180798564379" count="196">transport</word>
+	<word weight="0.07581875280394795" count="169">british</word>
+	<word weight="0.059219380888290714" count="132">library</word>
+	<word weight="0.04800358905338717" count="107">periodical</word>
+	<word weight="0.029161058770749215" count="65">magazine</word>
+	<word weight="0.021534320323014805" count="48">news</word>
+	<word weight="0.02063705697622252" count="46">journal</word>
+	<word weight="0.020188425302826378" count="45">general</word>
+	<word weight="0.013907581875280395" count="31">london</word>
+	<word weight="0.011215791834903545" count="25">eastern</word>
+	<word weight="0.011215791834903545" count="25">gazette</word>
+	<word weight="0.011215791834903545" count="25">railways</word>
+	<word weight="0.010767160161507403" count="24">society</word>
+	<word weight="0.01031852848811126" count="23">region</word>
+	<word weight="0.01031852848811126" count="23">western</word>
+	<word weight="0.008972633467922835" count="20">north</word>
+	<word weight="0.008075370121130552" count="18">rail</word>
+	<word weight="0.00762673844773441" count="17">staff</word>
+	<phrase weight="0.3054298642533937" count="135">british transport</phrase>
+	<phrase weight="0.01583710407239819" count="7">rail news</phrase>
+	<phrase weight="0.011312217194570135" count="5">railway magazine</phrase>
+	<phrase weight="0.011312217194570135" count="5">railway gazette</phrase>
+	<phrase weight="0.011312217194570135" count="5">periodical rail news</phrase>
+	<phrase weight="0.00904977375565611" count="4">periodical journal</phrase>
+	<phrase weight="0.00904977375565611" count="4">eastern region</phrase>
+	<phrase weight="0.00904977375565611" count="4">universal directory</phrase>
+	<phrase weight="0.006787330316742082" count="3">transport commission</phrase>
+	<phrase weight="0.006787330316742082" count="3">travel monthly</phrase>
+	<phrase weight="0.006787330316742082" count="3">western railway</phrase>
+	<phrase weight="0.006787330316742082" count="3">north eastern region</phrase>
+	<phrase weight="0.006787330316742082" count="3">trams staff magazine</phrase>
+	<phrase weight="0.004524886877828055" count="2">western magazine</phrase>
+	<phrase weight="0.004524886877828055" count="2">yorkshire railway mechanics</phrase>
+	<phrase weight="0.004524886877828055" count="2">headquarters sales bulletin</phrase>
+	<phrase weight="0.004524886877828055" count="2">transport docks magazine</phrase>
+	<phrase weight="0.004524886877828055" count="2">southern railway</phrase>
+	<phrase weight="0.004524886877828055" count="2">north western railway gazette</phrase>
+	<phrase weight="0.004524886877828055" count="2">railway companies</phrase>
+  </topic>
+</topics>

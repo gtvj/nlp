@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.377169982035328" totalTokens="63" titles="preece, telecommunications, private, online, developments, engineer-in-chief, post, career, individuals, collected">
+	<word weight="0.047619047619047616" count="3">preece</word>
+	<word weight="0.047619047619047616" count="3">telecommunications</word>
+	<word weight="0.047619047619047616" count="3">private</word>
+	<word weight="0.031746031746031744" count="2">online</word>
+	<word weight="0.031746031746031744" count="2">developments</word>
+	<word weight="0.031746031746031744" count="2">engineer-in-chief</word>
+	<word weight="0.031746031746031744" count="2">post</word>
+	<word weight="0.031746031746031744" count="2">career</word>
+	<word weight="0.031746031746031744" count="2">individuals</word>
+	<word weight="0.031746031746031744" count="2">collected</word>
+	<word weight="0.031746031746031744" count="2">collections</word>
+	<word weight="0.015873015873015872" count="1">individual</word>
+	<word weight="0.015873015873015872" count="1">museum's</word>
+	<word weight="0.015873015873015872" count="1">postal</word>
+	<word weight="0.015873015873015872" count="1">signalling</word>
+	<word weight="0.015873015873015872" count="1">railway</word>
+	<word weight="0.015873015873015872" count="1">involvement</word>
+	<word weight="0.015873015873015872" count="1">preece's</word>
+	<word weight="0.015873015873015872" count="1">telegraphy</word>
+	<word weight="0.015873015873015872" count="1">wireless</word>
+  </topic>
+</topics>

@@ -1,0 +1,10 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="11.684654897235314" totalTokens="13" titles="societies, friendly, commission, regulation, fsc, ">
+	<word weight="0.3076923076923077" count="4">societies</word>
+	<word weight="0.3076923076923077" count="4">friendly</word>
+	<word weight="0.23076923076923078" count="3">commission</word>
+	<word weight="0.07692307692307693" count="1">regulation</word>
+	<word weight="0.07692307692307693" count="1">fsc</word>
+  </topic>
+</topics>

@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="9.05794708928458" totalTokens="283" titles="general, lo, law, uk, officers, attorney, fraud, patents, www, gov">
+	<word weight="0.06713780918727916" count="19">general</word>
+	<word weight="0.053003533568904596" count="15">lo</word>
+	<word weight="0.045936395759717315" count="13">law</word>
+	<word weight="0.045936395759717315" count="13">uk</word>
+	<word weight="0.038869257950530034" count="11">officers</word>
+	<word weight="0.038869257950530034" count="11">attorney</word>
+	<word weight="0.0353356890459364" count="10">fraud</word>
+	<word weight="0.028268551236749116" count="8">patents</word>
+	<word weight="0.028268551236749116" count="8">www</word>
+	<word weight="0.02120141342756184" count="6">gov</word>
+	<word weight="0.02120141342756184" count="6">http</word>
+	<word weight="0.02120141342756184" count="6">criminal</word>
+	<word weight="0.0176678445229682" count="5">government</word>
+	<word weight="0.0176678445229682" count="5">justice</word>
+	<word weight="0.014134275618374558" count="4">patent</word>
+	<word weight="0.014134275618374558" count="4">appeals</word>
+	<word weight="0.014134275618374558" count="4">action</word>
+	<word weight="0.014134275618374558" count="4">opinions</word>
+	<word weight="0.014134275618374558" count="4">field</word>
+	<word weight="0.014134275618374558" count="4">inspection</word>
+	<phrase weight="0.17777777777777778" count="8">law officers</phrase>
+	<phrase weight="0.1111111111111111" count="5">attorney general</phrase>
+	<phrase weight="0.06666666666666667" count="3">action fraud</phrase>
+	<phrase weight="0.06666666666666667" count="3">uk government</phrase>
+	<phrase weight="0.06666666666666667" count="3">criminal justice joint inspection</phrase>
+	<phrase weight="0.044444444444444446" count="2">letters patent</phrase>
+	<phrase weight="0.044444444444444446" count="2">comptroller general</phrase>
+	<phrase weight="0.022222222222222223" count="1">design acts</phrase>
+	<phrase weight="0.022222222222222223" count="1">work imposed</phrase>
+	<phrase weight="0.022222222222222223" count="1">decisions opposed</phrase>
+	<phrase weight="0.022222222222222223" count="1">national fraud authority</phrase>
+	<phrase weight="0.022222222222222223" count="1">criminal cases</phrase>
+	<phrase weight="0.022222222222222223" count="1">chief examiner</phrase>
+	<phrase weight="0.022222222222222223" count="1">legal opinions</phrase>
+	<phrase weight="0.022222222222222223" count="1">opposition thereto</phrase>
+	<phrase weight="0.022222222222222223" count="1">justice joint inspection</phrase>
+	<phrase weight="0.022222222222222223" count="1">fraud authority</phrase>
+	<phrase weight="0.022222222222222223" count="1">overseas affairs</phrase>
+	<phrase weight="0.022222222222222223" count="1">patent examinations</phrase>
+	<phrase weight="0.022222222222222223" count="1">trade marks act</phrase>
+  </topic>
+</topics>

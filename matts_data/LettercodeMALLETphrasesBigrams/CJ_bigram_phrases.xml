@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.267120920532307" totalTokens="333" titles="ireland, northern, cj, uk, government, ni, info, business, home, commission">
+	<word weight="0.14114114114114115" count="47">ireland</word>
+	<word weight="0.13813813813813813" count="46">northern</word>
+	<word weight="0.07507507507507508" count="25">cj</word>
+	<word weight="0.06306306306306306" count="21">uk</word>
+	<word weight="0.05105105105105105" count="17">government</word>
+	<word weight="0.036036036036036036" count="12">ni</word>
+	<word weight="0.03003003003003003" count="10">info</word>
+	<word weight="0.03003003003003003" count="10">business</word>
+	<word weight="0.02702702702702703" count="9">home</word>
+	<word weight="0.018018018018018018" count="6">commission</word>
+	<word weight="0.015015015015015015" count="5">representative</word>
+	<word weight="0.012012012012012012" count="4">eire</word>
+	<word weight="0.012012012012012012" count="4">commissioners</word>
+	<word weight="0.012012012012012012" count="4">service</word>
+	<word weight="0.009009009009009009" count="3">symbol</word>
+	<word weight="0.009009009009009009" count="3">ukr</word>
+	<word weight="0.009009009009009009" count="3">bill</word>
+	<word weight="0.006006006006006006" count="2">improvement</word>
+	<word weight="0.006006006006006006" count="2">growth</word>
+	<word weight="0.006006006006006006" count="2">cim</word>
+	<phrase weight="0.19047619047619047" count="12">northern ireland</phrase>
+	<phrase weight="0.12698412698412698" count="8">uk government</phrase>
+	<phrase weight="0.1111111111111111" count="7">ni business info</phrase>
+	<phrase weight="0.047619047619047616" count="3">uk representative</phrase>
+	<phrase weight="0.047619047619047616" count="3">business info</phrase>
+	<phrase weight="0.031746031746031744" count="2">civil service commissioners</phrase>
+	<phrase weight="0.031746031746031744" count="2">rights forum</phrase>
+	<phrase weight="0.031746031746031744" count="2">sentence review commissioners</phrase>
+	<phrase weight="0.031746031746031744" count="2">trade tariff</phrase>
+	<phrase weight="0.031746031746031744" count="2">northern ireland regional medical physics</phrase>
+	<phrase weight="0.031746031746031744" count="2">improvement service</phrase>
+	<phrase weight="0.031746031746031744" count="2">biosciences institute</phrase>
+	<phrase weight="0.031746031746031744" count="2">boundary commission</phrase>
+	<phrase weight="0.015873015873015872" count="1">commission northern ireland</phrase>
+	<phrase weight="0.015873015873015872" count="1">industrial court</phrase>
+	<phrase weight="0.015873015873015872" count="1">independent monitoring commission</phrase>
+	<phrase weight="0.015873015873015872" count="1">parades commission northern ireland</phrase>
+	<phrase weight="0.015873015873015872" count="1">united kingdom representative</phrase>
+	<phrase weight="0.015873015873015872" count="1">uk government representative</phrase>
+	<phrase weight="0.015873015873015872" count="1">monitoring commission</phrase>
+  </topic>
+</topics>

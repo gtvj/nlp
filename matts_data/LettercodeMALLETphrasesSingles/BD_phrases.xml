@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.194578437075787" totalTokens="4716" titles="welsh, wales, division, local, health, government, divisions, planning, education, work">
+	<word weight="0.06467345207803223" count="305">welsh</word>
+	<word weight="0.02820186598812553" count="133">wales</word>
+	<word weight="0.02502120441051739" count="118">division</word>
+	<word weight="0.019720101781170483" count="93">local</word>
+	<word weight="0.016751484308736218" count="79">health</word>
+	<word weight="0.015903307888040712" count="75">government</word>
+	<word weight="0.014631043256997456" count="69">divisions</word>
+	<word weight="0.01166242578456319" count="55">planning</word>
+	<word weight="0.01102629346904156" count="52">education</word>
+	<word weight="0.008905852417302799" count="42">work</word>
+	<word weight="0.008693808312128922" count="41">predecessors</word>
+	<word weight="0.008693808312128922" count="41">general</word>
+	<word weight="0.008481764206955046" count="40">council</word>
+	<word weight="0.007633587786259542" count="36">transport</word>
+	<word weight="0.007633587786259542" count="36">board</word>
+	<word weight="0.006785411365564037" count="32">social</word>
+	<word weight="0.006573367260390161" count="31">reports</word>
+	<word weight="0.006149279050042409" count="29">development</word>
+	<word weight="0.006149279050042409" count="29">survey</word>
+	<word weight="0.006149279050042409" count="29">land</word>
+  </topic>
+</topics>

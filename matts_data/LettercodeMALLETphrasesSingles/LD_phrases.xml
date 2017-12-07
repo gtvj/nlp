@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="124.91804034386922" totalTokens="76" titles="trading, fair, reports, consumer, oft, annual, credit, act, government, work">
+	<word weight="0.14473684210526316" count="11">trading</word>
+	<word weight="0.14473684210526316" count="11">fair</word>
+	<word weight="0.09210526315789473" count="7">reports</word>
+	<word weight="0.06578947368421052" count="5">consumer</word>
+	<word weight="0.06578947368421052" count="5">oft</word>
+	<word weight="0.05263157894736842" count="4">annual</word>
+	<word weight="0.05263157894736842" count="4">credit</word>
+	<word weight="0.039473684210526314" count="3">act</word>
+	<word weight="0.039473684210526314" count="3">government</word>
+	<word weight="0.02631578947368421" count="2">work</word>
+	<word weight="0.02631578947368421" count="2">register</word>
+	<word weight="0.02631578947368421" count="2">licensing</word>
+	<word weight="0.013157894736842105" count="1">parliamentary</word>
+	<word weight="0.013157894736842105" count="1">commission</word>
+	<word weight="0.013157894736842105" count="1">mergers</word>
+	<word weight="0.013157894736842105" count="1">monopolies</word>
+	<word weight="0.013157894736842105" count="1">committee</word>
+	<word weight="0.013157894736842105" count="1">advisory</word>
+	<word weight="0.013157894736842105" count="1">protection</word>
+	<word weight="0.013157894736842105" count="1">state</word>
+  </topic>
+</topics>

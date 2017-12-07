@@ -1,0 +1,32 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.225340363610295" totalTokens="74" titles="inquiry, report, iraq, scott, prosecutions, goods, dual, equipment, defence, hmso">
+	<word weight="0.0945945945945946" count="7">inquiry</word>
+	<word weight="0.08108108108108109" count="6">report</word>
+	<word weight="0.06756756756756757" count="5">iraq</word>
+	<word weight="0.05405405405405406" count="4">scott</word>
+	<word weight="0.05405405405405406" count="4">prosecutions</word>
+	<word weight="0.05405405405405406" count="4">goods</word>
+	<word weight="0.05405405405405406" count="4">dual</word>
+	<word weight="0.05405405405405406" count="4">equipment</word>
+	<word weight="0.05405405405405406" count="4">defence</word>
+	<word weight="0.04054054054054054" count="3">hmso</word>
+	<word weight="0.04054054054054054" count="3">exports</word>
+	<word weight="0.04054054054054054" count="3">kf</word>
+	<word weight="0.02702702702702703" count="2">evidence</word>
+	<word weight="0.013513513513513514" count="1">july</word>
+	<word weight="0.013513513513513514" count="1">format</word>
+	<word weight="0.013513513513513514" count="1">rom</word>
+	<word weight="0.013513513513513514" count="1">cd</word>
+	<word weight="0.013513513513513514" count="1">appendix</word>
+	<word weight="0.013513513513513514" count="1">iii</word>
+	<word weight="0.013513513513513514" count="1">contained</word>
+	<phrase weight="0.3333333333333333" count="4">defence equipment</phrase>
+	<phrase weight="0.25" count="3">scott inquiry</phrase>
+	<phrase weight="0.08333333333333333" count="1">rom format</phrase>
+	<phrase weight="0.08333333333333333" count="1">final report</phrase>
+	<phrase weight="0.08333333333333333" count="1">investigate arms sales</phrase>
+	<phrase weight="0.08333333333333333" count="1">richard scott</phrase>
+	<phrase weight="0.08333333333333333" count="1">errata contained</phrase>
+  </topic>
+</topics>

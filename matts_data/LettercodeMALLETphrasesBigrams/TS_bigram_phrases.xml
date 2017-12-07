@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.2445000368502726" totalTokens="4208" titles="treasury solicitor, procurator general, hm procurator general, ts, legal, work, miscellaneous, claims, cases, war">
+	<word weight="0.060836501901140684" count="256">treasury</word>
+	<word weight="0.057034220532319393" count="240">solicitor</word>
+	<word weight="0.04016159695817491" count="169">general</word>
+	<word weight="0.03255703422053232" count="137">hm</word>
+	<word weight="0.03184410646387833" count="134">procurator</word>
+	<word weight="0.025427756653992394" count="107">ts</word>
+	<word weight="0.021625475285171104" count="91">legal</word>
+	<word weight="0.021625475285171104" count="91">work</word>
+	<word weight="0.010693916349809885" count="45">miscellaneous</word>
+	<word weight="0.0092680608365019" count="39">claims</word>
+	<word weight="0.00903041825095057" count="38">cases</word>
+	<word weight="0.00903041825095057" count="38">war</word>
+	<word weight="0.008317490494296578" count="35">admiralty</word>
+	<word weight="0.0076045627376425855" count="32">registers</word>
+	<word weight="0.006653992395437262" count="28">behalf</word>
+	<word weight="0.006653992395437262" count="28">correspondence</word>
+	<word weight="0.006178707224334601" count="26">books</word>
+	<word weight="0.005465779467680608" count="23">yearly</word>
+	<word weight="0.005465779467680608" count="23">court</word>
+	<word weight="0.005228136882129277" count="22">government</word>
+	<phrase weight="0.20884520884520885" count="170">treasury solicitor</phrase>
+	<phrase weight="0.06388206388206388" count="52">procurator general</phrase>
+	<phrase weight="0.060196560196560195" count="49">hm procurator general</phrase>
+	<phrase weight="0.009828009828009828" count="8">legal aspects</phrase>
+	<phrase weight="0.007371007371007371" count="6">criminal prosecutions</phrase>
+	<phrase weight="0.007371007371007371" count="6">law officers</phrase>
+	<phrase weight="0.007371007371007371" count="6">admiralty solicitor</phrase>
+	<phrase weight="0.006142506142506142" count="5">registers registers</phrase>
+	<phrase weight="0.006142506142506142" count="5">legal advice</phrase>
+	<phrase weight="0.004914004914004914" count="4">statutory instruments</phrase>
+	<phrase weight="0.0036855036855036856" count="3">civil aviation</phrase>
+	<phrase weight="0.0036855036855036856" count="3">uk government</phrase>
+	<phrase weight="0.0036855036855036856" count="3">royal air force</phrase>
+	<phrase weight="0.0036855036855036856" count="3">statutory rules</phrase>
+	<phrase weight="0.0036855036855036856" count="3">parliamentary bills</phrase>
+	<phrase weight="0.0036855036855036856" count="3">cases referred</phrase>
+	<phrase weight="0.0036855036855036856" count="3">legal business</phrase>
+	<phrase weight="0.0036855036855036856" count="3">leaf form</phrase>
+	<phrase weight="0.0036855036855036856" count="3">treasure trove</phrase>
+	<phrase weight="0.0036855036855036856" count="3">statutory publications</phrase>
+  </topic>
+</topics>

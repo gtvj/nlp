@@ -1,0 +1,43 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="49.03868683656842" totalTokens="144" titles="estates, forfeited, claims, commissioners, fec, books, attainted, persons, lands, arranged">
+	<word weight="0.09722222222222222" count="14">estates</word>
+	<word weight="0.05555555555555555" count="8">forfeited</word>
+	<word weight="0.041666666666666664" count="6">claims</word>
+	<word weight="0.041666666666666664" count="6">commissioners</word>
+	<word weight="0.041666666666666664" count="6">fec</word>
+	<word weight="0.034722222222222224" count="5">books</word>
+	<word weight="0.027777777777777776" count="4">commission</word>
+	<word weight="0.020833333333333332" count="3">attainted</word>
+	<word weight="0.020833333333333332" count="3">persons</word>
+	<word weight="0.020833333333333332" count="3">lands</word>
+	<word weight="0.020833333333333332" count="3">arranged</word>
+	<word weight="0.020833333333333332" count="3">superstitious</word>
+	<word weight="0.020833333333333332" count="3">registers</word>
+	<word weight="0.013888888888888888" count="2">names</word>
+	<word weight="0.013888888888888888" count="2">rebellion</word>
+	<word weight="0.013888888888888888" count="2">respecting</word>
+	<word weight="0.013888888888888888" count="2">informations</word>
+	<word weight="0.013888888888888888" count="2">entry</word>
+	<word weight="0.013888888888888888" count="2">counties</word>
+	<word weight="0.013888888888888888" count="2">decrees</word>
+	<phrase weight="0.13043478260869565" count="3">forfeited estates commission</phrase>
+	<phrase weight="0.08695652173913043" count="2">estates forfeited</phrase>
+	<phrase weight="0.08695652173913043" count="2">respecting lands</phrase>
+	<phrase weight="0.08695652173913043" count="2">forfeited estates</phrase>
+	<phrase weight="0.043478260869565216" count="1">sixteenth century</phrase>
+	<phrase weight="0.043478260869565216" count="1">entry books</phrase>
+	<phrase weight="0.043478260869565216" count="1">estates sold</phrase>
+	<phrase weight="0.043478260869565216" count="1">real estates</phrase>
+	<phrase weight="0.043478260869565216" count="1">minute books</phrase>
+	<phrase weight="0.043478260869565216" count="1">persons attainted</phrase>
+	<phrase weight="0.043478260869565216" count="1">rough minute books</phrase>
+	<phrase weight="0.043478260869565216" count="1">high treason</phrase>
+	<phrase weight="0.043478260869565216" count="1">fully indexed</phrase>
+	<phrase weight="0.043478260869565216" count="1">attainted persons</phrase>
+	<phrase weight="0.043478260869565216" count="1">papist recusants</phrase>
+	<phrase weight="0.043478260869565216" count="1">entry book</phrase>
+	<phrase weight="0.043478260869565216" count="1">wales arranged</phrase>
+	<phrase weight="0.043478260869565216" count="1">estates commission</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.506977306274995" totalTokens="659" titles="division, industry, industrial, engineering, development, policy, successors, telecommunications, research, posts">
+	<word weight="0.06525037936267071" count="43">division</word>
+	<word weight="0.04704097116843703" count="31">industry</word>
+	<word weight="0.028831562974203338" count="19">industrial</word>
+	<word weight="0.019726858877086494" count="13">engineering</word>
+	<word weight="0.018209408194233688" count="12">development</word>
+	<word weight="0.01669195751138088" count="11">policy</word>
+	<word weight="0.01669195751138088" count="11">successors</word>
+	<word weight="0.01669195751138088" count="11">telecommunications</word>
+	<word weight="0.015174506828528073" count="10">research</word>
+	<word weight="0.015174506828528073" count="10">posts</word>
+	<word weight="0.013657056145675266" count="9">regional</word>
+	<word weight="0.012139605462822459" count="8">technology</word>
+	<word weight="0.012139605462822459" count="8">committee</word>
+	<word weight="0.010622154779969651" count="7">assistance</word>
+	<word weight="0.010622154779969651" count="7">electrical</word>
+	<word weight="0.009104704097116844" count="6">grants</word>
+	<word weight="0.009104704097116844" count="6">mechanical</word>
+	<word weight="0.009104704097116844" count="6">process</word>
+	<word weight="0.009104704097116844" count="6">minutes</word>
+	<word weight="0.009104704097116844" count="6">british</word>
+  </topic>
+</topics>

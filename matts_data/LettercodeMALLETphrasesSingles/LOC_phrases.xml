@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.03772166975184" totalTokens="595" titles="london, olympic, locog, games, paralympic, committee, organising, publications, bid, staff">
+	<word weight="0.07226890756302522" count="43">london</word>
+	<word weight="0.05378151260504202" count="32">olympic</word>
+	<word weight="0.0453781512605042" count="27">locog</word>
+	<word weight="0.04201680672268908" count="25">games</word>
+	<word weight="0.03361344537815126" count="20">paralympic</word>
+	<word weight="0.031932773109243695" count="19">committee</word>
+	<word weight="0.030252100840336135" count="18">organising</word>
+	<word weight="0.018487394957983194" count="11">publications</word>
+	<word weight="0.015126050420168067" count="9">bid</word>
+	<word weight="0.013445378151260505" count="8">staff</word>
+	<word weight="0.013445378151260505" count="8">public</word>
+	<word weight="0.011764705882352941" count="7">extranet</word>
+	<word weight="0.010084033613445379" count="6">digital</word>
+	<word weight="0.008403361344537815" count="5">intranet</word>
+	<word weight="0.008403361344537815" count="5">locog's</word>
+	<word weight="0.008403361344537815" count="5">ceremonies</word>
+	<word weight="0.0067226890756302525" count="4">internet</word>
+	<word weight="0.0067226890756302525" count="4">july</word>
+	<word weight="0.0067226890756302525" count="4">twitter</word>
+	<word weight="0.0067226890756302525" count="4">singapore</word>
+  </topic>
+</topics>

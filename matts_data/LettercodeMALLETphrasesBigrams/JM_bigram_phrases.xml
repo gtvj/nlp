@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="10.195318319302393" totalTokens="267" titles="education, wales, council, funding, jm, higher, training, national, minutes, reports">
+	<word weight="0.1198501872659176" count="32">education</word>
+	<word weight="0.11235955056179775" count="30">wales</word>
+	<word weight="0.10486891385767791" count="28">council</word>
+	<word weight="0.07865168539325842" count="21">funding</word>
+	<word weight="0.056179775280898875" count="15">jm</word>
+	<word weight="0.03745318352059925" count="10">higher</word>
+	<word weight="0.033707865168539325" count="9">training</word>
+	<word weight="0.033707865168539325" count="9">national</word>
+	<word weight="0.026217228464419477" count="7">minutes</word>
+	<word weight="0.02247191011235955" count="6">reports</word>
+	<word weight="0.02247191011235955" count="6">successor</word>
+	<word weight="0.02247191011235955" count="6">plans</word>
+	<word weight="0.018726591760299626" count="5">agenda</word>
+	<word weight="0.018726591760299626" count="5">corporate</word>
+	<word weight="0.0149812734082397" count="4">directors</word>
+	<word weight="0.0149812734082397" count="4">meetings</word>
+	<word weight="0.0149812734082397" count="4">councils</word>
+	<word weight="0.0149812734082397" count="4">executive</word>
+	<word weight="0.011235955056179775" count="3">group</word>
+	<word weight="0.011235955056179775" count="3">annual</word>
+	<phrase weight="0.1956521739130435" count="9">education funding council</phrase>
+	<phrase weight="0.17391304347826086" count="8">national council</phrase>
+	<phrase weight="0.15217391304347827" count="7">higher education funding council</phrase>
+	<phrase weight="0.06521739130434782" count="3">corporate plans</phrase>
+	<phrase weight="0.043478260869565216" count="2">annual reports</phrase>
+	<phrase weight="0.043478260869565216" count="2">higher education funding councils</phrase>
+	<phrase weight="0.021739130434782608" count="1">funding councils</phrase>
+	<phrase weight="0.021739130434782608" count="1">cyngor cenedlaethol cymru dros addysg</phrase>
+	<phrase weight="0.021739130434782608" count="1">funding council</phrase>
+	<phrase weight="0.021739130434782608" count="1">cyngor cyllido addysg bellach</phrase>
+	<phrase weight="0.021739130434782608" count="1">authorities delegated</phrase>
+	<phrase weight="0.021739130434782608" count="1">higher education</phrase>
+	<phrase weight="0.021739130434782608" count="1">joint venture</phrase>
+	<phrase weight="0.021739130434782608" count="1">management group</phrase>
+	<phrase weight="0.021739130434782608" count="1">necessarily reflected</phrase>
+	<phrase weight="0.021739130434782608" count="1">business plans</phrase>
+	<phrase weight="0.021739130434782608" count="1">set belonged</phrase>
+	<phrase weight="0.021739130434782608" count="1">cyngor cyllido addysg bellach cymru</phrase>
+	<phrase weight="0.021739130434782608" count="1">executive team</phrase>
+	<phrase weight="0.021739130434782608" count="1">advisory group</phrase>
+  </topic>
+</topics>

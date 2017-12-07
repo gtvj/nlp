@@ -1,0 +1,30 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.6384574517239479" totalTokens="43" titles="maps, plans, drawings, council, privy, public, standardised, modernised, contemporary, names">
+	<word weight="0.13953488372093023" count="6">maps</word>
+	<word weight="0.09302325581395349" count="4">plans</word>
+	<word weight="0.06976744186046512" count="3">drawings</word>
+	<word weight="0.06976744186046512" count="3">council</word>
+	<word weight="0.06976744186046512" count="3">privy</word>
+	<word weight="0.046511627906976744" count="2">public</word>
+	<word weight="0.023255813953488372" count="1">standardised</word>
+	<word weight="0.023255813953488372" count="1">modernised</word>
+	<word weight="0.023255813953488372" count="1">contemporary</word>
+	<word weight="0.023255813953488372" count="1">names</word>
+	<word weight="0.023255813953488372" count="1">depicted</word>
+	<word weight="0.023255813953488372" count="1">places</word>
+	<word weight="0.023255813953488372" count="1">association</word>
+	<word weight="0.023255813953488372" count="1">textual</word>
+	<word weight="0.023255813953488372" count="1">matter</word>
+	<word weight="0.023255813953488372" count="1">subject</word>
+	<word weight="0.023255813953488372" count="1">common</word>
+	<word weight="0.023255813953488372" count="1">pc</word>
+	<word weight="0.023255813953488372" count="1">size</word>
+	<word weight="0.023255813953488372" count="1">measure</word>
+	<phrase weight="0.42857142857142855" count="3">privy council</phrase>
+	<phrase weight="0.14285714285714285" count="1">common subject matter</phrase>
+	<phrase weight="0.14285714285714285" count="1">places depicted</phrase>
+	<phrase weight="0.14285714285714285" count="1">preservation measure</phrase>
+	<phrase weight="0.14285714285714285" count="1">twentieth century</phrase>
+  </topic>
+</topics>

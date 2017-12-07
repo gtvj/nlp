@@ -1,0 +1,17 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.647349823358821" totalTokens="32" titles="commission, services, postal, consultation, postcomm, public, remits, statutory, pursuance, distibuted">
+	<word weight="0.1875" count="6">commission</word>
+	<word weight="0.1875" count="6">services</word>
+	<word weight="0.1875" count="6">postal</word>
+	<word weight="0.09375" count="3">consultation</word>
+	<word weight="0.09375" count="3">postcomm</word>
+	<word weight="0.0625" count="2">public</word>
+	<word weight="0.03125" count="1">remits</word>
+	<word weight="0.03125" count="1">statutory</word>
+	<word weight="0.03125" count="1">pursuance</word>
+	<word weight="0.03125" count="1">distibuted</word>
+	<word weight="0.03125" count="1">division</word>
+	<word weight="0.03125" count="1">government</word>
+  </topic>
+</topics>

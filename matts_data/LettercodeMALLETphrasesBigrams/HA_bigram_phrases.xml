@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.990142378570381" totalTokens="647" titles="uk government, research, environment, natural, council, ha, centre, british, nerc, survey">
+	<word weight="0.08964451313755796" count="58">research</word>
+	<word weight="0.08346213292117466" count="54">environment</word>
+	<word weight="0.080370942812983" count="52">council</word>
+	<word weight="0.080370942812983" count="52">natural</word>
+	<word weight="0.07264296754250386" count="47">uk</word>
+	<word weight="0.06027820710973725" count="39">ha</word>
+	<word weight="0.05564142194744977" count="36">government</word>
+	<word weight="0.02472952086553323" count="16">centre</word>
+	<word weight="0.021638330757341576" count="14">british</word>
+	<word weight="0.02009273570324575" count="13">nerc</word>
+	<word weight="0.01854714064914992" count="12">survey</word>
+	<word weight="0.015455950540958269" count="10">data</word>
+	<word weight="0.010819165378670788" count="7">hydrology</word>
+	<word weight="0.010819165378670788" count="7">ecology</word>
+	<word weight="0.00927357032457496" count="6">antarctic</word>
+	<word weight="0.00927357032457496" count="6">environmental</word>
+	<word weight="0.00927357032457496" count="6">ceh</word>
+	<word weight="0.0077279752704791345" count="5">ac</word>
+	<word weight="0.0077279752704791345" count="5">oceanography</word>
+	<word weight="0.0077279752704791345" count="5">national</word>
+	<phrase weight="0.21" count="21">uk government</phrase>
+	<phrase weight="0.1" count="10">natural environment research council</phrase>
+	<phrase weight="0.05" count="5">national oceanography centre</phrase>
+	<phrase weight="0.05" count="5">environment research council</phrase>
+	<phrase weight="0.04" count="4">british antarctic survey</phrase>
+	<phrase weight="0.02" count="2">ordinated ammonia research activities</phrase>
+	<phrase weight="0.02" count="2">urban regeneration</phrase>
+	<phrase weight="0.02" count="2">british oceanographic data centre</phrase>
+	<phrase weight="0.02" count="2">uk butterfly monitoring scheme</phrase>
+	<phrase weight="0.02" count="2">lowland catchment research</phrase>
+	<phrase weight="0.02" count="2">united kingdom environmental data index</phrase>
+	<phrase weight="0.02" count="2">data services</phrase>
+	<phrase weight="0.02" count="2">permanent service</phrase>
+	<phrase weight="0.02" count="2">air pollution</phrase>
+	<phrase weight="0.02" count="2">arcgis services directory</phrase>
+	<phrase weight="0.02" count="2">planet earth</phrase>
+	<phrase weight="0.02" count="2">environmental change network</phrase>
+	<phrase weight="0.02" count="2">science impacts database</phrase>
+	<phrase weight="0.02" count="2">fine resolution atmospheric multi</phrase>
+	<phrase weight="0.01" count="1">rural metals network</phrase>
+  </topic>
+</topics>

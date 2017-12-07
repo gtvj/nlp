@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="6.853685586190362" totalTokens="588" titles="international, whaling, commission, dg, annual, committee, european, meetings, special, reports">
+	<word weight="0.0782312925170068" count="46">international</word>
+	<word weight="0.07142857142857142" count="42">whaling</word>
+	<word weight="0.0663265306122449" count="39">commission</word>
+	<word weight="0.034013605442176874" count="20">dg</word>
+	<word weight="0.02040816326530612" count="12">annual</word>
+	<word weight="0.01870748299319728" count="11">committee</word>
+	<word weight="0.01870748299319728" count="11">european</word>
+	<word weight="0.01870748299319728" count="11">meetings</word>
+	<word weight="0.017006802721088437" count="10">special</word>
+	<word weight="0.013605442176870748" count="8">reports</word>
+	<word weight="0.013605442176870748" count="8">scientific</word>
+	<word weight="0.011904761904761904" count="7">organisations</word>
+	<word weight="0.011904761904761904" count="7">research</word>
+	<word weight="0.008503401360544218" count="5">organisation</word>
+	<word weight="0.008503401360544218" count="5">treaty</word>
+	<word weight="0.008503401360544218" count="5">brussels</word>
+	<word weight="0.008503401360544218" count="5">whales</word>
+	<word weight="0.008503401360544218" count="5">convention</word>
+	<word weight="0.006802721088435374" count="4">journal</word>
+	<word weight="0.006802721088435374" count="4">formal</word>
+	<phrase weight="0.13445378151260504" count="16">international whaling commission</phrase>
+	<phrase weight="0.05042016806722689" count="6">special meetings</phrase>
+	<phrase weight="0.025210084033613446" count="3">brussels treaty organisation</phrase>
+	<phrase weight="0.025210084033613446" count="3">tripartite commission</phrase>
+	<phrase weight="0.025210084033613446" count="3">whaling commission</phrase>
+	<phrase weight="0.025210084033613446" count="3">international convention</phrase>
+	<phrase weight="0.025210084033613446" count="3">monetary gold</phrase>
+	<phrase weight="0.025210084033613446" count="3">cetacean research</phrase>
+	<phrase weight="0.025210084033613446" count="3">whaling vessels</phrase>
+	<phrase weight="0.01680672268907563" count="2">steel community</phrase>
+	<phrase weight="0.01680672268907563" count="2">descriptive standards</phrase>
+	<phrase weight="0.01680672268907563" count="2">annual reports</phrase>
+	<phrase weight="0.01680672268907563" count="2">european union</phrase>
+	<phrase weight="0.01680672268907563" count="2">scientific committee</phrase>
+	<phrase weight="0.008403361344537815" count="1">extent provided</phrase>
+	<phrase weight="0.008403361344537815" count="1">european patent</phrase>
+	<phrase weight="0.008403361344537815" count="1">concluding report</phrase>
+	<phrase weight="0.008403361344537815" count="1">member governments</phrase>
+	<phrase weight="0.008403361344537815" count="1">observer scheme</phrase>
+	<phrase weight="0.008403361344537815" count="1">formal notifications</phrase>
+  </topic>
+</topics>

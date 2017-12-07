@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="8.893967789181078" totalTokens="398" titles="government, national, body, code, online, uk, creating, tna, incorporated, end">
+	<word weight="0.0829145728643216" count="33">government</word>
+	<word weight="0.03015075376884422" count="12">national</word>
+	<word weight="0.02512562814070352" count="10">body</word>
+	<word weight="0.022613065326633167" count="9">code</word>
+	<word weight="0.022613065326633167" count="9">online</word>
+	<word weight="0.020100502512562814" count="8">uk</word>
+	<word weight="0.020100502512562814" count="8">creating</word>
+	<word weight="0.020100502512562814" count="8">tna</word>
+	<word weight="0.020100502512562814" count="8">incorporated</word>
+	<word weight="0.020100502512562814" count="8">end</word>
+	<word weight="0.017587939698492462" count="7">service</word>
+	<word weight="0.017587939698492462" count="7">central</word>
+	<word weight="0.017587939698492462" count="7">past</word>
+	<word weight="0.017587939698492462" count="7">provide</word>
+	<word weight="0.01507537688442211" count="6">policy</word>
+	<word weight="0.01507537688442211" count="6">health</word>
+	<word weight="0.01256281407035176" count="5">environment</word>
+	<word weight="0.01256281407035176" count="5">commission</word>
+	<word weight="0.010050251256281407" count="4">sport</word>
+	<word weight="0.010050251256281407" count="4">media</word>
+	<phrase weight="0.09722222222222222" count="7">central government</phrase>
+	<phrase weight="0.041666666666666664" count="3">internal security</phrase>
+	<phrase weight="0.041666666666666664" count="3">provided services</phrase>
+	<phrase weight="0.041666666666666664" count="3">foreign policy</phrase>
+	<phrase weight="0.041666666666666664" count="3">constitutional arrangements</phrase>
+	<phrase weight="0.041666666666666664" count="3">uk government</phrase>
+	<phrase weight="0.041666666666666664" count="3">culture media</phrase>
+	<phrase weight="0.027777777777777776" count="2">environment work</phrase>
+	<phrase weight="0.027777777777777776" count="2">prime minister</phrase>
+	<phrase weight="0.013888888888888888" count="1">unusual circumstances</phrase>
+	<phrase weight="0.013888888888888888" count="1">strategic rail authority</phrase>
+	<phrase weight="0.013888888888888888" count="1">national audit</phrase>
+	<phrase weight="0.013888888888888888" count="1">job centre</phrase>
+	<phrase weight="0.013888888888888888" count="1">passport service</phrase>
+	<phrase weight="0.013888888888888888" count="1">rights commission</phrase>
+	<phrase weight="0.013888888888888888" count="1">royal navy</phrase>
+	<phrase weight="0.013888888888888888" count="1">debt management</phrase>
+	<phrase weight="0.013888888888888888" count="1">business service</phrase>
+	<phrase weight="0.013888888888888888" count="1">english heritage</phrase>
+	<phrase weight="0.013888888888888888" count="1">decisions informing</phrase>
+  </topic>
+</topics>

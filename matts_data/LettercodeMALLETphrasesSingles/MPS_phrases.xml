@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="23.499095623943184" totalTokens="87" titles="rail, maps, transport, british, surveys, plans, london, waterways, inland, canals">
+	<word weight="0.1839080459770115" count="16">rail</word>
+	<word weight="0.12643678160919541" count="11">maps</word>
+	<word weight="0.11494252873563218" count="10">transport</word>
+	<word weight="0.11494252873563218" count="10">british</word>
+	<word weight="0.10344827586206896" count="9">surveys</word>
+	<word weight="0.10344827586206896" count="9">plans</word>
+	<word weight="0.022988505747126436" count="2">london</word>
+	<word weight="0.022988505747126436" count="2">waterways</word>
+	<word weight="0.022988505747126436" count="2">inland</word>
+	<word weight="0.022988505747126436" count="2">canals</word>
+	<word weight="0.022988505747126436" count="2">railway</word>
+	<word weight="0.011494252873563218" count="1">small-scale</word>
+	<word weight="0.011494252873563218" count="1">atlases</word>
+	<word weight="0.011494252873563218" count="1">large-scale</word>
+	<word weight="0.011494252873563218" count="1">ports</word>
+	<word weight="0.011494252873563218" count="1">towns</word>
+	<word weight="0.011494252873563218" count="1">foreign</word>
+	<word weight="0.011494252873563218" count="1">empire</word>
+	<word weight="0.011494252873563218" count="1">railways</word>
+	<word weight="0.011494252873563218" count="1">house</word>
+  </topic>
+</topics>

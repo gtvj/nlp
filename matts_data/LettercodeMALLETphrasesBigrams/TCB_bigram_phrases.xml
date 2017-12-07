@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="14.808851000490879" totalTokens="216" titles="post, minuted, board, telephone, services, individual, bt, telegraph, staff, administrative">
+	<word weight="0.07407407407407407" count="16">post</word>
+	<word weight="0.046296296296296294" count="10">minuted</word>
+	<word weight="0.037037037037037035" count="8">board</word>
+	<word weight="0.037037037037037035" count="8">telephone</word>
+	<word weight="0.027777777777777776" count="6">services</word>
+	<word weight="0.027777777777777776" count="6">individual</word>
+	<word weight="0.027777777777777776" count="6">bt</word>
+	<word weight="0.023148148148148147" count="5">telegraph</word>
+	<word weight="0.023148148148148147" count="5">staff</word>
+	<word weight="0.018518518518518517" count="4">service</word>
+	<word weight="0.018518518518518517" count="4">administrative</word>
+	<word weight="0.018518518518518517" count="4">general</word>
+	<word weight="0.018518518518518517" count="4">reports</word>
+	<word weight="0.013888888888888888" count="3">subjects</word>
+	<word weight="0.013888888888888888" count="3">decisions</word>
+	<word weight="0.013888888888888888" count="3">ranging</word>
+	<word weight="0.013888888888888888" count="3">subject</word>
+	<word weight="0.013888888888888888" count="3">registry</word>
+	<word weight="0.013888888888888888" count="3">telecommunications</word>
+	<word weight="0.013888888888888888" count="3">accounts</word>
+	<phrase weight="0.08333333333333333" count="3">annual reports</phrase>
+	<phrase weight="0.05555555555555555" count="2">registry staff</phrase>
+	<phrase weight="0.05555555555555555" count="2">telephone services</phrase>
+	<phrase weight="0.05555555555555555" count="2">strategic technical decisions</phrase>
+	<phrase weight="0.027777777777777776" count="1">telecommunication services offered</phrase>
+	<phrase weight="0.027777777777777776" count="1">telephone kiosks</phrase>
+	<phrase weight="0.027777777777777776" count="1">telephone service</phrase>
+	<phrase weight="0.027777777777777776" count="1">case submitted</phrase>
+	<phrase weight="0.027777777777777776" count="1">sufficient importance</phrase>
+	<phrase weight="0.027777777777777776" count="1">critical importance</phrase>
+	<phrase weight="0.027777777777777776" count="1">precise dates</phrase>
+	<phrase weight="0.027777777777777776" count="1">santa claus service</phrase>
+	<phrase weight="0.027777777777777776" count="1">postmaster general</phrase>
+	<phrase weight="0.027777777777777776" count="1">ship telephone services</phrase>
+	<phrase weight="0.027777777777777776" count="1">board administrative</phrase>
+	<phrase weight="0.027777777777777776" count="1">amplifying telephone</phrase>
+	<phrase weight="0.027777777777777776" count="1">general correspondence</phrase>
+	<phrase weight="0.027777777777777776" count="1">common subject spanning</phrase>
+	<phrase weight="0.027777777777777776" count="1">telegraph companies</phrase>
+	<phrase weight="0.027777777777777776" count="1">teletourist service</phrase>
+  </topic>
+</topics>

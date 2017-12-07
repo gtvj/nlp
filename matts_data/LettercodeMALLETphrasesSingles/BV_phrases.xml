@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="125.63773475840823" totalTokens="106" titles="parole, board, annual, reports, policy, system, operational, release, justice, criminal">
+	<word weight="0.16037735849056603" count="17">parole</word>
+	<word weight="0.14150943396226415" count="15">board</word>
+	<word weight="0.04716981132075472" count="5">annual</word>
+	<word weight="0.03773584905660377" count="4">reports</word>
+	<word weight="0.03773584905660377" count="4">policy</word>
+	<word weight="0.02830188679245283" count="3">system</word>
+	<word weight="0.02830188679245283" count="3">operational</word>
+	<word weight="0.018867924528301886" count="2">release</word>
+	<word weight="0.018867924528301886" count="2">justice</word>
+	<word weight="0.018867924528301886" count="2">criminal</word>
+	<word weight="0.018867924528301886" count="2">role</word>
+	<word weight="0.018867924528301886" count="2">correspondence</word>
+	<word weight="0.018867924528301886" count="2">meetings</word>
+	<word weight="0.018867924528301886" count="2">general</word>
+	<word weight="0.018867924528301886" count="2">wales</word>
+	<word weight="0.018867924528301886" count="2">england</word>
+	<word weight="0.009433962264150943" count="1">field</word>
+	<word weight="0.009433962264150943" count="1">government</word>
+	<word weight="0.009433962264150943" count="1">division</word>
+	<word weight="0.009433962264150943" count="1">time</word>
+  </topic>
+</topics>

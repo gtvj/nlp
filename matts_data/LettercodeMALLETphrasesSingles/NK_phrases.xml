@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.470695693719348" totalTokens="1526" titles="industry, trade, government, division, development, policy, successors, scheme, technology, competition">
+	<word weight="0.05897771952817824" count="90">industry</word>
+	<word weight="0.05701179554390563" count="87">trade</word>
+	<word weight="0.03800786369593709" count="58">government</word>
+	<word weight="0.020969855832241154" count="32">division</word>
+	<word weight="0.017693315858453473" count="27">development</word>
+	<word weight="0.01507208387942333" count="23">policy</word>
+	<word weight="0.012450851900393184" count="19">successors</word>
+	<word weight="0.009174311926605505" count="14">scheme</word>
+	<word weight="0.009174311926605505" count="14">technology</word>
+	<word weight="0.009174311926605505" count="14">competition</word>
+	<word weight="0.009174311926605505" count="14">consumer</word>
+	<word weight="0.007863695937090432" count="12">management</word>
+	<word weight="0.007863695937090432" count="12">national</word>
+	<word weight="0.007208387942332897" count="11">business</word>
+	<word weight="0.00655307994757536" count="10">england</word>
+	<word weight="0.00655307994757536" count="10">west</word>
+	<word weight="0.00655307994757536" count="10">directorate</word>
+	<word weight="0.00655307994757536" count="10">british</word>
+	<word weight="0.00655307994757536" count="10">council</word>
+	<word weight="0.005897771952817824" count="9">property</word>
+  </topic>
+</topics>

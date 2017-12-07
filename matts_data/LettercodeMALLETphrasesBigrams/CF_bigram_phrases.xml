@@ -1,0 +1,31 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.2835944966795534" totalTokens="43" titles="hospital, cf, middlesex, bernard, st, public, hospitals, service, health, national">
+	<word weight="0.09302325581395349" count="4">hospital</word>
+	<word weight="0.06976744186046512" count="3">cf</word>
+	<word weight="0.046511627906976744" count="2">middlesex</word>
+	<word weight="0.046511627906976744" count="2">bernard</word>
+	<word weight="0.046511627906976744" count="2">st</word>
+	<word weight="0.046511627906976744" count="2">public</word>
+	<word weight="0.046511627906976744" count="2">hospitals</word>
+	<word weight="0.046511627906976744" count="2">service</word>
+	<word weight="0.046511627906976744" count="2">health</word>
+	<word weight="0.046511627906976744" count="2">national</word>
+	<word weight="0.046511627906976744" count="2">minutes</word>
+	<word weight="0.046511627906976744" count="2">correspondence</word>
+	<word weight="0.046511627906976744" count="2">anderson</word>
+	<word weight="0.046511627906976744" count="2">garret</word>
+	<word weight="0.046511627906976744" count="2">elizabeth</word>
+	<word weight="0.023255813953488372" count="1">detailed</word>
+	<word weight="0.023255813953488372" count="1">act</word>
+	<word weight="0.023255813953488372" count="1">metropolitan</word>
+	<word weight="0.023255813953488372" count="1">london</word>
+	<word weight="0.023255813953488372" count="1">blocks</word>
+	<phrase weight="0.25" count="2">st bernard</phrase>
+	<phrase weight="0.25" count="2">elizabeth garret anderson hospital</phrase>
+	<phrase weight="0.125" count="1">health service hospitals</phrase>
+	<phrase weight="0.125" count="1">general correspondence</phrase>
+	<phrase weight="0.125" count="1">national health service hospitals</phrase>
+	<phrase weight="0.125" count="1">london metropolitan</phrase>
+  </topic>
+</topics>

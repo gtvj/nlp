@@ -1,0 +1,40 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="19.177508697091653" totalTokens="214" titles="london, maps, plans, borough, county, current, place, places, rolled, public">
+	<word weight="0.07476635514018691" count="16">london</word>
+	<word weight="0.0514018691588785" count="11">maps</word>
+	<word weight="0.04205607476635514" count="9">plans</word>
+	<word weight="0.037383177570093455" count="8">borough</word>
+	<word weight="0.028037383177570093" count="6">county</word>
+	<word weight="0.028037383177570093" count="6">current</word>
+	<word weight="0.028037383177570093" count="6">place</word>
+	<word weight="0.028037383177570093" count="6">places</word>
+	<word weight="0.02336448598130841" count="5">map</word>
+	<word weight="0.02336448598130841" count="5">rolled</word>
+	<word weight="0.02336448598130841" count="5">public</word>
+	<word weight="0.02336448598130841" count="5">mr</word>
+	<word weight="0.018691588785046728" count="4">council</word>
+	<word weight="0.018691588785046728" count="4">area</word>
+	<word weight="0.018691588785046728" count="4">drawings</word>
+	<word weight="0.018691588785046728" count="4">wo</word>
+	<word weight="0.014018691588785047" count="3">government</word>
+	<word weight="0.014018691588785047" count="3">length</word>
+	<word weight="0.009345794392523364" count="2">rail</word>
+	<word weight="0.009345794392523364" count="2">metres</word>
+	<phrase weight="0.09090909090909091" count="2">london council</phrase>
+	<phrase weight="0.09090909090909091" count="2">common subject matter</phrase>
+	<phrase weight="0.09090909090909091" count="2">geographical area</phrase>
+	<phrase weight="0.09090909090909091" count="2">london borough</phrase>
+	<phrase weight="0.09090909090909091" count="2">london county council</phrase>
+	<phrase weight="0.09090909090909091" count="2">significant change</phrase>
+	<phrase weight="0.09090909090909091" count="2">london area</phrase>
+	<phrase weight="0.045454545454545456" count="1">coming months</phrase>
+	<phrase weight="0.045454545454545456" count="1">topographical views</phrase>
+	<phrase weight="0.045454545454545456" count="1">based map catalogues</phrase>
+	<phrase weight="0.045454545454545456" count="1">mr maps</phrase>
+	<phrase weight="0.045454545454545456" count="1">twentieth century</phrase>
+	<phrase weight="0.045454545454545456" count="1">artificial accumulations</phrase>
+	<phrase weight="0.045454545454545456" count="1">preservation measure</phrase>
+	<phrase weight="0.045454545454545456" count="1">technical drawings</phrase>
+  </topic>
+</topics>

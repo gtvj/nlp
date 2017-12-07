@@ -1,0 +1,29 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.454055042013274" totalTokens="39" titles="house, lords, sessional, debates, parliamentary, library, publications, reports, hansard, bills">
+	<word weight="0.1794871794871795" count="7">house</word>
+	<word weight="0.15384615384615385" count="6">lords</word>
+	<word weight="0.07692307692307693" count="3">sessional</word>
+	<word weight="0.07692307692307693" count="3">debates</word>
+	<word weight="0.07692307692307693" count="3">parliamentary</word>
+	<word weight="0.05128205128205128" count="2">library</word>
+	<word weight="0.05128205128205128" count="2">publications</word>
+	<word weight="0.05128205128205128" count="2">reports</word>
+	<word weight="0.05128205128205128" count="2">hansard</word>
+	<word weight="0.02564102564102564" count="1">bills</word>
+	<word weight="0.02564102564102564" count="1">public</word>
+	<word weight="0.02564102564102564" count="1">accounts</word>
+	<word weight="0.02564102564102564" count="1">annual</word>
+	<word weight="0.02564102564102564" count="1">business</word>
+	<word weight="0.02564102564102564" count="1">legislative</word>
+	<word weight="0.02564102564102564" count="1">november</word>
+	<word weight="0.02564102564102564" count="1">june</word>
+	<word weight="0.02564102564102564" count="1">commonly</word>
+	<phrase weight="0.2857142857142857" count="2">parliamentary debates</phrase>
+	<phrase weight="0.14285714285714285" count="1">public bills</phrase>
+	<phrase weight="0.14285714285714285" count="1">lords publications</phrase>
+	<phrase weight="0.14285714285714285" count="1">lords parliamentary debates</phrase>
+	<phrase weight="0.14285714285714285" count="1">lords sessional</phrase>
+	<phrase weight="0.14285714285714285" count="1">legislative business</phrase>
+  </topic>
+</topics>

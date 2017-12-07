@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.252638635559184" totalTokens="3490" titles="insurance, national, pensions, successors, war, act, health, committee, industrial, acts">
+	<word weight="0.08538681948424069" count="298">insurance</word>
+	<word weight="0.0673352435530086" count="235">national</word>
+	<word weight="0.052435530085959886" count="183">pensions</word>
+	<word weight="0.03180515759312321" count="111">successors</word>
+	<word weight="0.02177650429799427" count="76">war</word>
+	<word weight="0.012607449856733524" count="44">act</word>
+	<word weight="0.012320916905444125" count="43">health</word>
+	<word weight="0.011461318051575931" count="40">committee</word>
+	<word weight="0.008595988538681949" count="30">industrial</word>
+	<word weight="0.008022922636103151" count="28">acts</word>
+	<word weight="0.007449856733524355" count="26">benefit</word>
+	<word weight="0.007449856733524355" count="26">unemployment</word>
+	<word weight="0.007449856733524355" count="26">policy</word>
+	<word weight="0.0071633237822349575" count="25">injuries</word>
+	<word weight="0.006876790830945559" count="24">administration</word>
+	<word weight="0.006876790830945559" count="24">services</word>
+	<word weight="0.006876790830945559" count="24">social</word>
+	<word weight="0.006590257879656161" count="23">committees</word>
+	<word weight="0.006590257879656161" count="23">subsequent</word>
+	<word weight="0.006303724928366762" count="22">general</word>
+  </topic>
+</topics>

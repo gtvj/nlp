@@ -1,0 +1,29 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.1799970874970247" totalTokens="55" titles="women, commission, national, lh, public, committee, secretariat, elections, nominations, arrangements">
+	<word weight="0.14545454545454545" count="8">women</word>
+	<word weight="0.12727272727272726" count="7">commission</word>
+	<word weight="0.10909090909090909" count="6">national</word>
+	<word weight="0.09090909090909091" count="5">lh</word>
+	<word weight="0.03636363636363636" count="2">public</word>
+	<word weight="0.03636363636363636" count="2">committee</word>
+	<word weight="0.03636363636363636" count="2">secretariat</word>
+	<word weight="0.01818181818181818" count="1">elections</word>
+	<word weight="0.01818181818181818" count="1">nominations</word>
+	<word weight="0.01818181818181818" count="1">arrangements</word>
+	<word weight="0.01818181818181818" count="1">constitution</word>
+	<word weight="0.01818181818181818" count="1">drawing</word>
+	<word weight="0.01818181818181818" count="1">wnc</word>
+	<word weight="0.01818181818181818" count="1">generally</word>
+	<word weight="0.01818181818181818" count="1">life</word>
+	<word weight="0.01818181818181818" count="1">role</word>
+	<word weight="0.01818181818181818" count="1">affairs</word>
+	<word weight="0.01818181818181818" count="1">affect</word>
+	<word weight="0.01818181818181818" count="1">ranging</word>
+	<word weight="0.01818181818181818" count="1">broad</word>
+	<phrase weight="0.6666666666666666" count="6">national commission</phrase>
+	<phrase weight="0.1111111111111111" count="1">affect public affairs</phrase>
+	<phrase weight="0.1111111111111111" count="1">opening reception</phrase>
+	<phrase weight="0.1111111111111111" count="1">inaugural meeting</phrase>
+  </topic>
+</topics>

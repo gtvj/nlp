@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.2801483684567576" totalTokens="49" titles="commission, women's, national, public, committee, secretariat, elections, nominations, arrangements, constitution">
+	<word weight="0.14285714285714285" count="7">commission</word>
+	<word weight="0.14285714285714285" count="7">women's</word>
+	<word weight="0.12244897959183673" count="6">national</word>
+	<word weight="0.04081632653061224" count="2">public</word>
+	<word weight="0.04081632653061224" count="2">committee</word>
+	<word weight="0.04081632653061224" count="2">secretariat</word>
+	<word weight="0.02040816326530612" count="1">elections</word>
+	<word weight="0.02040816326530612" count="1">nominations</word>
+	<word weight="0.02040816326530612" count="1">arrangements</word>
+	<word weight="0.02040816326530612" count="1">constitution</word>
+	<word weight="0.02040816326530612" count="1">drawing</word>
+	<word weight="0.02040816326530612" count="1">wnc</word>
+	<word weight="0.02040816326530612" count="1">generally</word>
+	<word weight="0.02040816326530612" count="1">life</word>
+	<word weight="0.02040816326530612" count="1">women</word>
+	<word weight="0.02040816326530612" count="1">role</word>
+	<word weight="0.02040816326530612" count="1">affairs</word>
+	<word weight="0.02040816326530612" count="1">affect</word>
+	<word weight="0.02040816326530612" count="1">broad-ranging</word>
+	<word weight="0.02040816326530612" count="1">meetings</word>
+  </topic>
+</topics>

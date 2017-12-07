@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.534947067196133" totalTokens="380" titles="court, criminal, central, cases, proceedings, reserved, crown, salaries, staff, trial">
+	<word weight="0.12105263157894737" count="46">court</word>
+	<word weight="0.05789473684210526" count="22">criminal</word>
+	<word weight="0.05" count="19">central</word>
+	<word weight="0.03684210526315789" count="14">cases</word>
+	<word weight="0.02894736842105263" count="11">proceedings</word>
+	<word weight="0.021052631578947368" count="8">reserved</word>
+	<word weight="0.018421052631578946" count="7">crown</word>
+	<word weight="0.015789473684210527" count="6">salaries</word>
+	<word weight="0.015789473684210527" count="6">staff</word>
+	<word weight="0.015789473684210527" count="6">trial</word>
+	<word weight="0.015789473684210527" count="6">consideration</word>
+	<word weight="0.015789473684210527" count="6">indictments</word>
+	<word weight="0.013157894736842105" count="5">calendars</word>
+	<word weight="0.010526315789473684" count="4">orders</word>
+	<word weight="0.010526315789473684" count="4">books</word>
+	<word weight="0.010526315789473684" count="4">committee</word>
+	<word weight="0.007894736842105263" count="3">verdict</word>
+	<word weight="0.007894736842105263" count="3">names</word>
+	<word weight="0.007894736842105263" count="3">depositions</word>
+	<word weight="0.007894736842105263" count="3">administrative</word>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.65471121739885" totalTokens="569" titles="court, books, palace, entries, rolls, cases, plea, brought, writs, names">
+	<word weight="0.06678383128295255" count="38">court</word>
+	<word weight="0.050966608084358524" count="29">books</word>
+	<word weight="0.03690685413005272" count="21">palace</word>
+	<word weight="0.015817223198594025" count="9">entries</word>
+	<word weight="0.015817223198594025" count="9">rolls</word>
+	<word weight="0.014059753954305799" count="8">cases</word>
+	<word weight="0.01054481546572935" count="6">plea</word>
+	<word weight="0.01054481546572935" count="6">brought</word>
+	<word weight="0.008787346221441126" count="5">writs</word>
+	<word weight="0.008787346221441126" count="5">names</word>
+	<word weight="0.008787346221441126" count="5">session</word>
+	<word weight="0.008787346221441126" count="5">entry</word>
+	<word weight="0.008787346221441126" count="5">recording</word>
+	<word weight="0.008787346221441126" count="5">complete</word>
+	<word weight="0.007029876977152899" count="4">plaints</word>
+	<word weight="0.007029876977152899" count="4">superior</word>
+	<word weight="0.007029876977152899" count="4">removed</word>
+	<word weight="0.007029876977152899" count="4">attorneys</word>
+	<word weight="0.007029876977152899" count="4">headings</word>
+	<word weight="0.007029876977152899" count="4">rules</word>
+  </topic>
+</topics>

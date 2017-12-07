@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="9.087295049133925" totalTokens="272" titles="land, jh, resources, natural, division, successor, planning, kl, national, parks">
+	<word weight="0.10661764705882353" count="29">land</word>
+	<word weight="0.08088235294117647" count="22">jh</word>
+	<word weight="0.07720588235294118" count="21">resources</word>
+	<word weight="0.07720588235294118" count="21">natural</word>
+	<word weight="0.04411764705882353" count="12">division</word>
+	<word weight="0.03676470588235294" count="10">successor</word>
+	<word weight="0.025735294117647058" count="7">planning</word>
+	<word weight="0.01838235294117647" count="5">kl</word>
+	<word weight="0.01838235294117647" count="5">national</word>
+	<word weight="0.01838235294117647" count="5">parks</word>
+	<word weight="0.01838235294117647" count="5">policy</word>
+	<word weight="0.014705882352941176" count="4">preservation</word>
+	<word weight="0.014705882352941176" count="4">tree</word>
+	<word weight="0.014705882352941176" count="4">forestry</word>
+	<word weight="0.014705882352941176" count="4">country</word>
+	<word weight="0.014705882352941176" count="4">common</word>
+	<word weight="0.011029411764705883" count="3">predecessor</word>
+	<word weight="0.011029411764705883" count="3">kg</word>
+	<word weight="0.011029411764705883" count="3">water</word>
+	<word weight="0.011029411764705883" count="3">commission</word>
+	<phrase weight="0.3" count="15">natural resources</phrase>
+	<phrase weight="0.06" count="3">tree preservation</phrase>
+	<phrase weight="0.06" count="3">common land</phrase>
+	<phrase weight="0.06" count="3">parks division</phrase>
+	<phrase weight="0.06" count="3">land commission</phrase>
+	<phrase weight="0.04" count="2">country planning act</phrase>
+	<phrase weight="0.02" count="1">local government continued</phrase>
+	<phrase weight="0.02" count="1">resources planning unit</phrase>
+	<phrase weight="0.02" count="1">tree preservation orders</phrase>
+	<phrase weight="0.02" count="1">policy formulation</phrase>
+	<phrase weight="0.02" count="1">commons registration bill</phrase>
+	<phrase weight="0.02" count="1">inland waterways</phrase>
+	<phrase weight="0.02" count="1">resources research</phrase>
+	<phrase weight="0.02" count="1">agriculture fisheries</phrase>
+	<phrase weight="0.02" count="1">natural resources planning</phrase>
+	<phrase weight="0.02" count="1">national parks</phrase>
+	<phrase weight="0.02" count="1">public ownership</phrase>
+	<phrase weight="0.02" count="1">natural resources planning unit</phrase>
+	<phrase weight="0.02" count="1">small number</phrase>
+	<phrase weight="0.02" count="1">common land aspects</phrase>
+  </topic>
+</topics>

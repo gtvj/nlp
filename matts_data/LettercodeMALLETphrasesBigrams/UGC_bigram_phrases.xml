@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.634083601820085" totalTokens="1367" titles="university grants committee, council, funding, education, higher, reports, universities, england, colleges, minutes">
+	<word weight="0.06217995610826628" count="85">council</word>
+	<word weight="0.06071689831748354" count="83">funding</word>
+	<word weight="0.05047549378200439" count="69">education</word>
+	<word weight="0.046086320409656184" count="63">university</word>
+	<word weight="0.046086320409656184" count="63">higher</word>
+	<word weight="0.043891733723482075" count="60">committee</word>
+	<word weight="0.03584491587417703" count="49">grants</word>
+	<word weight="0.029261155815654718" count="40">reports</word>
+	<word weight="0.025603511338697878" count="35">universities</word>
+	<word weight="0.02267739575713241" count="31">england</word>
+	<word weight="0.019751280175566936" count="27">colleges</word>
+	<word weight="0.019019751280175568" count="26">minutes</word>
+	<word weight="0.013899049012435992" count="19">polytechnics</word>
+	<word weight="0.012435991221653255" count="17">institutions</word>
+	<word weight="0.011704462326261888" count="16">advisory</word>
+	<word weight="0.010241404535479151" count="14">quality</word>
+	<word weight="0.010241404535479151" count="14">body</word>
+	<word weight="0.009509875640087784" count="13">letters</word>
+	<word weight="0.009509875640087784" count="13">national</word>
+	<word weight="0.009509875640087784" count="13">hefce</word>
+	<phrase weight="0.08984375" count="23">university grants committee</phrase>
+	<phrase weight="0.07421875" count="19">higher education funding council</phrase>
+	<phrase weight="0.0546875" count="14">colleges funding council</phrase>
+	<phrase weight="0.04296875" count="11">education funding council</phrase>
+	<phrase weight="0.03125" count="8">national advisory body</phrase>
+	<phrase weight="0.02734375" count="7">uk government</phrase>
+	<phrase weight="0.02734375" count="7">funding council</phrase>
+	<phrase weight="0.0234375" count="6">higher education</phrase>
+	<phrase weight="0.0234375" count="6">authority higher education</phrase>
+	<phrase weight="0.0234375" count="6">universities funding council</phrase>
+	<phrase weight="0.01953125" count="5">advisory body</phrase>
+	<phrase weight="0.01953125" count="5">systems committee</phrase>
+	<phrase weight="0.015625" count="4">university colleges</phrase>
+	<phrase weight="0.01171875" count="3">university funding council</phrase>
+	<phrase weight="0.01171875" count="3">sector higher education</phrase>
+	<phrase weight="0.01171875" count="3">procedural instructions</phrase>
+	<phrase weight="0.01171875" count="3">circular letters</phrase>
+	<phrase weight="0.01171875" count="3">grants committee</phrase>
+	<phrase weight="0.0078125" count="2">education funding</phrase>
+	<phrase weight="0.0078125" count="2">circular letters issued</phrase>
+  </topic>
+</topics>

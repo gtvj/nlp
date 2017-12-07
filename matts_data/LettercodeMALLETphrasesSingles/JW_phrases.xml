@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="69.60870796386716" totalTokens="91" titles="metrication, board, board's, industries, division, secretariat, input, reports, annual, engineering">
+	<word weight="0.10989010989010989" count="10">metrication</word>
+	<word weight="0.0989010989010989" count="9">board</word>
+	<word weight="0.054945054945054944" count="5">board's</word>
+	<word weight="0.04395604395604396" count="4">industries</word>
+	<word weight="0.03296703296703297" count="3">division</word>
+	<word weight="0.03296703296703297" count="3">secretariat</word>
+	<word weight="0.03296703296703297" count="3">input</word>
+	<word weight="0.03296703296703297" count="3">reports</word>
+	<word weight="0.03296703296703297" count="3">annual</word>
+	<word weight="0.02197802197802198" count="2">engineering</word>
+	<word weight="0.02197802197802198" count="2">metric</word>
+	<word weight="0.02197802197802198" count="2">responsible</word>
+	<word weight="0.02197802197802198" count="2">minutes</word>
+	<word weight="0.01098901098901099" count="1">report</word>
+	<word weight="0.01098901098901099" count="1">power</word>
+	<word weight="0.01098901098901099" count="1">strategy</word>
+	<word weight="0.01098901098901099" count="1">discussion</word>
+	<word weight="0.01098901098901099" count="1">economy</word>
+	<word weight="0.01098901098901099" count="1">sectors</word>
+	<word weight="0.01098901098901099" count="1">agricultural</word>
+  </topic>
+</topics>

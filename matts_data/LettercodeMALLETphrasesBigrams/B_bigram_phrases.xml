@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.627466588407897" totalTokens="402" titles="bankruptcy, court, bankrupts, commissioners, registers, debtors, books, proceedings, orders, successors">
+	<word weight="0.09701492537313433" count="39">bankruptcy</word>
+	<word weight="0.06965174129353234" count="28">court</word>
+	<word weight="0.03482587064676617" count="14">bankrupts</word>
+	<word weight="0.03233830845771144" count="13">commissioners</word>
+	<word weight="0.029850746268656716" count="12">registers</word>
+	<word weight="0.02736318407960199" count="11">debtors</word>
+	<word weight="0.024875621890547265" count="10">books</word>
+	<word weight="0.024875621890547265" count="10">proceedings</word>
+	<word weight="0.022388059701492536" count="9">orders</word>
+	<word weight="0.017412935323383085" count="7">successors</word>
+	<word weight="0.017412935323383085" count="7">petitions</word>
+	<word weight="0.014925373134328358" count="6">acts</word>
+	<word weight="0.014925373134328358" count="6">courts</word>
+	<word weight="0.014925373134328358" count="6">county</word>
+	<word weight="0.012437810945273632" count="5">chancellor</word>
+	<word weight="0.012437810945273632" count="5">cases</word>
+	<word weight="0.012437810945273632" count="5">insolvent</word>
+	<word weight="0.009950248756218905" count="4">relief</word>
+	<word weight="0.009950248756218905" count="4">review</word>
+	<word weight="0.009950248756218905" count="4">commissions</word>
+	<phrase weight="0.08771929824561403" count="5">insolvent debtors</phrase>
+	<phrase weight="0.05263157894736842" count="3">lord chancellor</phrase>
+	<phrase weight="0.03508771929824561" count="2">bankruptcy acts</phrase>
+	<phrase weight="0.03508771929824561" count="2">successor bankruptcy courts</phrase>
+	<phrase weight="0.03508771929824561" count="2">deceased debtors</phrase>
+	<phrase weight="0.03508771929824561" count="2">receiving orders</phrase>
+	<phrase weight="0.03508771929824561" count="2">county court</phrase>
+	<phrase weight="0.03508771929824561" count="2">high court</phrase>
+	<phrase weight="0.017543859649122806" count="1">renewed commissions</phrase>
+	<phrase weight="0.017543859649122806" count="1">administration orders</phrase>
+	<phrase weight="0.017543859649122806" count="1">insolvency proceedings</phrase>
+	<phrase weight="0.017543859649122806" count="1">dates attributed</phrase>
+	<phrase weight="0.017543859649122806" count="1">bankruptcy commission</phrase>
+	<phrase weight="0.017543859649122806" count="1">bankruptcy cases</phrase>
+	<phrase weight="0.017543859649122806" count="1">minute book</phrase>
+	<phrase weight="0.017543859649122806" count="1">impounded commission</phrase>
+	<phrase weight="0.017543859649122806" count="1">liquidation petitions</phrase>
+	<phrase weight="0.017543859649122806" count="1">inspectorship deeds</phrase>
+	<phrase weight="0.017543859649122806" count="1">lords justices</phrase>
+	<phrase weight="0.017543859649122806" count="1">wandsworth county court</phrase>
+  </topic>
+</topics>

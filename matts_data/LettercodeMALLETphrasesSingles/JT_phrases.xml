@@ -1,0 +1,24 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.0" totalTokens="64" titles="commission, government, local, england, reviews, structural, reports, minutes, correspondence, boundaries">
+	<word weight="0.171875" count="11">commission</word>
+	<word weight="0.15625" count="10">government</word>
+	<word weight="0.15625" count="10">local</word>
+	<word weight="0.09375" count="6">england</word>
+	<word weight="0.0625" count="4">reviews</word>
+	<word weight="0.046875" count="3">structural</word>
+	<word weight="0.046875" count="3">reports</word>
+	<word weight="0.046875" count="3">minutes</word>
+	<word weight="0.046875" count="3">correspondence</word>
+	<word weight="0.03125" count="2">boundaries</word>
+	<word weight="0.015625" count="1">ward</word>
+	<word weight="0.015625" count="1">conducted</word>
+	<word weight="0.015625" count="1">english</word>
+	<word weight="0.015625" count="1">final</word>
+	<word weight="0.015625" count="1">formally</word>
+	<word weight="0.015625" count="1">sitting</word>
+	<word weight="0.015625" count="1">circulated</word>
+	<word weight="0.015625" count="1">state</word>
+	<word weight="0.015625" count="1">secretary</word>
+  </topic>
+</topics>

@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="7.402838842211649" totalTokens="371" titles="remploy, bm, reports, manager, group, meetings, employment, company, annual, persons">
+	<word weight="0.10242587601078167" count="38">remploy</word>
+	<word weight="0.09164420485175202" count="34">bm</word>
+	<word weight="0.026954177897574125" count="10">reports</word>
+	<word weight="0.018867924528301886" count="7">manager</word>
+	<word weight="0.018867924528301886" count="7">group</word>
+	<word weight="0.018867924528301886" count="7">meetings</word>
+	<word weight="0.018867924528301886" count="7">employment</word>
+	<word weight="0.016172506738544475" count="6">company</word>
+	<word weight="0.016172506738544475" count="6">annual</word>
+	<word weight="0.016172506738544475" count="6">persons</word>
+	<word weight="0.016172506738544475" count="6">disabled</word>
+	<word weight="0.013477088948787063" count="5">agreements</word>
+	<word weight="0.013477088948787063" count="5">correspondence</word>
+	<word weight="0.013477088948787063" count="5">director</word>
+	<word weight="0.013477088948787063" count="5">corporation</word>
+	<word weight="0.013477088948787063" count="5">board</word>
+	<word weight="0.01078167115902965" count="4">schedules</word>
+	<word weight="0.01078167115902965" count="4">articles</word>
+	<word weight="0.01078167115902965" count="4">monthly</word>
+	<word weight="0.01078167115902965" count="4">financial</word>
+	<phrase weight="0.07017543859649122" count="4">disabled persons employment corporation</phrase>
+	<phrase weight="0.05263157894736842" count="3">furniture group</phrase>
+	<phrase weight="0.03508771929824561" count="2">financial agreements</phrase>
+	<phrase weight="0.03508771929824561" count="2">textile products group</phrase>
+	<phrase weight="0.03508771929824561" count="2">house journals</phrase>
+	<phrase weight="0.03508771929824561" count="2">annual accounts</phrase>
+	<phrase weight="0.03508771929824561" count="2">monthly reports</phrase>
+	<phrase weight="0.017543859649122806" count="1">house journal</phrase>
+	<phrase weight="0.017543859649122806" count="1">internal communications manager</phrase>
+	<phrase weight="0.017543859649122806" count="1">management meetings</phrase>
+	<phrase weight="0.017543859649122806" count="1">formal financial arrangements</phrase>
+	<phrase weight="0.017543859649122806" count="1">working director</phrase>
+	<phrase weight="0.017543859649122806" count="1">national service</phrase>
+	<phrase weight="0.017543859649122806" count="1">uk government</phrase>
+	<phrase weight="0.017543859649122806" count="1">commercial sales development manager</phrase>
+	<phrase weight="0.017543859649122806" count="1">guard books</phrase>
+	<phrase weight="0.017543859649122806" count="1">central resources director</phrase>
+	<phrase weight="0.017543859649122806" count="1">street showroom</phrase>
+	<phrase weight="0.017543859649122806" count="1">employment policy</phrase>
+	<phrase weight="0.017543859649122806" count="1">bonus schemes</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="5.20454674090175" totalTokens="3536" titles="development, overseas, aid, international, administration, successors, technical, government, united, policy">
+	<word weight="0.07070135746606335" count="250">development</word>
+	<word weight="0.03930995475113122" count="139">overseas</word>
+	<word weight="0.029411764705882353" count="104">aid</word>
+	<word weight="0.025735294117647058" count="91">international</word>
+	<word weight="0.018947963800904976" count="67">administration</word>
+	<word weight="0.01809954751131222" count="64">successors</word>
+	<word weight="0.016402714932126698" count="58">technical</word>
+	<word weight="0.01583710407239819" count="56">government</word>
+	<word weight="0.015271493212669683" count="54">united</word>
+	<word weight="0.013009049773755657" count="46">policy</word>
+	<word weight="0.012726244343891403" count="45">nations</word>
+	<word weight="0.012443438914027148" count="44">co-operation</word>
+	<word weight="0.011877828054298642" count="42">africa</word>
+	<word weight="0.011312217194570135" count="40">research</word>
+	<word weight="0.011029411764705883" count="39">commonwealth</word>
+	<word weight="0.009332579185520362" count="33">programme</word>
+	<word weight="0.008766968325791855" count="31">relations</word>
+	<word weight="0.008484162895927601" count="30">social</word>
+	<word weight="0.007918552036199095" count="28">countries</word>
+	<word weight="0.007918552036199095" count="28">general</word>
+  </topic>
+</topics>
