@@ -3,29 +3,26 @@ from nltk import TrigramCollocationFinder, BigramCollocationFinder
 
 
 def get_trigrams(words):
-
     trigram_measures = nltk.collocations.TrigramAssocMeasures()
 
     finder = TrigramCollocationFinder.from_words(words)
 
-    finder.apply_freq_filter(3) # Restrict trigrams to those that appear at least three times
+    finder.apply_freq_filter(3)  # Restrict trigrams to those that appear at least three times
 
     return sorted(finder.ngram_fd.items())
 
 
 def get_bigrams(words):
-
     bigram_measures = nltk.collocations.BigramAssocMeasures()
 
     finder = BigramCollocationFinder.from_words(words)
 
-    finder.apply_freq_filter(4) # Restrict bigrams to those that appear at least three times
+    finder.apply_freq_filter(4)  # Restrict bigrams to those that appear at least three times
 
     return sorted(finder.ngram_fd.items())
 
 
 def find_ngram_match(ngram, decorated_guides, type):
-
     ngrams = []
 
     for ngram_in_details in ngram:
@@ -37,3 +34,15 @@ def find_ngram_match(ngram, decorated_guides, type):
                     ngrams.append(' '.join(str(e) for e in sorted_ngram) + ' found in ' + guide['guide_href'])
 
     return ngrams
+
+
+def find_reference_match(references, decorated_guides):
+    matches = []
+
+    if references:
+        for reference in references:
+            for guide in decorated_guides:
+                if reference in guide['references']:
+                    matches.append(''.join(str(e) for e in reference) + ' found in ' + guide['guide_href'] + ' ')
+
+    return list(set(matches))

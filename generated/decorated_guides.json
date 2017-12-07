@@ -37,6 +37,25 @@
         6
       ]
     ], 
+    "references": [
+      "WO25", 
+      "WO25", 
+      "WO25", 
+      "PMG14", 
+      "WO24", 
+      "WO23", 
+      "WO61", 
+      "WO42", 
+      "WO32", 
+      "WO42", 
+      "WO25", 
+      "WO25", 
+      "WO31", 
+      "HO51", 
+      "WO103", 
+      "SP44", 
+      "WO74"
+    ], 
     "trigrams": [
       [
         [
@@ -180,6 +199,12 @@
         5
       ]
     ], 
+    "references": [
+      "RG14", 
+      "HO45", 
+      "HO45", 
+      "HO144"
+    ], 
     "trigrams": [
       [
         [
@@ -245,6 +270,32 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "HO10", 
+      "HO11", 
+      "CO209", 
+      "HO10", 
+      "HO10", 
+      "HO10", 
+      "HO10", 
+      "HO11", 
+      "HO26", 
+      "HO27", 
+      "HO17", 
+      "HO18", 
+      "HO19", 
+      "HO17", 
+      "HO18", 
+      "HO19", 
+      "HO17", 
+      "HO18", 
+      "HO47", 
+      "HO48", 
+      "HO49", 
+      "HO13", 
+      "HO45", 
+      "HO144"
     ], 
     "trigrams": [
       [
@@ -513,6 +564,70 @@
         4
       ]
     ], 
+    "references": [
+      "WO97", 
+      "WO22", 
+      "WO23", 
+      "WO121", 
+      "WO131", 
+      "WO122", 
+      "WO100", 
+      "WO116", 
+      "PIN71", 
+      "WO117", 
+      "WO128", 
+      "WO400", 
+      "WO119", 
+      "WO97", 
+      "WO120", 
+      "PIN71", 
+      "WO118", 
+      "WO116", 
+      "WO120", 
+      "WO900", 
+      "WO900", 
+      "WO25", 
+      "WO22", 
+      "WO23", 
+      "WO22", 
+      "WO23", 
+      "WO23", 
+      "WO16", 
+      "WO97", 
+      "WO25", 
+      "WO25", 
+      "WO25", 
+      "WO25", 
+      "WO25", 
+      "WO12", 
+      "WO12", 
+      "WO121", 
+      "WO16", 
+      "WO16", 
+      "WO25", 
+      "WO25", 
+      "WO25", 
+      "WO25", 
+      "WO25", 
+      "WO25", 
+      "WO25", 
+      "WO69", 
+      "WO69", 
+      "WO69", 
+      "WO18", 
+      "WO47", 
+      "WO54", 
+      "WO55", 
+      "WO116", 
+      "WO23", 
+      "WO23", 
+      "WO126", 
+      "WO127", 
+      "WO129", 
+      "WO128", 
+      "WO100", 
+      "WO400"
+    ], 
     "trigrams": [
       [
         [
@@ -694,6 +809,9 @@
       "Phone +44 (0) 20 8876 3444 Related research guides Births, marriages and deaths in the armed forces Deaths in the First and Second World Wars Search our catalogue Discovery is a catalogue of archival records across the UK and beyond, from which you can search 32 million records."
     ], 
     "bigrams": [], 
+    "references": [
+      "WO417"
+    ], 
     "trigrams": [], 
     "id": "british-army-casualty-lists-1939-1945"
   }, 
@@ -839,6 +957,11 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "AST18", 
+      "MEPO31", 
+      "MEPO31"
     ], 
     "trigrams": [
       [
@@ -1035,6 +1158,17 @@
         4
       ]
     ], 
+    "references": [
+      "FO605", 
+      "FO605", 
+      "FO605", 
+      "FO605", 
+      "FO605", 
+      "FO605", 
+      "FO17", 
+      "FO17", 
+      "FO17"
+    ], 
     "trigrams": [
       [
         [
@@ -1168,6 +1302,18 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "FO804", 
+      "FO738", 
+      "FO804", 
+      "FO566", 
+      "FO804", 
+      "FO804", 
+      "FO738", 
+      "FO804", 
+      "FO804", 
+      "FO566"
     ], 
     "trigrams": [
       [
@@ -1363,6 +1509,88 @@
         ], 
         7
       ]
+    ], 
+    "references": [
+      "FO409", 
+      "FO409", 
+      "FO409", 
+      "FO409", 
+      "FO409", 
+      "FO371", 
+      "FO395", 
+      "FO369", 
+      "FO372", 
+      "FO370", 
+      "FO924", 
+      "FO924", 
+      "FO366", 
+      "FO850", 
+      "FO627", 
+      "FO953", 
+      "FCO28", 
+      "FCO33", 
+      "FCO87", 
+      "FCO42", 
+      "FCO44", 
+      "FCO63", 
+      "FCO82", 
+      "FCO83", 
+      "FCO86", 
+      "FCO99", 
+      "FCO29", 
+      "FCO31", 
+      "FCO36", 
+      "FCO39", 
+      "FCO45", 
+      "FCO65", 
+      "FCO93", 
+      "FCO17", 
+      "FCO39", 
+      "FCO93", 
+      "FCO32", 
+      "FCO37", 
+      "FCO40", 
+      "FCO83", 
+      "FCO15", 
+      "FCO21", 
+      "FCO24", 
+      "FCO32", 
+      "FCO40", 
+      "FCO14", 
+      "FCO30", 
+      "FCO35", 
+      "FCO59", 
+      "FCO67", 
+      "FCO69", 
+      "FCO74", 
+      "FCO76", 
+      "FCO96", 
+      "FCO98", 
+      "FCO10", 
+      "FCO16", 
+      "FCO41", 
+      "FCO46", 
+      "FCO66", 
+      "FCO13", 
+      "FCO34", 
+      "FCO48", 
+      "FCO55", 
+      "FCO47", 
+      "FCO50", 
+      "FCO53", 
+      "FCO57", 
+      "FCO64", 
+      "FCO61", 
+      "FCO12", 
+      "FCO26", 
+      "FCO49", 
+      "FCO51", 
+      "FCO56", 
+      "FCO68", 
+      "FCO72", 
+      "FCO86", 
+      "FCO95", 
+      "FCO104"
     ], 
     "trigrams": [
       [
@@ -1630,6 +1858,32 @@
         4
       ]
     ], 
+    "references": [
+      "ADM116", 
+      "ADM137", 
+      "ADM199", 
+      "ADM231", 
+      "ADM352", 
+      "CAB11", 
+      "CO700", 
+      "CO1047", 
+      "II1779", 
+      "CO1054", 
+      "FO925", 
+      "WO32", 
+      "WO78", 
+      "WO192", 
+      "ADM344", 
+      "SP112", 
+      "WO78", 
+      "ADM352", 
+      "ADM55", 
+      "ADM352", 
+      "ADM344", 
+      "ADM346", 
+      "ADM12", 
+      "ADM12"
+    ], 
     "trigrams": [
       [
         [
@@ -1747,6 +2001,7 @@
       "Live chat For quick pointersTuesday to Saturday 09:00 to 17:00 &lt;div style=\"display:inline\"&gt;&lt;a href=\"http://www.providesupport.com?messenger=0or0ihkh4hylp1qnz87w7c01gr\"&gt;Live Help Desk&lt;/a&gt;&lt;/div&gt; Email For more detailed research enquiries."
     ], 
     "bigrams": [], 
+    "references": [], 
     "trigrams": [], 
     "id": "understanding-digital-records"
   }, 
@@ -1766,6 +2021,9 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "WO95"
     ], 
     "trigrams": [
       [
@@ -1854,6 +2112,7 @@
         4
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -2280,6 +2539,15 @@
         4
       ]
     ], 
+    "references": [
+      "NRA18628", 
+      "MAF20", 
+      "MAF20", 
+      "MAF13", 
+      "MAF27", 
+      "MAF13", 
+      "MAF27"
+    ], 
     "trigrams": [
       [
         [
@@ -2648,6 +2916,7 @@
         7
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -2742,6 +3011,7 @@
         13
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -2963,6 +3233,9 @@
         4
       ]
     ], 
+    "references": [
+      "WO95"
+    ], 
     "trigrams": [
       [
         [
@@ -3110,6 +3383,7 @@
         4
       ]
     ], 
+    "references": [], 
     "trigrams": [], 
     "id": "what-can-i-use-discovery-for"
   }, 
@@ -3130,6 +3404,7 @@
         5
       ]
     ], 
+    "references": [], 
     "trigrams": [], 
     "id": "discovery-help"
   }, 
@@ -3492,6 +3767,57 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "MH27", 
+      "ED132", 
+      "MH12", 
+      "MH32", 
+      "MH102", 
+      "HO361", 
+      "BN29", 
+      "HO366", 
+      "MH152", 
+      "BN74", 
+      "HO361", 
+      "MH102", 
+      "BN61", 
+      "BN29", 
+      "BN62", 
+      "HO45", 
+      "HO144", 
+      "MH102", 
+      "BN29", 
+      "HO361", 
+      "HO45", 
+      "HO144", 
+      "HO349", 
+      "MH102", 
+      "BN62", 
+      "HO349", 
+      "HO360", 
+      "MH102", 
+      "MH102", 
+      "BN61", 
+      "BN62", 
+      "HO391", 
+      "MH152", 
+      "BN62", 
+      "HO45", 
+      "HO144", 
+      "BN28", 
+      "HO247", 
+      "HO45", 
+      "MH152", 
+      "MH102", 
+      "BN29", 
+      "HO350", 
+      "BN91", 
+      "HO45", 
+      "HO144", 
+      "MH152", 
+      "MH102", 
+      "BN29"
     ], 
     "trigrams": [
       [
@@ -3963,6 +4289,43 @@
         6
       ]
     ], 
+    "references": [
+      "WO44", 
+      "WO32", 
+      "WO33", 
+      "WO147", 
+      "DEFE15", 
+      "AVIA37", 
+      "AVIA67", 
+      "DSIR37", 
+      "DEFE15", 
+      "DEFE15", 
+      "DSIR37", 
+      "SUPP28", 
+      "WO186", 
+      "WO196", 
+      "WO140", 
+      "WO44", 
+      "WO142", 
+      "CAB17", 
+      "CAB17", 
+      "WO161", 
+      "ADM116", 
+      "WO194", 
+      "WO362", 
+      "WO341", 
+      "WO351", 
+      "WO185", 
+      "WO205", 
+      "BT45", 
+      "BT46", 
+      "WO49", 
+      "AVIA22", 
+      "WO78", 
+      "WO385", 
+      "WO397", 
+      "DEY41"
+    ], 
     "trigrams": [
       [
         [
@@ -4008,6 +4371,7 @@
       "Also in Help with your research Discovery help Video guides Citing documents in The National Archives Paying for research Reading old documents Start here Research guides keywords Research guides"
     ], 
     "bigrams": [], 
+    "references": [], 
     "trigrams": [], 
     "id": "record-copying"
   }, 
@@ -4062,6 +4426,11 @@
         ], 
         8
       ]
+    ], 
+    "references": [
+      "CAB134", 
+      "CAB72", 
+      "CAB147"
     ], 
     "trigrams": [
       [
@@ -4199,6 +4568,13 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "GFM33", 
+      "FO950", 
+      "FO950", 
+      "GFM33", 
+      "FO1060"
     ], 
     "trigrams": [
       [
@@ -4419,6 +4795,10 @@
         4
       ]
     ], 
+    "references": [
+      "RG101", 
+      "RG101"
+    ], 
     "trigrams": [
       [
         [
@@ -4519,6 +4899,13 @@
         4
       ]
     ], 
+    "references": [
+      "RG32", 
+      "RG33", 
+      "RG34", 
+      "RG35", 
+      "RG36"
+    ], 
     "trigrams": [
       [
         [
@@ -4561,6 +4948,7 @@
         4
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -4590,6 +4978,7 @@
       "Phone +44 (0) 20 8876 3444 Related research guides Births, marriages and deaths at sea or abroad Maritime births 1867-1960 Maritime deaths 1781-1968 Merchant seamen serving after 1917 Passengers Search our catalogue Discovery is a catalogue of archival records across the UK and beyond, from which you can search 32 million records."
     ], 
     "bigrams": [], 
+    "references": [], 
     "trigrams": [], 
     "id": "maritime-marriages-1854-1972"
   }, 
@@ -4609,6 +4998,10 @@
         ], 
         6
       ]
+    ], 
+    "references": [
+      "WO363", 
+      "WO364"
     ], 
     "trigrams": [
       [
@@ -4631,6 +5024,7 @@
       "Phone +44 (0) 20 8876 3444 Related research guides Alien arrivals Aliens\u2019 registration cards 1918-1957 Immigrants Internees Refugees Search our catalogue Discovery is a catalogue of archival records across the UK and beyond, from which you can search 32 million records."
     ], 
     "bigrams": [], 
+    "references": [], 
     "trigrams": [], 
     "id": "alien-entry-books"
   }, 
@@ -4643,6 +5037,11 @@
       "Live chat For quick pointersTuesday to Saturday 09:00 to 17:00 &lt;div style=\"display:inline\"&gt;&lt;a href=\"http://www.providesupport.com?messenger=0or0ihkh4hylp1qnz87w7c01gr\"&gt;Live Help Desk&lt;/a&gt;&lt;/div&gt; Email For more detailed research enquiries."
     ], 
     "bigrams": [], 
+    "references": [
+      "BT26", 
+      "BT27", 
+      "BT27"
+    ], 
     "trigrams": [], 
     "id": "passenger-lists"
   }, 
@@ -4655,6 +5054,11 @@
       "Phone +44 (0) 20 8876 3444 Related research guides Aliens\u2019 registration cards 1918-1957 Immigrants Internees Naturalisation case papers 1801-1871 Search our catalogue Discovery is a catalogue of archival records across the UK and beyond, from which you can search 32 million records."
     ], 
     "bigrams": [], 
+    "references": [
+      "FO83", 
+      "CUST102", 
+      "CUST102"
+    ], 
     "trigrams": [], 
     "id": "alien-arrivals"
   }, 
@@ -4667,6 +5071,7 @@
       "Phone +44 (0) 20 8876 3444 Related research guides Births, marriages and deaths at sea or abroad Crew lists and agreements and log books of merchant ships after 1861 Maritime births 1867-1960 Merchant seamen serving after 1917 Passengers Search our catalogue Discovery is a catalogue of archival records across the UK and beyond, from which you can search 32 million records."
     ], 
     "bigrams": [], 
+    "references": [], 
     "trigrams": [], 
     "id": "maritime-deaths-1781-1968"
   }, 
@@ -4686,6 +5091,18 @@
         ], 
         13
       ]
+    ], 
+    "references": [
+      "HO13", 
+      "HO17", 
+      "HO18", 
+      "HO19", 
+      "HO23", 
+      "HO24", 
+      "HO47", 
+      "HO77", 
+      "HO130", 
+      "HO140"
     ], 
     "trigrams": [
       [
@@ -4708,6 +5125,7 @@
       "Phone +44 (0) 20 8876 3444 Related research guides Railway workers Railways Search our catalogue Discovery is a catalogue of archival records across the UK and beyond, from which you can search 32 million records."
     ], 
     "bigrams": [], 
+    "references": [], 
     "trigrams": [], 
     "id": "railway-employment-records-1833-1956"
   }, 
@@ -4720,6 +5138,7 @@
       "Phone +44 (0) 20 8876 3444 Related research guides Births, marriages and deaths at sea or abroad Crew lists and agreements and log books of merchant ships after 1861 Maritime births 1867-1960 Maritime deaths 1781-1968 Merchant seamen serving after 1917 Passengers Search our catalogue Discovery is a catalogue of archival records across the UK and beyond, from which you can search 32 million records."
     ], 
     "bigrams": [], 
+    "references": [], 
     "trigrams": [], 
     "id": "maritime-births-1867-1960"
   }, 
@@ -4732,6 +5151,7 @@
       "Phone +44 (0) 20 8876 3444 Related research guides British prisoners of the Second World War and the Korean War British prisoners of war c1790-1919 Prisoner of war interview reports 1914-1918 Prisoners of war in British hands Search our catalogue Discovery is a catalogue of archival records across the UK and beyond, from which you can search 32 million records."
     ], 
     "bigrams": [], 
+    "references": [], 
     "trigrams": [], 
     "id": "prisoners-of-war-selected-records-1715-1945"
   }, 
@@ -4765,6 +5185,14 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "BT120", 
+      "BT112", 
+      "BT119", 
+      "BT113", 
+      "BT114", 
+      "BT116"
     ], 
     "trigrams": [
       [
@@ -4802,6 +5230,13 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "BT348", 
+      "CR10", 
+      "BT349", 
+      "CR10", 
+      "BT350"
     ], 
     "trigrams": [
       [
@@ -4855,6 +5290,9 @@
         7
       ]
     ], 
+    "references": [
+      "AIR79"
+    ], 
     "trigrams": [
       [
         [
@@ -4876,6 +5314,15 @@
       "Live chat For quick pointersTuesday to Saturday 09:00 to 17:00 &lt;div style=\"display:inline\"&gt;&lt;a href=\"http://www.providesupport.com?messenger=0or0ihkh4hylp1qnz87w7c01gr\"&gt;Live Help Desk&lt;/a&gt;&lt;/div&gt; Email For more detailed research enquiries."
     ], 
     "bigrams": [], 
+    "references": [
+      "WO97", 
+      "WO121", 
+      "WO122", 
+      "WO131", 
+      "WO119", 
+      "WO128", 
+      "WO96"
+    ], 
     "trigrams": [], 
     "id": "british-army-and-militia-1760-1915"
   }, 
@@ -5077,6 +5524,45 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "WO32", 
+      "ADM114", 
+      "PRO30", 
+      "CP25", 
+      "IR130", 
+      "SP17", 
+      "ASSI34", 
+      "CO700", 
+      "CP25", 
+      "HO42", 
+      "ADM22", 
+      "CO260", 
+      "CO265", 
+      "ASSI35", 
+      "ASSI45", 
+      "ASSI54", 
+      "MH17", 
+      "ASSI35", 
+      "ASSI35", 
+      "ASSI35", 
+      "ASSI35", 
+      "ASSI35", 
+      "SP52", 
+      "SP52", 
+      "SP52", 
+      "CO23", 
+      "FO371", 
+      "WO373", 
+      "FO383", 
+      "HO477", 
+      "WO32", 
+      "WO32", 
+      "NRA31235", 
+      "NRA31245", 
+      "ADM101", 
+      "ADM101", 
+      "PROB11"
     ], 
     "trigrams": [
       [
@@ -5299,6 +5785,7 @@
         5
       ]
     ], 
+    "references": [], 
     "trigrams": [], 
     "id": "our-paid-search-service"
   }, 
@@ -5311,6 +5798,7 @@
       "If you decide to contact an independent researcher please remember to provide your full postal address, telephone number and email address."
     ], 
     "bigrams": [], 
+    "references": [], 
     "trigrams": [], 
     "id": "independent-researchers"
   }, 
@@ -5323,6 +5811,7 @@
       "Independent researchers Independent researchers are not employees of The National Archives and any arrangements made are a private matter between you and the researcher."
     ], 
     "bigrams": [], 
+    "references": [], 
     "trigrams": [], 
     "id": "paying-for-research"
   }, 
@@ -5335,6 +5824,7 @@
       "You might also need to look at documents that are on microfilm and microfiche Recognise both the limitations and potential of the archive \u2013 you may not find exactly what you are looking for, but you could find new sources you didn\u2019t know existed Bring a pencil \u2013 ink is not allowed near the records in archives What\u2019s it like to visit an archive?"
     ], 
     "bigrams": [], 
+    "references": [], 
     "trigrams": [], 
     "id": "how-to-use-archives"
   }, 
@@ -5347,6 +5837,7 @@
       "You can contact us, via our online forms, by email, phone or live chat Also in Start here What we have What we don\u2019t have What\u2019s online What are archives?"
     ], 
     "bigrams": [], 
+    "references": [], 
     "trigrams": [], 
     "id": "whats-not-online"
   }, 
@@ -5359,6 +5850,7 @@
       "You can contact us, via our online forms, by email, phone or live chat Also in Start here What we have What we don\u2019t have What\u2019s not online What are archives?"
     ], 
     "bigrams": [], 
+    "references": [], 
     "trigrams": [], 
     "id": "whats-online"
   }, 
@@ -5379,6 +5871,7 @@
         4
       ]
     ], 
+    "references": [], 
     "trigrams": [], 
     "id": "what-we-dont-have"
   }, 
@@ -5391,6 +5884,7 @@
       "You can contact us, via our online forms, by email, phone or live chat Also in Start here What we don\u2019t have What\u2019s online What\u2019s not online What are archives?"
     ], 
     "bigrams": [], 
+    "references": [], 
     "trigrams": [], 
     "id": "what-we-have"
   }, 
@@ -5403,6 +5897,7 @@
       "You can contact us, via our online forms, by email, phone or live chat Also in Start here What we have What we don\u2019t have What\u2019s online What\u2019s not online How to use archives"
     ], 
     "bigrams": [], 
+    "references": [], 
     "trigrams": [], 
     "id": "what-are-archives"
   }, 
@@ -5415,6 +5910,9 @@
       "Below ground installations for tunnel motorway network, 1966 (MT 106/427) View in the image library What we have The National Archives is home to millions of historical documents, known as records, which were created and collected by UK central government departments and major courts of law."
     ], 
     "bigrams": [], 
+    "references": [
+      "MT106"
+    ], 
     "trigrams": [], 
     "id": "start-here"
   }, 
@@ -5425,6 +5923,7 @@
       "Research guides Choose a different subject Our A-Z index Search all guides All research guides Family history First World War Second World War Military and maritime Social and cultural history Criminals, courts and prisons Political and economic history Foreign and colonial history Land and maps Medieval and early modern history Records for current legal purposes Online collections A-Z index Step 1 - Select a letter to browse keywords 1 A B C D E F G H I J K L M N O P Q"
     ], 
     "bigrams": [], 
+    "references": [], 
     "trigrams": [], 
     "id": "research-guides-keywords"
   }, 
@@ -5508,6 +6007,7 @@
         4
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -5598,6 +6098,95 @@
         ], 
         7
       ]
+    ], 
+    "references": [
+      "MAF408", 
+      "MAF408", 
+      "MAF430", 
+      "MAF430", 
+      "MAF406", 
+      "MAF406", 
+      "MAF407", 
+      "MAF407", 
+      "AN186", 
+      "AN186", 
+      "ED278", 
+      "ED278", 
+      "ED267", 
+      "ED267", 
+      "ED267", 
+      "ED267", 
+      "ED267", 
+      "WORK93", 
+      "WORK93", 
+      "AT73", 
+      "AT73", 
+      "AT76", 
+      "AT76", 
+      "AT76", 
+      "AT86", 
+      "AT86", 
+      "AT68", 
+      "AT68", 
+      "AT104", 
+      "AT104", 
+      "WORK88", 
+      "WORK88", 
+      "BN97", 
+      "BN97", 
+      "BN94", 
+      "BN94", 
+      "BN98", 
+      "BN98", 
+      "BN96", 
+      "BN96", 
+      "BN93", 
+      "BN93", 
+      "BN95", 
+      "BN95", 
+      "CUST134", 
+      "CUST134", 
+      "HO400", 
+      "HO400", 
+      "PRO71", 
+      "PRO71", 
+      "PRO80", 
+      "PRO80", 
+      "PRO72", 
+      "PRO72", 
+      "PRO79", 
+      "PRO79", 
+      "LCO60", 
+      "LCO60", 
+      "MEPO36", 
+      "MEPO36", 
+      "FT43", 
+      "FT43", 
+      "FT43", 
+      "FT40", 
+      "FT40", 
+      "RG81", 
+      "RG81", 
+      "RG77", 
+      "RG77", 
+      "RG69", 
+      "RG69", 
+      "RG71", 
+      "RG71", 
+      "AT86", 
+      "AT86", 
+      "AT68", 
+      "AT68", 
+      "AX14", 
+      "AX14", 
+      "BD80", 
+      "BD80", 
+      "BD83", 
+      "BD83", 
+      "AT68", 
+      "ED267", 
+      "ED267", 
+      "ED267"
     ], 
     "trigrams": [
       [
@@ -5818,6 +6407,104 @@
         8
       ]
     ], 
+    "references": [
+      "ADM175", 
+      "ADM175", 
+      "ADM10", 
+      "ADM11", 
+      "ADM13", 
+      "ADM13", 
+      "ADM36", 
+      "ADM101", 
+      "ADM104", 
+      "ADM139", 
+      "ADM142", 
+      "ADM48", 
+      "ADM142", 
+      "ADM48", 
+      "ADM48", 
+      "ADM171", 
+      "ADM175", 
+      "ADM175", 
+      "ADM175", 
+      "ADM196", 
+      "ADM196", 
+      "ADM196", 
+      "ADM321", 
+      "AIR54", 
+      "AIR78", 
+      "AIR79", 
+      "BT90", 
+      "BT107", 
+      "BT110", 
+      "BT111", 
+      "BT107", 
+      "BT108", 
+      "BT124", 
+      "BT162", 
+      "CAB21", 
+      "CAB25", 
+      "CAB30", 
+      "CAB31", 
+      "CAB61", 
+      "CAB63", 
+      "CAB80", 
+      "CAB95", 
+      "CAB99", 
+      "CAB131", 
+      "CO107", 
+      "CO110", 
+      "CO207", 
+      "CO336", 
+      "CO48", 
+      "CUST10", 
+      "CUST17", 
+      "FO84", 
+      "FO115", 
+      "FO611", 
+      "FO800", 
+      "HO10", 
+      "HO11", 
+      "HO40", 
+      "HO42", 
+      "HO52", 
+      "HO73", 
+      "HO129", 
+      "HO291", 
+      "IR27", 
+      "IR26", 
+      "MINT13", 
+      "MINT19", 
+      "MINT19", 
+      "MT15", 
+      "PROB10", 
+      "PROB11", 
+      "PROB10", 
+      "RG43", 
+      "RG32", 
+      "RG36", 
+      "TS27", 
+      "WO25", 
+      "WO42", 
+      "WO65", 
+      "WO76", 
+      "WO100", 
+      "WO102", 
+      "WO144", 
+      "WO144", 
+      "WO229", 
+      "WO229", 
+      "WO338", 
+      "WO339", 
+      "WO343", 
+      "CBE1942", 
+      "WO357", 
+      "WO373", 
+      "WO373", 
+      "WO373", 
+      "WO389", 
+      "WORK39"
+    ], 
     "trigrams": [
       [
         [
@@ -5993,6 +6680,13 @@
         6
       ]
     ], 
+    "references": [
+      "WO398", 
+      "WO372", 
+      "MH106", 
+      "MH106", 
+      "WO162"
+    ], 
     "trigrams": [
       [
         [
@@ -6052,6 +6746,11 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "AIR80", 
+      "AIR80", 
+      "AIR80"
     ], 
     "trigrams": [
       [
@@ -6251,6 +6950,72 @@
         4
       ]
     ], 
+    "references": [
+      "CAB101", 
+      "CAB106", 
+      "CAB106", 
+      "ADM116", 
+      "ADM199", 
+      "ADM167", 
+      "ADM182", 
+      "ADM205", 
+      "CAB86", 
+      "ADM199", 
+      "ADM199", 
+      "ADM199", 
+      "ADM179", 
+      "ADM217", 
+      "ADM127", 
+      "ADM125", 
+      "ADM53", 
+      "ADM199", 
+      "ADM236", 
+      "ADM199", 
+      "ADM236", 
+      "ADM239", 
+      "ADM239", 
+      "ADM173", 
+      "ADM177", 
+      "ADM187", 
+      "ADM208", 
+      "ADM210", 
+      "ADM209", 
+      "ADM199", 
+      "ADM234", 
+      "BT347", 
+      "ADM207", 
+      "AIR27", 
+      "ADM199", 
+      "AIR50", 
+      "ADM900", 
+      "ADM335", 
+      "ADM335", 
+      "AIR15", 
+      "AIR24", 
+      "AIR25", 
+      "AIR26", 
+      "AIR27", 
+      "AIR50", 
+      "ADM199", 
+      "ADM217", 
+      "ADM217", 
+      "ADM237", 
+      "ADM237", 
+      "OG71", 
+      "ADM116", 
+      "ADM199", 
+      "ADM202", 
+      "ADM223", 
+      "ADM223", 
+      "ADM223", 
+      "ADM223", 
+      "ADM223", 
+      "ADM223", 
+      "ADM223", 
+      "ADM223", 
+      "ADM176", 
+      "WO24"
+    ], 
     "trigrams": [
       [
         [
@@ -6440,6 +7205,34 @@
         4
       ]
     ], 
+    "references": [
+      "SP10", 
+      "VI1553", 
+      "SP11", 
+      "SP12", 
+      "SP13", 
+      "SP14", 
+      "SP15", 
+      "SP16", 
+      "SP18", 
+      "SP29", 
+      "SP30", 
+      "SP14", 
+      "SP84", 
+      "FO83", 
+      "CUST102", 
+      "CUST102", 
+      "HO69", 
+      "FO95", 
+      "BT26", 
+      "BT27", 
+      "MEPO35", 
+      "HO396", 
+      "HO396", 
+      "HO396", 
+      "HO396", 
+      "HO396"
+    ], 
     "trigrams": [
       [
         [
@@ -6556,6 +7349,11 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "PRO30", 
+      "KB18", 
+      "AO1627"
     ], 
     "trigrams": [
       [
@@ -6691,6 +7489,17 @@
         4
       ]
     ], 
+    "references": [
+      "ADM337", 
+      "ADM340", 
+      "ADM340", 
+      "ADM171", 
+      "ADM171", 
+      "ADM171", 
+      "ADM340", 
+      "ADM900", 
+      "ADM177"
+    ], 
     "trigrams": [
       [
         [
@@ -6804,6 +7613,14 @@
         6
       ]
     ], 
+    "references": [
+      "AIR79", 
+      "AIR78", 
+      "WO363", 
+      "WO364", 
+      "WO372", 
+      "WO372"
+    ], 
     "trigrams": [
       [
         [
@@ -6887,6 +7704,12 @@
         4
       ]
     ], 
+    "references": [
+      "FO371", 
+      "BT26", 
+      "BT27", 
+      "HO294"
+    ], 
     "trigrams": [], 
     "id": "refugees"
   }, 
@@ -6955,6 +7778,11 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "WO373", 
+      "WO373", 
+      "WO373"
     ], 
     "trigrams": [
       [
@@ -7168,6 +7996,32 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "PC12", 
+      "SP45", 
+      "SP46", 
+      "HO98", 
+      "HO99", 
+      "HO11", 
+      "HO13", 
+      "HO17", 
+      "HO18", 
+      "HO42", 
+      "HO44", 
+      "HO45", 
+      "HO145", 
+      "PC12", 
+      "SP18", 
+      "SP25", 
+      "SP26", 
+      "SP27", 
+      "SP45", 
+      "SP12", 
+      "SP14", 
+      "TS37", 
+      "TS76", 
+      "TS76"
     ], 
     "trigrams": [
       [
@@ -7405,6 +8259,9 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "STAT14"
     ], 
     "trigrams": [
       [
@@ -7754,6 +8611,57 @@
         4
       ]
     ], 
+    "references": [
+      "BT27", 
+      "BT27", 
+      "BT32", 
+      "ADM30", 
+      "CO384", 
+      "CO385", 
+      "CO386", 
+      "CO326", 
+      "CO327", 
+      "CO328", 
+      "CO329", 
+      "FO610", 
+      "FO611", 
+      "TS12", 
+      "CO202", 
+      "CO201", 
+      "CO360", 
+      "CO369", 
+      "HO10", 
+      "WO43", 
+      "DO35", 
+      "CO208", 
+      "CO208", 
+      "CO208", 
+      "CO208", 
+      "CO208", 
+      "MH12", 
+      "MH19", 
+      "MH20", 
+      "MH19", 
+      "MH102", 
+      "HO45", 
+      "HO144", 
+      "DO131", 
+      "DO131", 
+      "DO131", 
+      "DO131", 
+      "DO35", 
+      "ADM101", 
+      "ADM108", 
+      "MT23", 
+      "MH12", 
+      "MH13", 
+      "MH19", 
+      "CO391", 
+      "CO201", 
+      "WO43", 
+      "CO226", 
+      "HO102"
+    ], 
     "trigrams": [
       [
         [
@@ -7998,6 +8906,10 @@
         10
       ]
     ], 
+    "references": [
+      "WO409", 
+      "WO409"
+    ], 
     "trigrams": [
       [
         [
@@ -8019,6 +8931,13 @@
       "Phone +44 (0) 20 8876 3444 Related research guides Royal Navy officers\u2019 service record cards and files c1840-c1920 Search our catalogue Discovery is a catalogue of archival records across the UK and beyond, from which you can search 32 million records."
     ], 
     "bigrams": [], 
+    "references": [
+      "ADM240", 
+      "ADM240", 
+      "ADM240", 
+      "ADM240", 
+      "ADM340"
+    ], 
     "trigrams": [], 
     "id": "royal-naval-reserve-officers-service-records-1862-1964"
   }, 
@@ -8087,6 +9006,80 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "ASSI59", 
+      "ASSI63", 
+      "ASSI66", 
+      "ASSI67", 
+      "ASSI73", 
+      "ASSI77", 
+      "ASSI59", 
+      "ASSI63", 
+      "ASSI66", 
+      "ASSI67", 
+      "ASSI73", 
+      "ASSI77", 
+      "ASSI73", 
+      "ASSI77", 
+      "ASSI59", 
+      "ASSI63", 
+      "ASSI66", 
+      "ASSI67", 
+      "ASSI59", 
+      "ASSI63", 
+      "ASSI66", 
+      "ASSI67", 
+      "ASSI73", 
+      "ASSI77", 
+      "ASSI59", 
+      "ASSI63", 
+      "ASSI66", 
+      "ASSI67", 
+      "ASSI59", 
+      "ASSI63", 
+      "ASSI66", 
+      "ASSI67", 
+      "ASSI73", 
+      "ASSI77", 
+      "ASSI73", 
+      "ASSI77", 
+      "ASSI59", 
+      "ASSI63", 
+      "ASSI66", 
+      "ASSI67", 
+      "ASSI73", 
+      "ASSI77", 
+      "ASSI59", 
+      "ASSI63", 
+      "ASSI66", 
+      "ASSI67", 
+      "ASSI73", 
+      "ASSI77", 
+      "ASSI73", 
+      "ASSI77", 
+      "ASSI59", 
+      "ASSI63", 
+      "ASSI66", 
+      "ASSI67", 
+      "ASSI59", 
+      "ASSI63", 
+      "ASSI66", 
+      "ASSI67", 
+      "ASSI73", 
+      "ASSI77", 
+      "ASSI59", 
+      "ASSI63", 
+      "ASSI66", 
+      "ASSI67", 
+      "ASSI59", 
+      "ASSI63", 
+      "ASSI66", 
+      "ASSI67", 
+      "ASSI73", 
+      "ASSI77", 
+      "ASSI73", 
+      "ASSI77"
     ], 
     "trigrams": [
       [
@@ -8188,6 +9181,204 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "ASSI32", 
+      "ASSI34", 
+      "ASSI38", 
+      "ASSI39", 
+      "ASSI15", 
+      "ASSI90", 
+      "ASSI10", 
+      "ASSI93", 
+      "ASSI89", 
+      "ASSI36", 
+      "ASSI13", 
+      "ASSI34", 
+      "ASSI38", 
+      "ASSI39", 
+      "ASSI15", 
+      "ASSI90", 
+      "ASSI31", 
+      "ASSI36", 
+      "ASSI34", 
+      "ASSI38", 
+      "ASSI39", 
+      "ASSI90", 
+      "ASSI79", 
+      "ASSI59", 
+      "ASSI63", 
+      "ASSI66", 
+      "ASSI67", 
+      "ASSI91", 
+      "ASSI25", 
+      "ASSI24", 
+      "ASSI30", 
+      "ASSI92", 
+      "ASSI43", 
+      "ASSI46", 
+      "ASSI47", 
+      "ASSI93", 
+      "ASSI11", 
+      "ASSI13", 
+      "ASSI15", 
+      "ASSI88", 
+      "ASSI25", 
+      "ASSI26", 
+      "ASSI82", 
+      "ASSI24", 
+      "ASSI30", 
+      "ASSI92", 
+      "ASSI25", 
+      "ASSI24", 
+      "ASSI30", 
+      "ASSI92", 
+      "DURH19", 
+      "ASSI46", 
+      "ASSI47", 
+      "ASSI87", 
+      "ASSI93", 
+      "ASSI35", 
+      "ASSI36", 
+      "ASSI34", 
+      "ASSI38", 
+      "ASSI39", 
+      "ASSI90", 
+      "ASSI10", 
+      "ASSI89", 
+      "ASSI93", 
+      "ASSI25", 
+      "ASSI24", 
+      "ASSI30", 
+      "ASSI92", 
+      "ASSI10", 
+      "ASSI89", 
+      "ASSI93", 
+      "ASSI36", 
+      "ASSI34", 
+      "ASSI38", 
+      "ASSI39", 
+      "ASSI90", 
+      "ASSI33", 
+      "ASSI36", 
+      "ASSI34", 
+      "ASSI38", 
+      "ASSI39", 
+      "ASSI90", 
+      "ASSI36", 
+      "ASSI34", 
+      "ASSI38", 
+      "ASSI39", 
+      "ASSI90", 
+      "PL27", 
+      "ASSI52", 
+      "ASSI53", 
+      "ASSI93", 
+      "ASSI86", 
+      "ASSI12", 
+      "ASSI15", 
+      "ASSI34", 
+      "ASSI38", 
+      "ASSI39", 
+      "ASSI88", 
+      "ASSI11", 
+      "ASSI12", 
+      "ASSI80", 
+      "ASSI13", 
+      "ASSI15", 
+      "ASSI88", 
+      "CRIM10", 
+      "CRIM11", 
+      "CRIM12", 
+      "CRIM13", 
+      "ASSI10", 
+      "ASSI89", 
+      "ASSI93", 
+      "ASSI36", 
+      "ASSI34", 
+      "ASSI38", 
+      "ASSI39", 
+      "ASSI90", 
+      "ASSI13", 
+      "ASSI15", 
+      "ASSI34", 
+      "ASSI38", 
+      "ASSI39", 
+      "ASSI88", 
+      "ASSI44", 
+      "ASSI45", 
+      "ASSI43", 
+      "ASSI46", 
+      "ASSI47", 
+      "ASSI87", 
+      "ASSI93", 
+      "ASSI11", 
+      "ASSI13", 
+      "ASSI15", 
+      "ASSI88", 
+      "ASSI10", 
+      "ASSI89", 
+      "ASSI93", 
+      "ASSI15", 
+      "ASSI34", 
+      "ASSI38", 
+      "ASSI39", 
+      "ASSI88", 
+      "ASSI10", 
+      "ASSI89", 
+      "ASSI93", 
+      "ASSI25", 
+      "ASSI24", 
+      "ASSI30", 
+      "ASSI92", 
+      "ASSI10", 
+      "ASSI89", 
+      "ASSI93", 
+      "ASSI36", 
+      "ASSI34", 
+      "ASSI38", 
+      "ASSI39", 
+      "ASSI90", 
+      "ASSI36", 
+      "ASSI34", 
+      "ASSI38", 
+      "ASSI39", 
+      "ASSI90", 
+      "ASSI36", 
+      "ASSI34", 
+      "ASSI38", 
+      "ASSI39", 
+      "ASSI90", 
+      "ASSI11", 
+      "ASSI13", 
+      "ASSI15", 
+      "ASSI88", 
+      "ASSI43", 
+      "ASSI46", 
+      "ASSI47", 
+      "ASSI53", 
+      "ASSI86", 
+      "ASSI93", 
+      "ASSI24", 
+      "ASSI30", 
+      "ASSI92", 
+      "ASSI10", 
+      "ASSI89", 
+      "ASSI93", 
+      "ASSI42", 
+      "ASSI41", 
+      "ASSI44", 
+      "ASSI45", 
+      "ASSI13", 
+      "ASSI45", 
+      "ASSI52", 
+      "ASSI15", 
+      "ASSI43", 
+      "ASSI46", 
+      "ASSI47", 
+      "ASSI87", 
+      "ASSI93", 
+      "ASSI35"
     ], 
     "trigrams": [
       [
@@ -8328,6 +9519,17 @@
         8
       ]
     ], 
+    "references": [
+      "ADM196", 
+      "ADM196", 
+      "ADM196", 
+      "ADM196", 
+      "ADM196", 
+      "ADM29", 
+      "ADM29", 
+      "ADM29", 
+      "ADM104"
+    ], 
     "trigrams": [
       [
         [
@@ -8401,6 +9603,33 @@
         ], 
         6
       ]
+    ], 
+    "references": [
+      "SP54", 
+      "SP35", 
+      "SP36", 
+      "SP54", 
+      "SP35", 
+      "SP36", 
+      "SP36", 
+      "SP41", 
+      "SP42", 
+      "SP44", 
+      "SP55", 
+      "HMSO1883", 
+      "HMSO1903", 
+      "SP87", 
+      "KB33", 
+      "TS11", 
+      "TS20", 
+      "ASSI41", 
+      "CHES21", 
+      "CHES24", 
+      "DURH17", 
+      "DURH19", 
+      "PL25", 
+      "HMSO1968", 
+      "ADM74"
     ], 
     "trigrams": [
       [
@@ -8515,6 +9744,18 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "PRO31", 
+      "DL41", 
+      "DL38", 
+      "SC11", 
+      "DL14", 
+      "DL29", 
+      "DL30", 
+      "SC11", 
+      "SC12", 
+      "LR10"
     ], 
     "trigrams": [
       [
@@ -8708,6 +9949,45 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "PIN26", 
+      "PIN26", 
+      "PIN82", 
+      "PIN82", 
+      "PMG72", 
+      "ADM23", 
+      "PMG56", 
+      "PIN15", 
+      "PIN15", 
+      "ADM166", 
+      "ADM73", 
+      "ADM73", 
+      "ADM73", 
+      "ADM65", 
+      "ADM73", 
+      "ADM73", 
+      "ADM73", 
+      "WO23", 
+      "ADM73", 
+      "ADM22", 
+      "WO22", 
+      "WO22", 
+      "ADM73", 
+      "PMG71", 
+      "ADM29", 
+      "ADM29", 
+      "ADM29", 
+      "ADM29", 
+      "ADM82", 
+      "ADM82", 
+      "ADM106", 
+      "ADM106", 
+      "ADM106", 
+      "ADM106", 
+      "ADM166", 
+      "ADM166", 
+      "ADM166"
     ], 
     "trigrams": [
       [
@@ -8922,6 +10202,7 @@
         8
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -8950,6 +10231,11 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "WO400", 
+      "WO400", 
+      "WO400"
     ], 
     "trigrams": [], 
     "id": "household-cavalry-soldiers-service-records-1799-1920"
@@ -8984,6 +10270,15 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "MEPO35", 
+      "MEPO35", 
+      "MEPO35", 
+      "MEPO35", 
+      "MEPO35", 
+      "MEPO35", 
+      "MEPO35"
     ], 
     "trigrams": [
       [
@@ -9310,6 +10605,22 @@
         4
       ]
     ], 
+    "references": [
+      "II1660", 
+      "II1685", 
+      "III1694", 
+      "II1727", 
+      "III1760", 
+      "IV1820", 
+      "IV1830", 
+      "II1660", 
+      "II1685", 
+      "III1694", 
+      "II1727", 
+      "III1760", 
+      "IV1820", 
+      "IV1830"
+    ], 
     "trigrams": [
       [
         [
@@ -9569,6 +10880,14 @@
         6
       ]
     ], 
+    "references": [
+      "MH47", 
+      "MH47", 
+      "MH47", 
+      "MH47", 
+      "MH47", 
+      "MH47"
+    ], 
     "trigrams": [
       [
         [
@@ -9622,6 +10941,13 @@
         6
       ]
     ], 
+    "references": [
+      "ADM45", 
+      "ADM45", 
+      "ADM45", 
+      "ADM45", 
+      "ADM44"
+    ], 
     "trigrams": [], 
     "id": "royal-navy-pensions-1830-1860-claims-by-next-of-kin"
   }, 
@@ -9634,6 +10960,12 @@
       "Phone +44 (0) 20 8876 3444 Related research guides Emigrants Immigrants Naturalisation, registration and British citizenship Passengers Search our catalogue Discovery is a catalogue of archival records across the UK and beyond, from which you can search 32 million records."
     ], 
     "bigrams": [], 
+    "references": [
+      "HO45", 
+      "HO144", 
+      "HO382", 
+      "HO405"
+    ], 
     "trigrams": [], 
     "id": "naturalisation-case-papers-1801-1871"
   }, 
@@ -9688,6 +11020,13 @@
         ], 
         9
       ]
+    ], 
+    "references": [
+      "AIR27", 
+      "AIR50", 
+      "AIR27", 
+      "AIR28", 
+      "AIR29"
     ], 
     "trigrams": [
       [
@@ -9798,6 +11137,38 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "WO208", 
+      "FO1050", 
+      "AIR40", 
+      "ADM186", 
+      "WO199", 
+      "FO916", 
+      "FO939", 
+      "CO968", 
+      "CAB122", 
+      "WO222", 
+      "WO307", 
+      "CO323", 
+      "FO916", 
+      "WO32", 
+      "WO177", 
+      "HO215", 
+      "HO213", 
+      "WO900", 
+      "WO162", 
+      "FO383", 
+      "MT23", 
+      "WO108", 
+      "CO537", 
+      "ADM97", 
+      "ADM105", 
+      "ADM103", 
+      "ADM103", 
+      "ADM97", 
+      "WO40", 
+      "HO28"
     ], 
     "trigrams": [
       [
@@ -10249,6 +11620,31 @@
         12
       ]
     ], 
+    "references": [
+      "FO925", 
+      "CO700", 
+      "CO1047", 
+      "CO1054", 
+      "WO78", 
+      "IR30", 
+      "IR77", 
+      "IR90", 
+      "IR93", 
+      "IR105", 
+      "IR121", 
+      "IR135", 
+      "RAIL1029", 
+      "RAIL1071", 
+      "CRES33", 
+      "DL31", 
+      "SP112", 
+      "SP112", 
+      "WO78", 
+      "WO78", 
+      "WO78", 
+      "CO700", 
+      "FO925"
+    ], 
     "trigrams": [
       [
         [
@@ -10623,6 +12019,21 @@
         4
       ]
     ], 
+    "references": [
+      "FO954", 
+      "PREM19", 
+      "PREM11", 
+      "PREM13", 
+      "PREM15", 
+      "PREM16", 
+      "PREM19", 
+      "PREM11", 
+      "PREM10", 
+      "PRO30", 
+      "PRO30", 
+      "PRO30", 
+      "CAB127"
+    ], 
     "trigrams": [
       [
         [
@@ -10782,6 +12193,26 @@
         ], 
         7
       ]
+    ], 
+    "references": [
+      "HO184", 
+      "HO184", 
+      "HO184", 
+      "HO184", 
+      "HO184", 
+      "HO184", 
+      "PMG48", 
+      "CO904", 
+      "HO184", 
+      "HO340", 
+      "XXVI465", 
+      "CO904", 
+      "CO906", 
+      "HO184", 
+      "CO903", 
+      "CO884", 
+      "WO35", 
+      "HO267"
     ], 
     "trigrams": [
       [
@@ -11020,6 +12451,12 @@
         9
       ]
     ], 
+    "references": [
+      "AIR76", 
+      "WO372", 
+      "WO339", 
+      "WO374"
+    ], 
     "trigrams": [
       [
         [
@@ -11237,6 +12674,32 @@
         9
       ]
     ], 
+    "references": [
+      "MAF32", 
+      "MAF73", 
+      "NK531", 
+      "MAF32", 
+      "MAF73", 
+      "MAF73", 
+      "MAF73", 
+      "MAF73", 
+      "MAF32", 
+      "MAF32", 
+      "MAF32", 
+      "MAF32", 
+      "MAF32", 
+      "MAF38", 
+      "MAF38", 
+      "MAF38", 
+      "MAF38", 
+      "MAF38", 
+      "MAF38", 
+      "MAF80", 
+      "MAF38", 
+      "MAF68", 
+      "MAF68", 
+      "MAF38"
+    ], 
     "trigrams": [
       [
         [
@@ -11409,6 +12872,19 @@
         14
       ]
     ], 
+    "references": [
+      "ADM196", 
+      "WO373", 
+      "ADM104", 
+      "ADM183", 
+      "ADM184", 
+      "ADM48", 
+      "ADM142", 
+      "ADM118", 
+      "ADM192", 
+      "SP44", 
+      "HO51"
+    ], 
     "trigrams": [
       [
         [
@@ -11459,6 +12935,10 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "ADM273", 
+      "ADM273"
     ], 
     "trigrams": [
       [
@@ -11546,6 +13026,31 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "BT164", 
+      "BT339", 
+      "HO45", 
+      "BT261", 
+      "ADM12", 
+      "ADM199", 
+      "ADM12", 
+      "ADM171", 
+      "BT339", 
+      "BT261", 
+      "ADM116", 
+      "ADM12", 
+      "ADM137", 
+      "ADM12", 
+      "ADM171", 
+      "ADM171", 
+      "ADM171", 
+      "BT97", 
+      "BT261", 
+      "BT389", 
+      "BT382", 
+      "BT382", 
+      "BT389"
     ], 
     "trigrams": [
       [
@@ -11654,6 +13159,7 @@
         6
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -11809,6 +13315,7 @@
         5
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -11970,6 +13477,11 @@
         4
       ]
     ], 
+    "references": [
+      "AT60", 
+      "BT60", 
+      "INF10"
+    ], 
     "trigrams": [
       [
         [
@@ -12095,6 +13607,40 @@
         ], 
         6
       ]
+    ], 
+    "references": [
+      "CAB128", 
+      "CAB129", 
+      "CAB131", 
+      "DEFE11", 
+      "CAB148", 
+      "WO269", 
+      "WO269", 
+      "WO263", 
+      "WO270", 
+      "WO268", 
+      "WO266", 
+      "WO271", 
+      "WO265", 
+      "WO262", 
+      "WO261", 
+      "WO267", 
+      "WO264", 
+      "WO305", 
+      "WO295", 
+      "WO191", 
+      "WO275", 
+      "WO281", 
+      "WO308", 
+      "DEFE12", 
+      "WO288", 
+      "WO322", 
+      "WO337", 
+      "WO305", 
+      "WO276", 
+      "WO294", 
+      "WO336", 
+      "WO383"
     ], 
     "trigrams": [
       [
@@ -12239,6 +13785,17 @@
         4
       ]
     ], 
+    "references": [
+      "ADM104", 
+      "ADM104", 
+      "ADM104", 
+      "ADM104", 
+      "ADM104", 
+      "ADM48", 
+      "WO156", 
+      "AIR82", 
+      "ADM338"
+    ], 
     "trigrams": [
       [
         [
@@ -12374,6 +13931,7 @@
         4
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -12425,6 +13983,7 @@
         4
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -12575,6 +14134,12 @@
         5
       ]
     ], 
+    "references": [
+      "HCA32", 
+      "HCA32", 
+      "HCA32", 
+      "HCA32"
+    ], 
     "trigrams": [
       [
         [
@@ -12708,6 +14273,7 @@
         4
       ]
     ], 
+    "references": [], 
     "trigrams": [], 
     "id": "looted-art-1939-1961"
   }, 
@@ -12889,6 +14455,36 @@
         7
       ]
     ], 
+    "references": [
+      "WO32", 
+      "WORK50", 
+      "WORK50", 
+      "HLG102", 
+      "HLG102", 
+      "MAF48", 
+      "MAF145", 
+      "MAF157", 
+      "TS46", 
+      "WO32", 
+      "MAF142", 
+      "MAF142", 
+      "MAF142", 
+      "MAF143", 
+      "MAF143", 
+      "MAF285", 
+      "WO32", 
+      "MAF236", 
+      "AIR19", 
+      "CRES35", 
+      "CRES44", 
+      "MAF109", 
+      "MAF140", 
+      "MAF142", 
+      "MAF227", 
+      "MAF245", 
+      "WO32", 
+      "MAF80"
+    ], 
     "trigrams": [
       [
         [
@@ -12998,6 +14594,9 @@
       "Phone +44 (0) 20 8876 3444 Related research guides French muster rolls from the Battle of Trafalgar 1805 Royal Navy ships\u2019 voyages in log books Search our catalogue Discovery is a catalogue of archival records across the UK and beyond, from which you can search 32 million records."
     ], 
     "bigrams": [], 
+    "references": [
+      "ADM55"
+    ], 
     "trigrams": [], 
     "id": "logs-journals-ships-of-exploration-1757-1904"
   }, 
@@ -13066,6 +14665,9 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "HMSO1967"
     ], 
     "trigrams": [
       [
@@ -13215,6 +14817,30 @@
         7
       ]
     ], 
+    "references": [
+      "BT334", 
+      "CO167", 
+      "CO111", 
+      "CO318", 
+      "CO295", 
+      "CO137", 
+      "CO54", 
+      "CO83", 
+      "CO48", 
+      "CO179", 
+      "CO239", 
+      "CO321", 
+      "CO101", 
+      "CO533", 
+      "FO107", 
+      "CO536", 
+      "CO167", 
+      "CO326", 
+      "CO356", 
+      "CO384", 
+      "CO386", 
+      "CO571"
+    ], 
     "trigrams": [
       [
         [
@@ -13296,6 +14922,13 @@
         4
       ]
     ], 
+    "references": [
+      "PROB11", 
+      "PROB10", 
+      "PROB10", 
+      "PROB10", 
+      "PROB12"
+    ], 
     "trigrams": [
       [
         [
@@ -13348,6 +14981,7 @@
         4
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -13474,6 +15108,65 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "WO35", 
+      "CO903", 
+      "WO35", 
+      "WO35", 
+      "WO35", 
+      "WO35", 
+      "CO904", 
+      "WO35", 
+      "WO71", 
+      "CO903", 
+      "WO35", 
+      "WO32", 
+      "WO32", 
+      "WO32", 
+      "WO32", 
+      "WO32", 
+      "CO904", 
+      "CO903", 
+      "WO141", 
+      "FO371", 
+      "CO904", 
+      "CO904", 
+      "CO904", 
+      "CO903", 
+      "HO45", 
+      "PRO30", 
+      "HO45", 
+      "HO144", 
+      "CO903", 
+      "WO71", 
+      "WO35", 
+      "WO35", 
+      "WO35", 
+      "WO35", 
+      "WO35", 
+      "WO35", 
+      "WO35", 
+      "WO35", 
+      "WO35", 
+      "HO45", 
+      "HO144", 
+      "HO45", 
+      "HO144", 
+      "HO144", 
+      "HO144", 
+      "CAB37", 
+      "CAB41", 
+      "HO45", 
+      "PRO30", 
+      "PRO30", 
+      "PRO30", 
+      "CAB16", 
+      "CAB21", 
+      "CAB23", 
+      "CAB24", 
+      "CAB27", 
+      "OUP2016"
     ], 
     "trigrams": [
       [
@@ -13659,6 +15352,7 @@
         5
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -13735,6 +15429,14 @@
         7
       ]
     ], 
+    "references": [
+      "ADM48", 
+      "ADM48", 
+      "ADM48", 
+      "PMG50", 
+      "ADM45", 
+      "ADM44"
+    ], 
     "trigrams": [
       [
         [
@@ -13784,6 +15486,21 @@
         ], 
         8
       ]
+    ], 
+    "references": [
+      "BT377", 
+      "BT164", 
+      "ADM340", 
+      "ADM171", 
+      "ADM171", 
+      "ADM171", 
+      "ADM171", 
+      "ADM171", 
+      "BT351", 
+      "BT164", 
+      "BT377", 
+      "ADM23", 
+      "ADM177"
     ], 
     "trigrams": [
       [
@@ -13866,6 +15583,13 @@
         4
       ]
     ], 
+    "references": [
+      "WO398", 
+      "WO398", 
+      "WO392", 
+      "WO398", 
+      "WO398"
+    ], 
     "trigrams": [
       [
         [
@@ -13947,6 +15671,7 @@
         5
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -14054,6 +15779,34 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "ADM139", 
+      "ADM188", 
+      "ADM362", 
+      "ADM363", 
+      "ADM139", 
+      "ADM188", 
+      "ADM188", 
+      "ADM363", 
+      "ADM362", 
+      "ADM363", 
+      "ADM188", 
+      "ADM188", 
+      "ADM188", 
+      "ADM139", 
+      "ADM188", 
+      "ADM139", 
+      "ADM196", 
+      "ADM363", 
+      "ADM363", 
+      "ADM363", 
+      "ADM116", 
+      "ADM188", 
+      "ADM188", 
+      "ADM188", 
+      "ADM188", 
+      "ADM188"
     ], 
     "trigrams": [
       [
@@ -14182,6 +15935,13 @@
         4
       ]
     ], 
+    "references": [
+      "HCA32", 
+      "CUST22", 
+      "CUST50", 
+      "CUST22", 
+      "CUST50"
+    ], 
     "trigrams": [
       [
         [
@@ -14257,6 +16017,13 @@
         6
       ]
     ], 
+    "references": [
+      "ADM318", 
+      "ADM336", 
+      "ADM336", 
+      "ADM318", 
+      "ADM321"
+    ], 
     "trigrams": [
       [
         [
@@ -14313,6 +16080,14 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "ADM340", 
+      "ADM340", 
+      "ADM139", 
+      "ADM188", 
+      "ADM196", 
+      "ADM240"
     ], 
     "trigrams": [
       [
@@ -14422,6 +16197,51 @@
         4
       ]
     ], 
+    "references": [
+      "ADM137", 
+      "ADM136", 
+      "BT165", 
+      "BT110", 
+      "ADM12", 
+      "ADM12", 
+      "ADM116", 
+      "ADM106", 
+      "ADM106", 
+      "ADM106", 
+      "ADM137", 
+      "ADM137", 
+      "ADM137", 
+      "ADM199", 
+      "ADM51", 
+      "ADM52", 
+      "ADM53", 
+      "ADM54", 
+      "BT107", 
+      "BT108", 
+      "BT110", 
+      "BT111", 
+      "BT98", 
+      "BT99", 
+      "BT110", 
+      "BT165", 
+      "BT167", 
+      "ADM156", 
+      "ADM178", 
+      "MT15", 
+      "MT25", 
+      "ADM199", 
+      "ADM199", 
+      "ADM199", 
+      "ADM199", 
+      "ADM199", 
+      "ADM199", 
+      "ADM137", 
+      "BT166", 
+      "BT210", 
+      "TS18", 
+      "BT365", 
+      "ADM12"
+    ], 
     "trigrams": [
       [
         [
@@ -14496,6 +16316,21 @@
         4
       ]
     ], 
+    "references": [
+      "ADM29", 
+      "ADM29", 
+      "ADM27", 
+      "ADM171", 
+      "ADM31", 
+      "ADM39", 
+      "ADM41", 
+      "ADM115", 
+      "ADM117", 
+      "ADM119", 
+      "ADM73", 
+      "ADM73", 
+      "ADM73"
+    ], 
     "trigrams": [
       [
         [
@@ -14559,6 +16394,21 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "ADM29", 
+      "ADM29", 
+      "ADM139", 
+      "ADM188", 
+      "ADM362", 
+      "ADM363", 
+      "ADM171", 
+      "ADM73", 
+      "ADM31", 
+      "ADM39", 
+      "ADM115", 
+      "ADM117", 
+      "ADM119"
     ], 
     "trigrams": [
       [
@@ -14768,6 +16618,58 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "SP68", 
+      "SP69", 
+      "SP70", 
+      "SP68", 
+      "SP69", 
+      "SP70", 
+      "SP71", 
+      "SP88", 
+      "SP75", 
+      "SP89", 
+      "SP76", 
+      "SP90", 
+      "SP77", 
+      "SP91", 
+      "SP78", 
+      "SP92", 
+      "SP79", 
+      "SP93", 
+      "SP80", 
+      "SP94", 
+      "SP81", 
+      "SP95", 
+      "SP82", 
+      "SP96", 
+      "SP83", 
+      "SP97", 
+      "SP84", 
+      "SP98", 
+      "SP85", 
+      "SP99", 
+      "SP86", 
+      "SP100", 
+      "SP108", 
+      "SP103", 
+      "SP102", 
+      "SP101", 
+      "SP107", 
+      "SP106", 
+      "SP105", 
+      "SP104", 
+      "SP109", 
+      "SP110", 
+      "SP104", 
+      "SP109", 
+      "SP110", 
+      "SP113", 
+      "SP128", 
+      "SP87", 
+      "SP41", 
+      "SP42"
     ], 
     "trigrams": [
       [
@@ -14997,6 +16899,19 @@
         5
       ]
     ], 
+    "references": [
+      "WO95", 
+      "WO95", 
+      "WO95", 
+      "WO95", 
+      "WO95", 
+      "WO95", 
+      "ADM137", 
+      "WO95", 
+      "WO95", 
+      "WO95", 
+      "WO95"
+    ], 
     "trigrams": [
       [
         [
@@ -15033,6 +16948,7 @@
         5
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -15054,6 +16970,11 @@
       "Phone +44 (0) 20 8876 3444 Related research guides Cabinet and its committees Related video guides Preparing to research Recording research results Search our catalogue Discovery is a catalogue of archival records across the UK and beyond, from which you can search 32 million records."
     ], 
     "bigrams": [], 
+    "references": [
+      "FO954", 
+      "FO800", 
+      "FO954"
+    ], 
     "trigrams": [], 
     "id": "sir-anthony-edens-private-office-papers-1935-1946"
   }, 
@@ -15171,6 +17092,39 @@
         ], 
         8
       ]
+    ], 
+    "references": [
+      "ADM171", 
+      "WO100", 
+      "ADM171", 
+      "WO372", 
+      "WO329", 
+      "ADM171", 
+      "ADM171", 
+      "ADM171", 
+      "ADM171", 
+      "ADM171", 
+      "ADM171", 
+      "ADM171", 
+      "ADM171", 
+      "ADM171", 
+      "ADM171", 
+      "ADM171", 
+      "ADM171", 
+      "ADM171", 
+      "WO100", 
+      "WO100", 
+      "WO101", 
+      "WO102", 
+      "WO32", 
+      "ADM171", 
+      "ADM201", 
+      "AIR72", 
+      "WO100", 
+      "WO330", 
+      "ADM171", 
+      "ADM171", 
+      "ADM171"
     ], 
     "trigrams": [
       [
@@ -15343,6 +17297,45 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "WO96", 
+      "WO97", 
+      "WO116", 
+      "WO117", 
+      "WO68", 
+      "WO68", 
+      "WO13", 
+      "WO70", 
+      "WO23", 
+      "WO76", 
+      "WO25", 
+      "WO68", 
+      "WO68", 
+      "WO24", 
+      "WO13", 
+      "HO50", 
+      "HO51", 
+      "HO51", 
+      "WO43", 
+      "WO25", 
+      "WO68", 
+      "WO13", 
+      "WO129", 
+      "WO108", 
+      "WO25", 
+      "WO25", 
+      "WO100", 
+      "WO102", 
+      "SP10", 
+      "SP10", 
+      "SP12", 
+      "SP14", 
+      "SP16", 
+      "SP17", 
+      "HC1839", 
+      "HC1840", 
+      "HC1862"
     ], 
     "trigrams": [
       [
@@ -15732,6 +17725,124 @@
         15
       ]
     ], 
+    "references": [
+      "WO373", 
+      "WO98", 
+      "WO390", 
+      "WO390", 
+      "ADM171", 
+      "HO250", 
+      "ADM12", 
+      "ADM116", 
+      "AIR30", 
+      "AIR30", 
+      "HO144", 
+      "ADM116", 
+      "ADM171", 
+      "WO373", 
+      "ADM116", 
+      "ADM171", 
+      "AIR30", 
+      "ADM171", 
+      "PMG34", 
+      "PMG36", 
+      "WO32", 
+      "WO146", 
+      "WO373", 
+      "AIR30", 
+      "ADM116", 
+      "AIR30", 
+      "ADM116", 
+      "ADM137", 
+      "ADM171", 
+      "ADM116", 
+      "ADM171", 
+      "ADM137", 
+      "WO389", 
+      "ADM116", 
+      "ADM171", 
+      "AIR30", 
+      "WO32", 
+      "WO373", 
+      "WO390", 
+      "ADM116", 
+      "ADM171", 
+      "HO250", 
+      "HO250", 
+      "WO32", 
+      "WO330", 
+      "HO250", 
+      "WO373", 
+      "WO330", 
+      "HO250", 
+      "WO373", 
+      "WO373", 
+      "WO373", 
+      "CO445", 
+      "CO534", 
+      "ADM116", 
+      "WO372", 
+      "WO373", 
+      "AIR30", 
+      "PMG34", 
+      "PMG36", 
+      "WO23", 
+      "WO32", 
+      "WO101", 
+      "WO372", 
+      "WO32", 
+      "WO389", 
+      "WO389", 
+      "WO373", 
+      "ADM171", 
+      "WO32", 
+      "WO326", 
+      "WO372", 
+      "WO373", 
+      "CO212", 
+      "WO32", 
+      "ADM171", 
+      "WO104", 
+      "WO32", 
+      "WO373", 
+      "WO373", 
+      "WO373", 
+      "AIR30", 
+      "WO145", 
+      "WO32", 
+      "WO373", 
+      "BT261", 
+      "ADM116", 
+      "ADM171", 
+      "AIR30", 
+      "CAB10", 
+      "PMG35", 
+      "WO32", 
+      "WO373", 
+      "WO98", 
+      "WO98", 
+      "CO445", 
+      "WO388", 
+      "WO388", 
+      "WO388", 
+      "WO388", 
+      "WO373", 
+      "FO83", 
+      "FO372", 
+      "WO123", 
+      "WO293", 
+      "ADM182", 
+      "DEFE45", 
+      "DEFE46", 
+      "AIR72", 
+      "ADM116", 
+      "HO45", 
+      "WO32", 
+      "MINT16", 
+      "MINT20", 
+      "MINT24", 
+      "MINT25"
+    ], 
     "trigrams": [
       [
         [
@@ -16013,6 +18124,33 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "ADM177", 
+      "ADM106", 
+      "ADM11", 
+      "ADM11", 
+      "ADM11", 
+      "ADM10", 
+      "ADM11", 
+      "ADM11", 
+      "ADM11", 
+      "ADM11", 
+      "ADM13", 
+      "ADM106", 
+      "ADM13", 
+      "ADM13", 
+      "ADM106", 
+      "ADM106", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM11", 
+      "ADM106", 
+      "ADM203", 
+      "ADM203", 
+      "ADM118"
     ], 
     "trigrams": [
       [
@@ -16333,6 +18471,311 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "ADM23", 
+      "ADM73", 
+      "ADM18", 
+      "ADM22", 
+      "ADM23", 
+      "PMG16", 
+      "ADM25", 
+      "ADM23", 
+      "PMG15", 
+      "PMG24", 
+      "ADM73", 
+      "ADM22", 
+      "ADM23", 
+      "PMG16", 
+      "PMG71", 
+      "PMG70", 
+      "ADM165", 
+      "ADM82", 
+      "ADM23", 
+      "PMG16", 
+      "PMG42", 
+      "ADM82", 
+      "ADM22", 
+      "ADM13", 
+      "ADM23", 
+      "PMG16", 
+      "PMG19", 
+      "ADM18", 
+      "ADM13", 
+      "PMG20", 
+      "PMG44", 
+      "PMG45", 
+      "ADM96", 
+      "ADM30", 
+      "ADM106", 
+      "ADM106", 
+      "ADM23", 
+      "PMG18", 
+      "ADM22", 
+      "PMG70", 
+      "PMG16", 
+      "ADM45", 
+      "ADM30", 
+      "ADM104", 
+      "ADM106", 
+      "PMG15", 
+      "PMG15", 
+      "ADM23", 
+      "ADM23", 
+      "ADM22", 
+      "ADM23", 
+      "PMG16", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM82", 
+      "ADM82", 
+      "ADM22", 
+      "PMG16", 
+      "ADM23", 
+      "PMG18", 
+      "ADM23", 
+      "ADM23", 
+      "PMG42", 
+      "PMG16", 
+      "PMG16", 
+      "PMG16", 
+      "PMG16", 
+      "PMG56", 
+      "ADM18", 
+      "ADM22", 
+      "ADM22", 
+      "ADM22", 
+      "PMG16", 
+      "PMG16", 
+      "PMG18", 
+      "ADM23", 
+      "PMG16", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "PMG42", 
+      "ADM23", 
+      "ADM82", 
+      "ADM82", 
+      "ADM22", 
+      "PMG16", 
+      "ADM23", 
+      "PMG18", 
+      "ADM23", 
+      "ADM23", 
+      "PMG42", 
+      "ADM23", 
+      "ADM82", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "PMG16", 
+      "PMG16", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "PMG20", 
+      "PMG20", 
+      "PMG20", 
+      "PMG20", 
+      "PMG20", 
+      "PMG20", 
+      "PMG43", 
+      "PMG44", 
+      "PMG42", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM18", 
+      "ADM22", 
+      "ADM22", 
+      "ADM22", 
+      "PMG16", 
+      "PMG16", 
+      "PMG16", 
+      "PMG18", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "PMG42", 
+      "ADM82", 
+      "ADM22", 
+      "ADM82", 
+      "ADM23", 
+      "ADM23", 
+      "PMG18", 
+      "PMG16", 
+      "PMG16", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "PMG20", 
+      "ADM23", 
+      "PMG69", 
+      "ADM23", 
+      "ADM23", 
+      "PMG42", 
+      "ADM18", 
+      "ADM22", 
+      "ADM22", 
+      "ADM22", 
+      "PMG16", 
+      "PMG16", 
+      "PMG16", 
+      "PMG18", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "PMG42", 
+      "ADM82", 
+      "ADM82", 
+      "ADM22", 
+      "PMG16", 
+      "ADM23", 
+      "PMG18", 
+      "ADM23", 
+      "ADM23", 
+      "PMG42", 
+      "ADM18", 
+      "ADM22", 
+      "ADM22", 
+      "ADM22", 
+      "ADM22", 
+      "ADM22", 
+      "PMG16", 
+      "PMG16", 
+      "PMG16", 
+      "PMG18", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "PMG42", 
+      "ADM82", 
+      "ADM82", 
+      "ADM181", 
+      "ADM22", 
+      "ADM22", 
+      "ADM22", 
+      "PMG16", 
+      "PMG16", 
+      "PMG16", 
+      "PMG18", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "PMG16", 
+      "PMG16", 
+      "ADM23", 
+      "PMG20", 
+      "PMG20", 
+      "PMG20", 
+      "PMG20", 
+      "PMG20", 
+      "PMG20", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "PMG43", 
+      "PMG44", 
+      "ADM23", 
+      "PMG42", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "PMG16", 
+      "PMG16", 
+      "PMG42", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM82", 
+      "ADM22", 
+      "PMG16", 
+      "PMG16", 
+      "PMG16", 
+      "PMG18", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "PMG42", 
+      "PMG56", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "PMG16", 
+      "ADM23", 
+      "ADM23", 
+      "PMG16", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "PMG42", 
+      "ADM82", 
+      "ADM181", 
+      "ADM22", 
+      "ADM22", 
+      "ADM22", 
+      "PMG16", 
+      "PMG16", 
+      "PMG16", 
+      "PMG18", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "PMG42", 
+      "ADM23", 
+      "ADM23", 
+      "PMG16", 
+      "PMG69", 
+      "PMG36", 
+      "PMG33", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "ADM23", 
+      "PMG16", 
+      "PMG16", 
+      "ADM23", 
+      "ADM23", 
+      "PMG16", 
+      "PMG16"
     ], 
     "trigrams": [
       [
@@ -16804,6 +19247,47 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "WO153", 
+      "WO300", 
+      "WO300", 
+      "WO369", 
+      "WO369", 
+      "WO301", 
+      "WO301", 
+      "WO302", 
+      "WO302", 
+      "WO303", 
+      "WO303", 
+      "WO298", 
+      "WO297", 
+      "WO297", 
+      "WO95", 
+      "WO153", 
+      "WO297", 
+      "WO153", 
+      "CAB44", 
+      "CAB45", 
+      "CAB104", 
+      "WO32", 
+      "WO33", 
+      "WO106", 
+      "WO158", 
+      "CO1047", 
+      "FO925", 
+      "WO78", 
+      "WO401", 
+      "WO297", 
+      "WO297", 
+      "WO297", 
+      "WO297", 
+      "WO297", 
+      "WO153", 
+      "WO95", 
+      "WO297", 
+      "WO297", 
+      "GSGS3062"
     ], 
     "trigrams": [
       [
@@ -17316,6 +19800,74 @@
         4
       ]
     ], 
+    "references": [
+      "CAB23", 
+      "CAB24", 
+      "CAB65", 
+      "CAB128", 
+      "CAB129", 
+      "CAB181", 
+      "CAB195", 
+      "CAB41", 
+      "CAB37", 
+      "CAB37", 
+      "CAB23", 
+      "CAB23", 
+      "CAB65", 
+      "CAB128", 
+      "CAB128", 
+      "CAB128", 
+      "CAB128", 
+      "CAB128", 
+      "CAB23", 
+      "CAB65", 
+      "CAB128", 
+      "CAB128", 
+      "CAB195", 
+      "CAB195", 
+      "CAB66", 
+      "CAB129", 
+      "CAB24", 
+      "CAB37", 
+      "CAB41", 
+      "CAB37", 
+      "CAB22", 
+      "CAB42", 
+      "CAB24", 
+      "CAB23", 
+      "CAB23", 
+      "CAB24", 
+      "CAB65", 
+      "CAB66", 
+      "CAB67", 
+      "CAB68", 
+      "CAB65", 
+      "CAB66", 
+      "CAB128", 
+      "CAB129", 
+      "CAB134", 
+      "CAB130", 
+      "GEN183", 
+      "CAB161", 
+      "CAB34", 
+      "CAB17", 
+      "CAB21", 
+      "CAB18", 
+      "CAB12", 
+      "CAB15", 
+      "CAB14", 
+      "CAB16", 
+      "CAB34", 
+      "CAB46", 
+      "CAB60", 
+      "CAB128", 
+      "CAB129", 
+      "CAB134", 
+      "CAB21", 
+      "CAB164", 
+      "CAB165", 
+      "CAB104"
+    ], 
     "trigrams": [
       [
         [
@@ -17666,6 +20218,51 @@
         ], 
         10
       ]
+    ], 
+    "references": [
+      "WO25", 
+      "WO43", 
+      "WO43", 
+      "PMG42", 
+      "PMG34", 
+      "MH106", 
+      "MH106", 
+      "WO23", 
+      "WO23", 
+      "PMG34", 
+      "WO25", 
+      "WO25", 
+      "WO25", 
+      "ADM73", 
+      "ADM73", 
+      "ADM73", 
+      "ADM104", 
+      "ADM104", 
+      "ADM104", 
+      "ADM104", 
+      "ADM104", 
+      "WO32", 
+      "WO33", 
+      "WO30", 
+      "WO222", 
+      "WO243", 
+      "WO32", 
+      "WO30", 
+      "WO32", 
+      "WO33", 
+      "WO222", 
+      "WO243", 
+      "WO162", 
+      "WO33", 
+      "WO33", 
+      "WO33", 
+      "WO30", 
+      "WO30", 
+      "WO161", 
+      "WO32", 
+      "ADM116", 
+      "ADM116", 
+      "ADM116"
     ], 
     "trigrams": [
       [
@@ -18032,6 +20629,57 @@
         6
       ]
     ], 
+    "references": [
+      "ED50", 
+      "ED269", 
+      "ED50", 
+      "ED50", 
+      "ED24", 
+      "ED32", 
+      "ED224", 
+      "ED62", 
+      "ED122", 
+      "ED195", 
+      "ED133", 
+      "ED269", 
+      "ED285", 
+      "ED269", 
+      "ED235", 
+      "ED50", 
+      "ED269", 
+      "ED137", 
+      "ED50", 
+      "ED269", 
+      "ED123", 
+      "ED138", 
+      "ED194", 
+      "ED101", 
+      "ED11", 
+      "ED11", 
+      "ED11", 
+      "ED11", 
+      "ED56", 
+      "ED124", 
+      "ED126", 
+      "ED169", 
+      "ED102", 
+      "ED66", 
+      "ED10", 
+      "ED69", 
+      "ED66", 
+      "ED138", 
+      "ED65", 
+      "ED152", 
+      "ED207", 
+      "ED207", 
+      "ED181", 
+      "ED282", 
+      "ED207", 
+      "CRDA13", 
+      "ED267", 
+      "CRDA47", 
+      "PRO1997"
+    ], 
     "trigrams": [
       [
         [
@@ -18178,6 +20826,9 @@
         ], 
         6
       ]
+    ], 
+    "references": [
+      "COM40"
     ], 
     "trigrams": [
       [
@@ -18403,6 +21054,34 @@
         7
       ]
     ], 
+    "references": [
+      "SP46", 
+      "SP112", 
+      "FO925", 
+      "CO700", 
+      "FO925", 
+      "CO1054", 
+      "FO373", 
+      "FO608", 
+      "FO302", 
+      "FO928", 
+      "CO700", 
+      "CO1047", 
+      "CO1054", 
+      "CO1047", 
+      "CO1054", 
+      "CO1054", 
+      "CO441", 
+      "CO1047", 
+      "CO1054", 
+      "DO35", 
+      "DO118", 
+      "DO119", 
+      "DO140", 
+      "CO1054", 
+      "CO1054", 
+      "CO1054"
+    ], 
     "trigrams": [
       [
         [
@@ -18581,6 +21260,13 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "RG18", 
+      "FO925", 
+      "CO700", 
+      "WO78", 
+      "IR29"
     ], 
     "trigrams": [
       [
@@ -18773,6 +21459,9 @@
         7
       ]
     ], 
+    "references": [
+      "PRO30"
+    ], 
     "trigrams": [
       [
         [
@@ -18936,6 +21625,9 @@
         11
       ]
     ], 
+    "references": [
+      "ADM171"
+    ], 
     "trigrams": [
       [
         [
@@ -18988,6 +21680,7 @@
         4
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -19129,6 +21822,44 @@
         4
       ]
     ], 
+    "references": [
+      "FO1111", 
+      "FO1111", 
+      "FO371", 
+      "FO566", 
+      "FO566", 
+      "FO566", 
+      "FO566", 
+      "FO566", 
+      "FO371", 
+      "FO367", 
+      "FO368", 
+      "FO369", 
+      "FO372", 
+      "FO371", 
+      "FO1111", 
+      "FO371", 
+      "FO371", 
+      "FO371", 
+      "FO371", 
+      "FO371", 
+      "FO371", 
+      "FO368", 
+      "FO369", 
+      "FO372", 
+      "FO367", 
+      "FO382", 
+      "FO371", 
+      "FO371", 
+      "FO383", 
+      "FO395", 
+      "FO382", 
+      "FO372", 
+      "FO372", 
+      "FO566", 
+      "FO370", 
+      "FO366"
+    ], 
     "trigrams": [
       [
         [
@@ -19245,6 +21976,13 @@
         17
       ]
     ], 
+    "references": [
+      "ADM196", 
+      "ADM340", 
+      "ADM340", 
+      "ADM171", 
+      "ADM242"
+    ], 
     "trigrams": [
       [
         [
@@ -19340,6 +22078,20 @@
         4
       ]
     ], 
+    "references": [
+      "WO363", 
+      "WO364", 
+      "WO363", 
+      "WO364", 
+      "WO417", 
+      "WO400", 
+      "WO372", 
+      "WO329", 
+      "WO329", 
+      "WO373", 
+      "WO95", 
+      "PIN26"
+    ], 
     "trigrams": [
       [
         [
@@ -19393,6 +22145,14 @@
       "are also recorded at the top of the card.From left to right, the six columns on the card will tell you: the year, current voyage and cargo the date of arrival at the destination the day by day movements of the ship (in Athenia\u2019s case the final entry records her sinking) anticipated movements, i.e."
     ], 
     "bigrams": [], 
+    "references": [
+      "BT389", 
+      "BT389", 
+      "BT99", 
+      "BT100", 
+      "BT380", 
+      "BT381"
+    ], 
     "trigrams": [
       [
         [
@@ -19493,6 +22253,46 @@
         4
       ]
     ], 
+    "references": [
+      "ADM159", 
+      "ADM171", 
+      "ADM36", 
+      "ADM39", 
+      "ADM242", 
+      "SP44", 
+      "HO51", 
+      "HO51", 
+      "ADM242", 
+      "MH106", 
+      "ADM104", 
+      "ADM183", 
+      "ADM184", 
+      "ADM185", 
+      "ADM81", 
+      "ADM193", 
+      "ADM96", 
+      "PMG50", 
+      "ADM165", 
+      "ADM165", 
+      "ADM201", 
+      "ADM22", 
+      "ADM96", 
+      "PMG16", 
+      "PMG20", 
+      "PMG72", 
+      "ADM23", 
+      "ADM23", 
+      "PMG18", 
+      "ADM201", 
+      "ADM201", 
+      "ADM194", 
+      "ADM13", 
+      "ADM156", 
+      "ADM12", 
+      "ADM12", 
+      "ADM96", 
+      "ADM36"
+    ], 
     "trigrams": [
       [
         [
@@ -19590,6 +22390,14 @@
         7
       ]
     ], 
+    "references": [
+      "ADM337", 
+      "ADM337", 
+      "ADM337", 
+      "ADM337", 
+      "ADM337", 
+      "ADM337"
+    ], 
     "trigrams": [
       [
         [
@@ -19663,6 +22471,23 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "WO100", 
+      "WO102", 
+      "WO372", 
+      "WO128", 
+      "WO129", 
+      "WO126", 
+      "WO127", 
+      "CO581", 
+      "CO582", 
+      "CO623", 
+      "CO624", 
+      "CO820", 
+      "CO442", 
+      "CO820", 
+      "WO12"
     ], 
     "trigrams": [
       [
@@ -19782,6 +22607,56 @@
         4
       ]
     ], 
+    "references": [
+      "BT41", 
+      "BT285", 
+      "BT22", 
+      "MT11", 
+      "MT12", 
+      "MT13", 
+      "MT14", 
+      "MT16", 
+      "MT17", 
+      "MT18", 
+      "MT58", 
+      "MT130", 
+      "MT56", 
+      "MT77", 
+      "MT131", 
+      "MT45", 
+      "MT47", 
+      "MT56", 
+      "MT64", 
+      "MT74", 
+      "MT87", 
+      "MT88", 
+      "MT96", 
+      "MT67", 
+      "MT80", 
+      "MT29", 
+      "MT30", 
+      "MT114", 
+      "RAIL1053", 
+      "MT114", 
+      "MT29", 
+      "MT30", 
+      "MT143", 
+      "EF14", 
+      "RAIL254", 
+      "RAIL1149", 
+      "BT226", 
+      "CAB117", 
+      "CAB123", 
+      "CAB127", 
+      "CAB134", 
+      "CAB143", 
+      "WO33", 
+      "WO252", 
+      "WO32", 
+      "BT31", 
+      "PRO2001", 
+      "NRM1998"
+    ], 
     "trigrams": [
       [
         [
@@ -19842,6 +22717,7 @@
         4
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -20003,6 +22879,10 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "BT395", 
+      "BT395"
     ], 
     "trigrams": [
       [
@@ -20224,6 +23104,38 @@
         4
       ]
     ], 
+    "references": [
+      "WO44", 
+      "WO47", 
+      "WO55", 
+      "OS11", 
+      "OS13", 
+      "OS16", 
+      "OS17", 
+      "OS54", 
+      "OS69", 
+      "OS23", 
+      "OS34", 
+      "OS35", 
+      "OS50", 
+      "OS52", 
+      "OS67", 
+      "OS12", 
+      "OS24", 
+      "OS26", 
+      "OS30", 
+      "OS37", 
+      "OS76", 
+      "WO54", 
+      "OS10", 
+      "COAL40", 
+      "IR90", 
+      "IR93", 
+      "IR105", 
+      "WO78", 
+      "IR121", 
+      "IR135"
+    ], 
     "trigrams": [
       [
         [
@@ -20390,6 +23302,7 @@
         5
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -20481,6 +23394,81 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "WO169", 
+      "WO165", 
+      "WO166", 
+      "WO167", 
+      "WO168", 
+      "WO169", 
+      "WO170", 
+      "WO171", 
+      "WO172", 
+      "WO173", 
+      "WO174", 
+      "WO175", 
+      "WO176", 
+      "WO177", 
+      "WO178", 
+      "WO179", 
+      "WO215", 
+      "WO218", 
+      "WO257", 
+      "WO197", 
+      "WO198", 
+      "WO199", 
+      "WO201", 
+      "WO202", 
+      "WO203", 
+      "WO204", 
+      "WO228", 
+      "WO205", 
+      "WO229", 
+      "WO219", 
+      "WO229", 
+      "WO234", 
+      "WO276", 
+      "WO106", 
+      "WO107", 
+      "WO190", 
+      "WO193", 
+      "WO196", 
+      "WO208", 
+      "WO231", 
+      "WO232", 
+      "WO233", 
+      "WO241", 
+      "WO244", 
+      "WO260", 
+      "WO272", 
+      "WO227", 
+      "CAB69", 
+      "CAB79", 
+      "CAB100", 
+      "CAB105", 
+      "CAB120", 
+      "WO163", 
+      "WO283", 
+      "CAB121", 
+      "WO32", 
+      "WO33", 
+      "WO233", 
+      "AIR39", 
+      "CAB106", 
+      "CAB101", 
+      "WO277", 
+      "WO223", 
+      "WO222", 
+      "WO212", 
+      "WO73", 
+      "WO33", 
+      "WO106", 
+      "WO208", 
+      "WO214", 
+      "WO216", 
+      "WO258", 
+      "WO259"
     ], 
     "trigrams": [
       [
@@ -21056,6 +24044,160 @@
         5
       ]
     ], 
+    "references": [
+      "LR12", 
+      "LRRO12", 
+      "LRRO37", 
+      "CRES55", 
+      "DL14", 
+      "DL25", 
+      "DL37", 
+      "DL39", 
+      "DL41", 
+      "DL34", 
+      "DL44", 
+      "POWE10", 
+      "POWE22", 
+      "POWE26", 
+      "POWE16", 
+      "POWE16", 
+      "BT189", 
+      "BT62", 
+      "BT55", 
+      "POWE16", 
+      "POWE20", 
+      "POWE22", 
+      "POWE26", 
+      "BT11", 
+      "BT64", 
+      "SUPP14", 
+      "CAB27", 
+      "POWE26", 
+      "POWE22", 
+      "COAL12", 
+      "COAL17", 
+      "COAL29", 
+      "BT131", 
+      "POWE10", 
+      "POWE10", 
+      "POWE25", 
+      "POWE16", 
+      "POWE16", 
+      "POWE17", 
+      "POWE20", 
+      "POWE21", 
+      "CAB87", 
+      "CAB87", 
+      "CAB117", 
+      "CAB123", 
+      "CAB124", 
+      "TS49", 
+      "MT39", 
+      "BT96", 
+      "BT161", 
+      "HLG71", 
+      "HLG79", 
+      "HLG89", 
+      "HLG98", 
+      "HLG104", 
+      "HLG107", 
+      "HLG132", 
+      "CAB129", 
+      "CAB128", 
+      "CAB134", 
+      "POWE16", 
+      "BT177", 
+      "LAB10", 
+      "LAB27", 
+      "LAB34", 
+      "CAB27", 
+      "PRO30", 
+      "POWE16", 
+      "POWE16", 
+      "POWE20", 
+      "POWE22", 
+      "POWE22", 
+      "POWE26", 
+      "POWE37", 
+      "COAL26", 
+      "COAL11", 
+      "COAL31", 
+      "COAL95", 
+      "HO42", 
+      "HO44", 
+      "HO45", 
+      "POWE22", 
+      "BT31", 
+      "BT41", 
+      "POWE35", 
+      "POWE36", 
+      "COAL34", 
+      "POWE42", 
+      "AN210", 
+      "HLG89", 
+      "RAIL1057", 
+      "ADM75", 
+      "ADM79", 
+      "ADM169", 
+      "HO45", 
+      "COAL40", 
+      "COAL39", 
+      "COAL10", 
+      "COAL38", 
+      "COAL12", 
+      "COAL17", 
+      "COAL29", 
+      "IR30", 
+      "HO34", 
+      "HO45", 
+      "HO81", 
+      "HO95", 
+      "POWE25", 
+      "POWE25", 
+      "POWE75", 
+      "HO87", 
+      "HO87", 
+      "POWE10", 
+      "POWE10", 
+      "LAB104", 
+      "LAB96", 
+      "LAB15", 
+      "PIN12", 
+      "PIN20", 
+      "PIN900", 
+      "PIN21", 
+      "PIN11", 
+      "PIN39", 
+      "POWE26", 
+      "HO157", 
+      "LAB56", 
+      "COAL26", 
+      "BD52", 
+      "PIN21", 
+      "COAL73", 
+      "COAL27", 
+      "HO45", 
+      "COAL43", 
+      "POWE10", 
+      "PV14", 
+      "PV15", 
+      "EG16", 
+      "HO42", 
+      "HO44", 
+      "HO45", 
+      "HO87", 
+      "CAB27", 
+      "CAB27", 
+      "CAB134", 
+      "CAB134", 
+      "TS49", 
+      "POWE41", 
+      "BT241", 
+      "COAL95", 
+      "PRO30", 
+      "ED26", 
+      "ED121"
+    ], 
     "trigrams": [
       [
         [
@@ -21469,6 +24611,21 @@
         4
       ]
     ], 
+    "references": [
+      "MEPO35", 
+      "BT26", 
+      "HO144", 
+      "HO45", 
+      "HO215", 
+      "HO215", 
+      "HO215", 
+      "HO215", 
+      "HO215", 
+      "HO215", 
+      "HO396", 
+      "HO45", 
+      "HO144"
+    ], 
     "trigrams": [
       [
         [
@@ -21512,6 +24669,11 @@
         ], 
         6
       ]
+    ], 
+    "references": [
+      "CUST39", 
+      "CUST18", 
+      "CUST19"
     ], 
     "trigrams": [
       [
@@ -21584,6 +24746,12 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "ADM29", 
+      "ADM196", 
+      "ADM196", 
+      "ADM171"
     ], 
     "trigrams": [
       [
@@ -21687,6 +24855,26 @@
         4
       ]
     ], 
+    "references": [
+      "ADM42", 
+      "ADM42", 
+      "ADM36", 
+      "ADM37", 
+      "ADM38", 
+      "ADM33", 
+      "ADM106", 
+      "ADM354", 
+      "ADM359", 
+      "ADM113", 
+      "ADM224", 
+      "WO54", 
+      "ADM30", 
+      "ADM30", 
+      "ADM106", 
+      "ADM23", 
+      "PMG24", 
+      "PMG25"
+    ], 
     "trigrams": [
       [
         [
@@ -21760,6 +24948,16 @@
         ], 
         6
       ]
+    ], 
+    "references": [
+      "ADM339", 
+      "ADM339", 
+      "ADM339", 
+      "ADM339", 
+      "ADM337", 
+      "ADM196", 
+      "WO339", 
+      "WO374"
     ], 
     "trigrams": [
       [
@@ -21894,6 +25092,31 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "WO374", 
+      "WO70", 
+      "WO32", 
+      "WO13", 
+      "WO70", 
+      "HO51", 
+      "PMG13", 
+      "WO23", 
+      "WO13", 
+      "WO70", 
+      "WO330", 
+      "WO102", 
+      "WO13", 
+      "WO32", 
+      "WO43", 
+      "PMG13", 
+      "WO23", 
+      "WO97", 
+      "WO100", 
+      "WO128", 
+      "WO128", 
+      "WO108", 
+      "WO129"
     ], 
     "trigrams": [
       [
@@ -22030,6 +25253,14 @@
         5
       ]
     ], 
+    "references": [
+      "BT351", 
+      "BT351", 
+      "BT351", 
+      "BT351", 
+      "BT351", 
+      "BT351"
+    ], 
     "trigrams": [
       [
         [
@@ -22121,6 +25352,18 @@
         5
       ]
     ], 
+    "references": [
+      "WO25", 
+      "WO76", 
+      "WO76", 
+      "WO25", 
+      "WO76", 
+      "WO25", 
+      "WO65", 
+      "WO100", 
+      "WO31", 
+      "WO64"
+    ], 
     "trigrams": [
       [
         [
@@ -22165,6 +25408,11 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "IR29", 
+      "MAF32", 
+      "MAF73"
     ], 
     "trigrams": [
       [
@@ -22378,6 +25626,44 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "BT120", 
+      "BT112", 
+      "BT119", 
+      "BT113", 
+      "BT114", 
+      "BT116", 
+      "BT120", 
+      "BT112", 
+      "BT119", 
+      "BT113", 
+      "BT114", 
+      "BT116", 
+      "BT150", 
+      "BT150", 
+      "BT120", 
+      "BT120", 
+      "BT119", 
+      "BT120", 
+      "BT112", 
+      "BT119", 
+      "BT112", 
+      "BT98", 
+      "BT112", 
+      "BT112", 
+      "BT113", 
+      "BT114", 
+      "BT98", 
+      "BT113", 
+      "BT115", 
+      "BT114", 
+      "BT113", 
+      "BT98", 
+      "BT113", 
+      "BT116", 
+      "BT116", 
+      "BT116"
     ], 
     "trigrams": [
       [
@@ -22668,6 +25954,40 @@
         4
       ]
     ], 
+    "references": [
+      "IR121", 
+      "IR58", 
+      "IR58", 
+      "IR58", 
+      "IR58", 
+      "IR91", 
+      "ADM116", 
+      "RAIL1057", 
+      "RAIL1057", 
+      "IR40", 
+      "IR73", 
+      "IR74", 
+      "IR74", 
+      "IR75", 
+      "IR74", 
+      "IR40", 
+      "IR99", 
+      "IR83", 
+      "IR40", 
+      "IR121", 
+      "IR124", 
+      "IR125", 
+      "IR126", 
+      "IR127", 
+      "IR128", 
+      "IR129", 
+      "IR130", 
+      "IR131", 
+      "IR132", 
+      "IR133", 
+      "IR134", 
+      "IR135"
+    ], 
     "trigrams": [
       [
         [
@@ -22834,6 +26154,24 @@
         5
       ]
     ], 
+    "references": [
+      "WO372", 
+      "WO329", 
+      "WO329", 
+      "WO373", 
+      "WO417", 
+      "WO339", 
+      "WO374", 
+      "WO339", 
+      "WO339", 
+      "WO374", 
+      "WO338", 
+      "WO339", 
+      "WO374", 
+      "WO374", 
+      "WO374", 
+      "WO138"
+    ], 
     "trigrams": [
       [
         [
@@ -22921,6 +26259,13 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "KB26", 
+      "KB27", 
+      "CP40", 
+      "CP40", 
+      "PRO66"
     ], 
     "trigrams": [
       [
@@ -23042,6 +26387,46 @@
         ], 
         15
       ]
+    ], 
+    "references": [
+      "FO371", 
+      "FO1060", 
+      "FO371", 
+      "WO309", 
+      "WO267", 
+      "WO32", 
+      "WO208", 
+      "FO1060", 
+      "WO204", 
+      "TS26", 
+      "TS26", 
+      "WO310", 
+      "FO1060", 
+      "FO1020", 
+      "WO331", 
+      "WO311", 
+      "WO353", 
+      "WO355", 
+      "WO219", 
+      "WO235", 
+      "WO203", 
+      "WO325", 
+      "WO203", 
+      "WO356", 
+      "WO311", 
+      "WO357", 
+      "WO235", 
+      "FO371", 
+      "CAB65", 
+      "CAB66", 
+      "CAB128", 
+      "CAB129", 
+      "FO1049", 
+      "FO945", 
+      "FO1060", 
+      "FO1019", 
+      "FO371", 
+      "FO371"
     ], 
     "trigrams": [
       [
@@ -23192,6 +26577,29 @@
         12
       ]
     ], 
+    "references": [
+      "WO95", 
+      "WO95", 
+      "WO95", 
+      "WO95", 
+      "WO154", 
+      "WO95", 
+      "AIR20", 
+      "CAB44", 
+      "CAB45", 
+      "CAB103", 
+      "WO158", 
+      "WO161", 
+      "WO157", 
+      "WO317", 
+      "WO319", 
+      "WO323", 
+      "WO32", 
+      "WO33", 
+      "WO106", 
+      "WO95", 
+      "WO95"
+    ], 
     "trigrams": [
       [
         [
@@ -23307,6 +26715,24 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "BT158", 
+      "BT159", 
+      "BT160", 
+      "ADM80", 
+      "ADM183", 
+      "ADM184", 
+      "ADM242", 
+      "BT153", 
+      "BT156", 
+      "BT157", 
+      "BT334", 
+      "CO386", 
+      "CUST67", 
+      "RG32", 
+      "RG36", 
+      "BT341"
     ], 
     "trigrams": [
       [
@@ -23558,6 +26984,73 @@
         5
       ]
     ], 
+    "references": [
+      "HCA30", 
+      "HCA12", 
+      "HCA14", 
+      "HCA24", 
+      "HCA30", 
+      "HCA30", 
+      "HCA30", 
+      "HCA39", 
+      "HCA28", 
+      "HCA29", 
+      "HCA31", 
+      "HCA32", 
+      "HCA33", 
+      "HCA34", 
+      "HCA40", 
+      "HCA57", 
+      "HCA61", 
+      "HCA32", 
+      "HCA32", 
+      "HCA32", 
+      "HCA32", 
+      "HCA32", 
+      "HCA32", 
+      "HCA32", 
+      "HCA32", 
+      "HCA32", 
+      "HCA32", 
+      "HCA32", 
+      "HCA32", 
+      "HCA32", 
+      "HCA32", 
+      "HCA15", 
+      "HCA16", 
+      "HCA17", 
+      "II1807", 
+      "HCA18", 
+      "III1840", 
+      "HCA19", 
+      "IV1860", 
+      "HCA20", 
+      "HCA49", 
+      "HCA49", 
+      "HCA13", 
+      "HCA30", 
+      "HCA32", 
+      "HCA35", 
+      "HCA50", 
+      "HCA49", 
+      "HCA35", 
+      "HCA41", 
+      "HCA42", 
+      "HCA43", 
+      "HCA44", 
+      "HCA45", 
+      "HCA46", 
+      "HCA47", 
+      "DEL10", 
+      "DEL11", 
+      "DEL78", 
+      "HCA38", 
+      "HCA39", 
+      "HCA24", 
+      "HCA13", 
+      "HCA24", 
+      "HCA65"
+    ], 
     "trigrams": [
       [
         [
@@ -23746,6 +27239,10 @@
         4
       ]
     ], 
+    "references": [
+      "AIR27", 
+      "AIR27"
+    ], 
     "trigrams": [
       [
         [
@@ -23922,6 +27419,58 @@
         ], 
         6
       ]
+    ], 
+    "references": [
+      "MH98", 
+      "MH98", 
+      "HO31", 
+      "MH32", 
+      "MH12", 
+      "MH33", 
+      "MH32", 
+      "MH33", 
+      "PRO28", 
+      "HLG19", 
+      "MH13", 
+      "MH13", 
+      "HLG46", 
+      "HLG15", 
+      "HLG16", 
+      "HLG29", 
+      "MH13", 
+      "HO45", 
+      "MH113", 
+      "MH32", 
+      "MH32", 
+      "MH23", 
+      "MH25", 
+      "MH12", 
+      "MH30", 
+      "MH48", 
+      "MH19", 
+      "MH19", 
+      "MH13", 
+      "MH19", 
+      "MH19", 
+      "MH19", 
+      "MH19", 
+      "MH19", 
+      "MH12", 
+      "MH12", 
+      "MH98", 
+      "MH113", 
+      "MH19", 
+      "FO97", 
+      "FO78", 
+      "FO83", 
+      "FO83", 
+      "FO83", 
+      "FO83", 
+      "FO83", 
+      "FO83", 
+      "MH10", 
+      "MH68", 
+      "MH52"
     ], 
     "trigrams": [
       [
@@ -24101,6 +27650,56 @@
         4
       ]
     ], 
+    "references": [
+      "FO371", 
+      "FO395", 
+      "FO566", 
+      "FO662", 
+      "FO371", 
+      "FO395", 
+      "FO372", 
+      "FO627", 
+      "FO372", 
+      "CO956", 
+      "FO370", 
+      "FO924", 
+      "FO409", 
+      "INF11", 
+      "FO431", 
+      "FO898", 
+      "FO898", 
+      "FO898", 
+      "FO930", 
+      "INF12", 
+      "INF14", 
+      "FO371", 
+      "FO898", 
+      "FO899", 
+      "FO371", 
+      "FO954", 
+      "FO371", 
+      "FO371", 
+      "FO371", 
+      "INF13", 
+      "INF21", 
+      "INF22", 
+      "FO953", 
+      "FO946", 
+      "FO1050", 
+      "FO1056", 
+      "FO1110", 
+      "FO975", 
+      "FO953", 
+      "CO537", 
+      "CO1027", 
+      "CO875", 
+      "CO1035", 
+      "CO1035", 
+      "DO191", 
+      "DO192", 
+      "DO194", 
+      "FCO26"
+    ], 
     "trigrams": [
       [
         [
@@ -24228,6 +27827,9 @@
         5
       ]
     ], 
+    "references": [
+      "VIII108"
+    ], 
     "trigrams": [
       [
         [
@@ -24286,6 +27888,9 @@
         ], 
         6
       ]
+    ], 
+    "references": [
+      "PROB11"
     ], 
     "trigrams": [
       [
@@ -24373,6 +27978,7 @@
         6
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -24485,6 +28091,10 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "MAF59", 
+      "MAF421"
     ], 
     "trigrams": [
       [
@@ -24714,6 +28324,35 @@
         6
       ]
     ], 
+    "references": [
+      "PROB11", 
+      "PROB12", 
+      "PROB28", 
+      "PROB29", 
+      "PROB30", 
+      "PROB18", 
+      "PROB25", 
+      "PROB24", 
+      "PROB26", 
+      "PROB37", 
+      "PROB31", 
+      "PROB42", 
+      "PROB18", 
+      "PROB26", 
+      "PROB36", 
+      "PROB37", 
+      "PROB16", 
+      "PROB32", 
+      "PROB31", 
+      "PROB46", 
+      "PROB14", 
+      "PROB12", 
+      "PROB16", 
+      "PROB38", 
+      "PROB10", 
+      "PROB10", 
+      "PROB11"
+    ], 
     "trigrams": [
       [
         [
@@ -24920,6 +28559,24 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "ADM50", 
+      "ADM50", 
+      "ADM50", 
+      "ADM52", 
+      "ADM52", 
+      "ADM54", 
+      "ADM54", 
+      "ADM51", 
+      "ADM53", 
+      "ADM53", 
+      "ADM53", 
+      "ADM101", 
+      "MT32", 
+      "ADM55", 
+      "ADM51", 
+      "ADM173"
     ], 
     "trigrams": [
       [
@@ -25156,6 +28813,32 @@
         4
       ]
     ], 
+    "references": [
+      "ADM36", 
+      "ADM41", 
+      "ADM115", 
+      "ADM119", 
+      "ADM31", 
+      "ADM117", 
+      "ADM29", 
+      "ADM29", 
+      "ADM29", 
+      "ADM29", 
+      "ADM73", 
+      "ADM73", 
+      "ADM73", 
+      "ADM139", 
+      "ADM188", 
+      "ADM362", 
+      "ADM363", 
+      "ADM116", 
+      "ADM188", 
+      "ADM139", 
+      "ADM188", 
+      "ADM188", 
+      "ADM188", 
+      "ADM171"
+    ], 
     "trigrams": [
       [
         [
@@ -25292,6 +28975,11 @@
         6
       ]
     ], 
+    "references": [
+      "AIR80", 
+      "MH106", 
+      "MH106"
+    ], 
     "trigrams": [
       [
         [
@@ -25381,6 +29069,13 @@
         4
       ]
     ], 
+    "references": [
+      "ADM321", 
+      "ADM340", 
+      "ADM318", 
+      "ADM336", 
+      "ADM171"
+    ], 
     "trigrams": [
       [
         [
@@ -25439,6 +29134,9 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "MH12"
     ], 
     "trigrams": [
       [
@@ -25561,6 +29259,64 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "HO73", 
+      "ED12", 
+      "ED27", 
+      "ED43", 
+      "ED35", 
+      "ED191", 
+      "CHAR12", 
+      "CHAR13", 
+      "ED21", 
+      "ED14", 
+      "ED24", 
+      "ED24", 
+      "MH27", 
+      "ED35", 
+      "ED27", 
+      "ED35", 
+      "ED43", 
+      "ED162", 
+      "ED53", 
+      "ED15", 
+      "ED12", 
+      "ED12", 
+      "ED24", 
+      "ED24", 
+      "ED55", 
+      "ED24", 
+      "ED24", 
+      "ED24", 
+      "ED147", 
+      "ED147", 
+      "ED147", 
+      "ED147", 
+      "ED147", 
+      "EJ11", 
+      "EJ10", 
+      "EJ15", 
+      "ED97", 
+      "ED10", 
+      "ED24", 
+      "ED10", 
+      "ED10", 
+      "ED12", 
+      "ED136", 
+      "ED152", 
+      "ED162", 
+      "ED147", 
+      "ED216", 
+      "ED91", 
+      "ED93", 
+      "ED270", 
+      "ED147", 
+      "CRDA13", 
+      "ED267", 
+      "CRDA47", 
+      "ED278", 
+      "PRO1997"
     ], 
     "trigrams": [
       [
@@ -25686,6 +29442,9 @@
         15
       ]
     ], 
+    "references": [
+      "WO229"
+    ], 
     "trigrams": [
       [
         [
@@ -25727,6 +29486,7 @@
     "name": "Security history", 
     "summary": [], 
     "bigrams": [], 
+    "references": [], 
     "trigrams": [], 
     "id": "security-history"
   }, 
@@ -25949,6 +29709,23 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "DL40", 
+      "DL42", 
+      "SP29", 
+      "SP29", 
+      "SP28", 
+      "SP28", 
+      "SP28", 
+      "SP28", 
+      "SP28", 
+      "WO47", 
+      "WO49", 
+      "WO54", 
+      "WO55", 
+      "SP41", 
+      "SP24"
     ], 
     "trigrams": [
       [
@@ -26348,6 +30125,30 @@
         8
       ]
     ], 
+    "references": [
+      "OS75", 
+      "OS78", 
+      "OS11", 
+      "MT78", 
+      "MT78", 
+      "HLG13", 
+      "HLG47", 
+      "HLG26", 
+      "HLG66", 
+      "BD20", 
+      "HO141", 
+      "MT78", 
+      "MT78", 
+      "MT105", 
+      "TS18", 
+      "TS28", 
+      "KB16", 
+      "CRES35", 
+      "IR18", 
+      "IR30", 
+      "IR29", 
+      "HLG92"
+    ], 
     "trigrams": [
       [
         [
@@ -26464,6 +30265,7 @@
         5
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -26542,6 +30344,11 @@
         ], 
         7
       ]
+    ], 
+    "references": [
+      "ADM273", 
+      "AIR76", 
+      "ADM171"
     ], 
     "trigrams": [
       [
@@ -26722,6 +30529,110 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "BT42", 
+      "BT43", 
+      "BT45", 
+      "BT47", 
+      "BT47", 
+      "BT51", 
+      "BT51", 
+      "BT51", 
+      "BT51", 
+      "BT42", 
+      "BT43", 
+      "BT51", 
+      "BT43", 
+      "BT52", 
+      "BT53", 
+      "BT52", 
+      "BT52", 
+      "BT52", 
+      "BT44", 
+      "BT42", 
+      "BT42", 
+      "BT42", 
+      "BT42", 
+      "BT43", 
+      "BT44", 
+      "BT43", 
+      "BT44", 
+      "BT43", 
+      "BT44", 
+      "BT43", 
+      "BT44", 
+      "BT43", 
+      "BT44", 
+      "BT43", 
+      "BT44", 
+      "BT43", 
+      "BT44", 
+      "BT43", 
+      "BT44", 
+      "BT43", 
+      "BT44", 
+      "BT43", 
+      "BT44", 
+      "BT43", 
+      "BT44", 
+      "BT43", 
+      "BT44", 
+      "BT43", 
+      "BT43", 
+      "BT44", 
+      "BT44", 
+      "BT42", 
+      "BT43", 
+      "BT44", 
+      "BT43", 
+      "BT44", 
+      "BT44", 
+      "BT44", 
+      "BT45", 
+      "BT46", 
+      "BT46", 
+      "BT46", 
+      "BT46", 
+      "BT46", 
+      "BT47", 
+      "BT48", 
+      "BT47", 
+      "BT48", 
+      "BT48", 
+      "BT48", 
+      "BT47", 
+      "BT48", 
+      "BT47", 
+      "BT50", 
+      "BT51", 
+      "BT51", 
+      "BT51", 
+      "BT51", 
+      "BT53", 
+      "BT52", 
+      "BT53", 
+      "BT52", 
+      "BT53", 
+      "BT52", 
+      "BT53", 
+      "BT52", 
+      "BT53", 
+      "BT52", 
+      "BT53", 
+      "BT52", 
+      "BT53", 
+      "BT52", 
+      "BT53", 
+      "BT52", 
+      "BT53", 
+      "BT52", 
+      "BT53", 
+      "BT51", 
+      "BT51", 
+      "BT53", 
+      "BT53", 
+      "BT53"
     ], 
     "trigrams": [
       [
@@ -27018,6 +30929,48 @@
         5
       ]
     ], 
+    "references": [
+      "DEFE12", 
+      "DEFE33", 
+      "ADM316", 
+      "ADM306", 
+      "ADM330", 
+      "DEFE14", 
+      "ADM116", 
+      "ADM121", 
+      "ADM127", 
+      "ADM228", 
+      "CAB128", 
+      "CAB129", 
+      "CAB131", 
+      "CAB148", 
+      "ADM205", 
+      "ADM205", 
+      "DEFE32", 
+      "DEFE10", 
+      "DEFE11", 
+      "DEFE30", 
+      "DEFE45", 
+      "DEFE45", 
+      "ADM167", 
+      "ADM116", 
+      "ADM205", 
+      "DEFE24", 
+      "DEFE25", 
+      "DEFE68", 
+      "DEFE13", 
+      "DEFE23", 
+      "ADM156", 
+      "ADM330", 
+      "ADM178", 
+      "ADM116", 
+      "ADM202", 
+      "ADM301", 
+      "ADM201", 
+      "ADM207", 
+      "ADM335", 
+      "ADM335"
+    ], 
     "trigrams": [
       [
         [
@@ -27195,6 +31148,20 @@
         4
       ]
     ], 
+    "references": [
+      "DL25", 
+      "DL26", 
+      "DL25", 
+      "DL26", 
+      "DL25", 
+      "DL26", 
+      "DL25", 
+      "DL26", 
+      "DL25", 
+      "DL26", 
+      "LR14", 
+      "LR15"
+    ], 
     "trigrams": [
       [
         [
@@ -27244,6 +31211,15 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "ED27", 
+      "ED21", 
+      "ED35", 
+      "ED161", 
+      "ED161", 
+      "ED103", 
+      "PRO1997"
     ], 
     "trigrams": [
       [
@@ -27312,6 +31288,10 @@
         14
       ]
     ], 
+    "references": [
+      "MH14", 
+      "MH12"
+    ], 
     "trigrams": [
       [
         [
@@ -27371,6 +31351,7 @@
         4
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -27437,6 +31418,17 @@
         4
       ]
     ], 
+    "references": [
+      "FO371", 
+      "FO371", 
+      "CAB29", 
+      "CAB21", 
+      "FO371", 
+      "FO608", 
+      "FO608", 
+      "FO371", 
+      "PRO30"
+    ], 
     "trigrams": [
       [
         [
@@ -27458,6 +31450,7 @@
       "Live chat For quick pointersTuesday to Saturday 09:00 to 17:00 &lt;div style=\"display:inline\"&gt;&lt;a href=\"http://www.providesupport.com?messenger=0or0ihkh4hylp1qnz87w7c01gr\"&gt;Live Help Desk&lt;/a&gt;&lt;/div&gt; Email For more detailed research enquiries."
     ], 
     "bigrams": [], 
+    "references": [], 
     "trigrams": [], 
     "id": "victorian-prisoners-photograph-albums-1872-1873"
   }, 
@@ -27806,6 +31799,10 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "WO98", 
+      "CAB106"
     ], 
     "trigrams": [
       [
@@ -28212,6 +32209,30 @@
         6
       ]
     ], 
+    "references": [
+      "BT348", 
+      "BT349", 
+      "BT350", 
+      "BT348", 
+      "BT349", 
+      "BT350", 
+      "BT351", 
+      "BT351", 
+      "BT395", 
+      "BT339", 
+      "BT372", 
+      "BT391", 
+      "BT390", 
+      "BT364", 
+      "BT382", 
+      "BT351", 
+      "BT99", 
+      "BT380", 
+      "BT381", 
+      "BT100", 
+      "BT364", 
+      "BT382"
+    ], 
     "trigrams": [
       [
         [
@@ -28450,6 +32471,40 @@
         16
       ]
     ], 
+    "references": [
+      "IR29", 
+      "IR30", 
+      "IR18", 
+      "IR29", 
+      "IR30", 
+      "IR18", 
+      "IR29", 
+      "IR29", 
+      "IR94", 
+      "IR30", 
+      "IR30", 
+      "IR30", 
+      "IR77", 
+      "IR77", 
+      "IR30", 
+      "IR18", 
+      "IR18", 
+      "IR18", 
+      "IR106", 
+      "IR95", 
+      "IR90", 
+      "IR109", 
+      "IR102", 
+      "MAF16", 
+      "MAF76", 
+      "MAF28", 
+      "HLG64", 
+      "IR96", 
+      "IR101", 
+      "IR110", 
+      "IR90", 
+      "IR94"
+    ], 
     "trigrams": [
       [
         [
@@ -28659,6 +32714,44 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "FO371", 
+      "WO208", 
+      "WO208", 
+      "WO208", 
+      "WO208", 
+      "WO208", 
+      "AIR40", 
+      "WO344", 
+      "WO208", 
+      "WO208", 
+      "WO208", 
+      "WO208", 
+      "WO208", 
+      "WO392", 
+      "WO361", 
+      "ADM358", 
+      "AIR81", 
+      "WO224", 
+      "FO916", 
+      "WO224", 
+      "CO980", 
+      "HO215", 
+      "CAB101", 
+      "WO32", 
+      "RG32", 
+      "BT373", 
+      "BT373", 
+      "BT373", 
+      "WO345", 
+      "WO367", 
+      "WO347", 
+      "WO347", 
+      "WO347", 
+      "WO208", 
+      "WO308", 
+      "DO35"
     ], 
     "trigrams": [
       [
@@ -28898,6 +32991,17 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "CRIM10", 
+      "TS36", 
+      "HO16", 
+      "HO77", 
+      "HO26", 
+      "HO27", 
+      "HO140", 
+      "CRIM11", 
+      "CRIM12"
     ], 
     "trigrams": [
       [
@@ -29277,6 +33381,90 @@
         7
       ]
     ], 
+    "references": [
+      "CO30", 
+      "BT107", 
+      "BT111", 
+      "BT98", 
+      "BT98", 
+      "CUST17", 
+      "CO388", 
+      "CO391", 
+      "CO137", 
+      "CO245", 
+      "FO27", 
+      "FO72", 
+      "FO27", 
+      "FO84", 
+      "FO92", 
+      "FO95", 
+      "FO139", 
+      "FO84", 
+      "FO84", 
+      "FO84", 
+      "FO93", 
+      "FO94", 
+      "FO93", 
+      "FO94", 
+      "CO879", 
+      "ADM12", 
+      "ADM12", 
+      "ADM51", 
+      "ADM53", 
+      "ADM37", 
+      "ADM48", 
+      "HCA35", 
+      "HCA36", 
+      "HCA37", 
+      "CO267", 
+      "CUST34", 
+      "BT98", 
+      "CO33", 
+      "HCA49", 
+      "ADM51", 
+      "FO84", 
+      "FO315", 
+      "FO315", 
+      "CUST34", 
+      "HCA30", 
+      "HCA49", 
+      "CO267", 
+      "CO267", 
+      "CUST34", 
+      "CO318", 
+      "CO318", 
+      "CO295", 
+      "CO318", 
+      "CO28", 
+      "CO239", 
+      "CO700", 
+      "CO239", 
+      "CO239", 
+      "HCA49", 
+      "CUST34", 
+      "HCA30", 
+      "HCA30", 
+      "CO318", 
+      "CO318", 
+      "ADM65", 
+      "WO97", 
+      "ADM29", 
+      "WO97", 
+      "CO28", 
+      "CO137", 
+      "CO71", 
+      "CO137", 
+      "CO260", 
+      "KB122", 
+      "KB125", 
+      "KB168", 
+      "PRO30", 
+      "CO441", 
+      "PWLB11", 
+      "CO700", 
+      "CO700", 
+      "AO14"
+    ], 
     "trigrams": [
       [
         [
@@ -29572,6 +33760,16 @@
         8
       ]
     ], 
+    "references": [
+      "WO161", 
+      "ADM103", 
+      "RG35", 
+      "RG35", 
+      "WO372", 
+      "FO383", 
+      "ADM12", 
+      "ADM12"
+    ], 
     "trigrams": [
       [
         [
@@ -29695,6 +33893,54 @@
         ], 
         6
       ]
+    ], 
+    "references": [
+      "ED28", 
+      "ED23", 
+      "ED167", 
+      "ED29", 
+      "WORK17", 
+      "WORK33", 
+      "ED46", 
+      "ED70", 
+      "ED96", 
+      "ED98", 
+      "ED82", 
+      "ED182", 
+      "ED46", 
+      "ED163", 
+      "ED163", 
+      "ED212", 
+      "ED212", 
+      "ED90", 
+      "ED90", 
+      "ED182", 
+      "ED41", 
+      "ED75", 
+      "ED73", 
+      "ED76", 
+      "ED68", 
+      "ED80", 
+      "ED166", 
+      "ED167", 
+      "ED174", 
+      "ED164", 
+      "ED114", 
+      "ED155", 
+      "ED46", 
+      "ED46", 
+      "ED165", 
+      "ED168", 
+      "ED166", 
+      "ED116", 
+      "ED117", 
+      "ED118", 
+      "ED46", 
+      "ED168", 
+      "ED46", 
+      "ED204", 
+      "ED175", 
+      "ED175"
     ], 
     "trigrams": [
       [
@@ -29895,6 +34141,55 @@
         4
       ]
     ], 
+    "references": [
+      "ADM116", 
+      "ADM137", 
+      "ADM137", 
+      "ADM137", 
+      "ADM116", 
+      "ADM137", 
+      "ADM137", 
+      "ADM116", 
+      "ADM137", 
+      "ADM116", 
+      "ADM137", 
+      "ADM116", 
+      "ADM12", 
+      "ADM12", 
+      "ADM137", 
+      "ADM137", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM137", 
+      "HS1426", 
+      "ADM137", 
+      "ADM137", 
+      "ADM53", 
+      "ADM173", 
+      "ADM131", 
+      "ADM123", 
+      "ADM151", 
+      "ADM179", 
+      "ADM167", 
+      "ADM182", 
+      "ADM116", 
+      "ADM116", 
+      "ADM242", 
+      "ADM176", 
+      "ADM116", 
+      "ADM137", 
+      "ADM186", 
+      "ADM137", 
+      "WO95", 
+      "ADM137", 
+      "ADM116", 
+      "ADM137", 
+      "WO32", 
+      "WO106", 
+      "WO158", 
+      "ADM12"
+    ], 
     "trigrams": [
       [
         [
@@ -30059,6 +34354,7 @@
         4
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -30180,6 +34476,53 @@
         5
       ]
     ], 
+    "references": [
+      "ADM13", 
+      "ADM13", 
+      "ADM116", 
+      "ADM12", 
+      "ADM167", 
+      "ADM12", 
+      "SP42", 
+      "ADM106", 
+      "ADM106", 
+      "ADM354", 
+      "ADM359", 
+      "ADM123", 
+      "ADM124", 
+      "ADM145", 
+      "ADM146", 
+      "ADM122", 
+      "ADM147", 
+      "ADM144", 
+      "ADM125", 
+      "ADM126", 
+      "ADM127", 
+      "ADM149", 
+      "ADM150", 
+      "ADM148", 
+      "ADM121", 
+      "ADM151", 
+      "ADM152", 
+      "ADM128", 
+      "ADM129", 
+      "ADM172", 
+      "ADM155", 
+      "ADM131", 
+      "ADM143", 
+      "ADM130", 
+      "ADM179", 
+      "ADM167", 
+      "ADM13", 
+      "ADM180", 
+      "ADM135", 
+      "ADM136", 
+      "WO55", 
+      "ADM95", 
+      "ADM138", 
+      "ADM168", 
+      "ADM170"
+    ], 
     "trigrams": [
       [
         [
@@ -30264,6 +34607,9 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "MH13"
     ], 
     "trigrams": [
       [
@@ -30363,6 +34709,49 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "ED57", 
+      "ED17", 
+      "ED109", 
+      "ED17", 
+      "ED103", 
+      "ED40", 
+      "ED78", 
+      "ED164", 
+      "ED67", 
+      "ED53", 
+      "ED61", 
+      "ED87", 
+      "ED86", 
+      "ED78", 
+      "ED115", 
+      "ED143", 
+      "ED81", 
+      "ED119", 
+      "ED105", 
+      "ED86", 
+      "ED119", 
+      "ED159", 
+      "ED136", 
+      "ED143", 
+      "ED143", 
+      "ED143", 
+      "ED143", 
+      "ED86", 
+      "ED86", 
+      "ED192", 
+      "ED192", 
+      "ED234", 
+      "ED145", 
+      "ED86", 
+      "ED192", 
+      "ED104", 
+      "ED131", 
+      "ED108", 
+      "ED44", 
+      "ED10", 
+      "PRO1997"
     ], 
     "trigrams": [
       [
@@ -30482,6 +34871,11 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "ADM104", 
+      "ADM171", 
+      "WO145"
     ], 
     "trigrams": [
       [
@@ -30670,6 +35064,16 @@
         4
       ]
     ], 
+    "references": [
+      "MEPO15", 
+      "MEPO22", 
+      "HO45", 
+      "HO45", 
+      "MEPO21", 
+      "MEPO38", 
+      "RAIL1172", 
+      "AN174"
+    ], 
     "trigrams": [
       [
         [
@@ -30851,6 +35255,7 @@
         4
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -31014,6 +35419,41 @@
         ], 
         13
       ]
+    ], 
+    "references": [
+      "HO42", 
+      "SP35", 
+      "SP35", 
+      "SP35", 
+      "SP35", 
+      "SP35", 
+      "SP35", 
+      "SP43", 
+      "SP44", 
+      "SP45", 
+      "SP36", 
+      "SP36", 
+      "SP36", 
+      "SP36", 
+      "SP36", 
+      "SP36", 
+      "SP37", 
+      "SP37", 
+      "SP37", 
+      "SP41", 
+      "SP44", 
+      "SP47", 
+      "SP54", 
+      "SP63", 
+      "SP43", 
+      "SP44", 
+      "SP41", 
+      "SP41", 
+      "SP87", 
+      "SP42", 
+      "SP54", 
+      "SP55", 
+      "SP55"
     ], 
     "trigrams": [
       [
@@ -31281,6 +35721,43 @@
         4
       ]
     ], 
+    "references": [
+      "SP29", 
+      "SP30", 
+      "SP29", 
+      "SP29", 
+      "SP30", 
+      "SP31", 
+      "ADM77", 
+      "SP44", 
+      "SP32", 
+      "SP32", 
+      "SP33", 
+      "SP33", 
+      "SP32", 
+      "SP32", 
+      "SP42", 
+      "SP44", 
+      "SP45", 
+      "ADM77", 
+      "ADM78", 
+      "SP33", 
+      "SP33", 
+      "SP34", 
+      "SP34", 
+      "SP32", 
+      "SP34", 
+      "SP34", 
+      "SP34", 
+      "SP41", 
+      "SP42", 
+      "SP44", 
+      "SP45", 
+      "SP46", 
+      "SP46", 
+      "PRO30", 
+      "PRO30"
+    ], 
     "trigrams": [
       [
         [
@@ -31450,6 +35927,22 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "BT164", 
+      "BT377", 
+      "BT377", 
+      "BT377", 
+      "BT377", 
+      "BT377", 
+      "QA1737", 
+      "QA1454", 
+      "QB1328", 
+      "QB2347", 
+      "BT377", 
+      "BT164", 
+      "BT377", 
+      "BT377"
     ], 
     "trigrams": [
       [
@@ -31704,6 +36197,67 @@
         ], 
         29
       ]
+    ], 
+    "references": [
+      "SP10", 
+      "SP15", 
+      "SP11", 
+      "SP15", 
+      "SP12", 
+      "SP13", 
+      "SP15", 
+      "SP14", 
+      "SP15", 
+      "SP16", 
+      "SP17", 
+      "SP21", 
+      "SP23", 
+      "SP10", 
+      "SP11", 
+      "SP12", 
+      "SP14", 
+      "SP16", 
+      "SP12", 
+      "SP12", 
+      "SP12", 
+      "PRO31", 
+      "SP59", 
+      "SP13", 
+      "SP17", 
+      "SP45", 
+      "SP39", 
+      "SP14", 
+      "SP38", 
+      "SP38", 
+      "SP15", 
+      "SP13", 
+      "SP18", 
+      "SP46", 
+      "SP14", 
+      "SP12", 
+      "SP77", 
+      "SP104", 
+      "SP78", 
+      "SP82", 
+      "SP14", 
+      "SP84", 
+      "SP21", 
+      "SP23", 
+      "SP63", 
+      "SP105", 
+      "SP14", 
+      "SP94", 
+      "SP16", 
+      "PRO31", 
+      "SP16", 
+      "SP40", 
+      "SP50", 
+      "SP59", 
+      "PRO30", 
+      "SP45", 
+      "SP46", 
+      "SP38", 
+      "SP40"
     ], 
     "trigrams": [
       [
@@ -32022,6 +36576,67 @@
         5
       ]
     ], 
+    "references": [
+      "SP60", 
+      "SP61", 
+      "SP62", 
+      "SP63", 
+      "SP45", 
+      "SP63", 
+      "SP65", 
+      "PRO30", 
+      "SP66", 
+      "SP64", 
+      "SP112", 
+      "PRO31", 
+      "PRO30", 
+      "SP63", 
+      "SP63", 
+      "SP63", 
+      "SP39", 
+      "SP44", 
+      "SP21", 
+      "SP25", 
+      "SP66", 
+      "SP38", 
+      "SP28", 
+      "SP46", 
+      "SP67", 
+      "SP63", 
+      "SP63", 
+      "PRO30", 
+      "SP63", 
+      "SP63", 
+      "PRO30", 
+      "PRO30", 
+      "HO101", 
+      "SP60", 
+      "SP61", 
+      "SP62", 
+      "SP63", 
+      "SP63", 
+      "SP65", 
+      "SP65", 
+      "SP64", 
+      "SP12", 
+      "SP63", 
+      "SP63", 
+      "PRO31", 
+      "SP63", 
+      "SP38", 
+      "SP14", 
+      "SP63", 
+      "SP14", 
+      "PRO31", 
+      "SP14", 
+      "SP39", 
+      "SP44", 
+      "SP21", 
+      "SP14", 
+      "SP14", 
+      "SP40", 
+      "HMSO1914"
+    ], 
     "trigrams": [
       [
         [
@@ -32260,6 +36875,7 @@
         8
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -32336,6 +36952,7 @@
         4
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -32427,6 +37044,14 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "KB25", 
+      "KB25", 
+      "KB25", 
+      "KB31", 
+      "KB30", 
+      "KB34"
     ], 
     "trigrams": [
       [
@@ -32682,6 +37307,50 @@
         18
       ]
     ], 
+    "references": [
+      "SP18", 
+      "SP25", 
+      "SP18", 
+      "SP25", 
+      "PRO30", 
+      "SP18", 
+      "SP25", 
+      "SP18", 
+      "SP18", 
+      "SP21", 
+      "SP21", 
+      "SP63", 
+      "SP21", 
+      "SP19", 
+      "SP19", 
+      "SP19", 
+      "SP19", 
+      "SP19", 
+      "SP19", 
+      "SP19", 
+      "SP24", 
+      "SP24", 
+      "SP24", 
+      "SP23", 
+      "SP28", 
+      "SP23", 
+      "SP23", 
+      "SP23", 
+      "SP23", 
+      "SP20", 
+      "SP20", 
+      "SP20", 
+      "SP20", 
+      "SP20", 
+      "SP22", 
+      "SP23", 
+      "SP28", 
+      "SP26", 
+      "SP27", 
+      "SP28", 
+      "SP46", 
+      "PRO30"
+    ], 
     "trigrams": [
       [
         [
@@ -32920,6 +37589,11 @@
         4
       ]
     ], 
+    "references": [
+      "HO45", 
+      "HO141", 
+      "HO152"
+    ], 
     "trigrams": [
       [
         [
@@ -32948,6 +37622,14 @@
         ], 
         7
       ]
+    ], 
+    "references": [
+      "ADM159", 
+      "ADM159", 
+      "ADM159", 
+      "ADM196", 
+      "ADM157", 
+      "ADM157"
     ], 
     "trigrams": [], 
     "id": "royal-marines-service-records-1842-1925"
@@ -32989,6 +37671,15 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "BT389", 
+      "BT98", 
+      "BT99", 
+      "BT380", 
+      "BT381", 
+      "BT347", 
+      "MT25"
     ], 
     "trigrams": [
       [
@@ -33154,6 +37845,55 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "HO44", 
+      "HO42", 
+      "HO52", 
+      "HO40", 
+      "HO44", 
+      "HO42", 
+      "HO52", 
+      "HO40", 
+      "HO41", 
+      "HO40", 
+      "HO45", 
+      "HO144", 
+      "HO45", 
+      "HO144", 
+      "HO45", 
+      "HO46", 
+      "HO46", 
+      "HO46", 
+      "HO45", 
+      "HO45", 
+      "HO46", 
+      "HO46", 
+      "HO46", 
+      "HO46", 
+      "HO46", 
+      "HO46", 
+      "HO46", 
+      "HO46", 
+      "HO45", 
+      "HO144", 
+      "HO45", 
+      "HO144", 
+      "HO45", 
+      "HO144", 
+      "HO45", 
+      "HO144", 
+      "HO45", 
+      "HO144", 
+      "HO12", 
+      "HO46", 
+      "HO46", 
+      "HO317", 
+      "HO326", 
+      "HO45", 
+      "HO144", 
+      "HO291", 
+      "HO287"
     ], 
     "trigrams": [
       [
@@ -33426,6 +38166,81 @@
         4
       ]
     ], 
+    "references": [
+      "SP44", 
+      "SP87", 
+      "SP87", 
+      "SP87", 
+      "SP87", 
+      "WO40", 
+      "WO36", 
+      "WO28", 
+      "WO28", 
+      "WO107", 
+      "WO28", 
+      "WO28", 
+      "WO28", 
+      "WO32", 
+      "WO108", 
+      "WO107", 
+      "SP44", 
+      "SP44", 
+      "SP44", 
+      "SP44", 
+      "SP44", 
+      "SP87", 
+      "SP87", 
+      "SP87", 
+      "SP87", 
+      "SP87", 
+      "SP41", 
+      "SP87", 
+      "SP44", 
+      "WO40", 
+      "HO51", 
+      "HO50", 
+      "HO30", 
+      "CO323", 
+      "WO106", 
+      "CO445", 
+      "CO534", 
+      "CO581", 
+      "CO582", 
+      "CO623", 
+      "CO624", 
+      "CO641", 
+      "CO642", 
+      "CO820", 
+      "CO871", 
+      "WO24", 
+      "WO27", 
+      "WO17", 
+      "WO25", 
+      "WO379", 
+      "WO380", 
+      "WO73", 
+      "WO78", 
+      "WORK43", 
+      "PRO30", 
+      "WO34", 
+      "WO133", 
+      "WO132", 
+      "PRO30", 
+      "WO136", 
+      "PRO30", 
+      "PRO30", 
+      "WO211", 
+      "PRO30", 
+      "PRO30", 
+      "WO80", 
+      "WO134", 
+      "PRO30", 
+      "WO105", 
+      "WO273", 
+      "WO37", 
+      "WO135", 
+      "WO147"
+    ], 
     "trigrams": [
       [
         [
@@ -33572,6 +38387,124 @@
         4
       ]
     ], 
+    "references": [
+      "ASSI34", 
+      "ASSI38", 
+      "ASSI39", 
+      "ASSI15", 
+      "ASSI10", 
+      "ASSI93", 
+      "ASSI34", 
+      "ASSI38", 
+      "ASSI39", 
+      "ASSI15", 
+      "ASSI34", 
+      "ASSI38", 
+      "ASSI39", 
+      "ASSI59", 
+      "ASSI63", 
+      "ASSI66", 
+      "ASSI67", 
+      "ASSI24", 
+      "ASSI30", 
+      "ASSI54", 
+      "ASSI43", 
+      "ASSI46", 
+      "ASSI47", 
+      "ASSI93", 
+      "ASSI14", 
+      "ASSI15", 
+      "ASSI24", 
+      "ASSI30", 
+      "ASSI24", 
+      "ASSI30", 
+      "ASSI41", 
+      "DURH19", 
+      "ASSI46", 
+      "ASSI47", 
+      "ASSI93", 
+      "ASSI34", 
+      "ASSI38", 
+      "ASSI39", 
+      "ASSI10", 
+      "ASSI93", 
+      "ASSI24", 
+      "ASSI30", 
+      "ASSI10", 
+      "ASSI93", 
+      "ASSI34", 
+      "ASSI38", 
+      "ASSI39", 
+      "ASSI34", 
+      "ASSI38", 
+      "ASSI39", 
+      "ASSI34", 
+      "ASSI38", 
+      "ASSI39", 
+      "ASSI54", 
+      "ASSI53", 
+      "ASSI93", 
+      "ASSI15", 
+      "ASSI34", 
+      "ASSI38", 
+      "ASSI39", 
+      "ASSI14", 
+      "ASSI15", 
+      "ASSI10", 
+      "ASSI93", 
+      "ASSI34", 
+      "ASSI38", 
+      "ASSI39", 
+      "ASSI15", 
+      "ASSI34", 
+      "ASSI38", 
+      "ASSI39", 
+      "ASSI41", 
+      "ASSI43", 
+      "ASSI46", 
+      "ASSI47", 
+      "ASSI93", 
+      "ASSI14", 
+      "ASSI15", 
+      "ASSI10", 
+      "ASSI93", 
+      "ASSI15", 
+      "ASSI34", 
+      "ASSI38", 
+      "ASSI39", 
+      "ASSI10", 
+      "ASSI93", 
+      "ASSI24", 
+      "ASSI30", 
+      "ASSI10", 
+      "ASSI93", 
+      "ASSI34", 
+      "ASSI38", 
+      "ASSI39", 
+      "ASSI34", 
+      "ASSI38", 
+      "ASSI39", 
+      "ASSI34", 
+      "ASSI38", 
+      "ASSI39", 
+      "ASSI14", 
+      "ASSI15", 
+      "ASSI54", 
+      "ASSI43", 
+      "ASSI46", 
+      "ASSI47", 
+      "ASSI53", 
+      "ASSI93", 
+      "ASSI24", 
+      "ASSI30", 
+      "ASSI10", 
+      "ASSI93", 
+      "ASSI15", 
+      "ASSI43", 
+      "ASSI46", 
+      "ASSI47", 
+      "ASSI93"
+    ], 
     "trigrams": [
       [
         [
@@ -33714,6 +38647,17 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "WARD10", 
+      "WARD11", 
+      "WARD12", 
+      "WARD15", 
+      "WARD10", 
+      "WARD11", 
+      "WARD13", 
+      "WARD14", 
+      "WARD15"
     ], 
     "trigrams": [
       [
@@ -33942,6 +38886,23 @@
         4
       ]
     ], 
+    "references": [
+      "WO32", 
+      "WO106", 
+      "WO192", 
+      "WO208", 
+      "WO223", 
+      "WO234", 
+      "WO252", 
+      "WO401", 
+      "ADM234", 
+      "WO252", 
+      "CAB44", 
+      "CAB106", 
+      "CAB145", 
+      "HO193", 
+      "WORK43"
+    ], 
     "trigrams": [
       [
         [
@@ -34087,6 +39048,12 @@
         4
       ]
     ], 
+    "references": [
+      "WO409", 
+      "WO373", 
+      "WO199", 
+      "WO199"
+    ], 
     "trigrams": [
       [
         [
@@ -34222,6 +39189,14 @@
         ], 
         8
       ]
+    ], 
+    "references": [
+      "KB26", 
+      "CHES17", 
+      "KB26", 
+      "CP40", 
+      "KB27", 
+      "CP25"
     ], 
     "trigrams": [
       [
@@ -34385,6 +39360,42 @@
         4
       ]
     ], 
+    "references": [
+      "SP28", 
+      "SP28", 
+      "SP28", 
+      "SP28", 
+      "DL32", 
+      "SP28", 
+      "SP28", 
+      "SP28", 
+      "SP28", 
+      "SP26", 
+      "SP46", 
+      "SP46", 
+      "SP28", 
+      "SP28", 
+      "SP28", 
+      "SP28", 
+      "SP28", 
+      "SP23", 
+      "SP28", 
+      "SP28", 
+      "LR13", 
+      "LR10", 
+      "SP28", 
+      "SP28", 
+      "SP28", 
+      "SP28", 
+      "SP46", 
+      "SP46", 
+      "SP28", 
+      "SP26", 
+      "DL32", 
+      "SP23", 
+      "SP28", 
+      "SP28"
+    ], 
     "trigrams": [
       [
         [
@@ -34475,6 +39486,21 @@
         4
       ]
     ], 
+    "references": [
+      "LAB17", 
+      "LAB19", 
+      "LAB26", 
+      "MH50", 
+      "MH51", 
+      "MH83", 
+      "MH85", 
+      "MH86", 
+      "MH94", 
+      "MH95", 
+      "MH100", 
+      "MH103", 
+      "MH118"
+    ], 
     "trigrams": [
       [
         [
@@ -34526,6 +39552,14 @@
         16
       ]
     ], 
+    "references": [
+      "ADM339", 
+      "WO372", 
+      "WO95", 
+      "WO95", 
+      "ADM137", 
+      "ADM171"
+    ], 
     "trigrams": [
       [
         [
@@ -34563,6 +39597,12 @@
       "The following important points may help you find what you are looking for: place names are those used at the time, and are usually old English ones rather than native Irish spellings were not consistent in this period and you may need to be flexible when searching; for more advice on searching, see our search tips instead of searching you may wish to browse through details of the whole collection Contact us for advice Still need help?"
     ], 
     "bigrams": [], 
+    "references": [
+      "SP64", 
+      "SP64", 
+      "SP64", 
+      "SP64"
+    ], 
     "trigrams": [], 
     "id": "irish-maps-c1558-c1610"
   }, 
@@ -34659,6 +39699,33 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "MH98", 
+      "MH10", 
+      "MH68", 
+      "MH52", 
+      "MH57", 
+      "MH57", 
+      "MH57", 
+      "MH51", 
+      "MH52", 
+      "MH56", 
+      "MH56", 
+      "MH56", 
+      "MH56", 
+      "MH56", 
+      "MH61", 
+      "MH61", 
+      "MH52", 
+      "MH52", 
+      "MH50", 
+      "MH51", 
+      "MH52", 
+      "MH79", 
+      "MH58", 
+      "FO371", 
+      "FO371"
     ], 
     "trigrams": [
       [
@@ -34875,6 +39942,13 @@
         5
       ]
     ], 
+    "references": [
+      "PREM11", 
+      "PREM13", 
+      "HO17", 
+      "HO18", 
+      "HO291"
+    ], 
     "trigrams": [
       [
         [
@@ -34990,6 +40064,19 @@
         6
       ]
     ], 
+    "references": [
+      "ADM159", 
+      "ADM171", 
+      "WO373", 
+      "ADM183", 
+      "ADM184", 
+      "ADM48", 
+      "ADM142", 
+      "ADM157", 
+      "ADM313", 
+      "ADM157", 
+      "ADM158"
+    ], 
     "trigrams": [
       [
         [
@@ -35054,6 +40141,9 @@
         4
       ]
     ], 
+    "references": [
+      "WORK16"
+    ], 
     "trigrams": [
       [
         [
@@ -35104,6 +40194,24 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "BT150", 
+      "BT151", 
+      "BT152", 
+      "KB105", 
+      "BT150", 
+      "BT151", 
+      "BT152", 
+      "ADM12", 
+      "ADM106", 
+      "ADM73", 
+      "ADM73", 
+      "CSC10", 
+      "BT19", 
+      "BT19", 
+      "MH15", 
+      "MH12"
     ], 
     "trigrams": [
       [
@@ -35350,6 +40458,360 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "RAIL1156", 
+      "RAIL264", 
+      "RAIL529", 
+      "RAIL264", 
+      "RAIL529", 
+      "RAIL410", 
+      "RAIL23", 
+      "RAIL23", 
+      "RAIL1057", 
+      "RAIL35", 
+      "RAIL35", 
+      "RAIL35", 
+      "RAIL35", 
+      "RAIL35", 
+      "RAIL35", 
+      "RAIL57", 
+      "RAIL56", 
+      "RAIL64", 
+      "RAIL65", 
+      "RAIL491", 
+      "RAIL92", 
+      "RAIL92", 
+      "RAIL92", 
+      "RAIL1057", 
+      "RAIL97", 
+      "RAIL99", 
+      "RAIL110", 
+      "RAIL783", 
+      "RAIL783", 
+      "RAIL783", 
+      "RAIL783", 
+      "RAIL113", 
+      "RAIL1057", 
+      "RAIL119", 
+      "RAIL1057", 
+      "RAIL134", 
+      "RAIL134", 
+      "RAIL134", 
+      "RAIL134", 
+      "RAIL134", 
+      "RAIL1057", 
+      "RAIL149", 
+      "RAIL56", 
+      "RAIL177", 
+      "RAIL179", 
+      "RAIL186", 
+      "RAIL1016", 
+      "RAIL1021", 
+      "RAIL189", 
+      "RAIL214", 
+      "RAIL226", 
+      "RAIL226", 
+      "RAIL226", 
+      "RAIL226", 
+      "RAIL226", 
+      "RAIL226", 
+      "RAIL1174", 
+      "RAIL1174", 
+      "RAIL227", 
+      "RAIL227", 
+      "RAIL227", 
+      "RAIL227", 
+      "RAIL227", 
+      "RAIL227", 
+      "RAIL463", 
+      "RAIL232", 
+      "RAIL236", 
+      "RAIL236", 
+      "RAIL393", 
+      "RAIL783", 
+      "RAIL783", 
+      "RAIL1174", 
+      "RAIL241", 
+      "RAIL264", 
+      "RAIL253", 
+      "RAIL257", 
+      "RAIL270", 
+      "RAIL276", 
+      "RAIL278", 
+      "RAIL1014", 
+      "RAIL1014", 
+      "RAIL1014", 
+      "RAIL1014", 
+      "RAIL1014", 
+      "RAIL1014", 
+      "RAIL291", 
+      "RAIL294", 
+      "RAIL312", 
+      "RAIL312", 
+      "RAIL313", 
+      "RAIL315", 
+      "RAIL328", 
+      "RAIL341", 
+      "RAIL343", 
+      "RAIL343", 
+      "RAIL343", 
+      "RAIL343", 
+      "RAIL623", 
+      "RAIL344", 
+      "RAIL357", 
+      "RAIL357", 
+      "RAIL357", 
+      "RAIL371", 
+      "RAIL371", 
+      "RAIL377", 
+      "RAIL384", 
+      "RAIL384", 
+      "RAIL397", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL390", 
+      "RAIL393", 
+      "RAIL393", 
+      "RAIL393", 
+      "RAIL397", 
+      "RAIL397", 
+      "RAIL397", 
+      "RAIL397", 
+      "RAIL403", 
+      "RAIL404", 
+      "RAIL405", 
+      "RAIL405", 
+      "RAIL406", 
+      "RAIL410", 
+      "RAIL410", 
+      "RAIL410", 
+      "RAIL410", 
+      "RAIL410", 
+      "RAIL410", 
+      "RAIL411", 
+      "RAIL411", 
+      "RAIL411", 
+      "RAIL414", 
+      "RAIL414", 
+      "RAIL414", 
+      "RAIL414", 
+      "RAIL414", 
+      "RAIL415", 
+      "RAIL415", 
+      "RAIL415", 
+      "RAIL415", 
+      "RAIL426", 
+      "RAIL421", 
+      "RAIL1015", 
+      "RAIL417", 
+      "RAIL437", 
+      "RAIL1172", 
+      "RAIL456", 
+      "RAIL456", 
+      "RAIL463", 
+      "RAIL463", 
+      "RAIL463", 
+      "RAIL463", 
+      "RAIL465", 
+      "RAIL465", 
+      "RAIL472", 
+      "RAIL472", 
+      "RAIL475", 
+      "RAIL487", 
+      "RAIL487", 
+      "RAIL483", 
+      "RAIL484", 
+      "RAIL484", 
+      "RAIL484", 
+      "RAIL484", 
+      "RAIL489", 
+      "RAIL491", 
+      "RAIL491", 
+      "RAIL482", 
+      "RAIL500", 
+      "RAIL500", 
+      "RAIL500", 
+      "RAIL500", 
+      "RAIL500", 
+      "RAIL505", 
+      "RAIL1057", 
+      "RAIL1057", 
+      "RAIL509", 
+      "RAIL509", 
+      "RAIL509", 
+      "RAIL772", 
+      "RAIL521", 
+      "RAIL527", 
+      "RAIL527", 
+      "RAIL527", 
+      "RAIL527", 
+      "RAIL527", 
+      "RAIL527", 
+      "RAIL527", 
+      "RAIL527", 
+      "RAIL527", 
+      "RAIL527", 
+      "RAIL527", 
+      "RAIL527", 
+      "RAIL527", 
+      "RAIL527", 
+      "RAIL667", 
+      "RAIL529", 
+      "RAIL530", 
+      "RAIL532", 
+      "RAIL533", 
+      "RAIL554", 
+      "RAIL558", 
+      "RAIL574", 
+      "RAIL1057", 
+      "RAIL1057", 
+      "RAIL1057", 
+      "RAIL1057", 
+      "RAIL1085", 
+      "RAIL1085", 
+      "RAIL1085", 
+      "RAIL1096", 
+      "RAIL1172", 
+      "RAIL581", 
+      "RAIL1057", 
+      "RAIL583", 
+      "RAIL1057", 
+      "RAIL611", 
+      "RAIL617", 
+      "RAIL623", 
+      "RAIL627", 
+      "RAIL626", 
+      "RAIL972", 
+      "RAIL631", 
+      "RAIL631", 
+      "RAIL631", 
+      "RAIL632", 
+      "RAIL632", 
+      "RAIL635", 
+      "RAIL635", 
+      "RAIL635", 
+      "RAIL635", 
+      "RAIL635", 
+      "RAIL635", 
+      "RAIL1057", 
+      "RAIL633", 
+      "RAIL633", 
+      "RAIL1025", 
+      "RAIL640", 
+      "RAIL640", 
+      "RAIL640", 
+      "RAIL640", 
+      "RAIL640", 
+      "RAIL640", 
+      "RAIL651", 
+      "RAIL667", 
+      "RAIL667", 
+      "RAIL667", 
+      "RAIL667", 
+      "RAIL667", 
+      "RAIL667", 
+      "RAIL667", 
+      "RAIL667", 
+      "RAIL667", 
+      "RAIL667", 
+      "RAIL667", 
+      "RAIL667", 
+      "RAIL667", 
+      "RAIL667", 
+      "RAIL667", 
+      "RAIL667", 
+      "RAIL667", 
+      "RAIL667", 
+      "RAIL667", 
+      "RAIL667", 
+      "RAIL1057", 
+      "RAIL675", 
+      "RAIL674", 
+      "RAIL1057", 
+      "RAIL1057", 
+      "RAIL1057", 
+      "RAIL684", 
+      "RAIL684", 
+      "RAIL684", 
+      "RAIL1057", 
+      "RAIL687", 
+      "RAIL697", 
+      "RAIL699", 
+      "RAIL1057", 
+      "RAIL1057", 
+      "RAIL704", 
+      "RAIL714", 
+      "RAIL725", 
+      "RAIL716", 
+      "RAIL623", 
+      "RAIL744", 
+      "RAIL747", 
+      "RAIL747", 
+      "RAIL747", 
+      "RAIL747", 
+      "RAIL750", 
+      "RAIL756", 
+      "RAIL756", 
+      "RAIL1057", 
+      "RAIL768", 
+      "RAIL770", 
+      "RAIL770", 
+      "RAIL770", 
+      "RAIL772", 
+      "RAIL772", 
+      "RAIL772", 
+      "RAIL772", 
+      "RAIL772", 
+      "RAIL772", 
+      "RAIL772", 
+      "RAIL772"
     ], 
     "trigrams": [
       [
@@ -35600,6 +41062,7 @@
         9
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -35687,6 +41150,21 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "HO144", 
+      "HO45", 
+      "HO215", 
+      "HO215", 
+      "HO215", 
+      "HO215", 
+      "HO215", 
+      "HO215", 
+      "HO396", 
+      "FO383", 
+      "HO214", 
+      "FO916", 
+      "HO45"
     ], 
     "trigrams": [
       [
@@ -35790,6 +41268,60 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "GFM32", 
+      "GFM33", 
+      "GFM36", 
+      "GFM26", 
+      "GFM33", 
+      "GFM33", 
+      "GFM33", 
+      "GFM34", 
+      "GFM33", 
+      "GFM34", 
+      "GFM33", 
+      "GFM34", 
+      "GFM33", 
+      "GFM25", 
+      "GFM33", 
+      "GFM33", 
+      "GFM34", 
+      "GFM33", 
+      "GFM36", 
+      "GFM34", 
+      "GFM34", 
+      "GFM34", 
+      "GFM34", 
+      "GFM34", 
+      "GFM34", 
+      "GFM35", 
+      "GFM33", 
+      "GFM34", 
+      "GFM35", 
+      "GFM35", 
+      "GFM35", 
+      "GFM34", 
+      "GFM35", 
+      "GFM35", 
+      "GFM35", 
+      "GFM35", 
+      "GFM36", 
+      "GFM34", 
+      "CAB146", 
+      "FO115", 
+      "FO115", 
+      "FO115", 
+      "FO1020", 
+      "GFM33", 
+      "GFM34", 
+      "GFM35", 
+      "GFM26", 
+      "GFM29", 
+      "GFM31", 
+      "GFM32", 
+      "GFM35", 
+      "GFM34"
     ], 
     "trigrams": [
       [
@@ -35927,6 +41459,47 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "FO83", 
+      "PRO30", 
+      "FO358", 
+      "FO633", 
+      "FO800", 
+      "CAB61", 
+      "FO303", 
+      "CO700", 
+      "CO1047", 
+      "CO1054", 
+      "CO1047", 
+      "CO700", 
+      "CO1054", 
+      "CO1054", 
+      "CO700", 
+      "CO1047", 
+      "FO93", 
+      "FO96", 
+      "FO302", 
+      "FO303", 
+      "FO304", 
+      "FO367", 
+      "FO371", 
+      "FO371", 
+      "FO372", 
+      "FO373", 
+      "FO608", 
+      "FO867", 
+      "FO925", 
+      "FO928", 
+      "FO1049", 
+      "HO267", 
+      "SP103", 
+      "SP108", 
+      "WO33", 
+      "WO106", 
+      "WO181", 
+      "PRO1994", 
+      "HMSO1965"
     ], 
     "trigrams": [
       [
@@ -36145,6 +41718,13 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "TS36", 
+      "HO27", 
+      "HO140", 
+      "CRIM10", 
+      "ASSI45"
     ], 
     "trigrams": [
       [
@@ -36386,6 +41966,36 @@
         8
       ]
     ], 
+    "references": [
+      "LC13", 
+      "LC10", 
+      "LC11", 
+      "LC11", 
+      "LC13", 
+      "LC10", 
+      "LC11", 
+      "LC11", 
+      "LC12", 
+      "LC12", 
+      "LS13", 
+      "LS13", 
+      "LS13", 
+      "LS13", 
+      "LS13", 
+      "LS13", 
+      "LS13", 
+      "LS13", 
+      "LS10", 
+      "LS11", 
+      "LS13", 
+      "LS13", 
+      "LS13", 
+      "LS13", 
+      "LS13", 
+      "LS13", 
+      "LS13", 
+      "LS13"
+    ], 
     "trigrams": [
       [
         [
@@ -36550,6 +42160,37 @@
         ], 
         9
       ]
+    ], 
+    "references": [
+      "HO42", 
+      "HO43", 
+      "HO43", 
+      "HO136", 
+      "HO152", 
+      "HO45", 
+      "HO144", 
+      "SP37", 
+      "HO45", 
+      "FO83", 
+      "CUST102", 
+      "HO42", 
+      "HO44", 
+      "HO45", 
+      "HO162", 
+      "FS15", 
+      "IR26", 
+      "CO318", 
+      "SP78", 
+      "SP84", 
+      "SP80", 
+      "SP89", 
+      "SP82", 
+      "CO327", 
+      "FO371", 
+      "FO368", 
+      "FO369", 
+      "FO395", 
+      "FO383"
     ], 
     "trigrams": [
       [
@@ -36734,6 +42375,7 @@
         5
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -37058,6 +42700,141 @@
         4
       ]
     ], 
+    "references": [
+      "BT336", 
+      "BT98", 
+      "NB218", 
+      "NS223", 
+      "WI289", 
+      "CRS10", 
+      "CRS11", 
+      "CRS12", 
+      "CRS13", 
+      "CRS14", 
+      "CRS15", 
+      "CRS16", 
+      "CRS17", 
+      "CRS18", 
+      "CRS19", 
+      "CRS20", 
+      "CRS21", 
+      "CRS22", 
+      "CRS23", 
+      "CRS24", 
+      "CRS25", 
+      "CRS26", 
+      "CRS27", 
+      "ED10", 
+      "CRS28", 
+      "CRS29", 
+      "CRS30", 
+      "CRS31", 
+      "CRS32", 
+      "CRS33", 
+      "CRS34", 
+      "CRS35", 
+      "CRS36", 
+      "CRS37", 
+      "CRS38", 
+      "CRS39", 
+      "CRS40", 
+      "CRS41", 
+      "CRS42", 
+      "CRS43", 
+      "CRS44", 
+      "CRS45", 
+      "CRS46", 
+      "CRS47", 
+      "CRS48", 
+      "CRS49", 
+      "CRS50", 
+      "CRS51", 
+      "CRS52", 
+      "NR110", 
+      "CRS53", 
+      "CRS54", 
+      "CRS55", 
+      "CRS56", 
+      "CRS57", 
+      "CRS59", 
+      "CRS60", 
+      "CRS61", 
+      "CRS62", 
+      "CRS63", 
+      "CRS64", 
+      "CRS51", 
+      "CRS65", 
+      "CRS66", 
+      "CRS67", 
+      "CRS68", 
+      "NR110", 
+      "CRS69", 
+      "CRS70", 
+      "CRS71", 
+      "CRS74", 
+      "CRS75", 
+      "CRS76", 
+      "CRS77", 
+      "CRS78", 
+      "CRS79", 
+      "CRS80", 
+      "CRS81", 
+      "CRS81", 
+      "CRS82", 
+      "CRS83", 
+      "CRS84", 
+      "CRS85", 
+      "CRS86", 
+      "CRS87", 
+      "CRS88", 
+      "CRS89", 
+      "CRS90", 
+      "CRS91", 
+      "CRS92", 
+      "CRS93", 
+      "CRS94", 
+      "CRS99", 
+      "CRS100", 
+      "CRS101", 
+      "CRS102", 
+      "CRS103", 
+      "CRS104", 
+      "CRS105", 
+      "CRS10", 
+      "CRS108", 
+      "CRS109", 
+      "CRS110", 
+      "CRS111", 
+      "CRS117", 
+      "CRS118", 
+      "CRS119", 
+      "CRS120", 
+      "CRS121", 
+      "CRS122", 
+      "CRS123", 
+      "CRS124", 
+      "CRS125", 
+      "CRS126", 
+      "CRS127", 
+      "CRS128", 
+      "CRS129", 
+      "CRS130", 
+      "CRS131", 
+      "CRS134", 
+      "CRS135", 
+      "CRS136", 
+      "CRS139", 
+      "CRS140", 
+      "CRS141", 
+      "CRS142", 
+      "CRS146", 
+      "CRS150", 
+      "CRS151", 
+      "CRS152", 
+      "CRS153", 
+      "CRS154", 
+      "CRS155"
+    ], 
     "trigrams": [
       [
         [
@@ -37296,6 +43073,41 @@
         9
       ]
     ], 
+    "references": [
+      "ED21", 
+      "ED161", 
+      "ED21", 
+      "ED152", 
+      "CHAR12", 
+      "ED191", 
+      "CHAR13", 
+      "CHAR13", 
+      "ED103", 
+      "ED228", 
+      "ED21", 
+      "ED16", 
+      "ED21", 
+      "ED33", 
+      "ED185", 
+      "ED49", 
+      "ED27", 
+      "ED216", 
+      "ED216", 
+      "ED91", 
+      "ED92", 
+      "ED220", 
+      "ED33", 
+      "MH27", 
+      "MH12", 
+      "MH32", 
+      "ED132", 
+      "ED95", 
+      "HO129", 
+      "ED270", 
+      "ED267", 
+      "ED147", 
+      "ED278"
+    ], 
     "trigrams": [
       [
         [
@@ -37510,6 +43322,27 @@
         4
       ]
     ], 
+    "references": [
+      "CO389", 
+      "CO318", 
+      "CO323", 
+      "CO389", 
+      "CO390", 
+      "CO326", 
+      "CO326", 
+      "CO324", 
+      "CO324", 
+      "CO318", 
+      "AO10", 
+      "AO13", 
+      "CO323", 
+      "CO324", 
+      "CO388", 
+      "CO389", 
+      "CO390", 
+      "CO391", 
+      "CO391"
+    ], 
     "trigrams": [
       [
         [
@@ -37675,6 +43508,10 @@
       "Phone +44 (0) 20 8876 3444 Related research guides Bankrupts and insolvent debtors Business history records held by other archives Companies and businesses: further research Parliament Taxation Related video guides How the records are arranged The life of a document Search our catalogue Discovery is a catalogue of archival records across the UK and beyond, from which you can search 32 million records."
     ], 
     "bigrams": [], 
+    "references": [
+      "BT31", 
+      "BT41"
+    ], 
     "trigrams": [
       [
         [
@@ -38235,6 +44072,24 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "HO334", 
+      "HO409", 
+      "HO405", 
+      "HO405", 
+      "HO334", 
+      "HO334", 
+      "HO409", 
+      "HO334", 
+      "HO409", 
+      "HO45", 
+      "HO144", 
+      "HO382", 
+      "HO405", 
+      "KB24", 
+      "CO324", 
+      "HO44"
     ], 
     "trigrams": [
       [
@@ -38863,6 +44718,20 @@
         5
       ]
     ], 
+    "references": [
+      "CUST111", 
+      "CUST111", 
+      "CUST116", 
+      "CUST47", 
+      "CUST47", 
+      "CUST47", 
+      "CUST39", 
+      "CUST39", 
+      "CUST109", 
+      "CUST110", 
+      "CUST119", 
+      "IR147"
+    ], 
     "trigrams": [
       [
         [
@@ -38938,6 +44807,11 @@
         4
       ]
     ], 
+    "references": [
+      "IR26", 
+      "PROB11", 
+      "IR26"
+    ], 
     "trigrams": [
       [
         [
@@ -38981,6 +44855,16 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "FO371", 
+      "FO409", 
+      "SP71", 
+      "SP91", 
+      "FO22", 
+      "FO371", 
+      "FO409", 
+      "FO881"
     ], 
     "trigrams": [
       [
@@ -39222,6 +45106,68 @@
         ], 
         6
       ]
+    ], 
+    "references": [
+      "WO213", 
+      "WO86", 
+      "WO92", 
+      "WO92", 
+      "WO71", 
+      "WO91", 
+      "WO91", 
+      "WO92", 
+      "WO209", 
+      "WO93", 
+      "WO93", 
+      "WO93", 
+      "WO93", 
+      "LCO60", 
+      "WO90", 
+      "WO92", 
+      "WO92", 
+      "WO93", 
+      "WO213", 
+      "WO213", 
+      "WO92", 
+      "WO90", 
+      "WO86", 
+      "WO90", 
+      "WO92", 
+      "WO213", 
+      "WO93", 
+      "WO93", 
+      "WO93", 
+      "WO71", 
+      "WO71", 
+      "WO71", 
+      "WO71", 
+      "WO71", 
+      "WO71", 
+      "WO343", 
+      "WO71", 
+      "WO71", 
+      "WO71", 
+      "WO89", 
+      "WO86", 
+      "WO87", 
+      "WO88", 
+      "WO213", 
+      "WO25", 
+      "WO25", 
+      "WO25", 
+      "WO25", 
+      "WO25", 
+      "WO25", 
+      "WO25", 
+      "HO75", 
+      "WO72", 
+      "WO81", 
+      "WO85", 
+      "WO82", 
+      "WO84", 
+      "WO225", 
+      "WO28", 
+      "WO71"
     ], 
     "trigrams": [
       [
@@ -39609,6 +45555,41 @@
         4
       ]
     ], 
+    "references": [
+      "FO800", 
+      "FO1111", 
+      "FO409", 
+      "FO93", 
+      "FO94", 
+      "FO83", 
+      "FO949", 
+      "FO974", 
+      "FCO85", 
+      "PRO30", 
+      "PRO30", 
+      "FO954", 
+      "FO800", 
+      "FO794", 
+      "FO882", 
+      "FO382", 
+      "FO833", 
+      "FO686", 
+      "FO383", 
+      "FO845", 
+      "FO902", 
+      "FO660", 
+      "FO837", 
+      "FO935", 
+      "FO892", 
+      "FO898", 
+      "FO916", 
+      "FO921", 
+      "FO957", 
+      "FO1112", 
+      "FO1093", 
+      "FO1093", 
+      "FO38"
+    ], 
     "trigrams": [
       [
         [
@@ -39937,6 +45918,10 @@
         4
       ]
     ], 
+    "references": [
+      "VI1485", 
+      "VI1547"
+    ], 
     "trigrams": [
       [
         [
@@ -40202,6 +46187,9 @@
         6
       ]
     ], 
+    "references": [
+      "DL10"
+    ], 
     "trigrams": [
       [
         [
@@ -40400,6 +46388,11 @@
         6
       ]
     ], 
+    "references": [
+      "AIR79", 
+      "ADM188", 
+      "ADM171"
+    ], 
     "trigrams": [
       [
         [
@@ -40487,6 +46480,31 @@
         ], 
         13
       ]
+    ], 
+    "references": [
+      "BT107", 
+      "CUST130", 
+      "BT162", 
+      "BT163", 
+      "BT107", 
+      "BT107", 
+      "BT111", 
+      "BT108", 
+      "BT109", 
+      "BT108", 
+      "BT109", 
+      "BT111", 
+      "BT110", 
+      "BT340", 
+      "BT374", 
+      "BT368", 
+      "BT347", 
+      "BT347", 
+      "BT145", 
+      "BT110", 
+      "BT336", 
+      "SP15", 
+      "SP15"
     ], 
     "trigrams": [
       [
@@ -40591,6 +46609,32 @@
         7
       ]
     ], 
+    "references": [
+      "ADM12", 
+      "ADM106", 
+      "ADM83", 
+      "ADM116", 
+      "ADM116", 
+      "ADM283", 
+      "ADM213", 
+      "ADM229", 
+      "ADM137", 
+      "ADM293", 
+      "DSIR10", 
+      "DSIR36", 
+      "ADM186", 
+      "ADM212", 
+      "DEFE10", 
+      "DEFE19", 
+      "DEFE15", 
+      "ADM189", 
+      "ADM245", 
+      "BT45", 
+      "BT46", 
+      "TS21", 
+      "TS32", 
+      "CAB90"
+    ], 
     "trigrams": [
       [
         [
@@ -40663,6 +46707,23 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "BT112", 
+      "BT113", 
+      "BT116", 
+      "BT120", 
+      "BT114", 
+      "BT113", 
+      "BT150", 
+      "BT151", 
+      "BT152", 
+      "BT98", 
+      "BT150", 
+      "BT151", 
+      "BT152", 
+      "BT151", 
+      "BT152"
     ], 
     "trigrams": [
       [
@@ -40889,6 +46950,20 @@
         ], 
         9
       ]
+    ], 
+    "references": [
+      "PRO31", 
+      "LR14", 
+      "LR15", 
+      "WALE29", 
+      "WALE30", 
+      "DURH21", 
+      "PL29", 
+      "DL25", 
+      "DL26", 
+      "DL27", 
+      "SC11", 
+      "HMSO1897"
     ], 
     "trigrams": [
       [
@@ -41164,6 +47239,32 @@
         5
       ]
     ], 
+    "references": [
+      "AIR20", 
+      "AVIA15", 
+      "AVIA44", 
+      "AVIA10", 
+      "AVIA14", 
+      "AVIA13", 
+      "AVIA26", 
+      "AVIA36", 
+      "AVIA18", 
+      "AVIA19", 
+      "DSIR22", 
+      "AIR10", 
+      "AVIA15", 
+      "AVIA46", 
+      "AIR14", 
+      "AIR60", 
+      "AVIA54", 
+      "AVIA65", 
+      "AIR10", 
+      "AIR40", 
+      "AIR11", 
+      "AIR12", 
+      "AIR20", 
+      "AIR59"
+    ], 
     "trigrams": [
       [
         [
@@ -41209,6 +47310,10 @@
       "The records can tell you: where a nurse trained (especially before the war) references relating to their suitability as military nurses hospitals, field ambulances, casualty clearing stations or other medical units they served in what their superiors thought of them (confidential reports) when they left the services How do I search the records?"
     ], 
     "bigrams": [], 
+    "references": [
+      "WO399", 
+      "WO399"
+    ], 
     "trigrams": [
       [
         [
@@ -41251,6 +47356,79 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "WO47", 
+      "WO47", 
+      "WO47", 
+      "WO47", 
+      "WO47", 
+      "WO47", 
+      "WO47", 
+      "WO45", 
+      "WO45", 
+      "WO45", 
+      "WO47", 
+      "WO45", 
+      "WO44", 
+      "WO44", 
+      "WO44", 
+      "WO55", 
+      "WO46", 
+      "WO46", 
+      "WO54", 
+      "WO49", 
+      "WO49", 
+      "WO49", 
+      "WO54", 
+      "WO49", 
+      "WO50", 
+      "WO48", 
+      "WO54", 
+      "PRO30", 
+      "WO55", 
+      "WO55", 
+      "WO55", 
+      "WO55", 
+      "WO55", 
+      "WO55", 
+      "WO55", 
+      "WO55", 
+      "WO55", 
+      "WO25", 
+      "WO25", 
+      "WO25", 
+      "WO55", 
+      "PRO30", 
+      "WO55", 
+      "WO44", 
+      "WO44", 
+      "WO44", 
+      "WO44", 
+      "WO44", 
+      "WO46", 
+      "WO54", 
+      "WO55", 
+      "WO55", 
+      "WO55", 
+      "WO55", 
+      "WO55", 
+      "WO55", 
+      "WO55", 
+      "WO55", 
+      "WO55", 
+      "WO55", 
+      "WO55", 
+      "WO55", 
+      "WO55", 
+      "WO55", 
+      "WO55", 
+      "WO55", 
+      "WO55", 
+      "PRO30", 
+      "WO55", 
+      "WO55", 
+      "WO55"
     ], 
     "trigrams": [
       [
@@ -41520,6 +47698,63 @@
         4
       ]
     ], 
+    "references": [
+      "KB27", 
+      "KB28", 
+      "KB122", 
+      "KB27", 
+      "KB26", 
+      "KB121", 
+      "KB26", 
+      "KB29", 
+      "KB29", 
+      "CP25", 
+      "KB26", 
+      "KB27", 
+      "KB29", 
+      "KB121", 
+      "KB29", 
+      "KB27", 
+      "KB173", 
+      "KB136", 
+      "KB136", 
+      "KB136", 
+      "KB136", 
+      "KB145", 
+      "KB145", 
+      "KB138", 
+      "KB145", 
+      "KB146", 
+      "KB147", 
+      "KB148", 
+      "KB147", 
+      "KB148", 
+      "KB148", 
+      "KB153", 
+      "KB151", 
+      "KB154", 
+      "KB154", 
+      "KB155", 
+      "KB156", 
+      "KB157", 
+      "KB152", 
+      "KB149", 
+      "KB162", 
+      "KB158", 
+      "KB163", 
+      "KB159", 
+      "KB160", 
+      "KB150", 
+      "KB37", 
+      "KB37", 
+      "KB27", 
+      "KB136", 
+      "KB37", 
+      "KB136", 
+      "CP52", 
+      "KB10", 
+      "KB11"
+    ], 
     "trigrams": [
       [
         [
@@ -41713,6 +47948,7 @@
         4
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -41984,6 +48220,13 @@
         4
       ]
     ], 
+    "references": [
+      "WO132", 
+      "PRO30", 
+      "PRO30", 
+      "PRO30", 
+      "HMSO1986"
+    ], 
     "trigrams": [
       [
         [
@@ -42132,6 +48375,14 @@
         4
       ]
     ], 
+    "references": [
+      "CAB37", 
+      "WO32", 
+      "WO105", 
+      "WO108", 
+      "DO117", 
+      "DO119"
+    ], 
     "trigrams": [
       [
         [
@@ -42232,6 +48483,13 @@
         4
       ]
     ], 
+    "references": [
+      "WO399", 
+      "WO100", 
+      "WO372", 
+      "WO417", 
+      "WO145"
+    ], 
     "trigrams": [
       [
         [
@@ -42309,6 +48567,7 @@
         4
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -42351,6 +48610,24 @@
         ], 
         7
       ]
+    ], 
+    "references": [
+      "MH51", 
+      "MH12", 
+      "MH12", 
+      "MH15", 
+      "MH17", 
+      "MH51", 
+      "ADM102", 
+      "ADM102", 
+      "ADM105", 
+      "ADM36", 
+      "ADM37", 
+      "MH85", 
+      "MH86", 
+      "MH51", 
+      "MH94", 
+      "LCO10"
     ], 
     "trigrams": [
       [
@@ -42478,6 +48755,58 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "HO198", 
+      "HO198", 
+      "HO193", 
+      "HO192", 
+      "HO198", 
+      "HO198", 
+      "HO198", 
+      "HO193", 
+      "HO108", 
+      "HO198", 
+      "HO198", 
+      "HO198", 
+      "HO193", 
+      "HO193", 
+      "HO193", 
+      "HO193", 
+      "HO193", 
+      "HO193", 
+      "HO193", 
+      "HO193", 
+      "HO193", 
+      "HO193", 
+      "HO192", 
+      "HO192", 
+      "HO192", 
+      "HO192", 
+      "HO192", 
+      "HO192", 
+      "HO192", 
+      "HO192", 
+      "HO192", 
+      "HO192", 
+      "HO192", 
+      "HO192", 
+      "HO192", 
+      "HO192", 
+      "HO192", 
+      "HO198", 
+      "HO193", 
+      "HO192", 
+      "HO201", 
+      "HO315", 
+      "HO203", 
+      "HO202", 
+      "HO193", 
+      "HO191", 
+      "HO193", 
+      "HO193", 
+      "HMSO1957", 
+      "HMSO1955"
     ], 
     "trigrams": [
       [
@@ -42628,6 +48957,16 @@
         4
       ]
     ], 
+    "references": [
+      "WO372", 
+      "WO329", 
+      "WO329", 
+      "WO372", 
+      "WO372", 
+      "WO123", 
+      "WO372", 
+      "KR392"
+    ], 
     "trigrams": [
       [
         [
@@ -42736,6 +49075,20 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "BT351", 
+      "BT351", 
+      "BT150", 
+      "BT151", 
+      "BT152", 
+      "BT339", 
+      "BT99", 
+      "BT150", 
+      "BT151", 
+      "BT152", 
+      "BT151", 
+      "BT152"
     ], 
     "trigrams": [
       [
@@ -42866,6 +49219,28 @@
         ], 
         6
       ]
+    ], 
+    "references": [
+      "AIR79", 
+      "AIR79", 
+      "AIR78", 
+      "AIR76", 
+      "AIR10", 
+      "AIR10", 
+      "AIR10", 
+      "AIR10", 
+      "PMG42", 
+      "PMG44", 
+      "PMG43", 
+      "AIR21", 
+      "AIR18", 
+      "AIR20", 
+      "AIR10", 
+      "AIR14", 
+      "AIR20", 
+      "AIR40", 
+      "FO916", 
+      "AIR81"
     ], 
     "trigrams": [
       [
@@ -43030,6 +49405,33 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "WO69", 
+      "WO69", 
+      "WO12", 
+      "WO12", 
+      "WO10", 
+      "WO69", 
+      "WO54", 
+      "WO11", 
+      "WO54", 
+      "WO13", 
+      "WO68", 
+      "WO14", 
+      "WO143", 
+      "WO16", 
+      "WO16", 
+      "WO16", 
+      "WO16", 
+      "WO16", 
+      "WO25", 
+      "WO67", 
+      "WO54", 
+      "WO69", 
+      "WO69", 
+      "WO54", 
+      "WO15"
     ], 
     "trigrams": [
       [
@@ -43606,6 +50008,125 @@
         9
       ]
     ], 
+    "references": [
+      "AB21", 
+      "AB13", 
+      "AB11", 
+      "AB13", 
+      "AB18", 
+      "AB31", 
+      "AB80", 
+      "AB31", 
+      "AB18", 
+      "AB80", 
+      "AB80", 
+      "AB18", 
+      "AB31", 
+      "ADM176", 
+      "ADM195", 
+      "ADM199", 
+      "ADM244", 
+      "ADM267", 
+      "ADM326", 
+      "DI19", 
+      "AIR11", 
+      "AIR27", 
+      "AIR28", 
+      "AIR27", 
+      "AIR29", 
+      "AIR27", 
+      "AIR34", 
+      "AIR59", 
+      "AIR60", 
+      "AIR62", 
+      "AN14", 
+      "AN28", 
+      "AN31", 
+      "AN91", 
+      "AN161", 
+      "AST33", 
+      "AT16", 
+      "AT62", 
+      "AVIA30", 
+      "BD11", 
+      "BD28", 
+      "BD29", 
+      "BD39", 
+      "BK12", 
+      "BT220", 
+      "BT355", 
+      "BT356", 
+      "BT372", 
+      "CO1069", 
+      "COAL13", 
+      "COAL80", 
+      "COU11", 
+      "CRES43", 
+      "CRES62", 
+      "DC13", 
+      "DH27", 
+      "DR81", 
+      "DSIR42", 
+      "DT21", 
+      "FO655", 
+      "FO737", 
+      "FO1011", 
+      "HO192", 
+      "HO219", 
+      "HO233", 
+      "INF10", 
+      "INF11", 
+      "INF14", 
+      "MAF59", 
+      "MEPO13", 
+      "MEPO14", 
+      "MEPO35", 
+      "MT95", 
+      "MT98", 
+      "MT162", 
+      "NSC27", 
+      "NSC32", 
+      "OS51", 
+      "POWE45", 
+      "PRO24", 
+      "PRO30", 
+      "PRO30", 
+      "PRO50", 
+      "PRO55", 
+      "PRO62", 
+      "PRO65", 
+      "RAIL1014", 
+      "RAIL1015", 
+      "RAIL1156", 
+      "RAIL1157", 
+      "RG54", 
+      "RGO35", 
+      "RGO67", 
+      "RGO85", 
+      "RGO118", 
+      "RGO137", 
+      "RGO138", 
+      "RGO139", 
+      "RGO153", 
+      "STAT20", 
+      "WO188", 
+      "WO235", 
+      "WO240", 
+      "WO252", 
+      "WO316", 
+      "WO317", 
+      "WO318", 
+      "WO153", 
+      "WO153", 
+      "WO319", 
+      "WO320", 
+      "WO323", 
+      "WORK55", 
+      "WORK69", 
+      "WORK96", 
+      "WORK9012", 
+      "ZSPC11"
+    ], 
     "trigrams": [
       [
         [
@@ -44155,6 +50676,7 @@
       "Related research guides Births, marriages and deaths in England and Wales Births, marriages and deaths in Scotland and Ireland Changes of name Related video guides How the records are arranged Ordering documents Preparing to research Search our catalogue Discovery is a catalogue of archival records across the UK and beyond, from which you can search 32 million records."
     ], 
     "bigrams": [], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -44184,6 +50706,7 @@
         6
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -44283,6 +50806,7 @@
         7
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -44347,6 +50871,26 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "HO140", 
+      "HO19", 
+      "HO77", 
+      "HO23", 
+      "HO24", 
+      "HO140", 
+      "HO17", 
+      "HO18", 
+      "HO19", 
+      "HO19", 
+      "HO17", 
+      "HO18", 
+      "HO48", 
+      "HO49", 
+      "HO16", 
+      "PMG28", 
+      "PMG28", 
+      "HO160"
     ], 
     "trigrams": [
       [
@@ -44498,6 +51042,50 @@
         5
       ]
     ], 
+    "references": [
+      "KB10", 
+      "KB11", 
+      "KB29", 
+      "KB10", 
+      "KB11", 
+      "KB12", 
+      "KB29", 
+      "KB10", 
+      "KB11", 
+      "KB12", 
+      "KB15", 
+      "KB29", 
+      "KB15", 
+      "KB21", 
+      "KB36", 
+      "KB28", 
+      "KB28", 
+      "KB20", 
+      "KB21", 
+      "KB30", 
+      "KB31", 
+      "KB145", 
+      "KB16", 
+      "KB21", 
+      "KB29", 
+      "KB32", 
+      "KB33", 
+      "KB21", 
+      "KB36", 
+      "KB10", 
+      "KB12", 
+      "KB29", 
+      "KB145", 
+      "KB16", 
+      "KB10", 
+      "KB11", 
+      "KB12", 
+      "KB28", 
+      "KB32", 
+      "KB39", 
+      "KB21", 
+      "KB36"
+    ], 
     "trigrams": [
       [
         [
@@ -44646,6 +51234,25 @@
         5
       ]
     ], 
+    "references": [
+      "CP40", 
+      "CP43", 
+      "KB27", 
+      "KB122", 
+      "CHES29", 
+      "DURH13", 
+      "CP25", 
+      "CP25", 
+      "CHES32", 
+      "DURH11", 
+      "PL18", 
+      "CP40", 
+      "CP43", 
+      "CP43", 
+      "CHES29", 
+      "DURH13", 
+      "PL15"
+    ], 
     "trigrams": [
       [
         [
@@ -44739,6 +51346,14 @@
         5
       ]
     ], 
+    "references": [
+      "WO161", 
+      "WO161", 
+      "WO161", 
+      "FO383", 
+      "WO339", 
+      "WO374"
+    ], 
     "trigrams": [], 
     "id": "prisoner-of-war-interview-reports-1914-1918"
   }, 
@@ -44747,6 +51362,7 @@
     "name": "Intelligence and security services", 
     "summary": [], 
     "bigrams": [], 
+    "references": [], 
     "trigrams": [], 
     "id": "intelligence-security-service-records"
   }, 
@@ -44920,6 +51536,36 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "MH12", 
+      "MH12", 
+      "MH12", 
+      "MH12", 
+      "MH12", 
+      "MH19", 
+      "MH20", 
+      "MH25", 
+      "MH15", 
+      "MH14", 
+      "MH34", 
+      "HLG26", 
+      "MH10", 
+      "MH10", 
+      "MH10", 
+      "MH10", 
+      "HLG26", 
+      "HLG66", 
+      "MH34", 
+      "HLG26", 
+      "HO73", 
+      "HO40", 
+      "HO41", 
+      "HO45", 
+      "HO52", 
+      "MH32", 
+      "MH33", 
+      "MH12"
     ], 
     "trigrams": [
       [
@@ -45169,6 +51815,18 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "HO184", 
+      "HO65", 
+      "MEPO21", 
+      "MEPO21", 
+      "HO45", 
+      "MEPO22", 
+      "RAIL1172", 
+      "AN174", 
+      "HO184", 
+      "HO184"
     ], 
     "trigrams": [
       [
@@ -45578,6 +52236,63 @@
         4
       ]
     ], 
+    "references": [
+      "WORK25", 
+      "WORK29", 
+      "WORK30", 
+      "AT13", 
+      "BD101", 
+      "HLG23", 
+      "HLG24", 
+      "HLG111", 
+      "MH14", 
+      "PRO50", 
+      "PRO55", 
+      "PRO62", 
+      "PRO65", 
+      "WO385", 
+      "WORK29", 
+      "WORK30", 
+      "WORK31", 
+      "WORK32", 
+      "WORK33", 
+      "WORK34", 
+      "WORK35", 
+      "WORK36", 
+      "WORK37", 
+      "WORK38", 
+      "WORK40", 
+      "AN23", 
+      "AN31", 
+      "AN42", 
+      "AN48", 
+      "AN93", 
+      "BK25", 
+      "MT21", 
+      "MT54", 
+      "MT57", 
+      "MT91", 
+      "RAIL796", 
+      "RAIL1029", 
+      "RAIL1030", 
+      "RAIL1031", 
+      "RAIL1032", 
+      "RAIL1033", 
+      "RAIL1034", 
+      "RAIL1035", 
+      "RAIL1036", 
+      "RAIL1037", 
+      "RAIL1071", 
+      "ADM140", 
+      "AVIA62", 
+      "BD54", 
+      "WO78", 
+      "WORK41", 
+      "WORK43", 
+      "WORK44", 
+      "BT183", 
+      "WORK25"
+    ], 
     "trigrams": [
       [
         [
@@ -45891,6 +52606,7 @@
         6
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -45981,6 +52697,7 @@
         4
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -46097,6 +52814,7 @@
         6
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -46204,6 +52922,14 @@
         4
       ]
     ], 
+    "references": [
+      "CO28", 
+      "CO324", 
+      "CO384", 
+      "CO385", 
+      "CO386", 
+      "DO131"
+    ], 
     "trigrams": [
       [
         [
@@ -46267,6 +52993,11 @@
         ], 
         8
       ]
+    ], 
+    "references": [
+      "FO90", 
+      "FO95", 
+      "FO111"
     ], 
     "trigrams": [
       [
@@ -46376,6 +53107,21 @@
         4
       ]
     ], 
+    "references": [
+      "CP43", 
+      "DL44", 
+      "CP43", 
+      "MAF11", 
+      "MAF17", 
+      "MAF18", 
+      "MAF21", 
+      "MAF24", 
+      "MAF25", 
+      "MAF39", 
+      "MAF48", 
+      "MAF49", 
+      "MAF66"
+    ], 
     "trigrams": [
       [
         [
@@ -46448,6 +53194,13 @@
         ], 
         6
       ]
+    ], 
+    "references": [
+      "SP34", 
+      "SP35", 
+      "SP36", 
+      "SP37", 
+      "HO42"
     ], 
     "trigrams": [
       [
@@ -46592,6 +53345,32 @@
         ], 
         9
       ]
+    ], 
+    "references": [
+      "IR105", 
+      "IR90", 
+      "IR104", 
+      "IR104", 
+      "IR104", 
+      "IR104", 
+      "IR104", 
+      "IR104", 
+      "IR30", 
+      "IR30", 
+      "IR90", 
+      "IR104", 
+      "IR97", 
+      "IR94", 
+      "IR107", 
+      "IR110", 
+      "IR102", 
+      "MAF22", 
+      "IR104", 
+      "IR104", 
+      "IR104", 
+      "IR29", 
+      "IR30", 
+      "IR104"
     ], 
     "trigrams": [
       [
@@ -46814,6 +53593,10 @@
         9
       ]
     ], 
+    "references": [
+      "WO95", 
+      "WO177"
+    ], 
     "trigrams": [
       [
         [
@@ -47005,6 +53788,15 @@
         5
       ]
     ], 
+    "references": [
+      "RG14", 
+      "RG78", 
+      "HO107", 
+      "RG10", 
+      "RG11", 
+      "RG13", 
+      "RG14"
+    ], 
     "trigrams": [
       [
         [
@@ -47120,6 +53912,21 @@
         4
       ]
     ], 
+    "references": [
+      "KB11", 
+      "KB13", 
+      "KB140", 
+      "KB14", 
+      "KB12", 
+      "KB13", 
+      "KB10", 
+      "CHES18", 
+      "DL46", 
+      "PL26", 
+      "ASSI66", 
+      "ASSI47", 
+      "PL26"
+    ], 
     "trigrams": [
       [
         [
@@ -47198,6 +54005,7 @@
         6
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -47270,6 +54078,19 @@
         7
       ]
     ], 
+    "references": [
+      "WO95", 
+      "WO10", 
+      "WO11", 
+      "WO12", 
+      "WO13", 
+      "WO14", 
+      "WO16", 
+      "WO68", 
+      "WO69", 
+      "WO379", 
+      "WO380"
+    ], 
     "trigrams": [
       [
         [
@@ -47337,6 +54158,9 @@
         ], 
         6
       ]
+    ], 
+    "references": [
+      "AIR50"
     ], 
     "trigrams": [
       [
@@ -47409,6 +54233,16 @@
         4
       ]
     ], 
+    "references": [
+      "DT10", 
+      "DT10", 
+      "DT11", 
+      "DT11", 
+      "DT12", 
+      "DT12", 
+      "DT10", 
+      "MH12"
+    ], 
     "trigrams": [
       [
         [
@@ -47450,6 +54284,7 @@
     "name": "Conveyances of land for charitable uses in trust deeds 1736-1925", 
     "summary": [], 
     "bigrams": [], 
+    "references": [], 
     "trigrams": [], 
     "id": "conveyances-of-land-charitable-uses-trust-deeds-1736-1925"
   }, 
@@ -47512,6 +54347,7 @@
         6
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -47594,6 +54430,59 @@
         4
       ]
     ], 
+    "references": [
+      "ED17", 
+      "ED23", 
+      "ED21", 
+      "ED16", 
+      "ED21", 
+      "ED16", 
+      "ED21", 
+      "ED161", 
+      "ED156", 
+      "ED27", 
+      "ED35", 
+      "ED109", 
+      "ED162", 
+      "ED35", 
+      "ED172", 
+      "ED50", 
+      "ED17", 
+      "ED195", 
+      "MH32", 
+      "MH12", 
+      "MH27", 
+      "ED132", 
+      "ED70", 
+      "ED82", 
+      "ED90", 
+      "ED98", 
+      "ED83", 
+      "ED41", 
+      "ED114", 
+      "ED197", 
+      "ED115", 
+      "ED193", 
+      "ED121", 
+      "ED149", 
+      "ED194", 
+      "ED271", 
+      "BD50", 
+      "BD16", 
+      "BD72", 
+      "BD71", 
+      "BD15", 
+      "BD19", 
+      "BD60", 
+      "ED23", 
+      "ED233", 
+      "ED272", 
+      "ED251", 
+      "ED22", 
+      "ED135", 
+      "ED22", 
+      "ED270"
+    ], 
     "trigrams": [
       [
         [
@@ -47675,6 +54564,15 @@
         ], 
         6
       ]
+    ], 
+    "references": [
+      "MH94", 
+      "HO145", 
+      "MH94", 
+      "HO20", 
+      "HO144", 
+      "HO145", 
+      "HO145"
     ], 
     "trigrams": [], 
     "id": "asylum-inmates"
@@ -47885,6 +54783,105 @@
         4
       ]
     ], 
+    "references": [
+      "HO45", 
+      "HO144", 
+      "AVIA101", 
+      "AIR22", 
+      "AIR40", 
+      "AVIA15", 
+      "AIR16", 
+      "BT328", 
+      "HLG52", 
+      "HLG55", 
+      "HLG120", 
+      "WO32", 
+      "WO199", 
+      "WO208", 
+      "ADM228", 
+      "AIR40", 
+      "AIR51", 
+      "DEFE55", 
+      "WO181", 
+      "DEFE55", 
+      "DEFE131", 
+      "WO32", 
+      "LAB14", 
+      "LAB46", 
+      "LAB56", 
+      "LAB14", 
+      "HO193", 
+      "HO192", 
+      "IR33", 
+      "HO45", 
+      "HLG45", 
+      "ADM248", 
+      "ADM247", 
+      "ADM220", 
+      "ADM254", 
+      "ADM252", 
+      "WO195", 
+      "DSIR13", 
+      "WO385", 
+      "WO397", 
+      "AVIA67", 
+      "WO32", 
+      "WO199", 
+      "WO166", 
+      "HO45", 
+      "HO326", 
+      "AIR17", 
+      "AIR17", 
+      "AIR19", 
+      "AIR29", 
+      "HO186", 
+      "AVIA15", 
+      "AIR19", 
+      "AIR20", 
+      "WORK13", 
+      "ADM140", 
+      "WO78", 
+      "AVIA62", 
+      "WO192", 
+      "ADM116", 
+      "ADM199", 
+      "ADM12", 
+      "ADM232", 
+      "ADM239", 
+      "WO32", 
+      "WO199", 
+      "WO201", 
+      "WO204", 
+      "WO234", 
+      "FO371", 
+      "FO1015", 
+      "IR30", 
+      "ADM68", 
+      "ADM169", 
+      "POWE33", 
+      "WO44", 
+      "WO55", 
+      "MAF209", 
+      "MAF336", 
+      "MAF298", 
+      "HLG120", 
+      "FO371", 
+      "WO78", 
+      "IR58", 
+      "MAF326", 
+      "MAF49", 
+      "WO252", 
+      "FO935", 
+      "FO1005", 
+      "FO1008", 
+      "FO1010", 
+      "FO1012", 
+      "FO1023", 
+      "FO1046", 
+      "FO1049", 
+      "FO1056", 
+      "DEFE16"
+    ], 
     "trigrams": [
       [
         [
@@ -48040,6 +55037,13 @@
         5
       ]
     ], 
+    "references": [
+      "MH47", 
+      "LAB45", 
+      "WO32", 
+      "HO45", 
+      "HH30"
+    ], 
     "trigrams": [
       [
         [
@@ -48131,6 +55135,9 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "PRO1997"
     ], 
     "trigrams": [
       [
@@ -48250,6 +55257,24 @@
         ], 
         6
       ]
+    ], 
+    "references": [
+      "PRIS11", 
+      "PRIS10", 
+      "PRIS11", 
+      "CHES10", 
+      "LCO28", 
+      "BT40", 
+      "BT40", 
+      "BT293", 
+      "BT294", 
+      "BT294", 
+      "BT293", 
+      "BT294", 
+      "BT39", 
+      "BT221", 
+      "BT226", 
+      "BT293"
     ], 
     "trigrams": [
       [
@@ -48385,6 +55410,34 @@
         4
       ]
     ], 
+    "references": [
+      "BT31", 
+      "BT31", 
+      "BT31", 
+      "BT41", 
+      "BT41", 
+      "BT41", 
+      "BT41", 
+      "BT31", 
+      "BT41", 
+      "BT34", 
+      "BT95", 
+      "BT253", 
+      "HO45", 
+      "FS22", 
+      "FS25", 
+      "FS25", 
+      "FS32", 
+      "FS20", 
+      "FS23", 
+      "BT221", 
+      "BT226", 
+      "BT11", 
+      "BT22", 
+      "BT15", 
+      "BT58", 
+      "BT31"
+    ], 
     "trigrams": [
       [
         [
@@ -48509,6 +55562,7 @@
         4
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -48626,6 +55680,27 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "MAF30", 
+      "HLG65", 
+      "WORK16", 
+      "HLG59", 
+      "MAF96", 
+      "MAF24", 
+      "OS25", 
+      "MAF25", 
+      "MAF48", 
+      "MAF145", 
+      "MAF149", 
+      "MAF157", 
+      "MAF182", 
+      "MAF143", 
+      "MAF48", 
+      "MAF145", 
+      "MAF157", 
+      "WO32", 
+      "TS18"
     ], 
     "trigrams": [
       [
@@ -49205,6 +56280,107 @@
         4
       ]
     ], 
+    "references": [
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM13", 
+      "ADM116", 
+      "ADM137", 
+      "ADM12", 
+      "ADM106", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM13", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM137", 
+      "ADM137", 
+      "ADM137", 
+      "ADM12", 
+      "ADM137", 
+      "ADM137", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM116", 
+      "ADM12", 
+      "ADM137", 
+      "ADM137", 
+      "ADM12", 
+      "HS1426", 
+      "ADM137", 
+      "ADM137", 
+      "ADM137", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM12", 
+      "ADM116", 
+      "ADM199", 
+      "ADM12", 
+      "ADM199", 
+      "ADM199", 
+      "ADM199", 
+      "ADM12", 
+      "ADM199", 
+      "ADM199", 
+      "ADM199", 
+      "ADM12", 
+      "ADM116", 
+      "ADM12", 
+      "ADM12", 
+      "ADM13", 
+      "ADM12", 
+      "ADM116", 
+      "ADM116", 
+      "ADM12", 
+      "ADM116", 
+      "ADM137", 
+      "ADM137", 
+      "ADM137", 
+      "ADM156", 
+      "ADM12", 
+      "ADM116", 
+      "ADM137", 
+      "ADM137", 
+      "ADM12", 
+      "ADM10"
+    ], 
     "trigrams": [
       [
         [
@@ -49623,6 +56799,11 @@
         9
       ]
     ], 
+    "references": [
+      "CO141", 
+      "CO542", 
+      "DO29"
+    ], 
     "trigrams": [
       [
         [
@@ -49658,6 +56839,11 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "AIR76", 
+      "AIR76", 
+      "AIR76"
     ], 
     "trigrams": [
       [
@@ -49708,6 +56894,16 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "FO611", 
+      "FO611", 
+      "FO610", 
+      "FO655", 
+      "FO737", 
+      "SP44", 
+      "FO366", 
+      "FO612"
     ], 
     "trigrams": [
       [
@@ -49808,6 +57004,22 @@
         6
       ]
     ], 
+    "references": [
+      "SP44", 
+      "HO42", 
+      "HO44", 
+      "HO45", 
+      "HO43", 
+      "HO89", 
+      "HO105", 
+      "HO106", 
+      "HO101", 
+      "HO42", 
+      "BT209", 
+      "ADM245", 
+      "DSIR10", 
+      "DSIR17"
+    ], 
     "trigrams": [
       [
         [
@@ -49884,6 +57096,11 @@
         10
       ]
     ], 
+    "references": [
+      "BT26", 
+      "BT27", 
+      "DO131"
+    ], 
     "trigrams": [
       [
         [
@@ -49921,6 +57138,7 @@
         4
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -49972,6 +57190,9 @@
         6
       ]
     ], 
+    "references": [
+      "DL30"
+    ], 
     "trigrams": [
       [
         [
@@ -50016,6 +57237,7 @@
         6
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -50115,6 +57337,24 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "DL30", 
+      "ADM74", 
+      "CRES34", 
+      "CRES35", 
+      "LR11", 
+      "PRO30", 
+      "SC12", 
+      "TS19", 
+      "DL30", 
+      "DL29", 
+      "LR12", 
+      "DL29", 
+      "SC11", 
+      "SC12", 
+      "DL29", 
+      "DL42"
     ], 
     "trigrams": [
       [
@@ -50222,6 +57462,11 @@
         4
       ]
     ], 
+    "references": [
+      "TS37", 
+      "TS76", 
+      "HLG25"
+    ], 
     "trigrams": [
       [
         [
@@ -50300,6 +57545,20 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "LAB16", 
+      "LAB20", 
+      "PIN26", 
+      "PIN26", 
+      "LAB20", 
+      "LAB18", 
+      "MH55", 
+      "MH55", 
+      "BM12", 
+      "BT45", 
+      "BT46", 
+      "ADM101"
     ], 
     "trigrams": [
       [
@@ -50389,6 +57648,24 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "CP40", 
+      "KB26", 
+      "KB27", 
+      "KB29", 
+      "KB29", 
+      "KB29", 
+      "KB29", 
+      "KB29", 
+      "CHES17", 
+      "CHES27", 
+      "CHES29", 
+      "CHES30", 
+      "PL15", 
+      "PL28", 
+      "DURH13", 
+      "AD1307"
     ], 
     "trigrams": [
       [
@@ -50629,6 +57906,36 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "CO1570", 
+      "DO1843", 
+      "DO1843", 
+      "CO323", 
+      "CO554", 
+      "CO537", 
+      "CO879", 
+      "CO880", 
+      "CO881", 
+      "CO882", 
+      "CO883", 
+      "CO884", 
+      "CO885", 
+      "CO886", 
+      "CO903", 
+      "CO934", 
+      "CO935", 
+      "CO852", 
+      "CO137", 
+      "CO28", 
+      "DO35", 
+      "FCO141", 
+      "FCO141", 
+      "CO700", 
+      "CO1069", 
+      "ADM12", 
+      "HMSO1920", 
+      "HMSO1908"
     ], 
     "trigrams": [
       [
@@ -50874,6 +58181,91 @@
         6
       ]
     ], 
+    "references": [
+      "AIR27", 
+      "WO158", 
+      "ADM137", 
+      "ADM12", 
+      "ADM137", 
+      "ADM12", 
+      "AIR27", 
+      "AIR10", 
+      "AIR20", 
+      "AIR23", 
+      "AIR27", 
+      "AIR40", 
+      "CAB88", 
+      "CAB100", 
+      "CAB105", 
+      "CAB120", 
+      "CAB65", 
+      "CAB69", 
+      "CAB83", 
+      "CAB85", 
+      "CAB70", 
+      "CAB78", 
+      "AIR13", 
+      "AIR14", 
+      "AIR15", 
+      "AIR16", 
+      "AIR17", 
+      "AIR23", 
+      "AIR32", 
+      "AIR38", 
+      "AIR39", 
+      "AIR35", 
+      "AIR36", 
+      "AIR37", 
+      "AIR47", 
+      "AIR19", 
+      "AIR20", 
+      "AIR40", 
+      "AIR42", 
+      "AIR22", 
+      "AIR40", 
+      "AIR24", 
+      "AIR14", 
+      "HO191", 
+      "AIR23", 
+      "AIR41", 
+      "CAB101", 
+      "ADM207", 
+      "AIR50", 
+      "AIR27", 
+      "ADM116", 
+      "ADM199", 
+      "AIR15", 
+      "AIR27", 
+      "AIR29", 
+      "WO233", 
+      "AIR39", 
+      "AIR50", 
+      "AIR24", 
+      "AIR25", 
+      "AIR26", 
+      "AIR27", 
+      "AIR28", 
+      "AIR29", 
+      "AIR54", 
+      "AIR20", 
+      "AIR55", 
+      "WO295", 
+      "AIR27", 
+      "AIR81", 
+      "AIR10", 
+      "AIR10", 
+      "AIR20", 
+      "AIR20", 
+      "AIR10", 
+      "WORK44", 
+      "WO227", 
+      "AVIA15", 
+      "AIR20", 
+      "AIR40", 
+      "AIR40", 
+      "AIR48", 
+      "HMSO1972"
+    ], 
     "trigrams": [
       [
         [
@@ -51018,6 +58410,25 @@
         4
       ]
     ], 
+    "references": [
+      "BT115", 
+      "BT113", 
+      "BT395", 
+      "BT122", 
+      "BT128", 
+      "BT127", 
+      "BT139", 
+      "BT142", 
+      "BT141", 
+      "BT129", 
+      "BT130", 
+      "BT138", 
+      "BT352", 
+      "BT317", 
+      "BT318", 
+      "BT396", 
+      "BT372"
+    ], 
     "trigrams": [
       [
         [
@@ -51098,6 +58509,16 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "WO10", 
+      "WO12", 
+      "WO13", 
+      "PRO30", 
+      "PRO30", 
+      "PRO30", 
+      "AO12", 
+      "AO13"
     ], 
     "trigrams": [
       [
@@ -51318,6 +58739,66 @@
         ], 
         7
       ]
+    ], 
+    "references": [
+      "BT115", 
+      "BT98", 
+      "BT115", 
+      "BT115", 
+      "BT115", 
+      "BT113", 
+      "BT143", 
+      "BT143", 
+      "BT122", 
+      "BT126", 
+      "BT128", 
+      "BT139", 
+      "BT140", 
+      "BT142", 
+      "BT129", 
+      "BT130", 
+      "BT98", 
+      "BT126", 
+      "BT124", 
+      "BT127", 
+      "BT122", 
+      "BT122", 
+      "BT124", 
+      "BT124", 
+      "BT124", 
+      "BT124", 
+      "BT122", 
+      "BT125", 
+      "BT126", 
+      "BT126", 
+      "BT122", 
+      "BT123", 
+      "BT352", 
+      "BT128", 
+      "BT129", 
+      "BT130", 
+      "BT130", 
+      "BT129", 
+      "BT130", 
+      "BT138", 
+      "BT129", 
+      "BT130", 
+      "BT139", 
+      "BT140", 
+      "BT142", 
+      "BT139", 
+      "BT140", 
+      "BT142", 
+      "BT141", 
+      "BT140", 
+      "BT319", 
+      "BT352", 
+      "BT352", 
+      "BT317", 
+      "BT318", 
+      "BT396", 
+      "BT320", 
+      "BT139"
     ], 
     "trigrams": [
       [
@@ -51556,6 +59037,23 @@
         4
       ]
     ], 
+    "references": [
+      "KB24", 
+      "KB24", 
+      "KB24", 
+      "CP37", 
+      "KB18", 
+      "CP10", 
+      "KB24", 
+      "KB113", 
+      "CHES36", 
+      "PL23", 
+      "KB24", 
+      "KB22", 
+      "KB24", 
+      "AD1696", 
+      "AD1696"
+    ], 
     "trigrams": [
       [
         [
@@ -51667,6 +59165,11 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "WO372", 
+      "WO100", 
+      "WO145"
     ], 
     "trigrams": [
       [
@@ -51854,6 +59357,10 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "PROB18", 
+      "CP10"
     ], 
     "trigrams": [
       [
@@ -52065,6 +59572,15 @@
         4
       ]
     ], 
+    "references": [
+      "UK1916", 
+      "UK1916", 
+      "SP44", 
+      "HO38", 
+      "HO142", 
+      "HO45", 
+      "HO144"
+    ], 
     "trigrams": [
       [
         [
@@ -52141,6 +59657,20 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "WORK30", 
+      "CUST42", 
+      "ADM12", 
+      "CUST38", 
+      "ADM114", 
+      "BT166", 
+      "ADM120", 
+      "ADM12", 
+      "ADM116", 
+      "ADM12", 
+      "XLII275", 
+      "XXXV157"
     ], 
     "trigrams": [], 
     "id": "coastguard-records"
@@ -52267,6 +59797,31 @@
         20
       ]
     ], 
+    "references": [
+      "BT82", 
+      "BT900", 
+      "BT244", 
+      "BT82", 
+      "BT82", 
+      "BT244", 
+      "BT82", 
+      "BT244", 
+      "BT244", 
+      "BT244", 
+      "BT244", 
+      "BT82", 
+      "BT244", 
+      "BT82", 
+      "BT900", 
+      "BT900", 
+      "BT900", 
+      "BT900", 
+      "BT900", 
+      "BT900", 
+      "BT900", 
+      "BT244", 
+      "HMSO1976"
+    ], 
     "trigrams": [
       [
         [
@@ -52371,6 +59926,27 @@
         5
       ]
     ], 
+    "references": [
+      "ADM175", 
+      "ADM175", 
+      "ADM175", 
+      "ADM175", 
+      "ADM175", 
+      "ADM175", 
+      "ADM175", 
+      "ADM175", 
+      "ADM175", 
+      "ADM175", 
+      "ADM175", 
+      "ADM175", 
+      "ADM171", 
+      "ADM171", 
+      "ADM23", 
+      "PMG23", 
+      "PMG70", 
+      "CUST30", 
+      "ADM12"
+    ], 
     "trigrams": [
       [
         [
@@ -52437,6 +60013,7 @@
         7
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -52545,6 +60122,7 @@
         4
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -52616,6 +60194,9 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "IR29"
     ], 
     "trigrams": [
       [
@@ -52730,6 +60311,28 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "CP25", 
+      "CP25", 
+      "CP25", 
+      "CP25", 
+      "CP25", 
+      "CP25", 
+      "CP25", 
+      "CP25", 
+      "CP25", 
+      "CP25", 
+      "CP25", 
+      "CP26", 
+      "CP26", 
+      "CP25", 
+      "CP25", 
+      "CP25", 
+      "CP25", 
+      "CHES31", 
+      "DURH12", 
+      "PL17"
     ], 
     "trigrams": [
       [
@@ -52898,6 +60501,10 @@
         4
       ]
     ], 
+    "references": [
+      "III40", 
+      "III40"
+    ], 
     "trigrams": [
       [
         [
@@ -53022,6 +60629,16 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "KB105", 
+      "KB106", 
+      "KB107", 
+      "CP71", 
+      "CP71", 
+      "CP71", 
+      "KB170", 
+      "KB24"
     ], 
     "trigrams": [
       [
@@ -53262,6 +60879,106 @@
         4
       ]
     ], 
+    "references": [
+      "CP71", 
+      "CP70", 
+      "CP70", 
+      "CP70", 
+      "CP70", 
+      "CP72", 
+      "CP72", 
+      "CP72", 
+      "CP72", 
+      "CP72", 
+      "CP69", 
+      "CP72", 
+      "CP11", 
+      "CP10", 
+      "KB105", 
+      "KB106", 
+      "KB107", 
+      "KB105", 
+      "KB106", 
+      "KB107", 
+      "KB170", 
+      "KB170", 
+      "KB170", 
+      "KB170", 
+      "KB170", 
+      "KB170", 
+      "KB170", 
+      "KB170", 
+      "KB170", 
+      "KB170", 
+      "KB170", 
+      "KB170", 
+      "KB170", 
+      "KB170", 
+      "KB170", 
+      "KB170", 
+      "KB170", 
+      "KB170", 
+      "KB170", 
+      "KB170", 
+      "KB170", 
+      "KB170", 
+      "KB105", 
+      "KB106", 
+      "KB107", 
+      "KB107", 
+      "KB107", 
+      "KB171", 
+      "KB171", 
+      "KB171", 
+      "KB172", 
+      "KB172", 
+      "KB172", 
+      "KB172", 
+      "KB172", 
+      "KB172", 
+      "KB172", 
+      "KB172", 
+      "KB172", 
+      "KB172", 
+      "KB172", 
+      "KB172", 
+      "KB172", 
+      "KB172", 
+      "KB172", 
+      "KB172", 
+      "KB172", 
+      "KB170", 
+      "KB170", 
+      "KB113", 
+      "KB169", 
+      "KB169", 
+      "PL23", 
+      "PL23", 
+      "PL23", 
+      "PL23", 
+      "PL23", 
+      "PL23", 
+      "PL23", 
+      "PL23", 
+      "CHES36", 
+      "CHES36", 
+      "CHES36", 
+      "CHES36", 
+      "CHES36", 
+      "CHES36", 
+      "CHES36", 
+      "CHES36", 
+      "CHES36", 
+      "CHES36", 
+      "CHES36", 
+      "CHES36", 
+      "HCA30", 
+      "HCA50", 
+      "PROB29", 
+      "PROB39", 
+      "KB104", 
+      "KB112"
+    ], 
     "trigrams": [
       [
         [
@@ -53401,6 +61118,10 @@
         ], 
         7
       ]
+    ], 
+    "references": [
+      "FO27", 
+      "FO605"
     ], 
     "trigrams": [
       [
@@ -53578,6 +61299,42 @@
         5
       ]
     ], 
+    "references": [
+      "IR26", 
+      "IR27", 
+      "IR27", 
+      "IR26", 
+      "IR27", 
+      "IR27", 
+      "IR26", 
+      "IR26", 
+      "IR26", 
+      "IR26", 
+      "IR19", 
+      "RA767", 
+      "IR19", 
+      "IR19", 
+      "IR59", 
+      "IR59", 
+      "SA85", 
+      "IR26", 
+      "RA767", 
+      "IR19", 
+      "IR59", 
+      "IR19", 
+      "IR59", 
+      "IR59", 
+      "IR26", 
+      "IR19", 
+      "IR59", 
+      "IR49", 
+      "IR50", 
+      "IR67", 
+      "IR62", 
+      "IR98", 
+      "IR98", 
+      "IR99"
+    ], 
     "trigrams": [
       [
         [
@@ -53710,6 +61467,19 @@
         5
       ]
     ], 
+    "references": [
+      "HO26", 
+      "HO27", 
+      "HO140", 
+      "HO17", 
+      "HO47", 
+      "HO19", 
+      "HO17", 
+      "HO18", 
+      "HO17", 
+      "HO18", 
+      "HO140"
+    ], 
     "trigrams": [
       [
         [
@@ -53817,6 +61587,19 @@
         4
       ]
     ], 
+    "references": [
+      "HMSO1955", 
+      "II1273", 
+      "III1290", 
+      "SC12", 
+      "DL28", 
+      "DL41", 
+      "SP46", 
+      "PRO30", 
+      "PROB11", 
+      "DL41", 
+      "DL41"
+    ], 
     "trigrams": [
       [
         [
@@ -53912,6 +61695,7 @@
         4
       ]
     ], 
+    "references": [], 
     "trigrams": [], 
     "id": "courts-of-law-records-held-in-other-archives"
   }, 
@@ -54044,6 +61828,28 @@
         6
       ]
     ], 
+    "references": [
+      "BT98", 
+      "BT98", 
+      "BT98", 
+      "CUST66", 
+      "CUST91", 
+      "CUST91", 
+      "BT98", 
+      "BT98", 
+      "BT98", 
+      "BT98", 
+      "BT98", 
+      "BT98", 
+      "BT98", 
+      "BT98", 
+      "BT98", 
+      "BT98", 
+      "BT98", 
+      "ADM101", 
+      "MT32", 
+      "BT98"
+    ], 
     "trigrams": [
       [
         [
@@ -54168,6 +61974,12 @@
         ], 
         9
       ]
+    ], 
+    "references": [
+      "FO27", 
+      "FO65", 
+      "FO78", 
+      "FO605"
     ], 
     "trigrams": [
       [
@@ -54352,6 +62164,18 @@
         ], 
         8
       ]
+    ], 
+    "references": [
+      "BT99", 
+      "BT380", 
+      "BT381", 
+      "BT99", 
+      "BT385", 
+      "BT387", 
+      "BT387", 
+      "BT99", 
+      "BT165", 
+      "BT100"
     ], 
     "trigrams": [
       [
@@ -54555,6 +62379,7 @@
         4
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -54899,6 +62724,60 @@
         ], 
         6
       ]
+    ], 
+    "references": [
+      "HO144", 
+      "BT261", 
+      "HO45", 
+      "HO45", 
+      "HO45", 
+      "CO523", 
+      "BT97", 
+      "ADM171", 
+      "HO45", 
+      "WO327", 
+      "BT261", 
+      "HO144", 
+      "ADM116", 
+      "ADM171", 
+      "HO250", 
+      "WO373", 
+      "HO250", 
+      "HO184", 
+      "HO45", 
+      "HO45", 
+      "CO523", 
+      "HO178", 
+      "ADM116", 
+      "ADM171", 
+      "HO250", 
+      "HO250", 
+      "WO32", 
+      "WO330", 
+      "HO250", 
+      "HO250", 
+      "WO330", 
+      "HO250", 
+      "HO250", 
+      "CO523", 
+      "HO45", 
+      "HO178", 
+      "CO212", 
+      "BT261", 
+      "WO373", 
+      "WO373", 
+      "HO250", 
+      "HO250", 
+      "BT261", 
+      "FO83", 
+      "FO83", 
+      "FO372", 
+      "FO372", 
+      "FO1111", 
+      "FO409", 
+      "HO45", 
+      "WO32", 
+      "ADM116"
     ], 
     "trigrams": [
       [
@@ -55246,6 +63125,10 @@
         4
       ]
     ], 
+    "references": [
+      "AIR50", 
+      "ADM207"
+    ], 
     "trigrams": [
       [
         [
@@ -55366,6 +63249,16 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "DL34", 
+      "DL34", 
+      "PRO31", 
+      "PRO31", 
+      "PRO31", 
+      "PRO31", 
+      "PRO31", 
+      "PRO30"
     ], 
     "trigrams": [
       [
@@ -55492,6 +63385,16 @@
         4
       ]
     ], 
+    "references": [
+      "CSC10", 
+      "CSC11", 
+      "LC10", 
+      "LC11", 
+      "LS13", 
+      "LS10", 
+      "LS11", 
+      "LS12"
+    ], 
     "trigrams": [
       [
         [
@@ -55565,6 +63468,14 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "HO42", 
+      "HO42", 
+      "HO67", 
+      "MAF68", 
+      "MAF410", 
+      "MAF408"
     ], 
     "trigrams": [
       [
@@ -55749,6 +63660,20 @@
         6
       ]
     ], 
+    "references": [
+      "STAC10", 
+      "STAC10", 
+      "VII1485", 
+      "STAC10", 
+      "STAC10", 
+      "STAC12", 
+      "STAC13", 
+      "STAC11", 
+      "PRO30", 
+      "MS639", 
+      "MS2143", 
+      "MS2143"
+    ], 
     "trigrams": [
       [
         [
@@ -55917,6 +63842,26 @@
         6
       ]
     ], 
+    "references": [
+      "CAB38", 
+      "CAB42", 
+      "WO95", 
+      "WO95", 
+      "WO256", 
+      "WO159", 
+      "PRO30", 
+      "WO79", 
+      "WO79", 
+      "CAB19", 
+      "CAB21", 
+      "CAB27", 
+      "CAB37", 
+      "WO106", 
+      "WO208", 
+      "WO160", 
+      "WO157", 
+      "WO78"
+    ], 
     "trigrams": [
       [
         [
@@ -56047,6 +63992,9 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "AD1364"
     ], 
     "trigrams": [
       [
@@ -56202,6 +64150,20 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "WO304", 
+      "WO417", 
+      "BT339", 
+      "RG35", 
+      "BT334", 
+      "ADM242", 
+      "ADM184", 
+      "CUST67", 
+      "ADM104", 
+      "ADM104", 
+      "ADM242", 
+      "ADM358"
     ], 
     "trigrams": [
       [
@@ -56596,6 +64558,9 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "HMSO1963"
     ], 
     "trigrams": [
       [
@@ -57042,6 +65007,9 @@
         4
       ]
     ], 
+    "references": [
+      "TS29"
+    ], 
     "trigrams": [
       [
         [
@@ -57091,6 +65059,7 @@
     "name": "Colonies and dependencies", 
     "summary": [], 
     "bigrams": [], 
+    "references": [], 
     "trigrams": [], 
     "id": "colonies-and-dependencies"
   }, 
@@ -57138,6 +65107,24 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "PIN26", 
+      "PIN26", 
+      "PIN26", 
+      "PIN26", 
+      "PIN26", 
+      "PIN82", 
+      "PIN82", 
+      "PIN82", 
+      "PMG43", 
+      "PMG44", 
+      "PMG47", 
+      "PMG46", 
+      "PMG45", 
+      "PMG43", 
+      "PMG42", 
+      "PMG42"
     ], 
     "trigrams": [
       [
@@ -57428,6 +65415,11 @@
         ], 
         4
       ]
+    ], 
+    "references": [
+      "CO323", 
+      "CO323", 
+      "CO323"
     ], 
     "trigrams": [
       [
@@ -57815,6 +65807,7 @@
         4
       ]
     ], 
+    "references": [], 
     "trigrams": [
       [
         [
@@ -57865,6 +65858,10 @@
         ], 
         5
       ]
+    ], 
+    "references": [
+      "RAIL253", 
+      "KB27"
     ], 
     "trigrams": [
       [

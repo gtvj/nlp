@@ -6,6 +6,7 @@ from ngrams import get_trigrams, get_bigrams
 from tokenizer import tokenize_to_words
 from get_words_from_text import extract_words_without_stopwords
 from summarize_text import get_summary
+from extract_references import extract_references
 import pprint
 
 # Improves print formatting
@@ -31,9 +32,11 @@ for item in guides:
     item['summary'] = get_summary(research_guide_text, 3)
 
     # Decorate with trigrams and bigrams
-
     item['trigrams'] = get_trigrams(tokenized_text)
     item['bigrams'] = get_bigrams(tokenized_text)
+
+    # Decorate with extracted references
+    item['references'] = extract_references(research_guide_text)
 
     pp.pprint(item)
 

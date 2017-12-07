@@ -2,10 +2,10 @@ import json
 
 from details_page import DetailsPage
 from ngrams import find_ngram_match
+from ngrams import find_reference_match
 
 pages = [
-    'http://discovery.nationalarchives.gov.uk/details/r/C259',
-    'http://discovery.nationalarchives.gov.uk/details/r/C260'
+    'http://discovery.nationalarchives.gov.uk/details/r/C14399',
 ]
 
 for page in pages:
@@ -20,6 +20,7 @@ for page in pages:
     print page.summary
     print page.trigrams
     print page.bigrams
+    print page.references
 
     print '-----------------------------'
     print '---Guides found by trigram---'
@@ -32,4 +33,11 @@ for page in pages:
     print '---Guides found by bigram---'
     print '-----------------------------'
     for i in find_ngram_match(page.bigrams, decorated_guides, 'bigrams'):
+        print i
+
+    print '-------------------------------'
+    print '---Guides found by reference---'
+    print '-------------------------------'
+
+    for i in find_reference_match(page.references, decorated_guides):
         print i

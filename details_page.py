@@ -3,6 +3,7 @@ from get_words_from_text import extract_words_without_stopwords
 from ngrams import get_trigrams, get_bigrams
 from tokenizer import tokenize_to_words
 from summarize_text import get_summary
+from extract_references import extract_references
 
 
 class DetailsPage():
@@ -20,3 +21,4 @@ class DetailsPage():
         self.trigrams = get_trigrams(tokenized_text)
         self.bigrams = get_bigrams(tokenized_text)
         self.summary = get_summary(text, 3)
+        self.references = extract_references(text)
