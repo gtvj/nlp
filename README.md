@@ -10,6 +10,15 @@ Running the `find_related_research_guides.py` module will identify what it think
     3. a list of document references (See `extract_references()`)
 * Looks for the top bigrams and trigrams the in the details page to the those found in all research guides (those in the research guides have been pre-compiled by `generate_decorated_research_guides.py` to `/generated/decorated_guides.json`)
 
-For example, for http://discovery.nationalarchives.gov.uk/details/r/C259 it suggests
+### Example 1: Matches found by ngram
+
+For http://discovery.nationalarchives.gov.uk/details/r/C259 it suggests
 
 ![Output from find_related_research_guides.py](images/output_from_find_related_research_guides.png)
+
+### Example 2: Matches found by reference
+
+For http://discovery.nationalarchives.gov.uk/details/r/C515 it suggests
+
+![Output from find_related_research_guides.py](images/alt_output_from_find_related_research_guide.png)
+
