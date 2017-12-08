@@ -12,4 +12,4 @@ Running the `find_related_research_guides.py` module will identify what it think
 
 For example, for http://discovery.nationalarchives.gov.uk/details/r/C259 it suggests
 
-![Output from find_related_research_guides.py](images/find_related_research_guides.png)
+![Output from find_related_research_guides.py](images/output_from_find_related_research_guides.png)
