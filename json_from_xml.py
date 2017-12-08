@@ -12,8 +12,6 @@ onlyfiles = [f for f in listdir('matts_data/LettercodeMALLETphrasesBigrams/') if
 
 files = [re.sub('_bigram_phrases.xml', '', f) for f in onlyfiles]
 
-files = ['FO', 'ADM', 'PROB']
-
 output = {}
 output['name'] = 'The National Archives'
 output['children'] = []

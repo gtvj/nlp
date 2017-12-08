@@ -5,7 +5,7 @@ from ngrams import find_ngram_match
 from ngrams import find_reference_match
 
 pages = [
-    'http://discovery.nationalarchives.gov.uk/details/r/C543'
+    'http://discovery.nationalarchives.gov.uk/details/r/C259'
 ]
 
 for page in pages:
@@ -18,8 +18,23 @@ for page in pages:
     print '----------'
 
     print page.summary
+
+    print '-------------------'
+    print '---Page trigrams---'
+    print '-------------------'
+
     print page.trigrams
+
+    print '------------------'
+    print '---Page bigrams---'
+    print '------------------'
+
     print page.bigrams
+
+    print '---------------------'
+    print '---Page references---'
+    print '---------------------'
+
     print page.references
 
     print '-----------------------------'
